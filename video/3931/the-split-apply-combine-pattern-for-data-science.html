@@ -1,0 +1,300 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - The Split-Apply-Combine Pattern for Data Science in Python</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="Room 211">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="the-split-apply-combine-pattern-for-data-science.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="the-split-apply-combine-pattern-for-data-science.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://youtu.be/TjuRnguO62E"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">The Split-Apply-Combine Pattern for Data Science in Python</h3>
+      <link property="thumbnailUrl" href="https://i.ytimg.com/vi/TjuRnguO62E/hqdefault.jpg"/>
+      <link property="sameAs" href="the-split-apply-combine-pattern-for-data-science.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Many data science problems involve the application of a split-apply-combine pattern, where you break up a big dataset into independent pieces, operate on each piece in isolation and then put all the pieces back together. This crops up in all stages of a data analysis:</p>
+<ul>
+<li>
+<p>During data preparation, when performing group-wise ranking, standardisation, or normalisation.</p>
+</li>
+<li>
+<p>During modelling, when fitting separate models to each group.</p>
+</li>
+<li>
+<p>During communication, when creating summaries or visualisations for display or analysis.</p>
+</li>
+</ul>
+<p>Python has many tools that make it easy to utilise this strategy when solving data science problems. These range from list and dictionary comprehensions in the language, the <em>map</em> and <em>reduce</em> functions and <em>itertools</em> and <em>functools</em> modules in the standard library to dedicated packages like <em>Pandas</em>, <em>PyToolz</em>, <em>Blaze</em> and <em>Dask</em>.</p>
+<p>Explicit recognition of the applicability of the pattern allows one to reuse standard components for the bookkeeping code that handles the splitting and combining of the independent pieces. This allows one to concentrate on the data analysis code that is unique to the problem at hand. Since implicit in the pattern is the independence of the pieces, its applicability immediately implies a strategy for parallelisation which allows one to easily scale one's solution from single core to out-of-core computation on multiple machines, often with only very few changes to the code required.</p>
+<p>This talk will introduce the pattern and how to recognise it by presenting some common code blocks. We will then look at some of the tools available, in particular <em>Pandas</em> and <em>PyToolz</em>, demonstrate their use, and discuss their strengths and weaknesses. Finally we'll show how to take a simple analysis and parallelise it to process a dataset that is too large to fit in memory.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/77/pycon-za-2015.html">PyCon ZA 2015</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/2074/tobias-brandt.html">Tobias Brandt</a></div>
+            <meta property="author" content="Tobias Brandt"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+          <dt>Duration</dt>
+          <dd>39:31
+            <meta property="duration" content="PT00H39M31S"/>
+          </dd>
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Oct. 1, 2015
+            <meta property="dateCreated" content="2015-10-01"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>Oct. 3, 2015
+            <meta property="dateModified" content="2015-10-03T03:59:25.277951"/>
+            <meta property="datePublished" content="2015-10-03T03:59:25.277951"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://youtu.be/TjuRnguO62E" property="embedUrl">http://youtu.be/TjuRnguO62E</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/3931">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            See <a href="http://youtu.be/TjuRnguO62E">source</a> for copyright
+            information.
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">Room 211</span>
+          
+          <meta property="keywords" content="PyCon ZA 2015"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="the-split-apply-combine-pattern-for-data-science.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('html5');
+      });
+
+      updateVideoOffset('html5');
+    });
+  </script>
+
+</body>
+</html>

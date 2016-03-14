@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Eric Jones</title><link>http://www.pyvideo.org/speaker/563/eric-jones/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/563/eric-jones/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 16 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Introduction to NumPy and Matplotlib</title><link>http://www.pyvideo.org/video/1190/introduction-to-numpy-and-matplotlib</link><description>&lt;p&gt;Description&lt;/p&gt;
+NumPy is the most fundamental package for scientific computing with Python. It
+adds to the Python language a data structure (the NumPy array) that has access
+to a large library of mathematical functions and operations, providing a
+powerful framework for fast computations in multiple dimensions. NumPy is the
+basis for all SciPy packages which extends vastly the computational and
+algorithmic capabilities of Python as well as many visualization tools like
+Matplotlib, Chaco or Mayavi.
+
+This tutorial will teach students the fundamentals of NumPy, including fast
+vector-based calculations on numpy arrays, the origin of its efficiency and a
+short introduction to the matplotlib plotting library. In the final section,
+more advanced concepts will be introduced including structured arrays,
+broadcasting and memory mapping.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jones</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1190/introduction-to-numpy-and-matplotlib</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Introduction_to_NumPy_and_Matplotlib.mp4?Signature=UN58jJUugfvHKtN8jEGhX98I9Ug%3D&amp;Expires=1346380424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Introduction_to_NumPy_and_Matplotlib.mp4?Signature=UN58jJUugfvHKtN8jEGhX98I9Ug%3D&amp;Expires=1346380424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=3Fp1zn5ao2M" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/3Fp1zn5ao2M/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Clayton Parker</title><link>http://www.pyvideo.org/speaker/290/clayton-parker/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/290/clayton-parker/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Code With Style</title><link>http://www.pyvideo.org/video/508/pyohio-2010--code-with-style</link><description>&lt;p&gt;Description&lt;/p&gt;
+Code With Style
+
+Presented by Clayton Parker
+
+Six Feet Up's senior developer Clayton Parker will lead you on a journey to
+become a Python Zen master. Your code should be as fashionable as it is
+functional. To quote the Zen of Python, "Beautiful is better than ugly". This
+talk will teach you about the Python style guide and why it is important. The
+talk will show you examples of well written Python and how to analyze your
+current code to make Guido proud.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clayton Parker</dc:creator><guid>http://www.pyvideo.org/video/508/pyohio-2010--code-with-style</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/508_pyohio-2010-code-with-style.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-CodeWithStyle184.png"></media:thumbnail></item><item><title>So you think you can PDB?</title><link>http://www.pyvideo.org/video/3439/so-you-think-you-can-pdb-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk will be an introduction to the most commonly used Python Debugger commands and what they do. Learn how to navigate and inspect code from the pdb prompt so you can better understand how it works. The Python Debugger is a valuable debugging tool for all levels of Python programmers. You should walk away being able to debug the next Python code you encounter!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clayton Parker</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3439/so-you-think-you-can-pdb-0</guid><enclosure url="https://www.youtube.com/watch?v=P0pIW5tJrRM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/P0pIW5tJrRM/hqdefault.jpg"></media:thumbnail></item><item><title>So you think you can PDB?</title><link>http://www.pyvideo.org/video/2867/so-you-think-you-can-pdb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An intro to using PDB. Overview and example usage of all the basic commands.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clayton Parker</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2867/so-you-think-you-can-pdb</guid><enclosure url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2867_So_you_think_you_can_PDB.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2867_So_you_think_you_can_PDB.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/j4Z8drp9jaA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/j4Z8drp9jaA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

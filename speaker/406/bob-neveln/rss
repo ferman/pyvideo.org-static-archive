@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Bob Neveln</title><link>http://www.pyvideo.org/speaker/406/bob-neveln/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/406/bob-neveln/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>31. ProofCheck: Checking Mathematical Proofs written in TeX </title><link>http://www.pyvideo.org/video/732/31-proofcheck-checking-mathematical-proofs-writ</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+ProofCheck is a set of Python scripts which parse and check mathematics
+written using TeX. Its homepage is www.proofcheck.org. Unlike computer proof
+assistants which require immersion in the equivalent of a programming
+language, ProofCheck attempts to handle mathematical language formalized
+according to the author's preferences as much as possible.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bob Neveln</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/732/31-proofcheck-checking-mathematical-proofs-writ</guid><enclosure url="https://www.youtube.com/watch?v=qLXllxd4Z1c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/qLXllxd4Z1c/hqdefault.jpg"></media:thumbnail></item></channel></rss>

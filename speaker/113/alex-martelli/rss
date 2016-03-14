@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alex Martelli</title><link>http://www.pyvideo.org/speaker/113/alex-martelli/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/113/alex-martelli/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 09 Jun 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Modern Python Patterns and Idioms</title><link>http://www.pyvideo.org/video/3565/modern-python-patterns-and-idioms</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As Python grows, the problem spaces we address keep shifting, and best practices for software development mature, so does the set of best-of-breed patterns and idioms change: some classics fading, new stars emerging. This talk helps fill the gap between yesterday’s good old Python, and tomorrow’s glittering vistas.
+&lt;p&gt;Description&lt;/p&gt;
+Python itself has grown to encompass some classic idioms, such as Decorate-Sort-Undecorate, AKA DSU, begetting the widespread key= argument to most functions related to ordering – but not quite all of them: heapq, for example, still mostly lacks key= – so, we also show what idioms to use with this and similar modules.
+
+Lists have long been one of Python’s strengths, and they’re of course still precious – but many kinds of specialized containers have emerged, and it’s important to know how to choose among them, and when and how to roll your own. More important still, iterators have grown into prominence, and very often they’ll be the best choice – and they come with a large set of relevant patterns and idioms.
+
+The tectonic shift that’s taking us from classic to modern Python goes even deeper – even the dominance of good old duck typing is threatened! Specifically, in many cases, we use, instead, goose typing – checking against an abstract base class – and, as type annotations slowly emerge, they reinforce this general tendency.
+
+These, and a miscellanea of smaller patterns and idioms (concerning I/O, best uses of dicts and other specialized mappings, async operations, testing, …), are fast becoming indispensable parts of the Proficient Pythonista’s repertoire.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Tue, 09 Jun 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3565/modern-python-patterns-and-idioms</guid><enclosure url="https://www.youtube.com/watch?v=LeuChRCByZc" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/LeuChRCByZc/maxresdefault.jpg"></media:thumbnail></item><item><title>*aaS Royal Rumble - Q&amp;A</title><link>http://www.pyvideo.org/video/3585/aas-royal-rumble-qa</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+La sessione di Q&amp;A ti permetterà di approfondire le differenze tra le varie piattaforme.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli,Christian Barra,Flavio Percoco</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3585/aas-royal-rumble-qa</guid><enclosure url="https://www.youtube.com/watch?v=xghRi2DsPGw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/xghRi2DsPGw/maxresdefault.jpg"></media:thumbnail></item><item><title>"Good enough" is good enough!</title><link>http://www.pyvideo.org/video/1738/good-enough-is-good-enough</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Our culture's default assumption is that everybody should always be striving for perfection -- settling for anything less is seen as a regrettable compromise.  This is wrong in most software development situations: focus instead on keeping the software simple, just "good enough", launch it early, and iteratively improve, enhance, and re-factor it.  This is how software success is achieved!
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1738/good-enough-is-good-enough</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Good_enough_is_good_enough.mp4?Signature=Xl5oK1VHVW0ZsAEj7IF5Uh9u8HQ%3D&amp;Expires=1363821695&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Good_enough_is_good_enough.mp4?Signature=Xl5oK1VHVW0ZsAEj7IF5Uh9u8HQ%3D&amp;Expires=1363821695&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=yo4Uqq7NXQc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/yo4Uqq7NXQc/hqdefault.jpg"></media:thumbnail></item><item><title>Permission or forgiveness?</title><link>http://www.pyvideo.org/video/1338/permission-or-forgiveness-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012 ] Alex Martelli - 2 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Grace Murray Hopper’s famous motto, “It’s easier to ask forgiveness than
+permission”, has many useful applications – in Python, in concurrency, in
+networking, as well of course as in real life. However, it’s not universally
+valid. This talk explores both useful and damaging applications of this
+principle. I start by introducing the motto “It’s easier to ask forgiveness
+than permission” and the woman who used it, Rear Admiral Grace Murray Hopper,
+also known as the “mother of Cobol” and the author of the first ever
+programming-language compiler. I then move on to the Python context, where the
+motto supports the proper usage of exception-catching rather than preliminary
+checks; and the “rule that proves the exception” introduced by abstract base
+classes. Expanding the subject, I show how “optimistic concurrency” applies
+that motto (while locking would “ask permission”, in essence, STM “asks
+forgiveness"), and how collision-detection focused networking protocols have
+similarly triumphed over more highly structured, “ask permission” ones like
+token-ring. Moving to the fuzzier context of real life, I then show how this
+daring approach does not work quite as well as in the technical realm – except
+when applied correctly, in the right circumstances… and I try to evince a
+general law describing what the right circumstances for its application are,
+comparing and contrasting with the similar issue of “do it right the first
+time” versus “launch and iterate” (and the latter’s cognate “fail, but fail
+fast” principle).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1338/permission-or-forgiveness-0</guid><enclosure url="http://www.youtube.com/watch?v=9gbUFyPltDs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9gbUFyPltDs/hqdefault.jpg"></media:thumbnail></item><item><title>Permission or Forgiveness?</title><link>http://www.pyvideo.org/video/650/permission-or-forgiveness</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Grace Murray Hopper's famous motto, "It's easier to ask forgiveness than
+permission", has many useful applications -- in Python, in concurrency, in
+networking, as well of course as in real life. However, it's not universally
+valid. This talk explores both useful and damaging applications of this
+principle.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/650/permission-or-forgiveness</guid><enclosure url="https://www.youtube.com/watch?v=AZDWveIdqjY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/AZDWveIdqjY/hqdefault.jpg"></media:thumbnail></item><item><title>Good API design</title><link>http://www.pyvideo.org/video/1049/good-api-design</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Alex Martelli - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Designing interfaces so that other code can interact with ours (whether our
+code is a library, framework, application, website…) is a very common and
+clearly crucial activity, but it's fraught with dangers - there's a lot stuff
+we all keep doing wrong time after time. This talk shows some common
+categories of API design errors encountered in the wild, with tips on how to
+avoid them when you design your next API.
+
+Goals: to show you how to focus resources and attention to help avoid mistakes
+in API design. Prereqs: experience designing and developing software, esp.
+software which needs to interact w/other existing software.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1049/good-api-design</guid><enclosure url="http://www.youtube.com/watch?v=LsfrMjcIudA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/LsfrMjcIudA/hqdefault.jpg"></media:thumbnail></item><item><title>Good API design</title><link>http://www.pyvideo.org/video/1144/good-api-design-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Alex Martelli - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Designing interfaces so that other code can interact with ours (whether our
+code is a library, framework, application, website…) is a very common and
+clearly crucial activity, but it's fraught with dangers - there's a lot stuff
+we all keep doing wrong time after time. This talk shows some common
+categories of API design errors encountered in the wild, with tips on how to
+avoid them when you design your next API.
+
+Goals: to show you how to focus resources and attention to help avoid mistakes
+in API design. Prereqs: experience designing and developing software, esp.
+software which needs to interact w/other existing software.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1144/good-api-design-0</guid><enclosure url="http://www.youtube.com/watch?v=bv89IOFvn7o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/bv89IOFvn7o/hqdefault.jpg"></media:thumbnail></item><item><title>Python Design Patterns</title><link>http://www.pyvideo.org/video/1110/python-design-patterns</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Alex Martelli - 24 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A completely misguided meme has long been going around: that Python doesn't
+have, or need, any Design Patterns. This terrible meme may spring from not
+realizing what the Gang Of Four state so plainly in their historical "Design
+Patterns" book: which design patterns are useful DOES depend on the
+programming language one targets - design is NOT independent of
+implementation, as the epic-fail "Waterfall" Methodology Pattern would
+suggest. What patterns apply to a design, depends to some extent on what
+implementation technologies will be used to realize that design.
+
+If you focus on some "classic DPs" that are basically workarounds for some
+other language's lack of garbage collection, or for a clumsy static-typing
+system, those may indeed be worthless for Python. But many other DPs are
+perfectly useful and applicable, and Python's strengths as a language afford
+riffing on them to develop highly Pythonic, powerful, productive variants.
+
+In this talk, I analyze some of my favorite pattern families - e.g., Template
+Method and its variants, Dependency Injection and its ilk, Callback and
+friends - in a highly Pythonic context. Non-pattern Idioms, and Patterns that
+aren't really Design Patterns but rather Architecture or Methodology ones,
+make cameo appearances.
+
+Goals: remove from your system any residue of the pernicious meme about Python
+not having or needing design patterns. Prereqs: experience designing and
+developing software; intermediate-level Python knowledge.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1110/python-design-patterns</guid><enclosure url="http://www.youtube.com/watch?v=bPJKYrZjq10" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/bPJKYrZjq10/hqdefault.jpg"></media:thumbnail></item><item><title>API Design anti-patterns</title><link>http://www.pyvideo.org/video/445/pycon-2011--api-design-anti-patterns</link><description>&lt;p&gt;Description&lt;/p&gt;
+API Design Anti-Patterns
+
+Presented by Alex Martelli
+
+Designing interfaces so that other code can interact with ours (whether our
+code is a library, framework, application, website...) is a very common and
+clearly crucial activity, but fraught with dangers -- stuff we all keep doing
+wrong time after time. This talks shows some common cases of API design errors
+encountered in the wild, with tips on how to avoid them when you design your
+next API.
+
+Abstract
+
+Whenever we write code we should always be thinking about how other code
+(whether our own, or other people's) will interact with ours (an "API", in
+common parlance). Indeed, the most common and terrible mistake in API design
+is... not doing any! -- i.e., not providing any designed, architected way for
+other code to interact with ours. That's fortunately less common when "our
+code" is a library or framework;-), but, alas!, sadly widespread when "our
+code" is an application or website -- that's why questions about screen-
+scraping the web and simulating keystrokes and mouse gestures need be so
+tragically frequent all over the web.
+
+Once past the obvious hurdle of not having any API at all, there's still
+plenty of ways we can go badly wrong in the process of designing one -- and
+many of those ways fall into recognizable categories, i.e., patterns.
+Specifically, since they're frequently observed categories of defective
+design, they're anti-patterns -- and that's what this talk is in fact about
+(as the smartest among you could tell from the title...).
+
+I'm eminently qualified to present on this subject, since, in a lifetime spent
+mostly stumbling into software (after actually qualifying to design hardware
+in college, but only doing that for a few years), I've been responsible for
+more of my shares of API design fumbles (plus, of course, just like every
+other programmer, I've done my share of swearing at the design fumbles of
+other API designers). And, as novelist Richard Bach reminds us, "You teach
+best what you most need to learn"!-)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/445/pycon-2011--api-design-anti-patterns</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/445_api-design-anti-patterns.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011APIDesignAntipatterns897.png"></media:thumbnail></item><item><title>Powerful Pythonic Patterns (#186)</title><link>http://www.pyvideo.org/video/275/pycon-2010--powerful-pythonic-patterns---186</link><description>&lt;p&gt;Description&lt;/p&gt;
+Powerful Pythonic Patterns video
+
+Presented by Alex Martelli
+
+An extremely misguided meme is going around: that Python doesn't have, or
+need, any Design Patterns. Maybe the meme springs from not realizing what the
+Gang Of Four state so plainly in their historical "Design Patterns" book:
+which design patterns are useful DOES depend on the programming language one
+targets -- design is NOT independent of implementation, as the epic-fail
+"Waterfall" Methodology Pattern would suggest. If you examine a "classic DP"
+that's basically a workaround for some other language's lack of garbage
+collection, or for a clumsy static-typing system, it may indeed be worthless
+for Python. But many other DPs are still perfectly useful and applicable, and
+indeed Python's strengths as a language afford riffing on them to develop
+highly Pythonic, powerful, productive variants.
+
+In this talk, I analyze some of my favorite pattern families -- e.g., Template
+Method and its variants, Dependency Injection and its ilk, Callback and
+friends -- in a highly Pythonic context. Non-pattern Idioms, and Patterns that
+aren't really Design Patterns but rather Architecture or Methodology ones,
+also make cameo appearances.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/275/pycon-2010--powerful-pythonic-patterns---186</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PowerfulPythonicPatterns186111-668.jpg"></media:thumbnail></item></channel></rss>

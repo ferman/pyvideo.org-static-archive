@@ -1,0 +1,384 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Statistics 101 for System Administrators</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="Tech">
+  
+    <meta name="description" content="Python allows every sysadmin to run  (and learn) basic statistics on system data, replacing sed, awk, bc and gnuplot with an unique, reusable and interactive framework. The talk is a case study where python allowed us to highlight some network performance points in minutes using itertools, scipy and matplotlib. The presentation includes code snippets and a brief plot discussion.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="statistics-101-for-system-administrators.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="statistics-101-for-system-administrators.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=2oPevmFcZxI"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Statistics 101 for System Administrators</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/2oPevmFcZxI/hqdefault.jpg"/>
+      <link property="sameAs" href="statistics-101-for-system-administrators.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Python allows every sysadmin to run  (and learn) basic statistics on system data, replacing sed, awk, bc and gnuplot with an unique, reusable and interactive framework. The talk is a case study where python allowed us to highlight some network performance points in minutes using itertools, scipy and matplotlib. The presentation includes code snippets and a brief plot discussion.</p></div>
+        <meta property="caption" content="Python allows every sysadmin to run  (and learn) basic statistics on system data, replacing sed, awk, bc and gnuplot with an unique, reusable and interactive framework. The talk is a case study where python allowed us to highlight some network performance points in minutes using itertools, scipy and matplotlib. The presentation includes code snippets and a brief plot discussion."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><h1>Statistics 101 for System Administrators</h1>
+<h2>Agenda</h2>
+<ul>
+<li>A latency issue</li>
+<li>Data distribution</li>
+<li>30 seconds correlation with pearsonr</li>
+<li>Combinating data</li>
+<li>Plotting and the power of color</li>
+</ul>
+<h2>An use case</h2>
+<ul>
+<li>Network latency issues</li>
+<li>Correlate latency with other events </li>
+</ul>
+<h2>First statistics</h2>
+<ul>
+<li>we created our parsing library </li>
+<li><a href="http://chimera.labs.oreilly.com/books/1230000000393/ch06.html">using various recipes</a></li>
+<li>
+<p>Having the data in a dict like</p>
+<pre><code>&gt; table = {
+&gt;   'time': [ 1,2,3, ..],
+&gt;   'elapsed': [ 0.12, 12.43, ..],
+&gt;   'error': [ 2, 0, ..],
+&gt;   'size': [123,3223, ..],
+&gt;   'peers': [2313, 2303, ..],
+</code></pre>
+</li>
+<li>
+<p>It's easy to get max, min and standard deviation</p>
+<pre><code>&gt; print [k, max(v), min(v), stats.mean(v) ] for k,v in table.items() ]
+</code></pre>
+</li>
+</ul>
+<h2>Distribution</h2>
+<ul>
+<li>
+<p>A distribution shows event frequency </p>
+<pre><code>&gt; from matplotlib import pyplot
+&gt; pyplot.hist(table['elapsed'])
+</code></pre>
+</li>
+<li>
+<p>Time and Size distributions</p>
+</li>
+</ul>
+<h2>(Linear) Correlation</h2>
+<ul>
+<li>What's correlation</li>
+<li>What's not correlation</li>
+<li>pearsonr and probability</li>
+<li>catch for linear correlation<pre><code>&gt; from scipy.stats.stats import pearsonr
+&gt; a, b = range(0,10), range(0,20, 2)
+&gt; c = [randint(0,10) for x in a]
+&gt; pearsonr(a, b), pearsonr(a,c)
+&gt; (1.0, 0.0), (0.43, 0.2)
+</code></pre>
+</li>
+</ul>
+<h2>Combinations</h2>
+<ul>
+<li>using itertools.combinations</li>
+<li>netfishing correlation<pre><code>&gt;from itertools import combination
+&gt;for f1, f2 in combinations(table, 2):
+&gt;        r, p_value = pearsonr(table[f1], table[f2])
+&gt;        print("the correlation between %s and %s is: %s" % (f1, f2, r))
+&gt;        print("the probability of a given distribution (see manual) is: %s" % p_value)
+</code></pre>
+</li>
+</ul>
+<h2>Plot always</h2>
+<ul>
+<li>pearsonr finds <em>only</em> linear correlation</li>
+<li>our eyes work better :P</li>
+<li>so...plot always!</li>
+<li>color is the 3d dimension of a plot!<pre><code>&gt; from pyplot import scatter, title, xlabel, ylabel, legend
+&gt; from pyplot import savefig, close as closefig
+&gt;
+&gt; for f1, f2 in combinations(table, 2):
+&gt;    scatter(table[f1], table[2], label="%s_%s" % (f1,f2))
+&gt;    # add legend and other labels
+&gt;    r, p = pearsonr(table[f1], table[f2])
+&gt;    title("Correlation: %s v %s, %s" % (f1, f2, r))
+&gt;    xlabel(f1), ylabel(f2)
+&gt;    legend(loc='upper left') # show the legend in a suitable corner
+&gt;    savefig(f1 + "_" + f2 + ".png")
+&gt;    closefig()
+</code></pre>
+</li>
+</ul>
+<h2>Wrap Up!</h2>
+<ul>
+<li>do not use pearsonr to <em>exclude</em> relation between events</li>
+<li>plots may serve better</li>
+<li>scatter plot can show a system thruput and exclude correlation between fields A and fields B</li>
+<li>continue collecting results</li>
+</ul></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1434/roberto-polli.html">Roberto Polli</a></div>
+            <meta property="author" content="Roberto Polli"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 22, 2014
+            <meta property="dateCreated" content="2014-07-22"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>Aug. 2, 2014
+            <meta property="dateModified" content="2014-08-02T11:36:44.898734"/>
+            <meta property="datePublished" content="2014-08-02T11:36:44.898734"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=2oPevmFcZxI" property="embedUrl">http://www.youtube.com/watch?v=2oPevmFcZxI</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/3040">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">Tech</span>
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="statistics-101-for-system-administrators.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

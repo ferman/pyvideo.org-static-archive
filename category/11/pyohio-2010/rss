@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of PyOhio 2010</title><link>http://www.pyvideo.org/category/11/pyohio-2010/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/11/pyohio-2010/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:10:17 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Building your own kind of dictionary</title><link>http://www.pyvideo.org/video/505/pyohio-2010--building-your-own-kind-of-dictionary</link><description>&lt;p&gt;Description&lt;/p&gt;
+Building your own kind of dictionary
+
+Presented by W. Matthew Wilson
+
+My talk is based on a project that seemed very simple at first. I wanted an
+object like the regular python dictionary, but with a few small tweaks:
+
+  * values for some keys should be restricted to elements of a set 
+  * values for some keys should be restricted to instances of a type 
+
+For example, pretend I want a dictionary called favorites, and I want the
+value for the "color" key to be any instance of my Color class. Meanwhile, for
+the "movie" key, I want to make sure that the value belongs to my set of
+movies.
+
+In the talk, I'll walk through how I used tests to validate my different
+implementations until I came up with a winner.
+
+Unlike my talk last year on metaclass tomfoolery, and the year before that on
+fun with decorators (and decorator factories) I'm hoping to make this talk
+straightforward and friendly to beginning programmers.
+
+You'll see:
+
+  * how I use tests to solve a real-world problem 
+  * a few little gotchas with the super keyword 
+  * a little about how python works under the hood. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">W. Matthew Wilson</dc:creator><guid>http://www.pyvideo.org/video/505/pyohio-2010--building-your-own-kind-of-dictionary</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/505_pyohio-2010-building-your-own-kind-of-dictionary.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-BuildingYourOwnKindOfDictionary566.png"></media:thumbnail></item><item><title>PyOhio 2010: Code With Style</title><link>http://www.pyvideo.org/video/508/pyohio-2010--code-with-style</link><description>&lt;p&gt;Description&lt;/p&gt;
+Code With Style
+
+Presented by Clayton Parker
+
+Six Feet Up's senior developer Clayton Parker will lead you on a journey to
+become a Python Zen master. Your code should be as fashionable as it is
+functional. To quote the Zen of Python, "Beautiful is better than ugly". This
+talk will teach you about the Python style guide and why it is important. The
+talk will show you examples of well written Python and how to analyze your
+current code to make Guido proud.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clayton Parker</dc:creator><guid>http://www.pyvideo.org/video/508/pyohio-2010--code-with-style</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/508_pyohio-2010-code-with-style.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-CodeWithStyle184.png"></media:thumbnail></item><item><title>PyOhio 2010: Controlling UNIX Processes using Supervisor</title><link>http://www.pyvideo.org/video/509/pyohio-2010--controlling-unix-processes-using-sup</link><description>&lt;p&gt;Description&lt;/p&gt;
+Controlling UNIX Processes using Supervisor
+
+Presented by Calvin Hendryx-Parker
+
+Supervisor is a Python daemon that can control arbitrary processes in a UNIX-
+like environment. It features a client/server model of control that can easily
+be extended. This talk will cover the configuration and setup of Supervisor.
+It will also cover how to extend Supervisor and take advantage of its XML-RPC
+interface and ability to react to events that it generates.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Calvin Hendryx-Parker</dc:creator><guid>http://www.pyvideo.org/video/509/pyohio-2010--controlling-unix-processes-using-sup</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/509_pyohio-2010-controlling-unix-processes-using-supervisor.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ControllingUNIXProcessesUsingSupervisor446.png"></media:thumbnail></item><item><title>PyOhio 2010: Genetic Programming in Python</title><link>http://www.pyvideo.org/video/520/pyohio-2010--genetic-programming-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Genetic Programming in Python
+
+Presented by Eric Floehr
+
+Did you know you can create and evolve programs that find solutions to
+problems? This talk walks through how to use Genetic Programming (GP) as a
+tool to discover solutions to hard problems, when to use GP, how best to set
+up the GP environment, and how to interpret the results.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Floehr</dc:creator><guid>http://www.pyvideo.org/video/520/pyohio-2010--genetic-programming-in-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/520_pyohio-2010-genetic-programming-in-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-GeneticProgrammingInPython240.png"></media:thumbnail></item><item><title>PyOhio 2010: Getting to know MongoDB using Python and IronPython</title><link>http://www.pyvideo.org/video/519/pyohio-2010--getting-to-know-mongodb-using-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Getting to know MongoDB using Python and IronPython
+
+Presented by Sam Corder
+
+Is your RDBMS not coping with the load anymore and can't be scaled out any
+further? Are you designing the next big thing and know your RDBMS won't be
+able to handle it? Are you tired of shoe-horning a data model into where it
+doesn't belong? Are you just curious what this thing called MongoDB is? In
+this session you will explore a popular alternative to the RDBMS called Mongo
+from one who has battled with BSON to write the original .Net driver. You'll
+learn basics of schema design, document manipulation, several ways to get at
+your data, something odd called map/reduce and all from the comfort of Python
+and the slightly uncomfortable IronPython.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sam Corder</dc:creator><guid>http://www.pyvideo.org/video/519/pyohio-2010--getting-to-know-mongodb-using-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/519_pyohio-2010-getting-to-know-mongodb-using-python-and-ironpython.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-GettingToKnowMongoDBUsingPythonAndIronPython684.png"></media:thumbnail></item><item><title>PyOhio 2010: GUI Tools</title><link>http://www.pyvideo.org/video/518/pyohio-2010--gui-tools</link><description>&lt;p&gt;Description&lt;/p&gt;
+GUI Tools
+
+Presented by James Bonanno
+
+There are several Graphical User Interface frameworks available for Python. In
+this talk, perpahs the two most popular, wxPython and PyQt, are examined. The
+talk will focus on major differences, tools, and a specific example done both
+in wxPython and PyQt, that is a non-trivial production grade example.
+
+[VIDEO HAS ISSUES: sound is inaudible for the first minute]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bonanno</dc:creator><guid>http://www.pyvideo.org/video/518/pyohio-2010--gui-tools</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/518_pyohio-2010-gui-tools.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-GUITools853.png"></media:thumbnail></item><item><title>PyOhio 2010: Implementation of a Numerical Simulation in Python</title><link>http://www.pyvideo.org/video/515/pyohio-2010--implementation-of-a-numerical-simula</link><description>&lt;p&gt;Description&lt;/p&gt;
+Implementation of a Numerical Simulation in Python
+
+Presented by Jeffrey B. Armstrong
+
+The Python programming language is well suited for numerical computation under
+a variety of circumstances. Python offers advantages over competing free and
+commercial technologies, including price, functionality, and maintainability.
+Specifically, the combination of mature numerical libraries and liberal
+licensing allow complex simulations to be coded with ease and to be made
+available to nearly all interested parties. !NumPy/!SciPy, database access,
+networking, and optimization techniques are examined in detail with respect to
+numerical computation. A practical example involving an aerothermal commercial
+turbofan aircraft engine simulation showcases these advantages. An aircraft
+engine is broken down into discrete stages, including compressors, turbines,
+and other flow-related components. Commonalities between components, such as
+rotation and the presence of inlet and exit conditions, map cleanly to the
+object-oriented nature of Python. Based on simulation needs and hardware
+availability, Python allows for the parallel computation of simulations
+without the expense and complexity of commercial parallelization packages.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeffrey Armstrong</dc:creator><guid>http://www.pyvideo.org/video/515/pyohio-2010--implementation-of-a-numerical-simula</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/515_pyohio-2010-implementation-of-a-numerical-simulation-in-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ImplementationOfANumericalSimulationInPython272.png"></media:thumbnail></item><item><title>PyOhio 2010: Lap Around IronPython</title><link>http://www.pyvideo.org/video/507/pyohio-2010--lap-around-ironpython</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lap Around IronPython
+
+Presented by Sarah Dutkiewicz
+
+It's not just C# and VB.NET that can be used in WinForms, WPF, Silverlight,
+and ASP.NET. You could also use IronPython! In this session, you will get a
+quick overview of IronPython and a look into using it with each of the
+following: WinForms, WPF, Silverlight, and ASP.NET
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Dutkiewicz</dc:creator><guid>http://www.pyvideo.org/video/507/pyohio-2010--lap-around-ironpython</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/507_pyohio-2010-lap-around-ironpython.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-LapAroundIronPython299.png"></media:thumbnail></item><item><title>PyOhio 2010: Lightning Talks</title><link>http://www.pyvideo.org/video/501/pyohio-2010--lightning-talks</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lightning Talks
+
+  * 00:00 - Eric Floehr: [Hello World, Computer Programming for Kids and Beginners](http://www.manning.com/sande/)
+  * 06:00 - Eric Floehr: [lxml](http://codespeak.net/lxml/), [suds](https://fedorahosted.org/suds/), and [Django](http://www.djangoproject.com/)
+  * 11:40 - (sending people up for swag by rows) 
+  * 15:10 - Greg Malcolm: Distributed revision control ([mercurial](http://mercurial.selenic.com/)) 
+  * 23:55 - John Nielsen: Talking about threads in Python, the GIL and concurrency 
+  * 30:10 - Calvin Hendryx-Parker: [Plone 4](http://plone.org/)
+  * 37:00 - Gloria Jacobs: Funky Python Tools 
+
+</description><guid>http://www.pyvideo.org/video/501/pyohio-2010--lightning-talks</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/501_pyohio-2010-lightning-talks.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-LightningTalks807.png"></media:thumbnail></item><item><title>PyOhio 2010: Log Analysis with Python</title><link>http://www.pyvideo.org/video/514/pyohio-2010--log-analysis-with-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Log Analysis with Python
+
+Presented by Scott McCarty
+
+Log analysis is something that every programmer and systems adminstrator must
+do sometimes. This talk will be an introduction to the concepts of pattern
+recognition, artificial ignorance, word counting, stopword lists, and command
+line graphing. It is based on a pythonic implementation of these techniques
+called petit and will delve into several use cases and show how using these
+techniques can help you save time when analyzing logs with python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Scott McCarty</dc:creator><guid>http://www.pyvideo.org/video/514/pyohio-2010--log-analysis-with-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/514_pyohio-2010-log-analysis-with-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-LogAnalysisWithPython978.png"></media:thumbnail></item><item><title>PyOhio 2010: Making it go faster</title><link>http://www.pyvideo.org/video/506/pyohio-2010--making-it-go-faster</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making it go faster
+
+Presented by W. Matthew Wilson
+
+An introduction to profiling python code.
+
+I'll use cProfile, pstats, and RunSnakeRun to find where code is getting
+bogged down in a real-world example. I'll measure the run-time cost with
+timeit, refactor, and measure it again.
+
+Finally, I'll talk about the limits of python optimization and show how to
+replace python code with C.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">W. Matthew Wilson</dc:creator><guid>http://www.pyvideo.org/video/506/pyohio-2010--making-it-go-faster</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/506_pyohio-2010-making-it-go-faster.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-MakingItGoFaster666.png"></media:thumbnail></item><item><title>PyOhio 2010: Processing Large Datasets with Hadoop and Python</title><link>http://www.pyvideo.org/video/504/pyohio-2010--processing-large-datasets-with-hadoo</link><description>&lt;p&gt;Description&lt;/p&gt;
+Processing Large Datasets with Hadoop and Python
+
+Presented by William McVey
+
+This talk will explore how Hadoop along with Python can be used to process
+large datasets. An overview of the Apache Hadoop project will be given. The
+map/reduce concept will be introduced and some methods of coding the data
+processing routines in python will be explored. The talk will use real world
+examples to illustrate how this approach can be used to parallelize
+computationally expensive operations across multiple cluster nodes effectively
+using python.
+
+The course will assume familiarity with the Python language during the demos,
+but will not actually require a deep knowledge of python to understand the
+concepts introduced.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">William McVey</dc:creator><guid>http://www.pyvideo.org/video/504/pyohio-2010--processing-large-datasets-with-hadoo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/504_pyohio-2010-processing-large-datasets-with-hadoop-and-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ProcessingLargeDatasetsWithHadoopAndPython989.png"></media:thumbnail></item><item><title>PyOhio 2010: Project Management 101</title><link>http://www.pyvideo.org/video/516/pyohio-2010--project-management-101</link><description>&lt;p&gt;Description&lt;/p&gt;
+Project Management 101
+
+Presented by James Bonanno
+
+Python is employed for a general purpose project management tool. Contrasted
+to tools like Sphinx which focus on documenting a software project, this
+framework is intended for general purpose project management, with a specific
+application into engineering projects. Intermediate uses of Python are
+employed, as well as the Web.py framework, Sphinx documentation tool and the
+Mako template system. The author has used this tool to create internal
+commercial applications of the project management software.
+
+[VIDEO HAS ISSUES: Technical issues at beginning (first talk of conference,
+gear wasn't quite setup); missing initial section of talk, then missing 20
+seconds about 3 minutes in.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bonanno</dc:creator><guid>http://www.pyvideo.org/video/516/pyohio-2010--project-management-101</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/516_pyohio-2010-project-management-101.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ProjectManagement101547.png"></media:thumbnail></item><item><title>PyOhio 2010: PyPy and Unladen Swallow: Making your Python Fast</title><link>http://www.pyvideo.org/video/503/pyohio-2010--pypy-and-unladen-swallow--making-you</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyPy and Unladen-Swallow: Making your Python Fast
+
+Presented by Alex Gaynor
+
+Python has a reputation for being a bit slow, but it doesn't have to be that
+way. This talk will cover why Python is slow, and what two of the most
+exciting virtual machines are doing about it.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor</dc:creator><guid>http://www.pyvideo.org/video/503/pyohio-2010--pypy-and-unladen-swallow--making-you</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/503_pyohio-2010-pypy-and-unladen-swallow-making-your-python-fast.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-PyPyAndUnladenSwallowMakingYourPythonFast653.png"></media:thumbnail></item><item><title>PyOhio 2010: Python 101 for the .NET Developer</title><link>http://www.pyvideo.org/video/512/pyohio-2010--python-101-for-the--net-developer</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 101 for the .NET Developer
+
+Presented by Sarah Dutkiewicz
+
+The first part of the session will cover the basics of Python - its history,
+how its data structures compare to those we're familiar with in the primary
+.NET languages, its strong and weak points, who's using it, and why you as a
+developer - both generally speaking and as a .NET developer - should care
+about Python. The second part of the session will get into the demos -
+starting with some basic Python scripts and getting into IronPython scripts,
+if time allows. By the end of this session, you'll have an idea of what Python
+is, why you should know it as a developer and specifically as a .NET
+developer, and how to get setup and write a basic app in both Python and
+IronPython.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Dutkiewicz</dc:creator><guid>http://www.pyvideo.org/video/512/pyohio-2010--python-101-for-the--net-developer</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/512_pyohio-2010-python-101-for-the-net-developer.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-Python101ForTheNETDeveloper706.png"></media:thumbnail></item><item><title>PyOhio 2010: Python and Entrepreneurship</title><link>http://www.pyvideo.org/video/502/pyohio-2010--python-and-entrepreneurship</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python and Entrepeneurship
+
+Featuring Eric Floehr, Nick Albright, Matt Wilson, Austin Godber, James
+Bonanno
+
+One of the strengths of dynamic languages is rapid development and quick
+results. Python has been used by a number of Ohio small businesses, from
+supporting back-office operations to being the language the company's products
+are built on. This panel discussion will talk about the opportunities and
+challenges in using Python to build a business on, as well as a discussion on
+starting, running, and growing a technology-based business.
+
+</description><guid>http://www.pyvideo.org/video/502/pyohio-2010--python-and-entrepreneurship</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/502_pyohio-2010-python-and-entrepreneurship.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-PythonAndEntrepreneurship599.png"></media:thumbnail></item><item><title>PyOhio 2010: So You Just Took "Python 101" -- What's Next?</title><link>http://www.pyvideo.org/video/511/pyohio-2010--so-you-just-took--quot-python-101-qu</link><description>&lt;p&gt;Description&lt;/p&gt;
+So You Just Took "Python 101" -- What's Next?
+
+Presented by Greg Lindstrom
+
+In this class we will develop, step-by-step and as a class, two simple games,
+Hi/Low and Hangman. We will start from scratch and walk through each step of
+each game discussing decision making, loops ("for", "while" and "if"), data
+structures (tuple, list and dictionary) and looking at different ways to
+"get-r-done".
+
+You should know a little about Python but don't have to know anything else
+about programming (you should know how to edit and run a Python program on
+your Operating System). Bring a computer with Python installed if you want to
+play along.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Greg Lindstrom</dc:creator><guid>http://www.pyvideo.org/video/511/pyohio-2010--so-you-just-took--quot-python-101-qu</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/511_pyohio-2010-so-you-just-took-python-101-what-s-next.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-SoYouJustTookPython101WhatsNext456.png"></media:thumbnail></item><item><title>PyOhio 2010: Splunking With Python</title><link>http://www.pyvideo.org/video/510/pyohio-2010--splunking-with-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Splunking With Python
+
+Presented by Benjamin W. Smith
+
+Getting dirty with the Splunk API and various other sysadmin tasks with
+Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin W. Smith</dc:creator><guid>http://www.pyvideo.org/video/510/pyohio-2010--splunking-with-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/510_pyohio-2010-splunking-with-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-SplunkingWithPython963.png"></media:thumbnail></item><item><title>PyOhio 2010: Teach Me Python Bugfixing</title><link>http://www.pyvideo.org/video/513/pyohio-2010--teach-me-python-bugfixing</link><description>&lt;p&gt;Description&lt;/p&gt;
+Teach Me Python Bugfixing
+
+Presented by Catherine Devlin
+
+Python wants YOU to help maintain and extend the language we love so much...
+but maybe you don't know how to go about making your contribution. Catherine
+doesn't either. David Murray, an experienced Python contributor, will guide
+her - and you - through the process, live and unscripted. Come take part in
+learner-controlled instruction. No C programming required!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><guid>http://www.pyvideo.org/video/513/pyohio-2010--teach-me-python-bugfixing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/513_pyohio-2010-teach-me-python-bugfixing.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-TeachMePythonBugfixing702.png"></media:thumbnail></item><item><title>PyOhio 2010: Wrangling the bits, standardizing how apps get built</title><link>http://www.pyvideo.org/video/517/pyohio-2010--wrangling-the-bits--standardizing-ho</link><description>&lt;p&gt;Description&lt;/p&gt;
+Wrangling the bits, standardizing how apps get built
+
+Presented by Rick Harding
+
+As we moved more work to Python we had to figure out how to start, share, and
+deploy projects in a standard way. Virtualenv, pip, and Git to the rescue.
+
+[Note: The talk starts at around 7:20 when the mic is working.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rick Harding</dc:creator><guid>http://www.pyvideo.org/video/517/pyohio-2010--wrangling-the-bits--standardizing-ho</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/517_pyohio-2010-wrangling-the-bits-standardizing-how-apps-get-built.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-WranglingTheBitsStandardizingHowAppsGetBuilt608.png"></media:thumbnail></item></channel></rss>

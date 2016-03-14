@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Sanjiv Singh</title><link>http://www.pyvideo.org/speaker/168/sanjiv-singh/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/168/sanjiv-singh/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>TurboGears Geospatial Framework (#19)</title><link>http://www.pyvideo.org/video/343/pycon-2010--turbogears-geospatial-framework---19</link><description>&lt;p&gt;Description&lt;/p&gt;
+TurboGears Geospatial Framework
+
+  
+Presented by Sanjiv Singh
+
+  
+It is now possible to develop feature rich GIS web applications using
+TurboGears by harnessing the power of spatial databases using GeoAlchemy and
+integrating python GIS frameworks &amp; utilities with TurboGears using tgext.geo
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sanjiv Singh</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/343/pycon-2010--turbogears-geospatial-framework---19</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/343_turbogears-geospatial-framework-19.ogv" length="126148363" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/343_turbogears-geospatial-framework-19.ogv" fileSize="126148363" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/343_turbogears-geospatial-framework-19.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010TurboGearsGeospatialFramework19455.png"></media:thumbnail></item></channel></rss>

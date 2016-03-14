@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Avi Bryant</title><link>http://www.pyvideo.org/speaker/20/avi-bryant/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/20/avi-bryant/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:25:13 -0000</lastBuildDate><ttl>500</ttl><item><title>Django is obsolete (but so is everything else)</title><link>http://www.pyvideo.org/video/33/djangocon-2009--django-is-obsolete--but-so-is-eve</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django is obsolete (but so is everything else)
+
+  
+Presented by Avi Bryant
+
+** Keynote for DjangoCon 2009.**
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Avi Bryant</dc:creator><guid>http://www.pyvideo.org/video/33/djangocon-2009--django-is-obsolete--but-so-is-eve</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/33_django-is-obsolete-but-so-is-everything-else.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoIsObsoleteButSoIsEverythingElse277.png"></media:thumbnail></item></channel></rss>

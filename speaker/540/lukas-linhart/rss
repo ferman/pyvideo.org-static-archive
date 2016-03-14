@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lukáš Linhart</title><link>http://www.pyvideo.org/speaker/540/lukas-linhart/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/540/lukas-linhart/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Paver: the build tool you missed</title><link>http://www.pyvideo.org/video/1119/paver-the-build-tool-you-missed</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Lukaš Linhart - 22 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Build tools are not very popular in Python environment. In this talk, I'd like
+to show how useful it is to have one, even if you do just simple web
+applications. A nice, single point of entry instead of hairy shell scripts,
+fabric fabfiles and django admin commands all over the place.
+
+Written in the neat, friendly Python instead of some Anty XML jumbo, you are
+about to have a refreshing cleanup.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukáš Linhart</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1119/paver-the-build-tool-you-missed</guid><enclosure url="http://www.youtube.com/watch?v=WNH2wAPlGQE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/WNH2wAPlGQE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

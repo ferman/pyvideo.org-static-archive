@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jacob Frelinger</title><link>http://www.pyvideo.org/speaker/626/jacob-frelinger/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/626/jacob-frelinger/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Fcm - A python library for flow cytometry</title><link>http://www.pyvideo.org/video/1234/fcm-a-python-library-for-flow-cytometry</link><description>&lt;p&gt;Description&lt;/p&gt;
+Cellular populations in biology are often heterogeneous, and aggregate assays
+such as expression arrays can obscure the small differences between these
+populations. Examples where these differences can be highly significant
+include the identification of antigen-specific immune cells, stem cells and
+circulating cancer cells. As the frequency of such cells in the blood can be
+vanishingly small, assays to detect signals at the single cell level are
+essential. Flow cytometry is probably the best established single cell assay,
+and has been an integral tool in immunology and biology for decades, able to
+measure cellular marker levels for individual cells, as well as population
+statistics over millions of cells.
+
+Recent technological innovations in flow cytometry have increased the number
+of cell markers capable of being resolved simultaneously, and visual analysis
+(gating) is difficult and error prone with increasing data dimensionality.
+Hence there is increasing demand for tools to automate the analysis and
+management of flow data, so as to increase accuracy and reproducibility.
+However, essentially all software used by flow cytometry laboratories is
+commercial and based on the visual analysis paradigm. With the exception of
+the R BioConductor project, we are not aware of any other full-featured open
+source tools for analyzing flow data. The few open source flow software
+modules that exist simply extracts data from FCS (flow cytometry standard)
+files into tabular/csv format, losing all metadata associated with the file,
+and provide no additional tools for analysis. We therefore decided to develop
+the _fcm_ library in python that would provide a foundation for flow cytometry
+data management and analysis.
+
+The _fcm_ library provides functions to load fcs files, apply spectral
+compensation, and perform standard log and log-like transforms for
+visualization. The library also provides objects and methods for traditional
+gating-based analysis, including standard polygon, threshold, interval, and
+quadrant gates. Using _fcm_ and other common python libraries, one can quickly
+write scripts for doing large scale batch analysis. In addition to gating-
+based analysis, _fcm_ provides methods to do model-based analysis, utilizing
+GPU-optimized statistical models to identify cell subsets. These statistical
+models provide a data-driven way to construct generative probability models
+that scale well with the increasing dimensionality of flow data and do not
+require expert input to identify cell subsets. High performance computational
+routines to fit statistical models are optimized using cython and pycuda. More
+specialized tools for the analysis of flow data include the use of a novel
+information measure to optimize reagent panels and analysis strategies, and
+optimization methods for automatic determination of positivity thresholds.
+
+We are currently using the _fcm_ library for the analysis of tetramer assays
+for cancer immunotherapy, as well as intracellular expression of effector
+molecules in the NIAID-sponsored External Quality Assurance Policy Oversight
+Laboratory (EQAPOL) program to standardize flow cytometry assays in HIV
+studies. An illustrative example is the use of _fcm_ in building a pipeline
+for the Cytostream application to automate the analysis of 459 FCS files from
+12 laboratories, reducing the analysis time of one month to a single evening.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Frelinger</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1234/fcm-a-python-library-for-flow-cytometry</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Fcm_A_python_library_for_flow_.mp4?Signature=47khe03tMWQWqHO71268Wx73pMs%3D&amp;Expires=1346383053&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Fcm_A_python_library_for_flow_.mp4?Signature=47khe03tMWQWqHO71268Wx73pMs%3D&amp;Expires=1346383053&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=SXdIiLPQLAo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/SXdIiLPQLAo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

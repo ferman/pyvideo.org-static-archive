@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alex Hill</title><link>http://www.pyvideo.org/speaker/2105/alex-hill/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2105/alex-hill/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Many-to-many, minus the middleman</title><link>http://www.pyvideo.org/video/3996/many-to-many-minus-the-middleman</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk is about an alternative Django ManyToManyField implementation that uses (abuses?) PostgreSQL's full-text search engine instead of an intermediary table to store its relationships. As well as showing off some handy things you can do with this field, we'll talk along the way about full-text search in Postgres, inverted indexes, and how Django's ManyToManyField is implemented.
+
+Behind the scenes, ManyToManyField uses an intermediary table to record its relationships – a classic relational database technique you most likely mastered in Databases 101. But to believe some present-day commentators, classic relational databases with their fixed schemas and their ACID habit belong back in the 70s where they came from.
+
+Enter Postgres, the hip, switched-on parent who works as a public defender and gets on uncomfortably well with your friends. Postgres builds on a wealth of relational history while embracing modern non-relational ideas in a thoughtful, sane way.
+
+In this talk, we'll press full-text search, one of Postgres' repertoire of many useful features, into a service it performs remarkably well despite being designed for quite a different purpose. Code and benchmarks provided!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Hill</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3996/many-to-many-minus-the-middleman</guid><enclosure url="https://www.youtube.com/watch?v=lNh-tS8i-J4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/lNh-tS8i-J4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

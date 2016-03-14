@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Donovan Preston</title><link>http://www.pyvideo.org/speaker/88/donovan-preston/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/88/donovan-preston/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Actors: What, Why, and How (#161)</title><link>http://www.pyvideo.org/video/352/pycon-2010--actors--what--why--and-how---161</link><description>&lt;p&gt;Description&lt;/p&gt;
+Actors: What, Why and How
+
+  
+Presented by Donovan Preston
+
+  
+Since the dawn of concurrency research, there have been two camps: shared
+everything, and shared nothing. Most modern applications use threads for
+concurrency, a shared everything architecture.
+
+  
+Actors, however, use a shared nothing architecture where lightweight processes
+communicate with each other using message passing. Actors can change their
+state, create a new Actor, send a message to any Actor it has the Address of,
+and wait for a specific kind of message to arrive in it's mailbox.
+
+  
+We will discuss the benefits of using the Actor architecture and strategies
+for implementing an Actor system in Python.
+
+  
+[http://bitbucket.org/fzzzy/python-actors/](http://bitbucket.org/fzzzy/python-
+actors/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Donovan Preston</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/352/pycon-2010--actors--what--why--and-how---161</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/352_actors-what-why-and-how-161.ogv" length="160241933" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/352_actors-what-why-and-how-161.ogv" fileSize="160241933" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/352_actors-what-why-and-how-161.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ActorsWhatWhyAndHow161560.png"></media:thumbnail></item><item><title>Eventlet: Asynchronous I/O with a synchronous interface (#141)</title><link>http://www.pyvideo.org/video/244/pycon-2010--eventlet--asynchronous-i-o-with-a-syn</link><description>&lt;p&gt;Description&lt;/p&gt;
+Eventlet: Asynchronous I/O with a synchronous interface
+
+Presented by Donovan Preston
+
+Network servers which scale to thousands of simultaneous connections have
+always been possible in Python thanks to libraries such as asyncore and
+twisted. More recently, FriendFeed's new open source project Tornado has
+stirred debate in this area. These libraries allow a Python process to scale
+to many simultaneous connections using non-blocking I/O (also known as
+asynchronous I/O). However these projects require that the programmer learn a
+custom API to abstract away the complexities of using a callback-style API.
+
+Eventlet uses greenlet, which provides coroutines as described in "The Art of
+Computer Programming", to implement efficient cooperative concurrency while
+retaining synchronous semantics. Eventlet also provides an implementation of
+the standard library's socket module. Code written to use Python's standard
+socket library can be transparently converted to use nonblocking I/O and green
+threads with eventlet. This leads to much greater code reuse and programmer
+efficiency.
+
+[http://www.eventlet.net/](http://www.eventlet.net/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Donovan Preston</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/244/pycon-2010--eventlet--asynchronous-i-o-with-a-syn</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/244_eventlet-asynchronous-i-o-with-a-synchronous-interface-141.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010EventletAsynchronousIOWithASynchronousInterface667-479.jpg"></media:thumbnail></item></channel></rss>

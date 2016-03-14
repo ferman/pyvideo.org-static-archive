@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andy Terrel</title><link>http://www.pyvideo.org/speaker/561/andy-terrel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/561/andy-terrel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Reproducible, Relocatable, Customizable Builds and Packaging with HashDist Part1</title><link>http://www.pyvideo.org/video/2724/reproducible-relocatable-customizable-builds-an</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk introduces HashDist, a critical component of the scientific software development workflow.  HashDist enables highly customizable, source-driven, and reproducible builds for scientific software stacks.  HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud and supercomputing platforms. 
+&lt;p&gt;Description&lt;/p&gt;
+Developing scientific software is a continuous balance between not reinventing the wheel and getting fragile codes to interoperate with one another.  Binary software distributions such as Anaconda provide a robust starting point for many scientific software packages, but this solution alone is insufficient for many scientific software developers.  HashDist provides a critical component of the development workflow, enabling highly customizable, source-driven, and reproducible builds for scientific software stacks, available from both the IPython Notebook and the command line.
+
+To address these issues, the Coastal and Hydraulics Laboratory at the US Army Engineer Research and Development Center has funded the development of HashDist in collaboration with Simula Research Laboratories and the University of Texas at Austin.  HashDist is motivated by a functional approach to package build management, and features intelligent caching of sources and builds, parametrized build specifications, and the ability to interoperate with system compilers and packages. HashDist enables the easy specification of "software stacks", which allow both the novice user to install a default environment and the advanced user to configure every aspect of their build in a modular fashion.  As an advanced feature, HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud, and supercomputing platforms.  As a final benefit, all HashDist builds are reproducible, with a build hash specifying exactly how each component of the software stack was installed.
+
+This talk will feature an introduction to the problem of packaging Python-based scientific software, a discussion of the basic tools available to scientific Python developers, and a detailed discussion and demonstration of the HashDist package build manager.
+
+The HashDist documentation is available from: http://hashdist.readthedocs.org/en/latest/
+HashDist is currently hosted at: https://github.com/hashdist/hashdist</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel,Aron Ahmadia,Chris Kees,Dag Sverre Seljebotn,Ondrej Certik</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2724/reproducible-relocatable-customizable-builds-an</guid><enclosure url="http://www.youtube.com/watch?v=wviHkzk0AkY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/wviHkzk0AkY/hqdefault.jpg"></media:thumbnail></item><item><title>You Win or You SciPy</title><link>http://www.pyvideo.org/video/2715/you-win-or-you-scipy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Reflections on the State of Scientific Python 
+&lt;p&gt;Description&lt;/p&gt;
+Python is currently one of the most popular programming languages and it seems that that Scientific Python has truly hit its stride in recent years. With fame comes a deluge of users, but not necessarily any more developers. Scientific Python is often held up as one of the core strengths of the Python language. Why is this so? And how much does it actually help us? This talk intends to be a frank discussion on the great parts of the SciPy community and the parts that need work.
+
+As a confederation of packages and projects, there are several issues that affect everyone. Sometimes these issues fall through the cracks and other times they are vigorously tackled head on. In either case, I posit that greater communication about these global topics is necessary to support and scale to the next wave of SciPy users and developers.
+
+Points of discussion in this talk may include:
+
+* Packaging,
+* Education,
+* Matplotlib - aged or awesome,
+* Competition from other languages,
+* Diversity,
+* Employing our own,
+* Interfacing with the broader Python community,
+* The legal status of projects, and
+* Maintaining critical packages in the ecosystem (when devs have moved on).
+
+Historically, the SciPy conference has not had many overview talks, talks about the community itself, what we are doing right, and what we are doing wrong.
+
+They were often relegated to keynotes if they were present at all. This talk is a boots-on-the-ground attempt to rectify that.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel,Anthony Scopatz,Katy Huff</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2715/you-win-or-you-scipy</guid><enclosure url="http://www.youtube.com/watch?v=e0Z9-EuZJac" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/e0Z9-EuZJac/hqdefault.jpg"></media:thumbnail></item><item><title>Python beyond the CPU</title><link>http://www.pyvideo.org/video/1726/python-beyond-the-cpu</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Accelerators are the hottest tool in high performance computing but applicable to all fields. We present how to use Python's amazing ability to abstract away the low-level boiler-plate code turning accelerators from an exotic curiosity to a daily tool.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel,Mark Florisson,Travis Oliphant</dc:creator><pubDate>Wed, 13 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1726/python-beyond-the-cpu</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_beyond_the_CPU.mp4?Signature=ld9AdNnMKpc1htKuisgOCml9PsA%3D&amp;Expires=1364749634&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_beyond_the_CPU.mp4?Signature=ld9AdNnMKpc1htKuisgOCml9PsA%3D&amp;Expires=1364749634&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=D8NqF2jOuuw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/D8NqF2jOuuw/hqdefault.jpg"></media:thumbnail></item><item><title>Domain Specific Languages for Partial Differential Equations using Ignition</title><link>http://www.pyvideo.org/video/1219/domain-specific-languages-for-partial-differentia</link><description>&lt;p&gt;Description&lt;/p&gt;
+As scientific computing pushes towards extreme scales, the programming wall is
+becoming more apparent. For algorithms to scale on new architectures, they
+often must be rewritten accounting for completely different performance
+characteristics. A handful of the communities fastest codes have already
+turned to automatic code generation to tackle these issues. Code generation
+gives a user the ability to use the expressiveness of a domain specific
+language and promises for better portability as architectures rapidly change.
+
+In this presentation, I will show Ignition, a project for creating numerical
+code generators. Python and SymPy make exceptional languages for developing
+these code generators in a way that domain experts can understand and
+manipulate. I show examples how Ignition can generate several different parts
+of geophysical simulations.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1219/domain-specific-languages-for-partial-differentia</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Specific_Languages_for_Partial_Differential_Equations_using_Ignition.mp4?Signature=wUghS1%2BLg%2FG7V4eI0CClg6aLnCc%3D&amp;Expires=1346382037&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Specific_Languages_for_Partial_Differential_Equations_using_Ignition.mp4?Signature=wUghS1%2BLg%2FG7V4eI0CClg6aLnCc%3D&amp;Expires=1346382037&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=Dpc-bGwyJmk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/Dpc-bGwyJmk/hqdefault.jpg"></media:thumbnail></item><item><title>Performance Python Panel Discussion</title><link>http://www.pyvideo.org/video/1189/performance-python-panel-discussion</link><description>&lt;p&gt;Description&lt;/p&gt;
+Travis Oliphant (Continuum Analytics), Kurt Smith (Enthought) and Jeff
+Bezanson (MIT, Julia author) discuss Python performance issues. Andy Terrel
+(UT/TACC) is the moderator.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1189/performance-python-panel-discussion</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Performance_Python_Panel_Discussion.mp4?Signature=EK%2FxBne%2FwJ%2BADIU7LSsWlWbeKJk%3D&amp;Expires=1346379508&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Performance_Python_Panel_Discussion.mp4?Signature=EK%2FxBne%2FwJ%2BADIU7LSsWlWbeKJk%3D&amp;Expires=1346379508&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=7i2vhoQY-K4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/7i2vhoQY-K4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

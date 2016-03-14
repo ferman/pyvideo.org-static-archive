@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mauro Rocco</title><link>http://www.pyvideo.org/speaker/499/mauro-rocco/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/499/mauro-rocco/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 21 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Playing tasks with Django-Celery</title><link>http://www.pyvideo.org/video/1039/playing-tasks-with-django-celery</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Mauro Rocco - 22 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Celery is an open source task queueing system based on distributed message
+passing.
+
+I will talk about the tools that Celery offers for task distribution and how
+to monitor and manage the system using a Django web interface. This talk will
+also focus on how we use Celery at Jamendo and our real solutions to some
+common issues you may encounter when developing a back-office based on Celery.
+
+The talk will cover the following topics:
+
+  * A brief overview of Celery and the AMPQ protocol AMPQ protocol overview, Celery introduction: Celery, RabbitMQ code examples
+
+  * The impact of Celery on the Jamendo work-flow; examples with real tasks. Here I will talk about the Jamendo back-office infrastructure and some of our common tasks. I will discuss the improvements made by introducing a new back-office system based on Celery. I will show some code snippets and go over some real scenarios.
+
+  * Overview of the Django Celery admin interface and some Jamendo extensions. Let's talk about the Django-Celery interface that allows one to monitor or schedule tasks directly from the Django admin. I will explain which common additional features are necessary and how to add them.
+
+  * Common "gotchas" we encountered while working with Celery and how we solved them.
+
+  * Global task locks
+
+  * Centralized logging: be able to read all the logs of all celery workers on different servers and filter them for real-time debugging
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mauro Rocco</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1039/playing-tasks-with-django-celery</guid><enclosure url="http://www.youtube.com/watch?v=HgN8rOstPjc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/HgN8rOstPjc/hqdefault.jpg"></media:thumbnail></item><item><title>Playing tasks with Django-Celery</title><link>http://www.pyvideo.org/video/1117/playing-tasks-with-django-celery-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Mauro Rocco - 22 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Celery is an open source task queueing system based on distributed message
+passing.
+
+I will talk about the tools that Celery offers for task distribution and how
+to monitor and manage the system using a Django web interface. This talk will
+also focus on how we use Celery at Jamendo and our real solutions to some
+common issues you may encounter when developing a back-office based on Celery.
+
+The talk will cover the following topics:
+
+  * A brief overview of Celery and the AMPQ protocol AMPQ protocol overview, Celery introduction: Celery, RabbitMQ code examples
+
+  * The impact of Celery on the Jamendo work-flow; examples with real tasks. Here I will talk about the Jamendo back-office infrastructure and some of our common tasks. I will discuss the improvements made by introducing a new back-office system based on Celery. I will show some code snippets and go over some real scenarios.
+
+  * Overview of the Django Celery admin interface and some Jamendo extensions. Let's talk about the Django-Celery interface that allows one to monitor or schedule tasks directly from the Django admin. I will explain which common additional features are necessary and how to add them.
+
+  * Common "gotchas" we encountered while working with Celery and how we solved them.
+
+  * Global task locks
+
+  * Centralized logging: be able to read all the logs of all celery workers on different servers and filter them for real-time debugging
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mauro Rocco</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1117/playing-tasks-with-django-celery-0</guid><enclosure url="http://www.youtube.com/watch?v=mAXz2kbh_3U" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/mAXz2kbh_3U/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tennessee J Leeuwenburg</title><link>http://www.pyvideo.org/speaker/258/tennessee-j-leeuwenburg/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/258/tennessee-j-leeuwenburg/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 22 Aug 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Using Python for Natural Language Generation and Analysis</title><link>http://www.pyvideo.org/video/466/pyconau-2010--using-python-for-natural-language-g</link><description>&lt;p&gt;Description&lt;/p&gt;
+Using Python for Natural Language Generation and Analysis
+
+Presented by Tennessee J Leeuwenburg (Australian Government Bureau of
+Meteorology)
+
+Python is used within the Bureau of Meteorology to automatically generate
+weather forecast text based on numerical data. In addition, the development
+team has also used Python to introspect the forecast language and statistics
+used in the past. NTLK is an open-source language processing toolkit which can
+be used for visualising language patterns. This presentation will talk about
+some of the techniques used for automatically describing datasets and also how
+NTLK can be used to discover information about language uses and requirements
+in an organisation.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee J Leeuwenburg</dc:creator><guid>http://www.pyvideo.org/video/466/pyconau-2010--using-python-for-natural-language-g</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/466_pyconau-2010-using-python-for-natural-language-generation-and-analysis.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-UsingPythonForNaturalLanguageGenerationAndAnalysis972.png"></media:thumbnail></item><item><title>Benchmarking stuff made ridiculously easy (with lots of pictures)</title><link>http://www.pyvideo.org/video/994/benchmarking-stuff-made-ridiculously-easy-with-l</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+(Mic issues for first ~1:30) Tennessee has been working on a module for
+integrating cpu time management with unit testing using an easy-to-use
+decorator. With all the options turned on, this will produce a a performance
+history, tracked by revision, integrated with the software used to produce the
+benchmarking graphs as used on&amp;nbsp_place_holder;http://speed.pypy.org/. You
+too can have this kind of shinyness for (almost) free!.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee J Leeuwenburg</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/994/benchmarking-stuff-made-ridiculously-easy-with-l</guid><enclosure url="http://www.youtube.com/watch?v=N2_DvRBokS0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/N2_DvRBokS0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

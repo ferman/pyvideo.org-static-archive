@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lee Symes</title><link>http://www.pyvideo.org/speaker/2032/lee-symes/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2032/lee-symes/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Why Python is awesome – and some other languages are cool too</title><link>http://www.pyvideo.org/video/3868/why-python-is-awesome-and-some-other-languages</link><description>&lt;p&gt;Description&lt;/p&gt;
+Switching between many languages quickly clarifies each language's strengths and weaknesses. My background is in Java – however more recently I have moved onto using Python, JavaScript and PHP, whilst dabbling in Go. My talk will cover:
+
+ - Asynchronous programming, and the various ways it can be written in code, with reference to JavaScript and Go.
+ - Packaging, how some languages do it better and worse than Python, and what Python can learn from them.
+ - Unit testing in all languages is hard, but the syntactic sugar that is added can ease the pain, and make the output when your tests inevitably fail easier to read.
+ - Syntax Shock, what brackets and semi-colons? Why are you not running – oh yes I need a semi-colon there.
+ - Cool stuff with Magic(al) methods and Duck Typing that languages like Java would not have a hope of implementing. 
+
+This talk will highlight some of the delight I get when coming back to Python; and some of the aspects of other languages that I think would be really cool to add. 
+
+
+
+
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lee Symes</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3868/why-python-is-awesome-and-some-other-languages</guid><enclosure url="http://youtu.be/L2JDiduangk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/L2JDiduangk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

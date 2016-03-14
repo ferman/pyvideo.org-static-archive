@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rhys Elsmore</title><link>http://www.pyvideo.org/speaker/1176/rhys-elsmore/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1176/rhys-elsmore/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Just Use Postgres.</title><link>http://www.pyvideo.org/video/3977/just-use-postgres</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making use of the latest database for your data is considered trendy and edgy, with vendors promising unrealistic expectations when it comes to capabilities of these systems. Furthermore, communities such as Hacker News enforce the idea that you must use the latest and coolest technology in order to be a ‘rockstar’ engineer.
+
+Marketing buzzwords like ‘real-time’, ‘distributed’, ‘high-availability’, and ‘schemaless’ impact our design decisions, and the expectation for applications to be ‘scalable’ often forces developers to prematurely introduce complexity and anti-patterns into their applications by making use of these untested and immature data stores.
+
+Forget about adding the latest trendy data store into your stack; just use Postgres.
+
+This talk will explore the capabilities of Postgres 9.4, and various use-cases where you can involve it as your primary datastore. I will cover some of the projects at Heroku where we have used Postgres, such as:
+
+- Quickly querying over 300M records to get a list of all users on a particular server at a particular point in time.
+- Providing almost real-time aggregations of all Heroku customer’s usage.
+- Joining 3 different tables on 3 different database servers without any external code.
+- Creating a ‘social graph’ of all of Heroku’s users based on commonly used IP addresses.
+- Ensuring that coupon codes are used only once, preventing attackers from exploiting ‘race condition’ bugs.
+
+ In particular, I will focus on topics such as:
+
+- Storing, indexing, and querying schemaless data.
+- Materialized Views.
+- NOTIFY/LISTEN.
+- Storing and querying time-series data.
+- Updatable views.
+- Foreign tables.
+- Recursive views.
+- Stored functions.
+- Range Types
+- Partitioning and Sharding data.
+
+Each topic will include links to sample schemas and iPython notebooks so you can take these examples home with you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rhys Elsmore</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3977/just-use-postgres</guid><enclosure url="https://www.youtube.com/watch?v=UgcC_bY4rPg" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/UgcC_bY4rPg/hqdefault.jpg"></media:thumbnail></item><item><title>(Benford's) Law and Order (Fraud) by Rhys Elsmore</title><link>http://www.pyvideo.org/video/3107/benfords-law-and-order-fraud-by-rhys-elsmore</link><description>&lt;p&gt;Description&lt;/p&gt;
+"On the internet, fraudulent and abusive behavior is considered especially heinous. At Heroku, the dedicated detectives who investigate these vicious felonies are members of an elite squad armed with large amounts of data and spare CPU cycles. These are their stories."
+
+Bad behavior can wreak havoc on your web application. It might be mass-signups, fraudulent orders, spammy posts, right up to automated bots designed to work around restrictions you have set in place; this can cost you time, resources, and lots of money. All is not lost though. Despite the ongoing efforts of abusers, their activity still leaves fingerprints and clues, which you can use to your advantage.
+
+This talk is a 101 introduction to some of the methods which you can use to separate good from bad users using a combination of data mining, statistics, and some some basic machine learning. Basically, I want to get you thinking like an internet detective.
+
+Some of the topics I will be covering include:
+
+- Collecting and preparing data sources.
+- Effective methods for classifying existing users.
+- Feature extracting; what works and what doesn't.
+- Analyzing user-provided data to profile your users, and weed out the bad operators.
+- Determining a user's intentions by looking at their access patterns.
+- Making use of 'outliers' to find suspicious users and transactions.
+- Stopping bad users before they can wreak havoc.
+
+As this is a 101 topic I will provide some basic examples, as well as links to more in-depth resources for further reading. I would recommend this talk to developers of web applications, especially those with a large number of users, the ability to process credit cards, or with a 'free' offering. Attendees should have a basic understanding of topics such as SQL, Pandas, and some basic understanding of mathematics and statistics, although this is not essential as I will be providing links to further reading.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rhys Elsmore</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3107/benfords-law-and-order-fraud-by-rhys-elsmore</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/56-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/56-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=_VO8QxIkjqY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/_VO8QxIkjqY/hqdefault.jpg"></media:thumbnail></item><item><title>How to Lose Friends and Influence Burnout</title><link>http://www.pyvideo.org/video/2446/how-to-lose-friends-and-influence-burnout</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+It's 4AM, the coffee on your desk is cold, the office is dark, and everyone else has gone home for the day. For the 5th time today you are coming to a dead-end while deploying your web application, and the only thing on your mind is 'Where did it all go wrong?''
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
+
+**Audience level**
+
+Novice
+
+**Abstract**
+
+It's 4AM, the coffee on your desk is cold, the office is dark, and everyone else has gone home for the day. For the 5th time today you are coming to a dead-end while deploying your web application, and the only thing on your mind is 'Where did it all go wrong?''.
+
+This situation is all too common, especially when you are strapped for time due to budgets and deadlines; it is no fun for anybody. Come learn about the huge mistakes I made as a developer, the terrible anti-patterns I worked my way into, but most importantly,what I learnt from while on this path to destruction.
+
+Be it choosing the right framework, picking the best tool for the job, learning to love the 12 factor, or the pitfalls of concurrency; see what I learnt from a stint as a solo developer in a not so ideal situation.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/rhys-elsmore-how-to-lose-friends-and-influence-burnout</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rhys Elsmore</dc:creator><pubDate>Sun, 15 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2446/how-to-lose-friends-and-influence-burnout</guid><enclosure url="http://www.youtube.com/watch?v=2lrRix3PM4k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/2lrRix3PM4k/hqdefault.jpg"></media:thumbnail></item></channel></rss>

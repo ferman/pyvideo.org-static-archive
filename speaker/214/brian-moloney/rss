@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brian Moloney</title><link>http://www.pyvideo.org/speaker/214/brian-moloney/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/214/brian-moloney/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 06 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Under the Microscope: Evaluating Existing Django Code When Onboarding a New Client</title><link>http://www.pyvideo.org/video/1413/under-the-microscope-evaluating-existing-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As a Web development firm that specializes in Django, we receive many
+inquiries from organizations looking for assistance with their existing Django
+websites. This session will describe our process for evaluating existing
+codebases and deployment structures. The goal is to provide a framework for
+evaluating other people's code and understand the scrutiny your code may
+someday endure.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Taking over someone else’s code is an exercise fraught with peril. However,
+with the growing popularity of Django, more and more organizations are seeking
+companies and individuals to take over their Django website and support their
+existing Django codebase. This talk will describe the standardized process
+Imaginary Landscape has developed to evaluate existing code as part of their
+new client onboarding process.
+
+Covered topics:
+
+  * Introduction/Overview
+
+  * Top reasons why clients are looking to change vendor
+
+  * Initial assessment
+
+&gt;     * What questions to ask before looking at the code.
+
+  * Where to start when looking at code? 
+
+&gt;     * Traversing the code tree to get a feel for how the code is structured
+
+&gt;     * Trying to determine how the previous developer thinks
+
+  * Detailed code review including checklist
+
+&gt;     * Things to look for when evaluating code: Version control, "Standard"
+site layout, Settings file, hardcoding, Virtualenv, south, etc.
+
+  * Examples (names have been changed to protect the imperfect)
+
+&gt;     * The good: the kinds of coding and configuration techniques that seem
+to be consistent among well-thought-out projects.
+
+&gt;     * The bad: examples of code and configuration that make onboarding and
+maintenance difficult.
+
+  * Final thoughts
+
+&gt;     * What you can do as a developer taking over a project.
+
+&gt;     * What you can do as a developer hoping to make great code that others
+may someday see.
+
+&gt;     * Exercise your right to say no, it’s your reputation on the line
+
+  * Q&amp;A
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Moloney,Joe Jasinski</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1413/under-the-microscope-evaluating-existing-django</guid><enclosure url="http://www.youtube.com/watch?v=-hma3mlcrD8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-hma3mlcrD8/hqdefault.jpg"></media:thumbnail></item><item><title>Getting the job: the do's and don'ts of landing a Python job</title><link>http://www.pyvideo.org/video/408/pycon-2011--getting-the-job--the-do--39-s-and-don</link><description>&lt;p&gt;Description&lt;/p&gt;
+Getting the job: the do's and don'ts of landing a Python job
+
+Presented by Brian Moloney
+
+Every Python programmer is brilliant in his or her own way. That brilliance
+shines in code and peer-to-peer conversation. But how do you display your
+skills to a non-programmer? How do you impress management and human resources?
+What do you need to do (and not do) to successfully navigate the hiring
+process and land the job?
+
+Abstract
+
+Imaginary Landscape has been interviewing, hiring and not hiring Python talent
+since 1999. Throughout these many years, there have been good candidates, bad
+candidates and downright ugly candidates. This talk will use actual
+correspondence and examples to demonstrate what can separate you from the
+crowd and what can separate you from consideration. Imaginary Landscape non-
+technical Managing Partner Brian Moloney will lead the session by describing
+how he evaluates potential hires and what goes through his mind while speaking
+with potential Python candidates. Attendees will take away a specific set of
+guidelines for mastering the non-technical aspects of the recruiting process.
+
+[VIDEO HAS ISSUES: There are problems with the audio for the first 5 minutes.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Moloney</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/408/pycon-2011--getting-the-job--the-do--39-s-and-don</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/408_getting-the-job-the-do-s-and-don-ts-of-landing-a-python-job.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011GettingTheJobTheDosAndDontsOfLandingAPython220.png"></media:thumbnail></item></channel></rss>

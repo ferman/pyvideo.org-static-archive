@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeff Lindsay</title><link>http://www.pyvideo.org/speaker/350/jeff-lindsay/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/350/jeff-lindsay/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Throwing Together Distributed Services With Gevent</title><link>http://www.pyvideo.org/video/642/throwing-together-distributed-services-with-geven</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk we learn how to throw together a distributed system using gevent
+and a simple framework called gservice. We'll go from nothing to a distributed
+messaging system ready for production deployment based on experiences building
+scalable, distributed systems at Twilio.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Lindsay</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/642/throwing-together-distributed-services-with-geven</guid><enclosure url="https://www.youtube.com/watch?v=tYk4_Nzl-Gg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/tYk4_Nzl-Gg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

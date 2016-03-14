@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Benoit Chabord</title><link>http://www.pyvideo.org/speaker/2022/benoit-chabord/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2022/benoit-chabord/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python and Elasticsearch (Add Full Text Search to your legacy application)</title><link>http://www.pyvideo.org/video/3854/python-and-elasticsearch-add-full-text-search-to</link><description>&lt;p&gt;Description&lt;/p&gt;
+At GrabOne we started to use Elasticsearch a year ago and integrate it with Django. The transition was pretty smooth.
+
+## What Is Elasticsearch ?
+* Open Source product https://www.elastic.co/products/elasticsearch
+* Based on Apache Lucene index system
+* Dristibuted, scalable and highly available
+* Real time search and analytics capabilities
+* RESTful API
+
+## Integration With Python
+* Because it is RESTful can be integrated with urllib
+* Official Python connector maintained by the elasticsearch team https://github.com/elastic/elasticsearch-py
+* Official Pythonic Query builder and Model mapper (ORM) https://github.com/elastic/elasticsearch-dsl-py
+
+## GrabOne use case
+* Started by redoing the search page
+* Rebuilding the entire frontend using Elasticsearch as datasource for a Django website
+
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benoit Chabord</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3854/python-and-elasticsearch-add-full-text-search-to</guid><enclosure url="http://youtu.be/FM2e2J7OJpM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/FM2e2J7OJpM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Matteo Boscolo</title><link>http://www.pyvideo.org/speaker/554/matteo-boscolo/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/554/matteo-boscolo/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Developing a Cad application as an hobby. My exciting hobby is now my job</title><link>http://www.pyvideo.org/video/1152/developing-a-cad-application-as-an-hobby-my-exci</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Matteo Boscolo - 22 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PythonCAD is a CAD package written, surprisingly enough, in Python using the
+PyQt interface. The PythonCAD project aims to produce a scriptable, open-
+source, easy to use CAD package for Linux (Cross Platforms).
+
+I start developing PythonCAD in my spare time and now python is the
+programming language that I mostly use. I think that will be very interesting
+to tell my story and how I learn python pyqt ,sqlite, sympy… and how python
+and pycon and OpenERP change my job.
+
+The goal will be to tell at the new python programmer how easy to use is
+python even for complex problem. I can explain why I chose pyqt .. what kind
+of trouble I have found and how I solve it. Starting from python going to pyqt
+and at the end how to deploy a python application with pyInstaller …
+
+I also explain my actual project OpenPLM an OpenERP module to manage PLM data
+into OpenERP
+
+see you soon Matteo
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matteo Boscolo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1152/developing-a-cad-application-as-an-hobby-my-exci</guid><enclosure url="http://www.youtube.com/watch?v=OqpkB1wv5bs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OqpkB1wv5bs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

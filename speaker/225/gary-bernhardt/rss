@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Gary Bernhardt</title><link>http://www.pyvideo.org/speaker/225/gary-bernhardt/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/225/gary-bernhardt/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Boundaries</title><link>http://www.pyvideo.org/video/1670/boundaries</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An exploration of the boundaries between pieces of code, including: isolated testing, behavior vs. data, mutation vs. immutability, how data shape affords parallelism, transforming interface dependencies into data dependencies, and what it might look like to build systems using all of these to guide the boundaries between objects and components.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gary Bernhardt</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1670/boundaries</guid><enclosure url="https://www.youtube.com/watch?v=eOYal8elnZk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/eOYal8elnZk/hqdefault.jpg"></media:thumbnail></item><item><title>Fast Test, Slow Test</title><link>http://www.pyvideo.org/video/631/fast-test-slow-test</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Most unit tests aren't and their authors suffer for it. What is a unit test,
+really? How can writing them prevent classic testing problems? If you do write
+them, what trade-offs are you implicitly making?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gary Bernhardt</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/631/fast-test-slow-test</guid><enclosure url="https://www.youtube.com/watch?v=RAxiiRPHS9k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/RAxiiRPHS9k/hqdefault.jpg"></media:thumbnail></item><item><title>Backup Is Hard; Let's Go Shopping</title><link>http://www.pyvideo.org/video/424/pycon-2011--backup-is-hard--let--39-s-go-shopping</link><description>&lt;p&gt;Description&lt;/p&gt;
+Backup Is Hard; Let's Go Shopping
+
+Presented by Gary Bernhardt
+
+We'll fly through the most clever bits of BitBacker, an online backup app
+developed as a startup for three years and eventually abandoned. Highlights: a
+hacked-up httplib/asyncore HTTP client; a real-life, HATEOAS-respecting
+RESTful API, and an encryption scheme that can quickly diff a file system
+against the server while leaking no information – not even file timestamps.
+
+Abstract
+
+This is the story of a solution to a huge problem: fast, secure online backup.
+A single client generates a hundred gigabytes, millions of data chunks, and
+thousands of file system snapshots. To appreciate the problem's scale,
+consider that a Python array holding content hashes for 1,000,000 files
+consumes 100 MB of memory. File hashes are only a portion of the required per-
+file metadata, and that's only one for snapshot of thousands.
+
+We'll tour the hard parts of this system with no apology for their difficulty.
+The httplib/asyncore hybrid monster that served millions of parallel requests,
+transparently retrying on failures and timeouts, with only 300 lines of
+python. The RESTful API – fully respecting hypertext, with every request
+safely repeatable, even POSTs, and not a single hard-coded URL in the client.
+The encryption scheme that leaked nothing – not even modification times – but
+could quickly diff local file systems against the server. And, that one time
+that a client accidentally requested a 4.76 megabyte URL in production.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gary Bernhardt</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/424/pycon-2011--backup-is-hard--let--39-s-go-shopping</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/424_backup-is-hard-let-s-go-shopping.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011BackupIsHardLetsGoShopping206.png"></media:thumbnail></item><item><title>Units Need Testing Too</title><link>http://www.pyvideo.org/video/422/pycon-2011--units-need-testing-too</link><description>&lt;p&gt;Description&lt;/p&gt;
+Units Need Testing Too
+
+Presented by Gary Bernhardt
+
+Python's long history of testing has focused primarily on integration- and
+system-level tests: slow-running tests executing lots of code. These are a
+great start, but many of them can be transformed into unit-level tests. True
+unit tests are orders of magnitude faster (about 1ms each), providing quicker
+feedback and better failure localization. We'll look at why and how to write
+them.
+
+Abstract
+
+Python has a wonderful legacy in testing: PyUnit has been in the standard
+library since March, 2001, and it was already a year old by then. We adopted
+browser driving quickly, and we do it at huge scale with great test
+parallelization infrastructure.
+
+Big tests aren't everything, though. In the Python world, true unit tests are
+somewhat rare, and even most tests written with the unittest library are
+integration tests. These tests are slow to execute and don't localize failure
+as well as smaller, focused tests. They leave us with two options: either run
+them rarely, sacrificing feedback, or run them often, sacrificing speed.
+
+Writing true unit tests removes that particular trade-off. When your tests
+execute in a millisecond each, you can afford to run a thousand of them every
+time you save a source file. This talk will discuss what unit tests really
+are, why they matter, and how to write them in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gary Bernhardt</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/422/pycon-2011--units-need-testing-too</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/422_units-need-testing-too.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011UnitsNeedTestingToo863.png"></media:thumbnail></item></channel></rss>

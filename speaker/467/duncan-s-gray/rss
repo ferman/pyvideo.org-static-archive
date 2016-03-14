@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Duncan S Gray</title><link>http://www.pyvideo.org/speaker/467/duncan-s-gray/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/467/duncan-s-gray/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 22 Aug 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Developing Scientific Software in Python</title><link>http://www.pyvideo.org/video/1001/developing-scientific-software-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This presentation will outline key lessons learnt in developing scientific
+software in Python. Methods of maintaining and assuring code quality will be
+discussed.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In particular:
+
+  * designing effective unit tests; 
+  * visualising output data to discover defects; and 
+  * designing characterisation tests to test the actual system behaviour and to 
+  * identify unintended system changes 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Duncan S Gray</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1001/developing-scientific-software-in-python</guid><enclosure url="http://www.youtube.com/watch?v=qIVEkecxVqo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qIVEkecxVqo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Martin v. Löwis</title><link>http://www.pyvideo.org/speaker/768/martin-v-lowis/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/768/martin-v-lowis/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 31 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Metro-Programmierung mit Python</title><link>http://www.pyvideo.org/video/1444/metro-programmierung-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Metro ist die Nutzerschnittstelle für Apps in Windows 8. Microsoft unterstützt
+App-Programmierung in C, C++, C#, VB und JavaScript. Im Vortrag wird das API
+WinRT vorgestellt und gezeigt, wie mit Python Apps entwickelt werden können.
+
+Themen sind:
+
+- Windows 8  
+- Metro-UI  
+- WinRT und COM  
+- Python als App  
+- Python-WinRT-API
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin v. Löwis</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1444/metro-programmierung-mit-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_MetroProgrammierung_mi.mp4?Signature=MlPoT25AkdPwDqrDnDeB5jGffDk%3D&amp;Expires=1351854093&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_MetroProgrammierung_mi.mp4?Signature=MlPoT25AkdPwDqrDnDeB5jGffDk%3D&amp;Expires=1351854093&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=RJ18uynXWto" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/RJ18uynXWto/hqdefault.jpg"></media:thumbnail></item><item><title>Python 3.3</title><link>http://www.pyvideo.org/video/1442/python-3-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Am 29.9.2012 wurde nach 19-monatiger Entwicklungszeit Python 3.3
+
+fertiggestellt. Es ist die größte Erweiterung von Python seit Version
+
+3.0; Änderungen gab es in allen Bereichen der Implementierung (Syntax,
+
+Standardbibliothek, Paketierung, interne Strukturen). In dem Vortrag
+
+werden die wesentlichen Änderungen umrissen, sowohl aus Anwendersicht
+
+wie auch aus Sicht eines core committers.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin v. Löwis</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1442/python-3-3</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Python_33.mp4?Signature=mB0ByskHs%2FFpDSTazZa33EDhXFM%3D&amp;Expires=1351853871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Python_33.mp4?Signature=mB0ByskHs%2FFpDSTazZa33EDhXFM%3D&amp;Expires=1351853871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=bXFLZqpWAPk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/bXFLZqpWAPk/hqdefault.jpg"></media:thumbnail></item><item><title>Django 3000</title><link>http://www.pyvideo.org/video/2918/django-3000</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag stellt einen Port von Django auf Python 3 vor und diskutiert die Portierung von Django-Anwendungen auf Python 3.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin v. Löwis</dc:creator><pubDate>Thu, 06 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2918/django-3000</guid><enclosure url="http://www.youtube.com/watch?v=L630R3ojToc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/L630R3ojToc/hqdefault.jpg"></media:thumbnail></item><item><title>Namespace Packages</title><link>http://www.pyvideo.org/video/2898/namespace-packages</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mit PEP 382 wird ein Mechanismus Teil der Sprache, der in eingeschränkter Form schon von setuptools bereitgestellt wird: Namespace Packages. Damit wird es möglich, Unterpakete eines Python-Pakets separat zu entwickeln und zu installieren. Im Vortrag werden der Lösungsansatz beschrieben und mögliche Auswirkungen auf bestehende Software diskutiert.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin v. Löwis</dc:creator><pubDate>Wed, 05 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2898/namespace-packages</guid><enclosure url="http://www.youtube.com/watch?v=wFxVVx1Eao0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/wFxVVx1Eao0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

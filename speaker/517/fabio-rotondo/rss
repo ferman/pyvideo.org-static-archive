@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Fabio Rotondo</title><link>http://www.pyvideo.org/speaker/517/fabio-rotondo/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/517/fabio-rotondo/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 18 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Building a website with PyHP and Liwe</title><link>http://www.pyvideo.org/video/1075/building-a-website-with-pyhp-and-liwe</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Fabio Rotondo - 22 June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this session, you will start learning how to create a simple PyHP + LiWE
+website.
+
+Then, we'll show you how to create new custom modules for your website and
+we'll show up some great features of the LiWE ecosystem.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabio Rotondo</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1075/building-a-website-with-pyhp-and-liwe</guid><enclosure url="http://www.youtube.com/watch?v=ssiC75EclxI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ssiC75EclxI/hqdefault.jpg"></media:thumbnail></item><item><title>PyHP and the art of dating girls</title><link>http://www.pyvideo.org/video/1068/pyhp-and-the-art-of-dating-girls</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Fabio Rotondo - 21 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This will be both technical and light talk, introducing these important
+subjects:
+
+  * the new scripting language PyHP, a solution to create dynamic web pages using the Python scripting language server side, a-la PHP, but smarter.
+
+  * the LiWE (Lightweight Web Environment) Web Framework, a new and robust web framework written in both JavaScript and Python that will help you creating amazing websites.
+
+  * how this new amazing technologies can help you date girls (this will be the light and funny part of the talk)
+
+Prerequisites:
+
+  * Very basic knowledge of PHP
+  * Basic Python
+  * Basic / None JavaScript
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabio Rotondo</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1068/pyhp-and-the-art-of-dating-girls</guid><enclosure url="http://www.youtube.com/watch?v=2pMUt1cIiEk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/2pMUt1cIiEk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andy Parsons</title><link>http://www.pyvideo.org/speaker/388/andy-parsons/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/388/andy-parsons/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>11. A Startup Junkie's Journey to Python via Java, C#, Ruby and Scala</title><link>http://www.pyvideo.org/video/702/11-a-startup-junkies-journey-to-python-via-java</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Between choosing technologies, bootstrapping your company and product and
+hiring the critical early team, startup CTO's have their hands full. I've done
+it many times, and over the years I have honed my view of how to build
+something new from scratch. We'll focus on selecting tools and technologies,
+and on my journey to Python as the core of my newest company.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Parsons</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/702/11-a-startup-junkies-journey-to-python-via-java</guid><enclosure url="https://www.youtube.com/watch?v=ktLyuWoRHH8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/ktLyuWoRHH8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

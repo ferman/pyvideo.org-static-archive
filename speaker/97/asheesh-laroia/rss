@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Asheesh Laroia</title><link>http://www.pyvideo.org/speaker/97/asheesh-laroia/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/97/asheesh-laroia/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Type python, press enter. What happens?</title><link>http://www.pyvideo.org/video/3459/type-python-press-enter-what-happens</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk discusses how the Python interpreter starts, from the perspective of the operating system (OS). Together, we will see the ins &amp; outs of processes: fork(), exec(), stdin, and stdout.
+
+It focuses on OS concepts and requires no background knowledge, using analogies to Python data structures. (The talk does not discuss Python’s own initialization, such as site.py or global variables.)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Philip James</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3459/type-python-press-enter-what-happens</guid><enclosure url="https://www.youtube.com/watch?v=XVhSjZYwZJo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/XVhSjZYwZJo/hqdefault.jpg"></media:thumbnail></item><item><title>Getting comfortable with web security: A hands-on session</title><link>http://www.pyvideo.org/video/3475/getting-comfortable-with-web-security-a-hands-on</link><description>&lt;p&gt;Description&lt;/p&gt;
+Web application security can be an intimidating discipline, yet it can be of supreme importance for the people who use the things we build.
+
+In this tutorial, you'll learn about essential topics in web security, and you will gain hands-on practice identifying and leveraging vulnerabilities in a Python-based web app. For each issue, we will cover how your code can stay on the side of safety.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Jacky Chang,Nicole Zuckerman</dc:creator><pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3475/getting-comfortable-with-web-security-a-hands-on</guid><enclosure url="https://www.youtube.com/watch?v=f9XVNIeRxUo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/f9XVNIeRxUo/hqdefault.jpg"></media:thumbnail></item><item><title>Python packaging simplified, for end users, app developers</title><link>http://www.pyvideo.org/video/2631/python-packaging-simplified-for-end-users-app-d</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk covers the practical use of Python packaging tools. You'll see how to keep your system clean as an end user excited about installing a Python module from the web, the purpose of setup.py, how virtualenv makes life easier (and sometimes harder), what Ubuntu/Debian tools can offer, and how to make a complex app easier for new contributors to run. It is heavy on stories and recommendations.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2631/python-packaging-simplified-for-end-users-app-d</guid><enclosure url="http://www.youtube.com/watch?v=eLPiPHr6TVI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/eLPiPHr6TVI/hqdefault.jpg"></media:thumbnail></item><item><title>Turn Your Computer Into a Server</title><link>http://www.pyvideo.org/video/2590/turn-your-computer-into-a-server</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn how to let other people connect straight to your computer, so your Python web apps, email services, or anything else can be seen by the world. It starts simple, then explains when and how to use SimpleHTTPServer, ssh tunnels, Pagekite, and IPv6. You can use these tools for temporary connections, like sharing an in-progress demo, or for permanent connectivity for your home server.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Karen Rustad</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2590/turn-your-computer-into-a-server</guid><enclosure url="http://www.youtube.com/watch?v=HqEJxZzbdVM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/HqEJxZzbdVM/hqdefault.jpg"></media:thumbnail></item><item><title>Scaling community diversity outreach</title><link>http://www.pyvideo.org/video/1687/scaling-community-diversity-outreach</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In March '10, the Boston Python user group ran its first gender diversity outreach workshop. In the time since, the group has has moved the needle and inspired other communities to do the same.
+In this panel, you will hear communities like PyStar Philly, Railsbridge Boston, and the Chicago Python Workshop discuss their successes and difficulties with diversity-oriented outreach.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Dana Bauer,Daniel Choi,Jessica McKellar</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1687/scaling-community-diversity-outreach</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Scaling_community_diversity_ou.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Scaling_community_diversity_ou.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=SotJHYkwmVo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/SotJHYkwmVo/hqdefault.jpg"></media:thumbnail></item><item><title>Scrapy: it GETs the web</title><link>http://www.pyvideo.org/video/1685/scrapy-it-gets-the-web</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Scrapy lets you straightforwardly pull data out of the web. It helps you retry if the site is down, extract content from pages using CSS selectors (or XPath), and cover your code with tests. It downloads asynchronously with high performance. You program to a simple model, and it's good for web APIs, too.
+
+If you use requests, mechanize, or celery for HTTP, you should probably switch to scrapy.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1685/scrapy-it-gets-the-web</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Scrapy_it_GETs_the_web.mp4?Signature=I05cicl0PTykEOrBbgU716QB%2By8%3D&amp;Expires=1363650403&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Scrapy_it_GETs_the_web.mp4?Signature=I05cicl0PTykEOrBbgU716QB%2By8%3D&amp;Expires=1363650403&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-JzH8TcwqxI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-JzH8TcwqxI/hqdefault.jpg"></media:thumbnail></item><item><title>Going from web pages to web apps with Python</title><link>http://www.pyvideo.org/video/1663/going-from-web-pages-to-web-apps-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial teaches basic web development for people who have some experience writing HTML, CSS, and front-end Javascript, but have little or no experience building an end-to-end web application.
+
+Together we will build a basic social bookmarking application using Django!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Karen Rustad</dc:creator><pubDate>Wed, 13 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1663/going-from-web-pages-to-web-apps-with-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Going_from_web_pages_to_web_ap.mp4?Signature=%2BGr%2BTEHY6J98YdEEnB4fT%2FGfIYo%3D&amp;Expires=1363953573&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Going_from_web_pages_to_web_ap.mp4?Signature=%2BGr%2BTEHY6J98YdEEnB4fT%2FGfIYo%3D&amp;Expires=1363953573&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Z8FC8_2h5iM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/Z8FC8_2h5iM/hqdefault.jpg"></media:thumbnail></item><item><title>Diversity in practice: How the Boston Python User Group grew to 1700 people and over 15% women</title><link>http://www.pyvideo.org/video/719/diversity-in-practice-how-the-boston-python-user</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How do you bring more women into programming communities with long-term,
+measurable results? In this talk we'll analyze our successful effort, the
+Boston Python Workshop, which brought over 200 women into Boston's Python
+community this year. We'll talk about lessons learned running the workshop,
+the dramatic effect it has had on the local user group, and how to run a
+workshop in your city.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Jessica McKellar</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/719/diversity-in-practice-how-the-boston-python-user</guid><enclosure url="https://www.youtube.com/watch?v=QrITN6GZDu4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/QrITN6GZDu4/hqdefault.jpg"></media:thumbnail></item><item><title>Web scraping: Reliably and efficiently pull data from pages that don't expect it</title><link>http://www.pyvideo.org/video/609/web-scraping-reliably-and-efficiently-pull-data</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Exciting information is trapped in web pages and behind HTML forms. In this
+tutorial, you'll learn how to parse those pages and when to apply advanced
+techniques that make scraping faster and more stable. We'll cover parallel
+downloading with Twisted, gevent, and others; analyzing sites behind SSL;
+driving JavaScript-y sites with Selenium; and evading common anti-scraping
+techniques.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/609/web-scraping-reliably-and-efficiently-pull-data</guid><enclosure url="https://www.youtube.com/watch?v=52wxGESwQSA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/52wxGESwQSA/hqdefault.jpg"></media:thumbnail></item><item><title>Get new contributors (and diversity) through outreach</title><link>http://www.pyvideo.org/video/415/pycon-2011--get-new-contributors--and-diversity--</link><description>&lt;p&gt;Description&lt;/p&gt;
+Get new contributors (and diversity) through outreach
+
+Presented by Asheesh Laroia
+
+Groups like the Fedora Design Team, Dreamwidth, SF Ruby, and OpenHatch have
+discovered the power of outreach to bring in new contributors. In the past
+year, SF Ruby grew in numbers as well as in diversity, moving from 3% women to
+18% women. Because most projects need ongoing help, this talk discusses
+effective strategies for bringing in contributors who stick around for the
+long haul.
+
+Abstract
+
+This talk is targeted at anyone involved in an open source project who wants
+to find more contributors.
+
+Programs like Google Summer of Code often provide excited students who
+disappear after a summer's work. Meanwhile, request for help emails on
+development lists are typically met with silence. Hackathons create a flurry
+of commits, but then we never hear from the participants again. Expanding your
+team is possible, and it requires care in terms of outreach, expectation
+management, and mentorship.
+
+We will discuss three major forms of outreach:
+
+  * One-on-one check-ins with participants, 
+  * Periodic drives to bring in new contributors, and 
+  * In-person teaching events. 
+Each one has "do"s and "don't"s associated with it. This talk digests the
+experience of effective outreach into practical strategies that you can re-use
+within your project.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/415/pycon-2011--get-new-contributors--and-diversity--</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/415_get-new-contributors-and-diversity-through-outreach.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011GetNewContributorsAndDiversityThroughOutreach225.png"></media:thumbnail></item><item><title>Scrape the Web: Strategies for programming websites that don't expect it</title><link>http://www.pyvideo.org/video/256/pycon-2010--scrape-the-web--strategies-for-progra</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We'll discuss the basics of web scraping, and then dive into the details of
+different methods and where they are most applicable. You'll leave with an
+understanding of when to apply different tools, and learn about automating a
+full web browser, a "heavy hammer" that I picked up at a project for the
+Electronic Frontier Foundation.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Scrape the Web: Strategies for programming websites that don't expect it
+
+  
+Presented by Asheesh Laroia
+
+  
+Do you find yourself faced with websites that have data you need to extract?
+Would your life be simpler if you could programmatically input data into web
+applications, even those tuned to resist interaction by bots?
+
+  
+Year by year, the web is becoming a stronger force. Learn how to get the best
+of it.
+
+  
+We'll discuss the basics of web scraping, and then dive into the details of
+different methods and where they are most applicable. You'll leave with an
+understanding of when to apply different tools, and learn about automating a
+full web browser, a "heavy hammer" that I picked up at a project for the
+Electronic Frontier Foundation.
+
+  
+Atendees should bring a laptop, if possible, to try the examples we discuss
+and optionally take notes. Code samples will be made available after class
+with no restrictions. Intended Audience
+
+  
+Intermediate (or better) Python programmers, probably without extensive web
+testing experience
+
+  
+Class Outline
+
+  * My motto: "The website is the API." 
+  * Choosing a parser: BeautifulSoup, lxml, HTMLParse, and html5lib. 
+  * Extracting information, even in the face of bad HTML: Regular expressions, BeautifulSoup, SAX, and XPath. 
+  * Automatic template reverse-engineering tools. 
+  * Submitting to forms. 
+  * Playing with XML-RPC 
+  * DO NOT BECOME AN EVIL COMMENT SPAMMER. 
+  * Countermeasures, and circumventing them: 
+    * IP address limits 
+    * Hidden form fields 
+    * User-agent detection 
+    * JavaScript 
+    * CAPTCHAs 
+  * Plenty of full source code to working examples: 
+    * Submitting to forms for text-to-speech. 
+    * Downloading music from web stores. 
+    * Automating Firefox with Selenium RC to navigate a pure-JavaScript service. 
+  * Q&amp;A; and workshopping 
+  * Use your power for good, not evil. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/256/pycon-2010--scrape-the-web--strategies-for-progra</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/256_scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it.ogv" length="851529869" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/256_scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it.ogv" fileSize="851529869" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/256_scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ScrapeTheWebStrategiesForProgrammingWebsitesTha613-141.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tal Liron</title><link>http://www.pyvideo.org/speaker/836/tal-liron/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/836/tal-liron/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 10 Jan 2013 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Genie</title><link>http://www.pyvideo.org/video/1617/genie</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will introduce Genie, a new programming language with a Python-
+inspired syntax that compiles into binary executables and libraries. Behind
+the scenes, Genie is a dialect of Vala, and a full participant in the GObject
+universe. I will cover the language basics, with an eye to comparing them with
+Python, and guide you around some potential pitfalls. This is the second in a
+series of talks I am giving on the topic of Python/GObject integration.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tal Liron</dc:creator><pubDate>Thu, 10 Jan 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1617/genie</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_jan_2013/Genie.mp4?Signature=AukpfsoPq2S%2BLcm0AjlR8n0yN5Q%3D&amp;Expires=1357945280&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_jan_2013/Genie.mp4?Signature=AukpfsoPq2S%2BLcm0AjlR8n0yN5Q%3D&amp;Expires=1357945280&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=dFyD8--zs84" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/dFyD8--zs84/hqdefault.jpg"></media:thumbnail></item></channel></rss>

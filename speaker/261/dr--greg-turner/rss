@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Greg Turner</title><link>http://www.pyvideo.org/speaker/261/dr--greg-turner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/261/dr--greg-turner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:34 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: GLAMkit: a harder, better, faster, stronger way to write reusable Django code</title><link>http://www.pyvideo.org/video/472/pyconau-2010--glamkit--a-harder--better--faster--</link><description>&lt;p&gt;Description&lt;/p&gt;
+GLAMkit: a harder, better, faster, stronger way to write reusable Django code
+
+Presented by Dr. Greg Turner (the Interaction Consortium)
+
+As part of our web development work for Galleries, Libraries, Archives and
+Museums (the so-called GLAM sector), we have open-sourced the common tools and
+design patterns that we have developed as a web framework called GLAMkit
+([http://glamkit.org/](http://glamkit.org/)).
+
+GLAMkit is based on Django, and is inspired by its design philosophy of
+several apps which implement specific features. However, by looking at the
+successes and challenges faced by other CMSes and collections of apps such as
+Pinax, we have taken the philosophy a stage futher.
+
+Rather than being a collection of Django apps, we have constructed GLAMkit as
+a collection of optional and reusable Django 'toolkits' for implementing
+common features. We leave the implementation details - the things that Django
+already does brilliantly - to the application developers themselves.
+
+In this talk, we will present the history of GLAMkit's development, with
+particular focus on how our approach to reusability came about, and some
+examples of that approach.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Greg Turner</dc:creator><guid>http://www.pyvideo.org/video/472/pyconau-2010--glamkit--a-harder--better--faster--</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/472_pyconau-2010-glamkit-a-harder-better-faster-stronger-way-to-write-reusable-django-code.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-GLAMkitABetterFasterStrongerWayToWriteReusableDjangoCo180.png"></media:thumbnail></item></channel></rss>

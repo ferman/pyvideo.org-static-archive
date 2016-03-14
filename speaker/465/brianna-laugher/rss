@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brianna Laugher</title><link>http://www.pyvideo.org/speaker/465/brianna-laugher/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/465/brianna-laugher/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 07 Jul 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Dynamic visualisation in the IPython Notebook</title><link>http://www.pyvideo.org/video/2211/dynamic-visualisation-in-the-ipython-notebook</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The IPython Notebook is a powerful web app for exploring ideas and data sets with Python. It has excellent integration with Matplotlib, giving the user highly customisable static plots with ease. But for larger data sets, a static plot may not be ideal - the ability to pan, zoom, choose dynamic layers and sample the data at particular points would be nice. This talk will demonstrate just how easy it is to integrate a Web Map Service/client such as Pydap/Leaflet.js into the IPython Notebook.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brianna Laugher</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2211/dynamic-visualisation-in-the-ipython-notebook</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Dynamic_visualisation_in_the_I.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Dynamic_visualisation_in_the_I.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=YJqBGi48RAM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/YJqBGi48RAM/hqdefault.jpg"></media:thumbnail></item><item><title>Funcargs and other fun with pytest</title><link>http://www.pyvideo.org/video/1632/funcargs-and-other-fun-with-pytest</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Pytest is a mature and comprehensive testing suite for Python projects, but it
+can be a little intimidating for newcomers. Where do these mysterious funcargs
+come from, how do parametrised tests work, and where are my xUnit-style setUp
+and tearDown methods?
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Pytest is a mature and comprehensive testing suite for Python projects, but it
+can be a little intimidating for newcomers. Where do these mysterious funcargs
+come from, how do parametrised tests work, and where are my xUnit-style setUp
+and tearDown methods?
+
+Pytest lives by "convention over configuration" - which is great once you know
+what the conventions are. This talk will look at real examples of pytest in
+use, emphasising the features that differentiate it from nose.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brianna Laugher</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1632/funcargs-and-other-fun-with-pytest</guid><enclosure url="http://www.youtube.com/watch?v=DTNejE9EraI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/DTNejE9EraI/hqdefault.jpg"></media:thumbnail></item><item><title>Zookeepr: Home-grown conference management software</title><link>http://www.pyvideo.org/video/996/zookeepr-home-grown-conference-management-softwa</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Zookeepr [http://zookeepr.org/] is a comprehensive web-based conference
+management system, written in Python and built on Pylons. It has an unusual
+development history: custom created for the annual Linux.conf.au conference,
+there are yearly spikes in event-focused feature development, but relatively
+little of the ongoing development typically seen in open source projects.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brianna Laugher</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/996/zookeepr-home-grown-conference-management-softwa</guid><enclosure url="http://www.youtube.com/watch?v=AwT6dEn3FMI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/AwT6dEn3FMI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

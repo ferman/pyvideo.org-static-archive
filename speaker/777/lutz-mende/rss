@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lutz Mende</title><link>http://www.pyvideo.org/speaker/777/lutz-mende/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/777/lutz-mende/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>"The pythonic way" für IT Projekte</title><link>http://www.pyvideo.org/video/1457/the-pythonic-way-fur-it-projekte</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+"Potentially shippable increment of product in 30 days" -- dies ist die Vision
+von Scrum bzw. das grundsätzliche Ziel von agiler Softwareentwicklung bzw.
+Vorgehen in IT - Projekten.
+
+Dieses Ziel fordert, dass innerhalb eines Sprints , entworfen, implementiert,
+
+getestet, freigegeben und eine Distribution erstellt und installiert wird.
+
+Im Rahmen des Vortrags wird behandelt, wie durch den Einsatz einfacher Python
+-
+
+Macros innerhalb des Projekt- und Issue-Trackingsystems TRAC methodisch gute
+
+(für Entwickler und Kunden verständliche) Userstories, Usecases und Testcases
+
+entstehen. Es wird gezeigt, wie diese erzeugt, verwaltet, angewandt und
+durchgeführt
+
+werden und damit allen Projektbeteiligten ermöglicht wird, agile
+
+Paradigmen und Vorgehensweisen einfach und effizient anzuwenden.
+
+Die vorgestellten Vorgehensweisen wurden von den Autoren, mehrfach erfolgreich
+
+in großen Industrieprojekten als auch in kleinen internen Softwareprojekten
+
+angewendet.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lutz Mende</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1457/the-pythonic-way-fur-it-projekte</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Pythonic_way_Projekte.mp4?Signature=ylbnofmPNyzRhSJrbI%2Fx8elLKWY%3D&amp;Expires=1351858650&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Pythonic_way_Projekte.mp4?Signature=ylbnofmPNyzRhSJrbI%2Fx8elLKWY%3D&amp;Expires=1351858650&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ny10aTjTB_M" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ny10aTjTB_M/hqdefault.jpg"></media:thumbnail></item></channel></rss>

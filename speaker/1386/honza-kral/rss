@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Honza Král</title><link>http://www.pyvideo.org/speaker/1386/honza-kral/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1386/honza-kral/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 06 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Make your logs work for you</title><link>http://www.pyvideo.org/video/3993/make-your-logs-work-for-you</link><description>&lt;p&gt;Description&lt;/p&gt;
+Any modern business generates a lot of logs - from customer transactions all the way to the technical logs of your servers. Many times these logs are thrown away or just sit uselessly somewhere on disk.
+
+I would like to show you how you can make sense of all that data, how to collect and clean them, store them in a scalable fashion and, finally, explore and search across various systems.
+
+Once we have all the data in one place I will go over some examples of more advanced analysis (beyond simple, though very useful, counting of things) like finding patterns and trends in your data.
+
+We will use Elasticsearch, Logstash and Kibana (aka the ELK stack) to achieve that. All tools presented are open source and examples will be using real life use cases.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Honza Král</dc:creator><pubDate>Thu, 06 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3993/make-your-logs-work-for-you</guid><enclosure url="https://www.youtube.com/watch?v=i3rH5cU-Uz4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/i3rH5cU-Uz4/hqdefault.jpg"></media:thumbnail></item><item><title>Don't be afraid to search</title><link>http://www.pyvideo.org/video/4036/dont-be-afraid-to-search</link><description>&lt;p&gt;Description&lt;/p&gt;
+Creating a good search experience for your website is perceived as hard when it doesn't have to be so.
+
+Starting with what is a search engine and how it works we will introduce the tools and techniques to help you design a search functionality that will make your users happy.
+
+From tips on how to structure your data and tune your settings and queries to improve relevancy to features like faceted navigation and search-as-you-type autocomplete.
+
+All examples will be shown using Elasticsearch and Django, though it should be applicable to other technologies as well.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Honza Král</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4036/dont-be-afraid-to-search</guid><enclosure url="https://www.youtube.com/watch?v=1KHM7WvNeL4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/1KHM7WvNeL4/hqdefault.jpg"></media:thumbnail></item><item><title>Make sense of your (big) data using Elasticsearch</title><link>http://www.pyvideo.org/video/3056/honza-kral-make-sense-of-your-big-data-using</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I would like to show you a few real-life use-cases where Elasticsearch can help you make sense of your data. We will start with the most basic use case of searching your unstructured data and move on to more advanced topics such as faceting, aggregations and structured search. I would like to demonstrate that the very same tool and dataset can be used for real-time analytics as well as the basis for your more advanced data processing jobs. All in a distributed environment capable of handling terabyte-sized datasets. All examples will be shown with real data and python code demoing the new libraries we have been working on to make this process easier.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Honza Král</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3056/honza-kral-make-sense-of-your-big-data-using</guid><enclosure url="http://video.ep14.c3voc.de/20235.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://video.ep14.c3voc.de/20235.mp4" mime_type="video/mp4"></media:content><media:content url="http://www.youtube.com/watch?v=sCktucuv5Yo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/sCktucuv5Yo/hqdefault.jpg"></media:thumbnail></item><item><title>Lessons learned from building Elasticsearch client</title><link>http://www.pyvideo.org/video/2955/lessons-learned-from-building-elasticsearch-clien</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Lessons learned when building a client for a fully distributed system and trying to minimize context-switching pains when using multiple languages.
+&lt;p&gt;Description&lt;/p&gt;
+Last year we decided to create official clients for the most popular languages, Python included.
+
+Some of the goals were:
+
+* support the complete API of elasticsearch including all parameters
+* provide a 1-to-1 mapping to the rest API to avoid having opinions and provide a familiar interface to our users consistent across languages and evironments
+* degrade gracefully when the es cluster is changing (nodes dropping out or being added)
+* flexibility - allow users to customize and extend the clients easily to suit their, potentially unique, environment
+
+In this talk I would like to take you through the process of designing said client, the challenges we faced and the solutions we picked. Amongst other things I will touch on the difference between languages (and their respective communities), the architecture of the client itself, mapping out the API and making sure it stays up to date and integrating with existing tools.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Honza Král</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2955/lessons-learned-from-building-elasticsearch-clien</guid><enclosure url="http://www.youtube.com/watch?v=rPpiOQNNm8U" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/rPpiOQNNm8U/hqdefault.jpg"></media:thumbnail></item></channel></rss>

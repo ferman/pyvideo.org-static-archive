@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Greg Lindstrom</title><link>http://www.pyvideo.org/speaker/293/greg-lindstrom/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/293/greg-lindstrom/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Programming a Simple Game in Python</title><link>http://www.pyvideo.org/video/551/programming-a-simple-game-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+If you missed Greg Lindstrom's first talk on programming a simple game in
+Python, check out this one. This time, you'll be building a "Wheel of
+Fortune"-style game.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Greg Lindstrom</dc:creator><guid>http://www.pyvideo.org/video/551/programming-a-simple-game-in-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/551_programming-a-simple-game-in-python.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-ProgrammingASimpleGameInPython300-773.jpg"></media:thumbnail></item><item><title>PyOhio 2010: So You Just Took "Python 101" -- What's Next?</title><link>http://www.pyvideo.org/video/511/pyohio-2010--so-you-just-took--quot-python-101-qu</link><description>&lt;p&gt;Description&lt;/p&gt;
+So You Just Took "Python 101" -- What's Next?
+
+Presented by Greg Lindstrom
+
+In this class we will develop, step-by-step and as a class, two simple games,
+Hi/Low and Hangman. We will start from scratch and walk through each step of
+each game discussing decision making, loops ("for", "while" and "if"), data
+structures (tuple, list and dictionary) and looking at different ways to
+"get-r-done".
+
+You should know a little about Python but don't have to know anything else
+about programming (you should know how to edit and run a Python program on
+your Operating System). Bring a computer with Python installed if you want to
+play along.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Greg Lindstrom</dc:creator><guid>http://www.pyvideo.org/video/511/pyohio-2010--so-you-just-took--quot-python-101-qu</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/511_pyohio-2010-so-you-just-took-python-101-what-s-next.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-SoYouJustTookPython101WhatsNext456.png"></media:thumbnail></item><item><title>Simple Games for Python Beginners</title><link>http://www.pyvideo.org/video/3696/simple-games-for-python-beginners</link><description>&lt;p&gt;Description&lt;/p&gt;
+This class is designed for enthusiasts just starting out with Python.  We will design and build a simple game and, along the way, learn about various statements and data structures in Python.  If you can write and run "hello, world!" but don't know what to do next, this class is for you!  Note that this is not a class on pyGame.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Greg Lindstrom</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3696/simple-games-for-python-beginners</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3696_Simple_Games_for_Python_Beginners.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3696_Simple_Games_for_Python_Beginners.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/3b4D4R11lEs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/3b4D4R11lEs/hqdefault.jpg"></media:thumbnail></item><item><title>Simple Games for Beginners</title><link>http://www.pyvideo.org/video/2263/simple-games-for-beginners</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We will build one or two simple games.  Along the way we will talk about program structure, loops, conditionals, and other concepts you will use in larger programs.  If you are new to programming, this class is for you!  Bring your laptop with Python 2 or 3 installed and play along as we build games together.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Greg Lindstrom</dc:creator><pubDate>Sun, 28 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2263/simple-games-for-beginners</guid><enclosure url="https://www.youtube.com/watch?v=cYXUzr_-fU8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/cYXUzr_-fU8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

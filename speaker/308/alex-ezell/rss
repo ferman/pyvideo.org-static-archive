@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alex Ezell</title><link>http://www.pyvideo.org/speaker/308/alex-ezell/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/308/alex-ezell/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:24:56 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: PHP to Python with No Regrets</title><link>http://www.pyvideo.org/video/544/pyohio-2011--php-to-python-with-no-regrets</link><description>&lt;p&gt;Description&lt;/p&gt;
+PHP to Python with No Regrets
+
+Presented by Alex Ezell
+
+At Emma, we are transforming an eight year old PHP codebase into an API-driven
+service written in Python. Facing down the triple threat of bad data, encoding
+issues, and a generation of code cruft, we've begun to see the light of day.
+Come hear how we did it, where we fell down and where we're succeeding.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Ezell</dc:creator><guid>http://www.pyvideo.org/video/544/pyohio-2011--php-to-python-with-no-regrets</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/544_pyohio-2011-php-to-python-with-no-regrets.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-PHPToPythonWithNoRegrets504.png"></media:thumbnail></item></channel></rss>

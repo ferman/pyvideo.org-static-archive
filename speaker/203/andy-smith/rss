@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andy Smith</title><link>http://www.pyvideo.org/speaker/203/andy-smith/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/203/andy-smith/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>An Open success for the cloud: OpenStack</title><link>http://www.pyvideo.org/video/393/pycon-2011--an-open-success-for-the-cloud--openst</link><description>&lt;p&gt;Description&lt;/p&gt;
+An Open success for the cloud: OpenStack
+
+Presented by Andy Smith
+
+OpenStack is a collection of open source technologies written entirely in
+Python, delivering a massively scalable cloud operating system. OpenStack is
+currently developing two interrelated projects: OpenStack Compute and
+OpenStack Object Storage. OpenStack Compute is software to provision and
+manage large groups of virtual private servers, and OpenStack Object Storage
+is software for creating redundant, scalable object storage using clusters of
+commodity servers to store terabytes or even petabytes of data.
+
+This talk will go into details about the success of OpenStack with Python,
+limitations and how overall, Python was the right technology choice.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Smith</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/393/pycon-2011--an-open-success-for-the-cloud--openst</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/393_an-open-success-for-the-cloud-openstack.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011AnOpenSuccessForTheCloudOpenStack791.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Victor Stinner</title><link>http://www.pyvideo.org/speaker/180/victor-stinner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/180/victor-stinner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Apr 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Track memory leaks in Python</title><link>http://www.pyvideo.org/video/2698/track-memory-leaks-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Memory leaks in Python cannot be analyzed with traditional tools because Python uses reference counters. I will present tools specific to Python to help you to localize your memory leaks.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Victor Stinner</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2698/track-memory-leaks-in-python</guid><enclosure url="http://www.youtube.com/watch?v=umQOVzFDzTo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/umQOVzFDzTo/hqdefault.jpg"></media:thumbnail></item><item><title>Traquer les fuites mémoire en Python</title><link>http://www.pyvideo.org/video/3751/traquer-les-fuites-memoire-en-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Les fuites mémoire en Python ne peuvent pas être analysées avec les outils traditionnels car Python repose sur les compteurs de référence. Je vais présenter des outils spécifiques à Python pour vous aider à localiser vos fuites mémoires.
+
+- Consommation globale du processus (mémoire RSS)
+- Comprendre les cycles de référence
+- Générer une image représentant les liens entre les objets
+- Utilisation de gc.get_objects() et calcul manuel de la taille des objets
+- Tracer les allocations mémoires à leur création
+- PEP 445: Add new APIs to customize Python memory allocators implementée dans Python 3.4
+- Projet pytracemalloc</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Victor Stinner</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3751/traquer-les-fuites-memoire-en-python</guid><enclosure url="https://www.youtube.com/watch?v=oQ17KDBr24I" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/oQ17KDBr24I/maxresdefault.jpg"></media:thumbnail></item><item><title>Status of Unicode in Python 3</title><link>http://www.pyvideo.org/video/364/pycon-2011--status-of-unicode-in-python-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Introduced in Python 2.0, unicode became the default string type in Python
+3.0. It took 8 years to switch to unicode, and since Python 3.0, a lot of bugs
+has been fixed. The switch to unicode opened many questions. Should Python
+support both bytes and characters for filenames? What to do with undecodable
+bytes? etc.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The talk will focus on the recent issues fixed in Python 3.1 and 3.2:
+
+  * Use the PEP 383 (error handler to store undecodable bytes) everywhere 
+  * Encoding of the command line arguments: utf-8 on Mac OS X, locale encoding on UNIX/BSD, unicode on Windows 
+  * Environment variables: creation of os.environb 
+  * Filenames: huge work to support the PEP 383 everywhere, creation of os.fsencode() and os.fsdecode() 
+  * Python source code encoding: use tokenize.detect_encoding() instead of the locale encoding 
+  * some library examples: email, ftp, ... 
+  * etc. 
+
+The talk will present not only the changes in Python, but also in the C API.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Victor Stinner</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/364/pycon-2011--status-of-unicode-in-python-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/364_status-of-unicode-in-python-3.ogv" length="173547130" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/364_status-of-unicode-in-python-3.ogv" fileSize="173547130" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/364_status-of-unicode-in-python-3.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011StatusOfUnicodeInPython3393.png"></media:thumbnail></item></channel></rss>

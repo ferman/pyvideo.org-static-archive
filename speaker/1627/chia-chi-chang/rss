@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chia-Chi Chang</title><link>http://www.pyvideo.org/speaker/1627/chia-chi-chang/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1627/chia-chi-chang/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 26 Jun 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Hacking Models with Python</title><link>http://www.pyvideo.org/video/3264/hacking-models-with-python-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+Although there are several data mining tools in python, you can use them to
+deal with almost every kind of data (numeric, text, image, audio, ...) you met.
+Besides, there are also lots of modeling tools in python, you can use them to
+build the FIRST LIGHTING MODEL to solve the problems.
+
+However, if you want to solve problems deeply, most of time, you need to write
+down the customerized models and solve them by yourself. Instead of using fast
+modeling tools, you need to know more about the essential things in modeling:
+
+- What is a model ? 
+- How models solve your problems ?
+- What is the connection between models and data ?
+- What is the important data ? important model ?
+
+I deeply believe ... The more the connection between models and data you know, the deeper the problem you can solve.
+
+Outline:
+What is Modeling ?  
+Data, Model, Evaluators  
+Direct Problem: Data + Evaluators → Model  
+Inverse Problem: Data + Models → Evaluator  
+Hacking Models with Metric Learning  
+Data as a Model &amp; Model as a Data  
+Duality between Dimension Reduction and Clustering  
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chia-Chi Chang</dc:creator><pubDate>Thu, 26 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3264/hacking-models-with-python-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=PznPp-BbwyU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/PznPp-BbwyU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

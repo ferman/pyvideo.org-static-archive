@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jimmy Lai</title><link>http://www.pyvideo.org/speaker/1616/jimmy-lai/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1616/jimmy-lai/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 27 Jun 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Building a Knowledge Graph - the new search engine technology</title><link>http://www.pyvideo.org/video/3244/building-a-knowledge-graph-the-new-search-engin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Knowledge graph is the new search engine technology. All the leading search engine exploit knowledge graph to provide more accurate result to user, e.g. Bing, Google, Yahoo.
+
+In this talk, the speaker will demonstrate how to build a searchable knowledge graph from scratch. Lots of python tools will be applied during the process. The process includes data wrangling, graph entity indexing, full text search and web visualization. The data sources are from dbpedia.org. Enormous amount of entities are collected and stored to graph database for relationship querying and full text search engine for searching. In the web visualization, a searchable interface and visualized result demonstrate the knowledgable information to customer.
+
+
+About the speaker
+
+Jimmy Lai is a Python fan, and his interested topics are natural language processing and machine learning. He specializes in combining machine learning algorithm and cloud computing technology to do big data analysis, building application services.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jimmy Lai</dc:creator><pubDate>Fri, 27 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3244/building-a-knowledge-graph-the-new-search-engin</guid><enclosure url="https://www.youtube.com/watch?v=3HB8vTbPJcI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/3HB8vTbPJcI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

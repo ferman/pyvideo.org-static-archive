@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Russell Keith-Magee</title><link>http://www.pyvideo.org/speaker/257/dr--russell-keith-magee/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/257/dr--russell-keith-magee/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:26:25 -0000</lastBuildDate><ttl>500</ttl><item><title>DSF Announcements and Q&amp;A</title><link>http://www.pyvideo.org/video/63/djangocon-2010--dsf-announcements-and-q-amp-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+DSF Announcements and Q &amp; A
+
+Presented by Russell Keith-Magee
+
+The Django software foundation is the entity which hold the IP for django and
+guides efforts to develop the community around Django. In this session several
+members of the DSF will be announcing some changes at the DSF and will be
+available for a general Q&amp;A.;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/63/djangocon-2010--dsf-announcements-and-q-amp-a</guid><enclosure url="http://blip.tv/file/get/Robertlofthouse-DSFAnnouncementsAndQA629.ogv" length="200339965" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DSFAnnouncementsAndQA629-585.jpg"></media:thumbnail></item><item><title>First steps in performance tuning</title><link>http://www.pyvideo.org/video/57/djangocon-2010--first-steps-in-performance-tuning</link><description>&lt;p&gt;Description&lt;/p&gt;
+First steps in performance tuning
+
+Presented by Russell Keith-Magee
+
+So you've built your first Django website. You've tested it, you've released
+it, you've got a few customers... and a few more... and a few more... and now
+you're having performance problems. What do you do? This talk will look at
+some performance problems you may experience, and show some simple (and
+creative) ways to squeeze the most out of your server hardware.
+
+Abstract
+
+The talk is especially aimed at web developers that haven't got a background
+in computing, but nonetheless have fallen into a web development role. Topics
+will include:
+
+  * How to work out that you have a problem 
+  * Getting computation out of the request/response loop 
+  * Caching -- when, how, and problems that caching introduces 
+  * Setting up a webserver to avoid deadlocks 
+  * Likely causes (and solutions) of database bottlenecks 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/57/djangocon-2010--first-steps-in-performance-tuning</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/57_first-steps-in-performance-tuning.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-FirstStepsInPerformanceTuning779-385.jpg"></media:thumbnail></item><item><title>No! Bad Pony!</title><link>http://www.pyvideo.org/video/3/no--bad-pony</link><description>&lt;p&gt;Description&lt;/p&gt;
+No! Bad Pony!
+
+  
+Presented by Russell Keith-Magee
+
+  
+Talks about ponies, genesis of ponies, the history of the pony, magical
+powers, and everything else you want to know about ponies. Talks about how
+django feature proposals are handled.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/3/no--bad-pony</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/3_no-bad-pony.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-NoBadPony160.png"></media:thumbnail></item><item><title>PyConAU 2010: What's new in Django 1.2</title><link>http://www.pyvideo.org/video/465/pyconau-2010--what--39-s-new-in-django-1-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+What's new in Django 1.2
+
+Presented by Dr. Russell Keith-Magee (Django Project)
+
+Django 1.2 added a number of major, long anticipated features to Django. This
+talk will give an overview of these new features (both large and small), as
+well as giving a look into what the future may hold for Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/465/pyconau-2010--what--39-s-new-in-django-1-2</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/465_pyconau-2010-what-s-new-in-django-1-2.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-WhatsNewInDjango12332.png"></media:thumbnail></item><item><title>So you want to be a core developer?</title><link>http://www.pyvideo.org/video/62/djangocon-2010--so-you-want-to-be-a-core-develope</link><description>&lt;p&gt;Description&lt;/p&gt;
+So you want to be a core developer?
+
+Presented by Russell Keith-Magee
+
+The most important part of Django is its community of contributors -- without
+contributors, Django would never improve. However, as a newcomer to Django,
+the prospect of contributing may be somewhat daunting. This presentation will
+show you how to make the transition from user to contributor -- what to do,
+how to do it, and some guidelines on how to do the job well.
+
+The aim of this presentation is to explain how we do things in the core, and
+how to work with us to get the job done. It will cover dealing with Trac and
+the triage lifecycle, how to find tickets to triage, other non-obvious ways to
+contribute, and cover some basic design philosophies.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/62/djangocon-2010--so-you-want-to-be-a-core-develope</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/62_so-you-want-to-be-a-core-developer.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-SoYouWantToBeACoreDeveloper652-390.jpg"></media:thumbnail></item><item><title>Sprints Kickoff</title><link>http://www.pyvideo.org/video/37/djangocon-2010--sprints-kickoff</link><description>&lt;p&gt;Description&lt;/p&gt;
+Sprints Kickoff
+
+Presented by Russell Keith-Magee
+
+This is the sprints kickoff where Russell explains how sprints work and what
+to expect.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/37/djangocon-2010--sprints-kickoff</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/37_sprints-kickoff.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-SprintsKickoff627-565.jpg"></media:thumbnail></item><item><title>State of the DSF Keynote</title><link>http://www.pyvideo.org/video/99/djangocon-2011--state-of-the-dsf-keynote</link><description>&lt;p&gt;Description&lt;/p&gt;
+State of the DSF Keynote
+
+Presented by Russell Keith-Magee
+
+For this keynote Russ will be providing some background on what the DSF is,
+what it has been up to recently, and what it plans to do over the next year.
+If you're interested in contributing to the Django community, this will be a
+great way to find out what opportunities are out there and to find out how the
+DSF can help.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/99/djangocon-2011--state-of-the-dsf-keynote</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/99_state-of-the-dsf-keynote.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-StateOfTheDSFKeynote607-161.jpg"></media:thumbnail></item></channel></rss>

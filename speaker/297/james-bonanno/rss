@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of James Bonanno</title><link>http://www.pyvideo.org/speaker/297/james-bonanno/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/297/james-bonanno/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:52 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: GUI Tools</title><link>http://www.pyvideo.org/video/518/pyohio-2010--gui-tools</link><description>&lt;p&gt;Description&lt;/p&gt;
+GUI Tools
+
+Presented by James Bonanno
+
+There are several Graphical User Interface frameworks available for Python. In
+this talk, perpahs the two most popular, wxPython and PyQt, are examined. The
+talk will focus on major differences, tools, and a specific example done both
+in wxPython and PyQt, that is a non-trivial production grade example.
+
+[VIDEO HAS ISSUES: sound is inaudible for the first minute]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bonanno</dc:creator><guid>http://www.pyvideo.org/video/518/pyohio-2010--gui-tools</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/518_pyohio-2010-gui-tools.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-GUITools853.png"></media:thumbnail></item><item><title>PyOhio 2010: Project Management 101</title><link>http://www.pyvideo.org/video/516/pyohio-2010--project-management-101</link><description>&lt;p&gt;Description&lt;/p&gt;
+Project Management 101
+
+Presented by James Bonanno
+
+Python is employed for a general purpose project management tool. Contrasted
+to tools like Sphinx which focus on documenting a software project, this
+framework is intended for general purpose project management, with a specific
+application into engineering projects. Intermediate uses of Python are
+employed, as well as the Web.py framework, Sphinx documentation tool and the
+Mako template system. The author has used this tool to create internal
+commercial applications of the project management software.
+
+[VIDEO HAS ISSUES: Technical issues at beginning (first talk of conference,
+gear wasn't quite setup); missing initial section of talk, then missing 20
+seconds about 3 minutes in.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bonanno</dc:creator><guid>http://www.pyvideo.org/video/516/pyohio-2010--project-management-101</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/516_pyohio-2010-project-management-101.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ProjectManagement101547.png"></media:thumbnail></item><item><title>PyOhio 2011: Commercial GUI Development with Python &amp;amp; PySide</title><link>http://www.pyvideo.org/video/536/pyohio-2011--commercial-gui-development-with-pyth</link><description>&lt;p&gt;Description&lt;/p&gt;
+Commercial GUI Development with Python and PySide
+
+Presented by James Bonanno
+
+Commercial Desktop GUIs need to be secure, flexible, reliable, and easy to
+maintain. A rapid application development framework, called PyRad, is
+introduced, that uses PySide and Cython. Together with Python, this
+development framework has allowed the authors to create numerous GUIs in a
+short time period, with a consistent look and feel.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bonanno</dc:creator><guid>http://www.pyvideo.org/video/536/pyohio-2011--commercial-gui-development-with-pyth</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/536_pyohio-2011-commercial-gui-development-with-python-amp-pyside.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-CommercialGUIDevelopmentWithPythonPySide484.png"></media:thumbnail></item></channel></rss>

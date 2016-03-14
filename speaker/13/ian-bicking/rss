@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ian Bicking</title><link>http://www.pyvideo.org/speaker/13/ian-bicking/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/13/ian-bicking/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>A socio-political analysis of open source community</title><link>http://www.pyvideo.org/video/22/djangocon-2009--a-socio-political-analysis-of-ope</link><description>&lt;p&gt;Description&lt;/p&gt;
+DjangoCon presents A socio-political analysis of open source community
+
+Presented by Ian Bicking
+
+Covers why are we doing what we're doing and why it matters in terms of Open
+Source and the movement. Focuses on the Django community, what's being
+produced and finding meaning in that.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Bicking</dc:creator><guid>http://www.pyvideo.org/video/22/djangocon-2009--a-socio-political-analysis-of-ope</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/22_a-socio-political-analysis-of-open-source-community.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ASociopoliticalAnalysisOfOpenSourceCommunity386.png"></media:thumbnail></item><item><title>Javascript for people who know Python</title><link>http://www.pyvideo.org/video/383/pycon-2011--javascript-for-people-who-know-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Javascript for people who know Python
+
+Presented by Ian Bicking
+
+Javascript as a diff on Python.
+
+Abstract
+
+You know Python. You should know Javascript. The two aren't so different, but
+this talk will explain exactly how they are different -- lists, dicts,
+objects, functions, loops and all the other details of Javascript described in
+terms of Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Bicking</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/383/pycon-2011--javascript-for-people-who-know-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/383_javascript-for-people-who-know-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011JavascriptForPeopleWhoKnowPython724.png"></media:thumbnail></item></channel></rss>

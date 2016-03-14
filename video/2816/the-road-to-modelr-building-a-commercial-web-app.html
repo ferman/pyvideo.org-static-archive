@@ -1,0 +1,303 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - The Road to Modelr: Building a Commercial Web Application on an Open Source Foun...</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="Lessons learned along the bumpy road from Python noob to an open source geophysics web application, with a commercial web service front end.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="the-road-to-modelr-building-a-commercial-web-app.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="the-road-to-modelr-building-a-commercial-web-app.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=TgOk_3JEcwY"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">The Road to Modelr: Building a Commercial Web Application on an Open Source Foundation</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/TgOk_3JEcwY/hqdefault.jpg"/>
+      <link property="sameAs" href="the-road-to-modelr-building-a-commercial-web-app.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Lessons learned along the bumpy road from Python noob to an open source geophysics web application, with a commercial web service front end.</p></div>
+        <meta property="caption" content="Lessons learned along the bumpy road from Python noob to an open source geophysics web application, with a commercial web service front end."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Software for applied geoscientists in the petroleum industry is usually expensive, hard to use, Windows or Linux only, and slow to evolve. Furthermore, it is almost always stridently proprietary and therefore black-box. Open source software is rare. There are few developers working outside of seismic processing and enterprise database development, and consequently there is very little in the web and mobile domain. Reconciling a commitment to open source with a desire to earn a good living is one of the great conundrums of software engineering. We have chosen a hybrid approach of open core (like OpendTect, which has proprietary add-ons) and software-as-a-service (like WordPress.org vs WordPress.com). </p>
+<h2>Open source back-end</h2>
+<p>Our open core is a Python web app for producing synthetic seismic models, in much the same way that the now-deprecated <a href="https://developers.google.com/chart/image/">Google Image Charts API</a> used to work: the user provides a URL, which contains all the relevant data, and a JPEG image generated by matplotlib is returned. Along with the image, we return some computed data about the model, such as the elastic properties of the rocks involved. The mode of the tool is described by "scripts", which for now reside on the server, but which we plan to allow users to provide as part of the API. Scripts have various parameters, such as the P-wave and S-wave velocities, and the bulk density of the rocks in the model, and it is these parameters that make up most of the data in the API call. Other parameters include the type and frequency of wavelet to use, and the computation method for the reflectivity (for example the Zoeppritz equations, or the Aki\u2013Richards approximation). The app has no user interface to speak of, only a web API. It is licensed under the Apache 2 license and can be found <a href="https://github.com/agile-geoscience/modelr">on GitHub</a>. We are running an instance of our app on a "T1.micro" <a href="http://aws.amazon.com/ec2/">Amazon EC2 instance</a> running Ubuntu.</p>
+<h2>Proprietary front-end</h2>
+<p>The commercial, proprietary front end is a Python web app that lives in the <a href="https://developers.google.com/appengine/">Google App Engine</a> walled garden. This app, which uses the <a href="http://getbootstrap.com/">Twitter Bootstrap framework</a>, is serving at <a href="https://www.modelr.io/">modelr.io</a> and provides a user object in which a geoscientist can save rocks and scenarios  consisting of a script and all its parameters. We chose App Engine for its strong infrastructure, good track record, and the easy availability of tools like the datastore, memcache, login, and so on. We also host support channels and materials through this front end, which has a very lightweight "demo" mode, and otherwise requires a $9/month subscription to use, handled by <a href="https://stripe.com/ca">Stripe</a>. This necessitated serving both the front and back ends over HTTPS, something we wanted to do anyway, because of industry mistrust of the cloud.</p>
+<h2>Summary</h2>
+<p>Some of the things we picked up along the way:</p>
+<ul>
+<li>We started with a strong need of our own, so had clear milestones from day 1.</li>
+<li>We left the project alone for months, but good documentation and GitHub meant this was not a problem.</li>
+<li>Sprinting with a professional developer at the start meant less thrashing later.</li>
+<li>The cloud landscape is exciting, but it's easy to be distracted by all the APIs. Keeping it simple is a constant struggle.</li>
+<li>Pushing through Xeno's paradox to get to a live, public-facing app took stamina and focus.</li>
+<li>There's nothing like having other users to get you to up your coding game.</li>
+</ul>
+<p>We hope that by telling this story of the early days of a commercial scientific web application, built by a bunch of consulting scientists in Nova Scotia, not a tech startup in San Francisco, we can speed others along the path to creating a rich ecosystem of new geoscience tools and web APIs.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1317/matt-hall.html">Matt Hall</a></div>
+            <meta property="author" content="Matt Hall"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 10, 2014
+            <meta property="dateCreated" content="2014-07-10"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 16, 2014
+            <meta property="dateModified" content="2014-07-16T14:54:50.385884"/>
+            <meta property="datePublished" content="2014-07-16T14:54:50.385884"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=TgOk_3JEcwY" property="embedUrl">http://www.youtube.com/watch?v=TgOk_3JEcwY</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2816">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="the-road-to-modelr-building-a-commercial-web-app.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

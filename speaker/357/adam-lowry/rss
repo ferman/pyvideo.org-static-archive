@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adam Lowry</title><link>http://www.pyvideo.org/speaker/357/adam-lowry/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/357/adam-lowry/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Introspecting Running Python Processes</title><link>http://www.pyvideo.org/video/656/introspecting-running-python-processes</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Understanding the internal state of a running system can be vital to
+maintaining a high performance, stable system, but conventional approaches
+such as logging and error handling only expose so much. This talk will touch
+on how to instrument Python programs in order to observe the state of the
+system, measure performance, and identify ongoing problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Lowry</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/656/introspecting-running-python-processes</guid><enclosure url="https://www.youtube.com/watch?v=YdnBK5yO4zU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/YdnBK5yO4zU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

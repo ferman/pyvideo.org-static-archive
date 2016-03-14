@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Min Ragan-Kelley</title><link>http://www.pyvideo.org/speaker/331/min-ragan-kelley/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/331/min-ragan-kelley/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>IPython: tools for the entire lifecycle of research computing</title><link>http://www.pyvideo.org/video/1221/ipython-tools-for-the-entire-lifecycle-of-resear</link><description>&lt;p&gt;Description&lt;/p&gt;
+IPython started as a better interactive Python interpreter in 2001, but over
+the last decade it has grown into a rich and powerful set of interlocking
+tools aimed at enabling an efficient, fluid and productive workflow in the
+typical use cases encountered by scientists in everyday research.
+
+Today, IPython consists of a kernel executing user code and capable of
+communicating with a variety of clients, using ZeroMQ for networking via a
+well-documented protocol. This enables IPython to support, from a single
+codebase, a rich variety of usage scenarios through user-facing applications
+and an API for embedding:
+
+  * An interactive, terminal-based shell with many capabilities far beyond the default Python interactive interpreter (this is the default application opened by the `ipython` command that most users are familiar with).
+  * A Qt console that provides the look and feel of a terminal, but adds support for inline figures, graphical calltips, a persistent session that can survive crashes of the kernel process, and more.
+  * A web-based notebook that can execute code and also contain rich text and figures, mathematical equations and arbitrary HTML. This notebook presents a document-like view with cells where code is executed but that can be edited in-place, reordered, mixed with explanatory text and figures, etc.
+  * A high-performance, low-latency system for parallel computing that supports the control of a cluster of IPython engines communicating over ZeroMQ, with optimizations that minimize unnecessary copying of large objects (especially numpy arrays).
+
+In this talk we will show how IPython supports all stages in the lifecycle of
+a scientific idea: individual exploration, collaborative development, large-
+scale production using parallel resources, publication and education. In
+particular, the IPython Notebook supports multiuser collaboration and allows
+scientists to share their work in an open document format that is a true
+"executable paper": notebooks can be version controlled, exported to HTML or
+PDF for publication, and used for teaching. We will demonstrate the key
+features of the system,
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Granger,Evan Patterson,Fernando Pérez,Min Ragan-Kelley,Thomas Kluyver</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1221/ipython-tools-for-the-entire-lifecycle-of-resear</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_tools_for_the_entire_lifecycle_of_research_computing.mp4?Signature=AgDUtK60kAvr4De7J2V6xj%2FZSxU%3D&amp;Expires=1346382215&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_tools_for_the_entire_lifecycle_of_research_computing.mp4?Signature=AgDUtK60kAvr4De7J2V6xj%2FZSxU%3D&amp;Expires=1346382215&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=iwVvqwLDsJo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/iwVvqwLDsJo/hqdefault.jpg"></media:thumbnail></item><item><title>IPython in-depth: Interactive Tools for Scientific Computing</title><link>http://www.pyvideo.org/video/1343/ipython-in-depth-interactive-tools-for-scientifi</link><description>&lt;p&gt;Description&lt;/p&gt;
+IPython provides tools for interactive and parallel computing that are widely
+used in scientific computing. We will show some uses of IPython for scientific
+applications, focusing on exciting recent developments, such as the network-
+aware kernel, web-based notebook with code, graphics, and rich HTML, and a
+high-level framework for interactive parallel computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fernando Pérez,Min Ragan-Kelley</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1343/ipython-in-depth-interactive-tools-for-scientifi</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_indepth_Interactive_Tools_for_Scientific_Computing.mp4?Signature=iJFHJ%2FIFd8AMbdTd%2BFaPcYA80n4%3D&amp;Expires=1346902161&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_indepth_Interactive_Tools_for_Scientific_Computing.mp4?Signature=iJFHJ%2FIFd8AMbdTd%2BFaPcYA80n4%3D&amp;Expires=1346902161&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=AvknbGH01FE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AvknbGH01FE/hqdefault.jpg"></media:thumbnail></item><item><title>IPython: Python at your fingertips</title><link>http://www.pyvideo.org/video/640/ipython-python-at-your-fingertips</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+IPython is widely used in the scientific community, but its various tools can
+be used in any context. IPython gets you as close as possible to the Python
+language, with an array of tools for productive work: at the terminal, in
+GUIs, through a web browser, and in high-level parallel computing. This talk
+will explain the design of IPython and provide short, hands-on demos of its
+main features.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian E. Granger,Fernando Pérez,Min Ragan-Kelley,Thomas Kluyver</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/640/ipython-python-at-your-fingertips</guid><enclosure url="https://www.youtube.com/watch?v=26wgEsg9Mcc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/26wgEsg9Mcc/hqdefault.jpg"></media:thumbnail></item><item><title>IPython in-depth: high-productivity interactive and parallel python</title><link>http://www.pyvideo.org/video/605/ipython-in-depth-high-productivity-interactive-a</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+IPython provides tools for interactive and parallel computing that are widely
+used in scientific computing, but can benefit any Python developer. We will
+show how to use IPython in different ways, as: an interactive shell, an
+embedded shell, a graphical console, a network-aware VM in GUIs, a web-based
+notebook with code, graphics and rich HTML, and a high-level framework for
+parallel computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian E. Granger,Fernando Pérez,Min Ragan-Kelley</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/605/ipython-in-depth-high-productivity-interactive-a</guid><enclosure url="https://www.youtube.com/watch?v=2G5YTlheCbw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/2G5YTlheCbw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

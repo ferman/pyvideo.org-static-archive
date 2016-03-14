@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Angus Gratton</title><link>http://www.pyvideo.org/speaker/1137/angus-gratton/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1137/angus-gratton/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Encouraging new programmers - the Open Tech School model</title><link>http://www.pyvideo.org/video/2372/encouraging-new-programmers-the-open-tech-schoo</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As programmers we should encourage new people to take up our craft. Coding skills can benefit a lot of people who aren't inclined to call themselves programmers. In this talk I'll explain why I think this is important, introduce the free volunteer organisation Open Tech School, and describe some of the things we've found that work and why we've embraced Python for our beginner workshops.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+The Python community may be one of the most welcoming programming communities, but even the experience of learning Python can be daunting for an outsider.
+
+Open Tech School (OTS) - http://www.opentechschool.org/ - is one of many organisations aiming to introduce people to programming. Our motto: "We organize tech workshops. Hands-on, awesome, and free." All content is published online under open licenses, and OTS workshops are run by volunteers at no cost to participants.
+
+Just like arithmetic skills are useful for people with no interest in becoming professional accountants, coding skills can be useful for people with no interest in becoming professional programmers. Many people are faced with menial computer-based tasks in their daily lives. Most could be greatly eased with the help of some programming. Not to mention that programming can be fun!
+
+In this talk I'll explain why I think introducing outsiders to programming skills is important, and why I think every professional programmer has a reason to benefit from this. I'll also go into some of the details of how OTS workshops function, and the reasons I think most OTS beginner workshops use Python. Finally I'll show how you could go about starting OTS in your local community.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/angus-gratton-encouraging-new-programmers-the-open-tech-school-model</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Angus Gratton</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2372/encouraging-new-programmers-the-open-tech-schoo</guid><enclosure url="http://www.youtube.com/watch?v=MyYs1VGvF-E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/MyYs1VGvF-E/hqdefault.jpg"></media:thumbnail></item></channel></rss>

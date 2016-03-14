@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Elena Williams</title><link>http://www.pyvideo.org/speaker/1219/elena-williams/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1219/elena-williams/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 11 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>The Curse of the Django Podcast by Elena Williams</title><link>http://www.pyvideo.org/video/3088/the-curse-of-the-django-podcast-by-elena-williams</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Django community is full of amazing, enthusiastic and multi-talented individuals who love to take on exciting new extra-curricular projects in their massive amounts of spare time. 
+
+A Django podcast is an excellent example of this kind of project and it is one that has been taken up no less than 5 times so far.
+
+I am the latest to take up this torch.
+
+This has so far been an amazing, educational, exhilarating experience: I have had the honour of gathering the thoughts of some of the best, brightest and most prolific in our community. It's been a load of work but also a load of fun.
+
+Come hear the story of how this has happened, and come to learn how you can be part of the greater Django information and communication machinery.
+
+PyCon Australia is the national conference for users of the Python Programming Language. In August 2014, we're heading to Brisbane to bring together students, enthusiasts, and professionals with a love of Python from around Australia, and all around the World. 
+
+August 1-5, Brisbane, Queensland, Australia</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elena Williams</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3088/the-curse-of-the-django-podcast-by-elena-williams</guid><enclosure url="http://www.youtube.com/watch?v=VQXG_I0wgeo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/VQXG_I0wgeo/hqdefault.jpg"></media:thumbnail></item><item><title>Hitchhikers Guide to Participating in Open Source</title><link>http://www.pyvideo.org/video/2646/hitchhikers-guide-to-participating-in-open-source</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Curious about being involved in open source, but haven't had the time to make the plunge?
+ Involved with open source but a bit hazy on the way it all works?
+ Open source legend Andrew Tridgell runs an annual week-long post-graduate primer course teaching ""Free and Open Source Software Development "". This talk will convey as much of this course as possible in the time available.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Elena Williams</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2646/hitchhikers-guide-to-participating-in-open-source</guid><enclosure url="http://www.youtube.com/watch?v=8kV0b0KhaMQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/8kV0b0KhaMQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

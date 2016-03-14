@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jérôme Petazzoni</title><link>http://www.pyvideo.org/speaker/348/jerome-petazzoni/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/348/jerome-petazzoni/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Build reliable, traceable, distributed systems with ZeroMQ</title><link>http://www.pyvideo.org/video/639/build-reliable-traceable-distributed-systems-wi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We will show how to build simple yet powerful RPC code with ZeroMQ, with very
+few (if any!) modification to existing code. We will build fan-in and fan-out
+topologies with ZeroMQ special socket types to implement PUB/SUB patterns and
+scale up job-processing tasks. Thanks to introspection, the resulting services
+will be self-documented. Finally, we will show how to implement distributed
+tracing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jérôme Petazzoni</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/639/build-reliable-traceable-distributed-systems-wi</guid><enclosure url="https://www.youtube.com/watch?v=9G6-GksU7Ko" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/9G6-GksU7Ko/hqdefault.jpg"></media:thumbnail></item></channel></rss>

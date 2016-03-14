@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Colin Su</title><link>http://www.pyvideo.org/speaker/1603/colin-su/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1603/colin-su/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 11 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Introduction to Google Cloud Endpoints for Python developers</title><link>http://www.pyvideo.org/video/3278/introduction-to-google-cloud-endpoints-for-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Google Cloud Endpoints provides a simple way to create a RESTful service and be fueled by the infrastructure of Google, it also generates client libraries for JavaScript, Android and iOS to minimize the effort for developers who are integrating their service with mobile and web in bootstrapping.
+
+
+About the speaker
+
+I'm the software engineer at Tagtoo, and also the developer expert of Google Cloud Platform. I'm a full-stack engineer who love to teach, presenting. Here're my links: http://about.me/littleq https://developers.google.com/experts/+ColinSu
+
+Tagline
+python,google,google cloud platform
+個人網頁連結
+
+http://about.me/littleq
+Twitter
+@littleq0903
+頭銜
+Developer Expert, Google Cloud Platform</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Colin Su</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3278/introduction-to-google-cloud-endpoints-for-python</guid><enclosure url="https://www.youtube.com/watch?v=uOn6_bLy3vo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/uOn6_bLy3vo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

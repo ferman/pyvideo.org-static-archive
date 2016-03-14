@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Morgan Goose</title><link>http://www.pyvideo.org/speaker/311/morgan-goose/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/311/morgan-goose/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:37:02 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: Using Fabric - from a sysadmin's perspective</title><link>http://www.pyvideo.org/video/547/pyohio-2011--using-fabric---from-a-sysadmin--39-s</link><description>&lt;p&gt;Description&lt;/p&gt;
+Using Fabric -- from a sysadmin's perspective
+
+Presented by Morgan Goose
+
+Fabric is a great tool written in python for python devs. It allows you to
+script remote interactions on a remote server and only requires ssh and a
+shell on the remote host. It's commonly pigeonholed into a deployment tool,
+but it can but used for more than just websites.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Morgan Goose</dc:creator><guid>http://www.pyvideo.org/video/547/pyohio-2011--using-fabric---from-a-sysadmin--39-s</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/547_pyohio-2011-using-fabric-from-a-sysadmin-s-perspective.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-UsingFabricFromASysadminsPerspective251.png"></media:thumbnail></item></channel></rss>

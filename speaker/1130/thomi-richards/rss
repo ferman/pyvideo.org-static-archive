@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Thomi Richards</title><link>http://www.pyvideo.org/speaker/1130/thomi-richards/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1130/thomi-richards/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Connascence in Python</title><link>http://www.pyvideo.org/video/3876/connascence-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Connascence is the taxonomy of coupling: it allows us to specify how two or more pieces of code are connected, and suggests ways of minimising the impact of that coupling. Ultimately this allows developers to write software that is more flexible to change.
+
+At the end of the talk the audience will have learned some of the forms of connascence with real python code examples, and will understand how to apply those principles to their own code.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomi Richards</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3876/connascence-in-python</guid><enclosure url="http://youtu.be/iwADIlIgDNA" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/iwADIlIgDNA/hqdefault.jpg"></media:thumbnail></item><item><title>A Testing Talk</title><link>http://www.pyvideo.org/video/3217/a-testing-talk</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Thomi Richards:
+A Testing Talk
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+This talk will contain my opinionated views on several topics, including, but not limited to:
+
+ - Which areas of testing are well catered for, and which are not?
+ - What sources of bugs are frequent, and very hard to test?
+ - Should we perhaps start talking about unit tests less, and start talking about other forms of testing more?
+
+**Abstract**
+
+In my day job I spend a lot of time looking at projects that are part of Ubuntu, and trying to find out why they’re being released with bugs. This in turn leads to a lot of dissection of test suites, and a lot of discussion with my colleagues around tests, names of tests, why some tests are better than others, where the common gaps in test coverage are, how applications should be tested, where, when, and why certain test suites should be run, and other subjects too boring to mention.
+
+Having done this for several years, I've started to form a few troubling thoughts about the state of automated testing in software development, and in python specifically. When taken together, these can start to form a rough and ready 'testing philosophy' - a way of looking at code and, by analysing it's structure and visibility, start to find gaps in it's test coverage.
+
+This talk contains no silver bullets - no magical solutions, but does (hopefully) contain some interesting questions.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/thomi-richards-a-testing-talk</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomi Richards</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3217/a-testing-talk</guid><enclosure url="http://youtu.be/Mydv_EOuezs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Mydv_EOuezs/hqdefault.jpg"></media:thumbnail></item><item><title>Using Autopilot for Functional UI Testing</title><link>http://www.pyvideo.org/video/2361/using-autopilot-for-functional-ui-testing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Autopilot is a tool designed for writing high-level functional tests for GUI applications. It is written by a team of engineers at Canonical, and is being used to test everything from the Unity desktop shell to desktop applications, to core phone applications for the Ubuntu Touch project.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
+
+**Audience level**
+
+Novice
+
+**Abstract**
+
+This talk will cover:
+
+ * What autopilot is, how it's made, and how it works.
+ * How we use it at Canonical, and what benefits we've seen from using it.
+ * How you can use it to test your own applications.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/thomi-richards-using-autopilot-for-functional-ui-testing</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomi Richards</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2361/using-autopilot-for-functional-ui-testing</guid><enclosure url="http://www.youtube.com/watch?v=1NrykxuCcM0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/1NrykxuCcM0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

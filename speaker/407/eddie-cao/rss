@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Eddie Cao</title><link>http://www.pyvideo.org/speaker/407/eddie-cao/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/407/eddie-cao/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>32. Python in Computer-Aided Drug Discovery </title><link>http://www.pyvideo.org/video/733/32-python-in-computer-aided-drug-discovery</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Computational tools are an integral part of the modern drug-discovery process.
+At NIBR, we leverage Python to great success in all stages of drug discovery.
+Not only can we easily deploy new tools to our scientists easily using tools
+like Django, but Python's approachability (that "fits your brain" character)
+allows scientists with no programming experience to start coding themselves!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eddie Cao</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/733/32-python-in-computer-aided-drug-discovery</guid><enclosure url="https://www.youtube.com/watch?v=3FcAcE3Zq2Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/3FcAcE3Zq2Q/hqdefault.jpg"></media:thumbnail></item></channel></rss>

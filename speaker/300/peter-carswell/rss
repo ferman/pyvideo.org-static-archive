@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Peter Carswell</title><link>http://www.pyvideo.org/speaker/300/peter-carswell/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/300/peter-carswell/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 28 Jul 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: Multi-player Games using Panda3D and Python</title><link>http://www.pyvideo.org/video/526/pyohio-2011--multi-player-games-using-panda3d-and</link><description>&lt;p&gt;Description&lt;/p&gt;
+Multi-player Games using Panda3D and Python
+
+Presented by Peter Carswell
+
+This two-hour tutorial is designed to investigate the implementation of a
+multi-player game using the game engine Panda3D. Panda3D's intended game-
+development language is Python. The concepts involve Object Oriented
+Programming structures, modeling and texture mapping, key-binding motion,
+collisions and, finally, networking techniques.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Carswell</dc:creator><guid>http://www.pyvideo.org/video/526/pyohio-2011--multi-player-games-using-panda3d-and</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/526_pyohio-2011-multi-player-games-using-panda3d-and-python.ogv" length="512957562" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-MultiplayerGamesUsingPanda3DAndPython491.png"></media:thumbnail></item><item><title>Develop Games with Panda3D and Python</title><link>http://www.pyvideo.org/video/2276/develop-games-with-panda3d-and-python-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In the brief amount of time available, this tutorial will take a simple game concept and implement a multi-player game. Game development with Panda3D will consist of writing a Python program that controls the Panda3D library. Computer lab projects will provide hands-on experience investigating the various components of a network game.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Carswell</dc:creator><pubDate>Sun, 28 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2276/develop-games-with-panda3d-and-python-0</guid><enclosure url="https://www.youtube.com/watch?v=-bIuhXJShms" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/-bIuhXJShms/hqdefault.jpg"></media:thumbnail></item><item><title>Develop Games with Panda3D and Python</title><link>http://www.pyvideo.org/video/1361/develop-games-with-panda3d-and-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In the brief amount of time available, this tutorial will take a simple game
+concept and implement a multi-player game. Game development with Panda3D will
+consist of writing a Python program that controls the Panda3D library.
+Computer lab projects will provide hands-on experience investigating the
+various components of a network game.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Carswell</dc:creator><pubDate>Sat, 28 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1361/develop-games-with-panda3d-and-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Develop_Games_with_Panda3D_and_Python.mp4?Signature=JjKczmFhJhZKwN4BQ4tfuFesNGs%3D&amp;Expires=1346577061&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Develop_Games_with_Panda3D_and_Python.mp4?Signature=JjKczmFhJhZKwN4BQ4tfuFesNGs%3D&amp;Expires=1346577061&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Qou-6d5qEw4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/Qou-6d5qEw4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

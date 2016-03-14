@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Philip James</title><link>http://www.pyvideo.org/speaker/1760/philip-james/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1760/philip-james/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Type python, press enter. What happens?</title><link>http://www.pyvideo.org/video/3459/type-python-press-enter-what-happens</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk discusses how the Python interpreter starts, from the perspective of the operating system (OS). Together, we will see the ins &amp; outs of processes: fork(), exec(), stdin, and stdout.
+
+It focuses on OS concepts and requires no background knowledge, using analogies to Python data structures. (The talk does not discuss Python’s own initialization, such as site.py or global variables.)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia,Philip James</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3459/type-python-press-enter-what-happens</guid><enclosure url="https://www.youtube.com/watch?v=XVhSjZYwZJo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/XVhSjZYwZJo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

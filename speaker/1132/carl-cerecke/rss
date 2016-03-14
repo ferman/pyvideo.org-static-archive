@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Carl Cerecke</title><link>http://www.pyvideo.org/speaker/1132/carl-cerecke/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1132/carl-cerecke/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 14 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>goto in python. Yes. Really.</title><link>http://www.pyvideo.org/video/3237/goto-in-python-yes-really</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Carl Cerecke:
+goto in python. Yes. Really.
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 2
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Experienced
+
+**Description**
+
+Unfortunately, python is missing the goto keyword. This talk rights this historical wrong by presenting a module that allows the use of goto within a function. An overview of the implementation is provided, along with rationale and performance results. Knowing what a decorator is will be helpful for understanding the technical part of this talk.
+
+**Abstract**
+
+goto in Python
+
+ - A brief history of the goto statement.
+ - Why have a goto in Python?
+ - Previous attempts at goto in Python
+ - Dynamically rewriting byte codes
+ - Problematic constructs
+ - Performance results
+ - Future work
+
+**Slides**
+
+https://speakerdeck.com/nzpug/carl-cerecke-goto-in-python-yes-really</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Cerecke</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3237/goto-in-python-yes-really</guid><enclosure url="http://youtu.be/DdU8I09BGsU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/DdU8I09BGsU/hqdefault.jpg"></media:thumbnail></item><item><title>Publishing Theology with Python</title><link>http://www.pyvideo.org/video/2365/publishing-theology-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How to use python tools to represent and publish a large corpus of theological literature.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Python tools are used for publishing a large corpus of theological literature. Python is used to help convert the existing literature from its original, poorly styled, MS Word format to docutils source format. Solutions are presented to various domain-specific problems, including making the documents bible-version independent. The paver tool is used to manage the conversion process from docutils to the various output formats. Some rejected alternative publishing technologies are covered, as well as a future road map.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/carl-cerecke-publishing-theology-with-python</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Cerecke</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2365/publishing-theology-with-python</guid><enclosure url="http://www.youtube.com/watch?v=I0vOG5WTicU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/I0vOG5WTicU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

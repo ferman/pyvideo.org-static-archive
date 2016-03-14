@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Antonio Cuni</title><link>http://www.pyvideo.org/speaker/497/antonio-cuni/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/497/antonio-cuni/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 09 Jun 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Understanding PyPy</title><link>http://www.pyvideo.org/video/3569/understanding-pypy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PyPy is an alternative implementation of CPython implemented in Python. Understanding concepts like RPython, JIT, PyPy garbage collection and other core concepts can be difficult for newcomers to understand. This talk is aimed to introduce all of these concepts to help better understand how PyPy works.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni</dc:creator><pubDate>Tue, 09 Jun 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3569/understanding-pypy</guid><enclosure url="https://www.youtube.com/watch?v=zW1An0BRLYs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/zW1An0BRLYs/hqdefault.jpg"></media:thumbnail></item><item><title>Python white magic</title><link>http://www.pyvideo.org/video/1333/python-white-magic</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Antonio Cuni - 3 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python is a powerful language. Beginners appreciate its surface of simplicity
+and ease to use, where (almost) everything “just works” (TM) as expected.
+However, under the hood, there is a whole world of rules and layers which can
+be (ab)used by experienced programmers to tweak the language in unexpected
+ways. Often, these techniques are labeled as “hacks” or “black magic”, to
+indicate that they should not used in production or that you should not look
+at it unless you are “initiated” to some not better specified sorcery.
+However, if used with care and in the right places, these techniques can lead
+to better, faster and/or more readable code, or can be extremely useful during
+debugging, and thus deserve the definition of “white magic” which programmers
+can use to improve their code. Moreover, looking at how they are implemented
+is a good way to learn about some of the deep corners of the language. This
+talk presents some of these advanced techniques which I have seen in use in
+real code, e.g. in PyPy or pdb++. Including, but not limited to: creating new
+functions by reusing existing code objects, instantiating multiple copies of
+the same module, playing with metaclasses in various ways, changing the
+__class__ of an object on the fly to get specialized behavior, automatically
+entering the debugger when a certain event occur, etc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1333/python-white-magic</guid><enclosure url="http://www.youtube.com/watch?v=WqVMZnefnO8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/WqVMZnefnO8/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy hands-on</title><link>http://www.pyvideo.org/video/1037/pypy-hands-on</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in "Training Pizza
+Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The session is divided into two parts, of roughly 2 hours each. People who are
+interested only in the first part, can leave the session after it. However,
+the first part is a prerequisite for the second one, thus people are not
+advised to join in the middle of the session.
+
+The session is meant to be highly interactive. People are invited to bring
+their own laptop and try things by themselves.
+
+## Part 1: Run your application under PyPy
+
+This tutorial is targeted to Python users who want to run their favorite
+Python application under PyPy, and exploit the most of it. The following
+topics will be covered:
+
+    
+    - how to fix/avoid CPython implementation details (e.g., refcounting)
+    
+    - general overview of how the PyPy JIT works
+    
+    - how to optimize your program for the PyPy JIT
+    
+    - how to view and interpret the traces produced by the JIT
+    
+    - how to tweak the parameters of the JIT and the GC
+    
+    - how to use existing CPython C extensions on PyPy, and fix them if necessary
+    
+
+## Part 2: Write your own interpreter with PyPy
+
+PyPy is not only a Python interpreter, but also a toolchain to implement
+dynamic languages. This tutorial is targeted to people who want to implement
+their own programming languages, or who simply want to know more about how the
+PyPy JIT works internally.
+
+The students will be given the source code for a toy language implemented in
+RPython. They will learn:
+
+    
+    - how to translate it to C using the PyPy translation toolchain
+    
+    - what are the "hints" needed by the JIT generator, and how to place them
+    
+
+Then, they will be challenged to add the proper hints to the toy interpreter,
+to get the best result with the JIT.
+
+**THINGS TO DO BEFORE THE TRAINING**
+
+You are encouraged to bring your laptop to the training session.
+
+Make sure that the following prerequisites are met:
+
+  * Install PyPy 1.5:
+
+    * [http://pypy.org/download.html](http://pypy.org/download.html)
+
+    * [http://doc.pypy.org/en/latest/getting-started.html#installing-pypy](http://doc.pypy.org/en/latest/getting-started.html#installing-pypy)
+
+  * Make sure that `setuptools` or `distribute` are installed (look at the URL above for instructions)
+
+  * Clone the pypy repository, and update to the 1.5 version::
+
+$ hg clone [http://bitbucket.org/pypy/pypy](http://bitbucket.org/pypy/pypy)
+
+$ cd pypy
+
+$ hg up -r release-1.5
+
+  * Clone the jitviewer repository and install it on pypy::
+
+$ hg clone
+[http://bitbucket.org/pypy/jitviewer](http://bitbucket.org/pypy/jitviewer)
+
+$ cd jitviewer
+
+$ /path/to/pypy-1.5/bin/pypy setup.py develop
+
+If you intend to follow also the second part ("Write your own interpreter with
+PyPy"), you need to make sure you have a working [developing
+environment](http://doc.pypy.org/en/latest/getting-started-python.html
+#translating-the-pypy-python-interpreter)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni,Armin Rigo</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1037/pypy-hands-on</guid><enclosure url="http://www.youtube.com/watch?v=qcqEAE4QoeA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qcqEAE4QoeA/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy hands-on</title><link>http://www.pyvideo.org/video/1067/pypy-hands-on-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in "Training Pizza
+Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The session is divided into two parts, of roughly 2 hours each. People who are
+interested only in the first part, can leave the session after it. However,
+the first part is a prerequisite for the second one, thus people are not
+advised to join in the middle of the session.
+
+The session is meant to be highly interactive. People are invited to bring
+their own laptop and try things by themselves.
+
+## Part 1: Run your application under PyPy
+
+This tutorial is targeted to Python users who want to run their favorite
+Python application under PyPy, and exploit the most of it. The following
+topics will be covered:
+
+    
+    - how to fix/avoid CPython implementation details (e.g., refcounting)
+    
+    - general overview of how the PyPy JIT works
+    
+    - how to optimize your program for the PyPy JIT
+    
+    - how to view and interpret the traces produced by the JIT
+    
+    - how to tweak the parameters of the JIT and the GC
+    
+    - how to use existing CPython C extensions on PyPy, and fix them if necessary
+    
+
+## Part 2: Write your own interpreter with PyPy
+
+PyPy is not only a Python interpreter, but also a toolchain to implement
+dynamic languages. This tutorial is targeted to people who want to implement
+their own programming languages, or who simply want to know more about how the
+PyPy JIT works internally.
+
+The students will be given the source code for a toy language implemented in
+RPython. They will learn:
+
+    
+    - how to translate it to C using the PyPy translation toolchain
+    
+    - what are the "hints" needed by the JIT generator, and how to place them
+    
+
+Then, they will be challenged to add the proper hints to the toy interpreter,
+to get the best result with the JIT.
+
+**THINGS TO DO BEFORE THE TRAINING**
+
+You are encouraged to bring your laptop to the training session.
+
+Make sure that the following prerequisites are met:
+
+  * Install PyPy 1.5:
+
+    * [http://pypy.org/download.html](http://pypy.org/download.html)
+
+    * [http://doc.pypy.org/en/latest/getting-started.html#installing-pypy](http://doc.pypy.org/en/latest/getting-started.html#installing-pypy)
+
+  * Make sure that `setuptools` or `distribute` are installed (look at the URL above for instructions)
+
+  * Clone the pypy repository, and update to the 1.5 version::
+
+$ hg clone [http://bitbucket.org/pypy/pypy](http://bitbucket.org/pypy/pypy)
+
+$ cd pypy
+
+$ hg up -r release-1.5
+
+  * Clone the jitviewer repository and install it on pypy::
+
+$ hg clone
+[http://bitbucket.org/pypy/jitviewer](http://bitbucket.org/pypy/jitviewer)
+
+$ cd jitviewer
+
+$ /path/to/pypy-1.5/bin/pypy setup.py develop
+
+If you intend to follow also the second part ("Write your own interpreter with
+PyPy"), you need to make sure you have a working [developing
+environment](http://doc.pypy.org/en/latest/getting-started-python.html
+#translating-the-pypy-python-interpreter)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni,Armin Rigo</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1067/pypy-hands-on-0</guid><enclosure url="http://www.youtube.com/watch?v=J1ZTPi06awk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/J1ZTPi06awk/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy in production</title><link>http://www.pyvideo.org/video/1113/pypy-in-production</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Antonio Cuni,Armin Rigo - 23 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The PyPy project has recently gathered a lot of attention for its progress in
+speeding up the Python language - it is the fastest Python interpreter, and
+the most compatible and most stable 'alternative´ one. No longer merely a
+research project, PyPy is now suitable for production use. We are working on
+improvements on calling into C libraries and generally integrating with the
+existing Python extensions ecosystem.
+
+We will give an overview on how the tracing Just-in-Time compiler works in
+PyPy. From there, we will then focus on what the PyPy project has achieved,
+particularly in the past two years:
+
+  * most Python benchmarks run much faster than with CPython or Psyco
+
+  * the real-world PyPy compiler toolchain itself (200 KLocs) runs twice as fast
+
+  * already supports 32 and 64bit x86 and is in the process of supporting ARM
+
+  * full compatibility with CPython (more than Jython/IronPython)
+
+  * full (and JIT-ed) ctypes support to call C libraries from Python
+
+  * supports Stackless Python (in-progress)
+
+  * new "cpyext" layer which integrates existing CPython C extensions
+
+  * an experimental super-fast JIT-compilation of calls to C++ libraries
+
+We want to reserve time for discussing potential future work like SWIG and/or
+Cython compatibility and other areas brought up by the audience. There are
+many interesting details that can be explored further; we will focus on the
+points the audience is most interested in.
+
+For more info:
+
+  * [http://pypy.org/](http://pypy.org/)
+
+  * Our blog: [http://morepypy.blogspot.com/](http://morepypy.blogspot.com/)
+
+  * Eureka program: [http://www.eurostars-eureka.eu/](http://www.eurostars-eureka.eu/)
+
+_Eurostars Eureka is our funding source since 2009. It is a cross-European
+funding collaboration that targets small firms which produce research._
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni,Armin Rigo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1113/pypy-in-production</guid><enclosure url="http://www.youtube.com/watch?v=nTpte3_jNO0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nTpte3_jNO0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,331 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - A tale of four libraries</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="General">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="a-tale-of-four-libraries.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="a-tale-of-four-libraries.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://youtube.com/watch?v=BqMD0PE-akQ"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">A tale of four libraries</h3>
+      <link property="thumbnailUrl" href="http://i3.ytimg.com/vi/BqMD0PE-akQ/hqdefault.jpg"/>
+      <link property="sameAs" href="a-tale-of-four-libraries.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>In addition to bringing efficient array computing and standard mathematical
+tools to Python, the NumPy/SciPy libraries provide an ecosystem where multiple
+libraries can coexist and interact. This talk describes a success story where
+we integrate several libraries, developed by different groups, to solve our
+research problems. A brief description of our research and how we use these
+components follows.</p>
+<p>Our research focuses on using Reinforcement Learning (RL) to gather
+information in domains described by an underlying linked dataset. For
+instance, we are interested in problems such as the following: given a
+Wikipedia article as a seed, finding other articles that are interesting
+relative to the starting point. Of particular interest is to find articles
+that are more than one-click away from the seed, since these articles are in
+general harder to find by a human.</p>
+<p>In addition to the staples of scientific Python computing NumPy, SciPy,
+Matplotlib, and IPython, we use the libraries RL-Glue/RL-Library, NetworkX,
+Gensim, and scikit-learn.</p>
+<p>Reinforcement Learning considers the interaction between a given environment
+and an agent. The objective is to design an agent able to learn a policy that
+allows it to maximize its total expected reward. We use the RL-Glue/RL-Library
+libraries for our RL experiments. This libraries provide the infrastructure to
+connect an environment and an agent, each one described by an independent
+Python program.</p>
+<p>We represent the linked datasets we work with as graphs. For this we use
+NetworkX, which provides data structures to efficiently represent graphs
+together with implementations of many classic graph algorithms. We use
+NetworkX graphs to describe the environments implemented in RL-Glue/RL-
+Library. We also use these graphs to create, analyze and visualize graphs
+built from unstructured data.</p>
+<p>One of the contributions of our research is the idea of representing the items
+in the datasets as vectors belonging to a linear space. To this end, we build
+a Latent Semantic Analysis (LSA) model to project documents onto a vector
+space. This allows us, in addition to being able to compute similarities
+between documents, to leverage a variety of RL techniques that require a
+vector representation. We use the Gensim library to build the LSA model. This
+library provides all the machinery to build, among other options, the LSA
+model. One place where Gensim shines is in its capability to handle big data
+sets, like the entire Wikipedia, that do not fit in memory. We also combine
+the vector representation of the items as property of the NetworkX nodes.</p>
+<p>Finally, we also use the manifold learning capabilities of sckit-learn, like
+the ISOMAP algorithm, to perform some exploratory data analysis. By reducing
+the dimensionality of the LSA vectors obtained using Gensim from 400 to 3, we
+are able to visualize the relative position of the vectors together with their
+connections.</p>
+<p>In summary, this talk shows, by combining a variety of libraries to solve our
+research problems, that the NumPy/SciPy ecosystem has become the lingua-franca
+of scientific Python computing.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/20/scipy_2012.html">SciPy 2012</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/592/alejandro-weinstein.html">Alejandro Weinstein</a></div>
+            <meta property="author" content="Alejandro Weinstein"/>
+          
+            <div><a href="../../speaker/593/michael-wakin.html">Michael Wakin</a></div>
+            <meta property="author" content="Michael Wakin"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 18, 2012
+            <meta property="dateCreated" content="2012-07-18"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.135313"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.135313"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://youtube.com/watch?v=BqMD0PE-akQ" property="embedUrl">http://youtube.com/watch?v=BqMD0PE-akQ</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_tale_of_four_libraries.mp4?Signature=ISV7dA31tpzM%2BiwMs5xiUQ%2BkADo%3D&amp;Expires=1346381648&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1211">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            CC BY-SA
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">General</span>
+          
+          <meta property="keywords" content="SciPy 2012"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="a-tale-of-four-libraries.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Noah Silas</title><link>http://www.pyvideo.org/speaker/37/noah-silas/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/37/noah-silas/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Cache rules everything around me</title><link>http://www.pyvideo.org/video/75/djangocon-2011--cache-rules-everything-around-me</link><description>&lt;p&gt;Description&lt;/p&gt;
+Cache rules everything around me
+
+Presented by Jacob Burch, Noah Silas
+
+This talk aims to briefly introduce the core concepts of caching and covers
+the best practices of using Django’s cache backend.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Burch,Noah Silas</dc:creator><guid>http://www.pyvideo.org/video/75/djangocon-2011--cache-rules-everything-around-me</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/75_cache-rules-everything-around-me.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CacheRulesEverythingAroundMe471-781.jpg"></media:thumbnail></item><item><title>Cache Rules Everything Around Me</title><link>http://www.pyvideo.org/video/679/cache-rules-everything-around-me</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk aims to briefly introduce the core concepts of caching and covers
+the best practices of implementing them, using a small variety of python web
+frameworks (Flask, Django) for example code.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Burch,Noah Silas</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/679/cache-rules-everything-around-me</guid><enclosure url="https://www.youtube.com/watch?v=fekA2mRGTTE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/fekA2mRGTTE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

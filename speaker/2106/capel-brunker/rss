@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Capel Brunker</title><link>http://www.pyvideo.org/speaker/2106/capel-brunker/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2106/capel-brunker/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Inviting Code</title><link>http://www.pyvideo.org/video/3998/inviting-code</link><description>&lt;p&gt;Description&lt;/p&gt;
+Projects tend to grow, expand and reshape as they progress, this can lead to; high code maintenance, legacy code and feature addition fatigue. Implementing a well-documented and malleable software architecture is a major step in addressing these associated time sinks. This talk will discuss viable software architecture approaches – while demonstrating core python modules, concepts and design patterns from a big data perspective.
+
+Many projects welcome code addition from third party developers, however a well thought out software architecture should not be modified without; review, testing, possible cascading code and documentation changes. To remove the additional complexity of reviewing and handling third party code, designing and offering secure plugin infrastructure can allow for outside additions without the overhead. 
+
+A big data visualisation python project utilised by Oxford and Cambridge universities will be used in code demonstrations to show the direct use of a project built with architecture design in mind, and a multi-level dynamic plugin infrastructure. Attendees will be provided with a clear understanding of how function documentation techniques (PEP-3107 &amp; PEP-0484) can be utilised for class clarity and how to (re)design a code base to allow for integration of third party code, while providing a concise framework for code inclusion. 
+
+Areas covered in this talk include
+
+• Python 3.4 focused
+• Project architecture design
+• Abstract classes
+• Plugin frameworks
+• Documentation frameworks
+• Type hinting &amp; Function annotations  
+• Class method decorators
+• Code validation
+• Image manipulation
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Capel Brunker</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3998/inviting-code</guid><enclosure url="https://www.youtube.com/watch?v=mByG_51ZWiQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mByG_51ZWiQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

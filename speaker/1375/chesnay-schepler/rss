@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chesnay Schepler</title><link>http://www.pyvideo.org/speaker/1375/chesnay-schepler/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1375/chesnay-schepler/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 25 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Big Data Analytics with Python using Stratosphere</title><link>http://www.pyvideo.org/video/2940/big-data-analytics-with-python-using-stratosphere</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[Stratosphere](http://stratosphere.eu/) is a distributed platform for advanced big data analytics. It features a rich set of operators, advanced, iterative data flows, an efficient runtime, and automatic program optimization. We present Stratophere's new Python programming interface. It allows Python developers to easily get their hands on Big Data.
+&lt;p&gt;Description&lt;/p&gt;
+[Stratosphere](http://stratosphere.eu/) is implemented in Java. In 2013 we introduced support for writing Stratosphere programs in Scala. Since Scala also runs in the Java JVM the language integration was easy for Scala.
+
+In late 2013, we started to develop a generic language binding framework for Stratosphere to support non-JVM languages such as Python, JavaScript, Ruby but also compiled languages such as C++. The language binding framework uses [Google’s Protocol Buffers](https://code.google.com/p/protobuf/) for efficient data serialization and transportation between the languages.
+
+Since many “Data Scientists” and machine learning experts are using Python on a daily basis, we decided to use Python as the reference implementation for Stratosphere’s language binding feature.
+Our talk at the EuroPython 2014 will present how Python developers can leverage the Stratosphere Platform to solve their big data problems.
+
+We introduce the most important concepts of Stratosphere such as the operators, connectors to data sources, data flows, the compiler, iterative algorithms and more.
+Stratosphere is a mature, next generation big-data analytics platform developed by a vibrant [open-source community](https://github.com/stratosphere/stratosphere). The system is available under the Apache 2.0 license. 
+
+The project started in 2009 as a joint research project of multiple universities in the Berlin area (Technische Universität, Humboldt Universität and Hasso-Plattner Institut). Nowadays it is an award winning system that has gained worldwide attention in both research and industry.
+
+A note to the program committee: As mentioned, the development of the Python language binding of Stratosphere has started a few months ago, therefore, the code is not yet in the main development branch. However, we are already able to execute the “Hello World” of big data, the “Word Count” example using the Python interface. See this example in the development branch: https://github.com/filiphaase/stratosphere/blob/langbinding/stratosphere-addons/stratosphere-language-binding/src/main/python/eu/stratosphere/language/binding/wordcountexample/WordCountPlan.py
+
+
+Please contact us if you have any questions!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chesnay Schepler</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2940/big-data-analytics-with-python-using-stratosphere</guid><enclosure url="http://www.youtube.com/watch?v=J3RMB4HgcRw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/J3RMB4HgcRw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

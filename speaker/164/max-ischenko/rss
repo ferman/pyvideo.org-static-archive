@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Max Ischenko</title><link>http://www.pyvideo.org/speaker/164/max-ischenko/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/164/max-ischenko/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 02 Nov 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Product buidling 101</title><link>http://www.pyvideo.org/video/3350/product-buidling-101</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Max Ischenko</dc:creator><pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3350/product-buidling-101</guid><enclosure url="https://www.youtube.com/watch?v=SNu11Vyy8Kk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/SNu11Vyy8Kk/hqdefault.jpg"></media:thumbnail></item><item><title>Simple WSGI composition: story of one refactoring (#51)</title><link>http://www.pyvideo.org/video/339/pycon-2010--simple-wsgi-composition--story-of-one</link><description>&lt;p&gt;Description&lt;/p&gt;
+Simple WSGI composition: story of one refactoring
+
+  
+Presented by Max Ischenko
+
+  
+Story of a refactoring I did to split one big, monolithic Pylons app into a
+bunch of smaller ones, using power of WSGI and nginx. The devil is in the
+details: how to handle common auth, site-wide look and feel, common utilities,
+database management. Pros and cons of the approach, possible alternatives.
+
+  
+The talk assumes listeners know what WSGI is and preferably have used some
+WSGI-centered framework like Pylons, Werkzeug, Paste or other.
+
+  
+The application this talk describes powers developers.org.ua.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Max Ischenko</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/339/pycon-2010--simple-wsgi-composition--story-of-one</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/339_simple-wsgi-composition-story-of-one-refactoring-51.ogv" length="145463857" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/339_simple-wsgi-composition-story-of-one-refactoring-51.ogv" fileSize="145463857" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/339_simple-wsgi-composition-story-of-one-refactoring-51.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010SimpleWSGICompositionStoryOfOneRefactoring51585.png"></media:thumbnail></item></channel></rss>

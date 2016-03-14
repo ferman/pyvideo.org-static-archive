@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Marc Garcia</title><link>http://www.pyvideo.org/speaker/516/marc-garcia/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/516/marc-garcia/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 18 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Remote execution of Python scripts using Viri</title><link>http://www.pyvideo.org/video/1063/remote-execution-of-python-scripts-using-viri</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Marc Garcia - 21 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Viri is a system for automatic distribution and execution of Python code on
+remote machines. This is especially useful when dealing with a large group of
+hosts.
+
+With Viri, Sysadmins can write their own scripts, and easily distribute and
+execute them on any number of remote machines. Depending on the number of
+computers to administrate, Viri can save thousands of hours, that Sysadmins
+would spend transferring files, logging into remote hosts, and waiting for the
+scripts to finish. Viri automates the whole process.
+
+Viri can also be useful for remotely managing host settings. It should work
+together with an application where the information about hosts would be
+maintained. This information can include cron tasks, firewall rules, backup
+settings,etc. After a simple Integration of this application with your Viri
+infrastructure, you can change any settings in the application, and see how it
+gets applied on the target host automatically.
+
+The talk will cover next topics:
+
+  * Introduction to Viri
+  * Live demo on how to install Viri, write a Viri task, and execute it in a remote host
+  * Security concerns using Viri
+
+Check [Viri project page](http://www.viriproject.com)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marc Garcia</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1063/remote-execution-of-python-scripts-using-viri</guid><enclosure url="http://www.youtube.com/watch?v=SGz5RZEOMFE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/SGz5RZEOMFE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

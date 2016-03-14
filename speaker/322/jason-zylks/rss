@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jason Zylks</title><link>http://www.pyvideo.org/speaker/322/jason-zylks/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/322/jason-zylks/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:37:34 -0000</lastBuildDate><ttl>500</ttl><item><title>Custom Decorators for Authentication and Authorization</title><link>http://www.pyvideo.org/video/555/custom-decorators-for-authentication-and-authoriz</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An introduction to writing decorators, with an example of how they can be used
+to handle common authentication and authorization actions for a set of web
+services.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+To provide access to enterprise directory data and services to developers at
+Texas A&amp;M; University, we have implemented a set of RESTful web services,
+using Django as our framework. Because these services include access to
+protected data, all web service clients must authenticate and be authorized to
+access a particular service. In order to implement the logic for making
+authentication and authorization decisions in one place, and cleanly apply it
+to any view, we wrote a custom decorator. This talk will cover the basic
+concepts behind decorators, how to write a decorator, and walk through our
+implementation of a decorator for authN/authZ.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason Zylks</dc:creator><guid>http://www.pyvideo.org/video/555/custom-decorators-for-authentication-and-authoriz</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/555_custom-decorators-for-authentication-and-authorization.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-CustomDecoratorsForAuthenticationAndAuthorization489-643.jpg"></media:thumbnail></item><item><title>Getting Started with PyMongo</title><link>http://www.pyvideo.org/video/559/getting-started-with-pymongo</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A look at how to get started with MongoDB using Python. The talk will cover
+basic concepts, a brief walkthrough of some more advanced features, and how
+Texas A&amp;M is using MongoDB and Python to solve some large data problems.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In the last month, we've started an effort to aggregate our logs so we can do
+some real-time, holistic log analysis. Among other things, we are tracking
+failed logins across all points of entry, identifying possibly compromised
+accounts (simultaneous logins from multiple IPs, geographically disparate
+logins), and identifying high-volume mailers across multiple mail relays. The
+talk will include an introduction to MongoDB (NoSQL, data structures,
+querying, indexing, differences from relational databases, etc); some
+important performance and reliability features like its support for replica
+sets, sharding, and map/reduce; and some very cool features like GridFS and
+geospatial indexing. All of this, with the exception of database
+configuration, will be demoed with MongoDB's python client.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason Zylks</dc:creator><guid>http://www.pyvideo.org/video/559/getting-started-with-pymongo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/559_getting-started-with-pymongo.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-GettingStartedWithPyMongo126-736.jpg"></media:thumbnail></item><item><title>Using Message Queues for Distributed Processing</title><link>http://www.pyvideo.org/video/562/using-message-queues-for-distributed-processing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Message queues provide a reliable, language agnostic method for sharing data
+between processes for distributed processing, and to manage work flows. This
+talk will examine the role of message queues in a redesign of the provisioning
+process for Texas A&amp;M; University's enterprise directory.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+About six months ago we moved our account provisioning process from a
+monolithic Perl script to a set of distributed, interconnected python scripts.
+By using message queues (specifically beanstalkd) to pass messages between the
+processes, we were able to build a system that was much faster, more reliable
+and more flexible.
+
+I will walk through the process that led us to choose beanstalkd, look at some
+alternatives that are available, and describe some use cases for message
+queues.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jason Zylks</dc:creator><guid>http://www.pyvideo.org/video/562/using-message-queues-for-distributed-processing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/562_using-message-queues-for-distributed-processing.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-UsingMessageQueuesForDistributedProcessing897-27.jpg"></media:thumbnail></item></channel></rss>

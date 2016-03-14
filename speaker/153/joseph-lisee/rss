@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Joseph Lisee</title><link>http://www.pyvideo.org/speaker/153/joseph-lisee/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/153/joseph-lisee/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>An Underwater Python: Tortuga the Python Powered Robot (#175)</title><link>http://www.pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt</link><description>&lt;p&gt;Description&lt;/p&gt;
+An Underwater Python: Tortuga the Python Powered Robot
+
+  
+Presented by Joseph Lisee (Robotics @ Maryland)
+
+  
+Learn about Tortuga, the python powered Autonomous Underwater Vehicle (AUV)
+developed by Robotics @ Maryland ([http://ram.umd.edu](http://ram.umd.edu)).
+See how python provides a flexible and efficient way to build the software
+that commands, simulates and controls Tortuga. Also learn about the trials,
+tribulations, and glory experienced developing, competing, losing, and winning
+with Tortuga in AUVSI AUV Competition ([http://www.auvsi.org/competitions/wate
+r.cfm](http://www.auvsi.org/competitions/water.cfm)).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joseph Lisee</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/328/pycon-2010--an-underwater-python--tortuga-the-pyt</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.ogv" length="212875988" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.ogv" fileSize="212875988" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010AnUnderwaterPythonTortugaThePythonPoweredRobot955.png"></media:thumbnail></item></channel></rss>

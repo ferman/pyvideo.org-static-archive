@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michele Simionato</title><link>http://www.pyvideo.org/speaker/524/michele-simionato/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/524/michele-simionato/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>plac: more than just another command-line arguments parser</title><link>http://www.pyvideo.org/video/1085/plac-more-than-just-another-command-line-argumen</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Michele Simionato - 21 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+plac is general purpose tool than can be used to define command-oriented
+domain specific languages (DSLs). In its simplest form it can be used as a
+command-line arguments parser with an easier-to-use API than argparse. It can
+also be used to replace the cmd module in the standard library. Moreover it
+can be used to automatize functional tests and for much more. The talk will
+touch upon many use cases where plac can make your life as a developer simpler
+and better. Technically Plac is a wrapper over argparse and works in all
+versions of Python starting from Python 2.3 up to Python 3.2. In Python 3.X it
+takes advantage of function annotations to define the parser in a declarative
+way, instead of the imperative way of argparse. In Python 2.X it uses
+decorators instead, to reach the same goal. The talk is a hands-on interactive
+demonstration of plac capabilities.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michele Simionato</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1085/plac-more-than-just-another-command-line-argumen</guid><enclosure url="http://www.youtube.com/watch?v=vM9DUUz7Fa8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vM9DUUz7Fa8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

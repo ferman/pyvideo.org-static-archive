@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nate Aune</title><link>http://www.pyvideo.org/speaker/488/nate-aune/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/488/nate-aune/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 15 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Deploy your Python app in 5 min with a PaaS</title><link>http://www.pyvideo.org/video/1776/deploy-your-python-app-in-5-min-with-a-paas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How can you avoid servers and get back to coding? Platform-as-a-service (PaaS) makes deployment easy. But which PaaS do you choose and how do you get started? This talk will examine several of the leading PaaS providers and discuss their pros/cons. We'll also give examples for how to deploy the same app to each of them to see the differences.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nate Aune</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1776/deploy-your-python-app-in-5-min-with-a-paas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Deploy_your_Python_app_in_5_mi.mp4?Signature=wcsy07i12q1OICu%2FKpFXaN9JZxQ%3D&amp;Expires=1363669286&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Deploy_your_Python_app_in_5_mi.mp4?Signature=wcsy07i12q1OICu%2FKpFXaN9JZxQ%3D&amp;Expires=1363669286&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=eJcFsaVu8HI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/eJcFsaVu8HI/hqdefault.jpg"></media:thumbnail></item><item><title>Deploying web applications to the cloud with Python</title><link>http://www.pyvideo.org/video/1026/deploying-web-applications-to-the-cloud-with-pyth</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Nate Aune - 23 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+How can Python help you deploy web applications to the cloud? Amazon EC2
+provides virtual machines on demand but as a developer you still have to
+configure these machines and push your code to them. Fabric is a Python
+library that lets you execute commands on a remote machine, and Boto is a
+Python library for interfacing with Amazon web services. By using Fabric and
+Boto, you can easily create repeatable deployments and provision new resources
+as needed with minimal effort.
+
+This talk will introduce Amazon Web Services and how to launch new machines
+using simple Boto scripts, and how to get started making your own repeatable
+deployments using Fabric scripts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nate Aune</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1026/deploying-web-applications-to-the-cloud-with-pyth</guid><enclosure url="http://www.youtube.com/watch?v=zvwi-PLrCgE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/zvwi-PLrCgE/hqdefault.jpg"></media:thumbnail></item><item><title>Deploying web applications to the cloud with Python</title><link>http://www.pyvideo.org/video/1155/deploying-web-applications-to-the-cloud-with-pyt-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Nate Aune - 23 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+How can Python help you deploy web applications to the cloud? Amazon EC2
+provides virtual machines on demand but as a developer you still have to
+configure these machines and push your code to them. Fabric is a Python
+library that lets you execute commands on a remote machine, and Boto is a
+Python library for interfacing with Amazon web services. By using Fabric and
+Boto, you can easily create repeatable deployments and provision new resources
+as needed with minimal effort.
+
+This talk will introduce Amazon Web Services and how to launch new machines
+using simple Boto scripts, and how to get started making your own repeatable
+deployments using Fabric scripts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nate Aune</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1155/deploying-web-applications-to-the-cloud-with-pyt-0</guid><enclosure url="http://www.youtube.com/watch?v=BTpjJkTXFSQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/BTpjJkTXFSQ/hqdefault.jpg"></media:thumbnail></item><item><title>An iPhone-Python love affair: Building APIs for mobile</title><link>http://www.pyvideo.org/video/1164/an-iphone-python-love-affair-building-apis-for-m</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Mobile apps are the hot item of the day - and the best mobile apps are backed
+by a great website. Python web developer Nate Aune and iPhone developer Anna
+Callahan will show you how we built a simple music web app in Django with a
+native iPhone app that communicates with it. Attendees of this talk will see a
+concrete case study of building an application that exposes an API for mobile
+devices.
+
+Our web app exposes a JSON API for sending and receiving data from the mobile
+device. We’ll talk about why we chose Django and the TastyPie API package, and
+discuss other Python-based frameworks that could be used to build the API such
+as Pyramid, Flask and Bottle. We’ll also compare REST and custom APIs to
+understand best practices for building APIs designed for mobile devices.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Callahan,Nate Aune</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1164/an-iphone-python-love-affair-building-apis-for-m</guid><enclosure url="http://www.youtube.com/watch?v=GB0EJUhC7yc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/GB0EJUhC7yc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

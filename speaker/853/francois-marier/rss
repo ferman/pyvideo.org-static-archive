@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Francois Marier</title><link>http://www.pyvideo.org/speaker/853/francois-marier/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/853/francois-marier/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 13 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>External dependencies in web apps: system libs are not that scary</title><link>http://www.pyvideo.org/video/3222/external-dependencies-in-web-apps-system-libs-ar</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Francois Marier:
+External dependencies in web apps: system libs are not that scary
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2 
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+Going to production is very different from setting up a development environment. We have great tools like pip and virtualenv for the latter but they lead to maintenance anti-patterns when they are used for production deployments. We don't "pip install apache" and instead leverage the QA and integration work of distro developers, so why not rely on distros for more than just the base system?
+
+**Abstract**
+
+Today's web applications often have a lot of external dependencies. Start off with a basic framework, sprinkle a couple of handy plugins or python modules and finish with a generous serving of JavaScript front-end libraries.
+
+What you end up is a gigantic mess of code from different sources which follow very different release schedules and policies. Language-specific package managers can automate much of the dependency resolution and package installation, but you're on your own in terms of integration and quality assurance. Also, the minute you start distributing someone else's code with your project, you become responsible for the security of that external code.
+
+You could of course decide to avoid the problem by writing it all yourself from scratch. Realistically though, you're not likely to go past the stage of a toy WSGI app using that approach because it's a lot of work.
+
+This talk will examine the decision that the Libravatar [1] project made to outsource much of its maintenance burden to the distro by using system packages for almost everything.
+
+[1] https://www.libravatar.org/
+
+**Slides**
+
+https://speakerdeck.com/nzpug/francois-marier-external-dependencies-in-web-apps-system-libs-are-not-that-scary</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francois Marier</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3222/external-dependencies-in-web-apps-system-libs-ar</guid><enclosure url="http://youtu.be/wfDhGAMPS1g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/wfDhGAMPS1g/hqdefault.jpg"></media:thumbnail></item><item><title>The web beyond usernames and passwords</title><link>http://www.pyvideo.org/video/1644/the-web-beyond-usernames-and-passwords</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Persona is a new cross-browser login and identity system for the web that is
+pragmatic, federated, and serves the user.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Persona is a new cross-browser login and identity system for the web that is
+pragmatic, federated, and serves the user.
+
+Unlike other popular solutions, it puts a strong emphasis on privacy
+protection and makes your browser the trusted intermediary. Developed by
+Mozilla, it is based on the simple idea of users demonstrating ownership of
+their email address (with a generous serving of crypto magic under the hood).
+
+This talk will give a high-level overview of the system and then show how
+simple it is to add support for it in a Python webapp. If you want to make it
+easy for users to log into your site but don't want the risks and hassle of
+storing passwords, or if you cannot quite get your head around complicated
+authentication systems, then this talk is for you!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francois Marier</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1644/the-web-beyond-usernames-and-passwords</guid><enclosure url="http://www.youtube.com/watch?v=T6Iu7KgiC0A" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/T6Iu7KgiC0A/hqdefault.jpg"></media:thumbnail></item></channel></rss>

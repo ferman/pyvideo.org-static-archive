@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Bennetts</title><link>http://www.pyvideo.org/speaker/263/andrew-bennetts/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/263/andrew-bennetts/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:25:02 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Making your Python code fast</title><link>http://www.pyvideo.org/video/474/pyconau-2010--making-your-python-code-fast</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making your Python code fast
+
+Presented by Andrew Bennetts (Canonical)
+
+Before you can make your program faster you need to understand why it slow.
+Andrew will show you some tools and techniques for investigating and analysing
+your program's performance.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Bennetts</dc:creator><guid>http://www.pyvideo.org/video/474/pyconau-2010--making-your-python-code-fast</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/474_pyconau-2010-making-your-python-code-fast.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-MakingYourPythonCodeFast592.png"></media:thumbnail></item><item><title>PyConAU 2010: What's eating my memory?</title><link>http://www.pyvideo.org/video/478/pyconau-2010--what--39-s-eating-my-memory</link><description>&lt;p&gt;Description&lt;/p&gt;
+What's eating my memory?
+
+Presented by Andrew Bennetts (Canonical)
+
+Ever wondered why your Python process has consumed 2 gigabytes of memory
+overnight? Ever torn out your hair trying to find out why? Andrew will show
+you some tools and techniques that can help you investigate.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Bennetts</dc:creator><guid>http://www.pyvideo.org/video/478/pyconau-2010--what--39-s-eating-my-memory</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/478_pyconau-2010-what-s-eating-my-memory.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-WhatsEatingMyMemory591.png"></media:thumbnail></item></channel></rss>

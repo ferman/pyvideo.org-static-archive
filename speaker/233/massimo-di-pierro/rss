@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Massimo Di Pierro</title><link>http://www.pyvideo.org/speaker/233/massimo-di-pierro/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/233/massimo-di-pierro/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Eight years of web2py</title><link>http://www.pyvideo.org/video/3547/eight-years-of-web2py</link><description>&lt;p&gt;Description&lt;/p&gt;
+This is a compressed tutorial about web2py taking an historical prospective, going from its older features to some of the most recent ones. No previous experience required.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Massimo Di Pierro</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3547/eight-years-of-web2py</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3547_Eight_years_of_web2py.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3547_Eight_years_of_web2py.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/FaaltEB_v0s" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg"></media:thumbnail></item><item><title>web2py: ideas we stole and ideas we had</title><link>http://www.pyvideo.org/video/714/web2py-ideas-we-stole-and-ideas-we-had</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk we will provide an overview of some of the web2py design
+decisions and its newest features. In particular we will discuss which design
+decisions were inspired by other frameworks (Django, Turbogears, Flask) and
+which were not and why.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Massimo Di Pierro</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/714/web2py-ideas-we-stole-and-ideas-we-had</guid><enclosure url="https://www.youtube.com/watch?v=M5IPlMe83yI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/M5IPlMe83yI/hqdefault.jpg"></media:thumbnail></item><item><title>web2py secrets tutorial (1/2)</title><link>http://www.pyvideo.org/video/433/pycon-2011--web2py-secrets-tutorial--1-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+web2py secrets
+
+Presented by Massimo Di Pierro
+
+We will provide an introduction to web2py with particular focus on its design
+objectives, its differences when compared to other web frameworks, and some of
+the most recently added features (components, plugins, openid/oauth
+integration).
+
+Abstract
+
+Web2py is a framework for rapid web application development of secure
+database-driven web applications. In this tutorial we will provide a brief
+introduction to web2py, the web based IDE, its internal design, and its
+internal file organization. We will explain the motivations behind some of its
+most controversial design goals. We will also discuss in some detail its Ajax
+capabilities by using web2py components and plugins for modular design of rich
+web interfaces.
+
+This will be a very concentrated version (10%) of a course (CSC438) on web
+frameworks the author teaches at DePaul University. The course has been taught
+3 times and the last time counted more than 30 students.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Massimo Di Pierro</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/433/pycon-2011--web2py-secrets-tutorial--1-2</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/433_web2py-secrets-tutorial-1-2.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Mdipierro-web2pyTutorialPycon201112623-523.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Roberto Polli</title><link>http://www.pyvideo.org/speaker/1434/roberto-polli/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1434/roberto-polli/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 09 Jun 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Test Driven Deployment with Nose Test and IPython</title><link>http://www.pyvideo.org/video/3564/test-driven-deployment-with-nose-test-and-ipython</link><description>&lt;p&gt;Description&lt;/p&gt;
+Devops gospel is widespread, but what happens to big legacy infrastructures? The switch to Continuous Delivery is hard:
+
+* customers are reluctant to disruptive changes;
+* old operation teams must adapt to new technologies.
+
+We’ll show how a light Test Driven approach to system delivery allowed us to:
+
+* reduce software updates time;
+* eliminate maintenance issues;
+* contribute to open source;
+
+The operation team had no troubles thanks to the fast learning curve of python.
+
+The library we contribute has been included in Red Hat 389 Directory Server.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto Polli</dc:creator><pubDate>Tue, 09 Jun 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3564/test-driven-deployment-with-nose-test-and-ipython</guid><enclosure url="https://www.youtube.com/watch?v=oF7G8HPOSlo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/oF7G8HPOSlo/maxresdefault.jpg"></media:thumbnail></item><item><title>Statistics 101 for System Administrators</title><link>http://www.pyvideo.org/video/3040/statistics-101-for-system-administrators</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python allows every sysadmin to run  (and learn) basic statistics on system data, replacing sed, awk, bc and gnuplot with an unique, reusable and interactive framework. The talk is a case study where python allowed us to highlight some network performance points in minutes using itertools, scipy and matplotlib. The presentation includes code snippets and a brief plot discussion.
+&lt;p&gt;Description&lt;/p&gt;
+#Statistics 101 for System Administrators
+
+## Agenda
+ * A latency issue
+ * Data distribution
+ * 30 seconds correlation with pearsonr
+ * Combinating data
+ * Plotting and the power of color
+
+## An use case 
+ - Network latency issues
+ - Correlate latency with other events 
+    
+## First statistics 
+ - we created our parsing library 
+ - [using various recipes](http://chimera.labs.oreilly.com/books/1230000000393/ch06.html)
+ - Having the data in a dict like
+
+        &gt; table = {
+        &gt;   'time': [ 1,2,3, ..],
+        &gt;   'elapsed': [ 0.12, 12.43, ..],
+        &gt;   'error': [ 2, 0, ..],
+        &gt;   'size': [123,3223, ..],
+        &gt;   'peers': [2313, 2303, ..],
+
+ - It's easy to get max, min and standard deviation
+
+        &gt; print [k, max(v), min(v), stats.mean(v) ] for k,v in table.items() ]
+
+## Distribution 
+ - A distribution shows event frequency 
+
+        &gt; from matplotlib import pyplot
+        &gt; pyplot.hist(table['elapsed'])
+
+ - Time and Size distributions
+
+## (Linear) Correlation 
+ - What's correlation
+ - What's not correlation
+ - pearsonr and probability
+ - catch for linear correlation
+
+        &gt; from scipy.stats.stats import pearsonr
+        &gt; a, b = range(0,10), range(0,20, 2)
+        &gt; c = [randint(0,10) for x in a]
+        &gt; pearsonr(a, b), pearsonr(a,c)
+        &gt; (1.0, 0.0), (0.43, 0.2)
+
+## Combinations 
+ - using itertools.combinations
+ - netfishing correlation
+
+        &gt;from itertools import combination
+        &gt;for f1, f2 in combinations(table, 2):
+        &gt;        r, p_value = pearsonr(table[f1], table[f2])
+        &gt;        print("the correlation between %s and %s is: %s" % (f1, f2, r))
+        &gt;        print("the probability of a given distribution (see manual) is: %s" % p_value)
+
+## Plot always 
+
+ - pearsonr finds *only* linear correlation
+ - our eyes work better :P
+ - so...plot always!
+ - color is the 3d dimension of a plot!
+
+        &gt; from pyplot import scatter, title, xlabel, ylabel, legend
+        &gt; from pyplot import savefig, close as closefig
+        &gt;
+        &gt; for f1, f2 in combinations(table, 2):
+        &gt;    scatter(table[f1], table[2], label="%s_%s" % (f1,f2))
+        &gt;    # add legend and other labels
+        &gt;    r, p = pearsonr(table[f1], table[f2])
+        &gt;    title("Correlation: %s v %s, %s" % (f1, f2, r))
+        &gt;    xlabel(f1), ylabel(f2)
+        &gt;    legend(loc='upper left') # show the legend in a suitable corner
+        &gt;    savefig(f1 + "_" + f2 + ".png")
+        &gt;    closefig()
+
+ 
+## Wrap Up! 
+ - do not use pearsonr to *exclude* relation between events
+ - plots may serve better
+ - scatter plot can show a system thruput and exclude correlation between fields A and fields B
+ - continue collecting results
+ 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto Polli</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3040/statistics-101-for-system-administrators</guid><enclosure url="http://www.youtube.com/watch?v=2oPevmFcZxI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/2oPevmFcZxI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nick Seidenman</title><link>http://www.pyvideo.org/speaker/252/nick-seidenman/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/252/nick-seidenman/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:38 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Multiple, Heterogeneous Models in Pylons</title><link>http://www.pyvideo.org/video/460/pyconau-2010--multiple--heterogeneous-models-in-p</link><description>&lt;p&gt;Description&lt;/p&gt;
+Multiple, Heterogeneous Models in Pylons
+
+Presented by Nick Seidenman (WEHI)
+
+There is a fair amount of sparse, disjoint information available on how to use
+multiple, possibly diverse databases within a single Pylons app. This talk
+seeks to present a coherent guideline, derived from lessons learned, on how to
+use several different data stores (sqlite, postgresql, mysql, flat files)
+simultaneously within the same pylons project.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Seidenman</dc:creator><guid>http://www.pyvideo.org/video/460/pyconau-2010--multiple--heterogeneous-models-in-p</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/460_pyconau-2010-multiple-heterogeneous-models-in-pylons.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-MultipleHeterogeneousModelsInPylons870.png"></media:thumbnail></item></channel></rss>

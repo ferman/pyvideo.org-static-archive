@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard Jones</title><link>http://www.pyvideo.org/speaker/64/richard-jones/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/64/richard-jones/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: State Of Python</title><link>http://www.pyvideo.org/video/454/pyconau-2010--state-of-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+State Of Python
+
+Presented by Richard Jones
+
+This talk will present a whirlwind update of the state of Python as of June
+2010. It will cover the evolution of the language itself, its variants,
+versions and veracity. It will cover the state of packaging, distributing and
+pypi.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><guid>http://www.pyvideo.org/video/454/pyconau-2010--state-of-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/454_pyconau-2010-state-of-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-StateOfPython134-441.jpg"></media:thumbnail></item><item><title>Richard Jones - Making Django awesomer</title><link>http://www.pyvideo.org/video/129/richard-jones---making-django-awesomer</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making Django awesomer
+
+Presented by Richard Jones
+
+Abstract
+
+In this talk I will present a number of extensions to the core of Django that
+will make your life a lot easier and/or awesomer.
+
+Outline
+
+I will:
+
+  1. talk about how to find extensions, 
+  2. walk through installing some common extensions, 
+  3. look at the functionality provided by some developer tools, and 
+  4. demonstrate the power of a social networking site extension 
+
+Attendees should have some familiarity with Django.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><guid>http://www.pyvideo.org/video/129/richard-jones---making-django-awesomer</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/129_richard-jones-making-django-awesomer.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-RichardJonesMakingDjangoAwesomer268-681.jpg"></media:thumbnail></item><item><title>Richard Jones - Tkinter doesn't suck, honest</title><link>http://www.pyvideo.org/video/118/richard-jones---tkinter-doesn--39-t-suck--honest</link><description>&lt;p&gt;Description&lt;/p&gt;
+Tkinter doesn't suck, honest
+
+Presented by Richard Jones
+
+Abstract
+
+In this talk I hope to dispel the myth that Tkinter just plain sucks through
+the use of some concrete examples of simple use resulting in effective user
+interfaces.
+
+Outline
+
+I intend to cover some basics of getting Tkinter GUIs up and running, and then
+look at some simple use-cases, including: - file dialogs in minutes - script
+configuration dialog - basics of interface design / packing - a look at the
+widgets built in - a look at some of the extensions
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><guid>http://www.pyvideo.org/video/118/richard-jones---tkinter-doesn--39-t-suck--honest</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/118_richard-jones-tkinter-doesn-t-suck-honest.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-RichardJonesTkinterDoesntSuckHonest798-250.jpg"></media:thumbnail></item><item><title>Introduction to game programming with Kivy</title><link>http://www.pyvideo.org/video/3450/introduction-to-game-programming-with-kivy</link><description>&lt;p&gt;Description&lt;/p&gt;
+This tutorial will walk the attendees through development of a simple game using Kivy with time left over for some experimentation and exploration of different types of games.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3450/introduction-to-game-programming-with-kivy</guid><enclosure url="https://www.youtube.com/watch?v=U14P8gtjQmU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/U14P8gtjQmU/hqdefault.jpg"></media:thumbnail></item><item><title>devpi: Your One Stop Cheese Shop by Richard Jones</title><link>http://www.pyvideo.org/video/3103/devpi-your-one-stop-cheese-shop-by-richard-jones</link><description>&lt;p&gt;Description&lt;/p&gt;
+Modern Python developers depend on a large number of 3rd party packages. This in turn introduces a problem: how to manage those packages for rapid, reliable deployment in a world where the central repository - PyPi (the Cheese Shop) - is out of their control. Additionally, private packages may be developed which need to seamlessly be integrated into the deployment systems.
+
+In this talk I will present devpi, a PyPI (Cheese Shop) server and packaging/testing/release tool. I will cover its reasons for existing, its many capabilities and configuration for some common scenarios.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3103/devpi-your-one-stop-cheese-shop-by-richard-jones</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/64-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/64-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=pZTiAkwiPgI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/pZTiAkwiPgI/hqdefault.jpg"></media:thumbnail></item><item><title>Introduction to game programming</title><link>http://www.pyvideo.org/video/2620/introduction-to-game-programming</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will walk the attendees through development of a simple game using PyGame with time left over for some experimentation and exploration of different types of games.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2620/introduction-to-game-programming</guid><enclosure url="http://www.youtube.com/watch?v=bMt47wvK6u0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/bMt47wvK6u0/hqdefault.jpg"></media:thumbnail></item><item><title>Don't Do This</title><link>http://www.pyvideo.org/video/2210/dont-do-this</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In which Richard will tell you about some things you should never (probably ever) do to or in Python. Warranties may be voided.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2210/dont-do-this</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Dont_Do_This.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Dont_Do_This.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=H2yfXnUb1S4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/H2yfXnUb1S4/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Directions for Packaging</title><link>http://www.pyvideo.org/video/1731/panel-directions-for-packaging</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+What needs to happen to finally offer a first-class packaging
+experience to Python users? Several of the people working directly on
+that problem will be here to answer your questions.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Holth,Éric Araujo,Jason R. Coombs,JIm Fulton,Marcus Smith,Nick Coghlan,Richard Jones</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1731/panel-directions-for-packaging</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Panel_Directions_for_Packaging.mp4?Signature=eQptpaf3Gdv4Upvxsm4x9%2BvzRP0%3D&amp;Expires=1363808957&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Panel_Directions_for_Packaging.mp4?Signature=eQptpaf3Gdv4Upvxsm4x9%2BvzRP0%3D&amp;Expires=1363808957&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ePFWp3oSfyU" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/ePFWp3oSfyU/hqdefault.jpg"></media:thumbnail></item><item><title>Introduction to PyGame</title><link>http://www.pyvideo.org/video/1718/introduction-to-pygame</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will walk the attendees through development of a simple game using PyGame with time left over for some experimentation and exploration of different types of games.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><pubDate>Thu, 14 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1718/introduction-to-pygame</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Introduction_to_PyGame.mp4?Signature=ojSyazRqK3Vri4htTGOTgY6WwsI%3D&amp;Expires=1363902653&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Introduction_to_PyGame.mp4?Signature=ojSyazRqK3Vri4htTGOTgY6WwsI%3D&amp;Expires=1363902653&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=mTmJfWdZzbo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/mTmJfWdZzbo/hqdefault.jpg"></media:thumbnail></item><item><title>Introduction to Game Development</title><link>http://www.pyvideo.org/video/615/introduction-to-game-development</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will walk the attendees from some introductory game development
+theory (what makes a good game) and through development of a simple game (how
+to make a good game) with time left over for some experimentation and
+exploration of different types of games.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie Cunningham,Richard Jones</dc:creator><pubDate>Thu, 08 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/615/introduction-to-game-development</guid><enclosure url="https://www.youtube.com/watch?v=duc3jYgAaR0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/duc3jYgAaR0/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python 3</title><link>http://www.pyvideo.org/video/979/panel-python-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is a panel discussion in which Nick Coghlan, Raymond Hettinger and
+Richard Jones discuss the state of Python 3, some of the new features, the 3rd
+party adoption, migration strategies and open to the floor for questions.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Coghlan,Raymond Hettinger,Richard Jones</dc:creator><pubDate>Tue, 23 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/979/panel-python-3</guid><enclosure url="http://www.youtube.com/watch?v=dt3JpHo-gNg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/dt3JpHo-gNg/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python in the webs</title><link>http://www.pyvideo.org/video/985/panel-python-in-the-webs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This will be a panel discussion wherein we wax philosophical about the state
+of web frameworks in Python - talking about invention, reinvention, multitudes
+of choice, how all of them suck, etc. Panelists will include Dylan Jay,
+Malcolm Tredinnick, Russell Keith-Magee and Richard Jones.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay,Malcolm Tredinnick,Richard Jones,Russell Keith-Magee</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/985/panel-python-in-the-webs</guid><enclosure url="http://www.youtube.com/watch?v=0aBCpu53z9Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/0aBCpu53z9Q/hqdefault.jpg"></media:thumbnail></item><item><title>Web micro-framework battle</title><link>http://www.pyvideo.org/video/983/web-micro-framework-battle</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I'll be running through the current choices of web micro
+frameworks and comparing them by implementing a simple application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Jones</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/983/web-micro-framework-battle</guid><enclosure url="http://www.youtube.com/watch?v=AYjPIMe0BhA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/AYjPIMe0BhA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

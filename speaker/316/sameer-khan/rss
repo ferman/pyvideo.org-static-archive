@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Sameer Khan</title><link>http://www.pyvideo.org/speaker/316/sameer-khan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/316/sameer-khan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:37:36 -0000</lastBuildDate><ttl>500</ttl><item><title>Simplify your (Python) Life</title><link>http://www.pyvideo.org/video/554/simplify-your--python--life</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We'll go over some intermediate to advanced topics and consider pros and cons
+of choosing the simpler approach vs. the possibly more complicated or
+redundant one. The aim is to reduce the number of language APIs and constructs
+most programmers have to carry in their head to a smaller and more coherent
+set. Along the way some best practices will also be discussed that are at a
+higher level than things that can be flagged by automated syntax checking
+tools such as pylint, pyflakes, etc.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Following are the topics we'll cover:
+
+  * Language/API design and how warts can creep into even well designed products over time.
+  * "Worse is better" approach may be good enough ("satisficing").
+  * An eclectic mix of language constructs that usually trip newcomers--and sometimes even experienced programmers--which we'll survey:
+    1. __new__
+    2. __del__
+    3. __call__
+    4. __slots__
+    5. classmethod vs. staticmethod
+    6. decorators (guidelines for writing your own)
+    7. class decorators vs. metaclasses
+    8. delegation via getattr
+    9. Interfaces and getattr
+  * We'll see how delegation and interfaces tie into the thinking behind GoF Design Patterns.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sameer Khan</dc:creator><guid>http://www.pyvideo.org/video/554/simplify-your--python--life</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/554_simplify-your-python-life.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-SimplifyYourPythonLife131-952.jpg"></media:thumbnail></item></channel></rss>

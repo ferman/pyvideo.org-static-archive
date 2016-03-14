@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Francesco Biscani</title><link>http://www.pyvideo.org/speaker/1577/francesco-biscani/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1577/francesco-biscani/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 14 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Francesco Biscani: A Snake in Space (Keynote) </title><link>http://www.pyvideo.org/video/3212/francesco-biscani-a-snake-in-space-keynote</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Francesco Biscani:
+A Snake in Space - The rise of scientific Python in Astrodynamics and Astronomy
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Keynote
+http://kiwi.pycon.org/
+
+**Slides**
+
+https://speakerdeck.com/nzpug/francesco-biscani-a-snake-in-space-the-rise-of-scientific-python-in-astrodynamics-and-astronomy-keynote</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Biscani</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3212/francesco-biscani-a-snake-in-space-keynote</guid><enclosure url="http://www.youtube.com/watch?v=9-PxGDp6R1Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9-PxGDp6R1Q/hqdefault.jpg"></media:thumbnail></item></channel></rss>

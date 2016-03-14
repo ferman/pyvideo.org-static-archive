@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Frank J Wierzbicki</title><link>http://www.pyvideo.org/speaker/154/frank-j-wierzbicki/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/154/frank-j-wierzbicki/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Panel: Python VMs</title><link>http://www.pyvideo.org/video/421/panel-python-vms</link><description>&lt;p&gt;Description&lt;/p&gt;
+Panel: Python VMs
+
+Presented by Jacob Kaplan-Moss, Brett Cannon, Maciej Fijalkowski, Frank
+Wierzbicki, Dino Viehland
+
+Python is lucky enough to have a healthy ecosystem of virtual machines (VMs)
+exist. CPython, Jython, IronPython, and PyPy are all used extensively by
+people in real-world situations. This panel brings together a representative
+from each of the major VMs to discuss where they are now, going in the future,
+and to answer questions from the community.
+
+Abstract
+
+All four major Python VMs will be represented:
+
+  * [CPython](http://python.org/): Brett Cannon 
+  * [Jython](http://www.jython.org/): Frank Wierzbicki 
+  * [IronPython](http://ironpython.net/): Dino Viehland 
+  * [PyPy](http://pypy.org/): Maciej Fijalkowski 
+Moderation will be handled by Jacob Kaplan-Moss of Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Cannon,Dino Viehland,Frank J Wierzbicki,Jacob Kaplan-Moss,Maciej Fijalkowski</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/421/panel-python-vms</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/421_panel-python-vms.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PanelPythonVMs871.png"></media:thumbnail></item><item><title>Extending Java Applications with Jython (#65)</title><link>http://www.pyvideo.org/video/329/pycon-2010--extending-java-applications-with-jyth</link><description>&lt;p&gt;Description&lt;/p&gt;
+Extending Java Applications with Jython
+
+  
+Presented by Frank J Wierzbicki (Jython)
+
+  
+Jython is an implementation of Python for the JVM. This talk covers the
+options available for integrating Jython and Java code, especially Java
+calling into Jython, since this is the trickier case. This talk will also
+cover some Java specific deployment options, such as deploying your Jython
+application as a jar file. Jar files allow you to package Java/Jython
+applications into a single archive. In many environments a user can click on a
+jar file to launch the contained application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Frank J Wierzbicki</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/329/pycon-2010--extending-java-applications-with-jyth</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/329_extending-java-applications-with-jython-65.ogv" length="223855685" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/329_extending-java-applications-with-jython-65.ogv" fileSize="223855685" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/329_extending-java-applications-with-jython-65.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ExtendingJavaApplicationsWithJython65790.png"></media:thumbnail></item></channel></rss>

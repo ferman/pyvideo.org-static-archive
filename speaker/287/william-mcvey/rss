@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of William McVey</title><link>http://www.pyvideo.org/speaker/287/william-mcvey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/287/william-mcvey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:53 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Processing Large Datasets with Hadoop and Python</title><link>http://www.pyvideo.org/video/504/pyohio-2010--processing-large-datasets-with-hadoo</link><description>&lt;p&gt;Description&lt;/p&gt;
+Processing Large Datasets with Hadoop and Python
+
+Presented by William McVey
+
+This talk will explore how Hadoop along with Python can be used to process
+large datasets. An overview of the Apache Hadoop project will be given. The
+map/reduce concept will be introduced and some methods of coding the data
+processing routines in python will be explored. The talk will use real world
+examples to illustrate how this approach can be used to parallelize
+computationally expensive operations across multiple cluster nodes effectively
+using python.
+
+The course will assume familiarity with the Python language during the demos,
+but will not actually require a deep knowledge of python to understand the
+concepts introduced.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">William McVey</dc:creator><guid>http://www.pyvideo.org/video/504/pyohio-2010--processing-large-datasets-with-hadoo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/504_pyohio-2010-processing-large-datasets-with-hadoop-and-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ProcessingLargeDatasetsWithHadoopAndPython989.png"></media:thumbnail></item></channel></rss>

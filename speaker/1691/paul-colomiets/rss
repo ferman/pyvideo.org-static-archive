@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Paul Colomiets</title><link>http://www.pyvideo.org/speaker/1691/paul-colomiets/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1691/paul-colomiets/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 02 Nov 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>LINUX CONTAINERS ECOSYSTEM</title><link>http://www.pyvideo.org/video/3352/linux-containers-ecosystem</link><description>&lt;p&gt;Description&lt;/p&gt;
+Docker changed the way we do development and deployment. But most people use it as a black box that do the job most of the time. This is advanced level talk that explains how linux containers work in depth. What new perspectives they open. And what new challenges they impose. After this lecture you might be able to implement your own Docker or to build more sophisticated tools on top of linux containers.
+It consists of three parts:
+
+
+  1. Internals of linux namespaces: system calls and other things behind containers
+  2. Overview of different container implementations: docker, lxc, vagrant-lxc, nix...
+  3. New security challenges of namespaces with great emphasis on Docker and clouds </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Colomiets</dc:creator><pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3352/linux-containers-ecosystem</guid><enclosure url="https://www.youtube.com/watch?v=bDRk_LCpN1Q" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/bDRk_LCpN1Q/hqdefault.jpg"></media:thumbnail></item></channel></rss>

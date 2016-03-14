@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of R. David Murray</title><link>http://www.pyvideo.org/speaker/372/r-david-murray/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/372/r-david-murray/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>The Email Package: Past, Present, and Future</title><link>http://www.pyvideo.org/video/684/the-email-package-past-present-and-future</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The email package in the Python Standard library has had a somewhat rocky
+transition into the Python3 era, and still doesn't handle non-ASCII easily.
+That is about to change. This talk will compare how things worked in Python2
+(the past), how things work now (in Python3.2), and how things will work much
+better in the future (hopefully Python3.3).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">R. David Murray</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/684/the-email-package-past-present-and-future</guid><enclosure url="https://www.youtube.com/watch?v=C9K8DOe1zWw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/C9K8DOe1zWw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

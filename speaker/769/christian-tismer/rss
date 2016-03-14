@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christian Tismer</title><link>http://www.pyvideo.org/speaker/769/christian-tismer/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/769/christian-tismer/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 23 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Stackless: Recent advancements and future goals</title><link>http://www.pyvideo.org/video/2998/stackless-recent-advancements-and-future-goals</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Stackless (formerly known as Stackless-Python) is an enhanced variant of the Python-language. Stackless is best 
+known for its lightweight microthreads. But that's not all. In this talk Stackless core developers demonstrate
+recent advancements regarding multi-threading, custom-scheduling, debugging with Stackless and explain future 
+plans for Stackless.
+&lt;p&gt;Description&lt;/p&gt;
+Stackless: Recent advancements and future goals
+-------------------------------------------------------
+
+Since Python release 1.5 Stackless Python is an enhanced variant of C-Python.
+Stackless is best known for its addition of lightweight microthreads (tasklets) and 
+channels.
+
+Less known are the recent enhancements that became available with Stackless 2.7.6. 
+In this talk core Stackless developers demonstrate
+
+ * The improved multi-threading support
+ * How to build custom scheduling primitives based on atomic tasklet operations
+ * The much improved debugger support
+ * ...
+ 
+Stackless recently switched the new master repository from hg.python.org/stackless to bitbucket to 
+allow for a more open development process. We'll summarise our experience and discuss our
+plans for the future development of Stackless.
+
+The talk will be help by Anselm Kruis and Christian Tismer.
+If we are lucky, we will also welcome Kristján Valur Jónsson from Iceland.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anselm Kruis,Christian Tismer</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2998/stackless-recent-advancements-and-future-goals</guid><enclosure url="http://www.youtube.com/watch?v=H3sQLC40GXU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/H3sQLC40GXU/hqdefault.jpg"></media:thumbnail></item><item><title>Tiffany - Multipage-Tiff Lesen und Schreiben mit PIL ohne PIL </title><link>http://www.pyvideo.org/video/1445/tiffany-multipage-tiff-lesen-und-schreiben-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Tiffany steht für beliebiges Tiff. Das kleine Modul löst eine grosse Menge
+
+von Problemen, hat keine Abhängigkeiten, keine Binaries und läuft
+
+überall wo Python läuft.
+
+Bei der Entwicklung von Pydica (Distributed Document Capture) wurden wir
+
+mit dem Problem konfrontiert, mehrseitige Tiff-Dateien anzuzeigen. Das
+
+GUI-Toolkit PySide (Qt) unterstützt zwar Tiff, zeigt jedoch nur die erste
+Seite.
+
+Zudem behandeln wir Fax-komprimierte Dateien, was Qt aber unterstützt.
+
+PIL verfügt über eine Bereinigung der Tiff-Tags, kommt aber nicht mit der
+
+Fax-Kompression zurecht. Es gibt seit langem einen Patch dafür, jedoch ist
+
+der Build-Prozess erschwert und zieht mit libtiff eine Kette von
+Abhängigkeiten
+
+nach sich.
+
+Daher benutzt Tiffany einige wenige Dateien aus PIL ohne diese zu verändern
+und täuscht
+
+vor, die Tiff-Dateien zu entpacken, tut es aber nicht. Es werden lediglich die
+
+Tiff-Tags ordentlich aufbereitet. Die komprimierten Daten werden so übernommen
+
+wie sie sind. Beim Schreiben von Dateien werden daher lediglich die
+vorhandenen
+
+Daten in anderer Reihenfolge wieder zusammengesetzt.
+
+Im Vortrag werde ich die Implementierung vorstellen sowie weitere
+Alternativen,
+
+die Zukunft von PIL sowie auf weitere Tips und Kniffe in unserem Projekt
+eingehen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Tismer</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1445/tiffany-multipage-tiff-lesen-und-schreiben-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Tiffany_MultipageTiff_.mp4?Signature=LzhUSulO8gTQB6EW%2FAwKRe4t5Rs%3D&amp;Expires=1351854127&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Tiffany_MultipageTiff_.mp4?Signature=LzhUSulO8gTQB6EW%2FAwKRe4t5Rs%3D&amp;Expires=1351854127&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=qiZS1b_XFGs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/qiZS1b_XFGs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

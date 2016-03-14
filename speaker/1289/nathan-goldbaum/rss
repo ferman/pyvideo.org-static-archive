@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nathan Goldbaum</title><link>http://www.pyvideo.org/speaker/1289/nathan-goldbaum/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1289/nathan-goldbaum/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 14 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>yt: volumetric data analysis</title><link>http://www.pyvideo.org/video/2779/yt-volumetric-data-analysis</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+yt started as a tool for visualizing data from astrophysical simulations, but it has evolved into a method for analyzing generic volumetric data.  In this talk we will present yt 3.0, which includes an increased focus on inquiry-driven analysis and visualization, a sympy-powered unit system, a revised user interface, and the ability to scale to petabyte datasets and tens of thousands of cores.
+&lt;p&gt;Description&lt;/p&gt;
+1. What is yt?
+
+    1. "Lingua-franca for astrophysical simulations"
+        1. [AGORA](https://sites.google.com/site/santacruzcomparisonproject/)
+        2. Some selections from [the gallery](http://yt-project.org/gallery.html)
+        3. 105 [citations to the yt method paper](http://adsabs.harvard.edu/cgi-bin/nph-ref_query?bibcode=2011ApJS..192....9T&amp;amp;refs=CITATIONS&amp;amp;db_key=AST)
+
+    2. Massively parallel
+
+        1. Examples of large-scale calculations and visualizations performed with yt
+
+        2. Usage data on XSEDE visualization resources
+
+    3. Volumetric data analysis beyond astrophysics
+
+        1. [Neurodome](http://www.neurodome.org/), Whole-earth seismic wave data, Weather simulation data, Nuclear engineering, Radio astronomy
+
+        2. ??? (insert your field here!)
+
+2. What's new in yt-3.0?
+
+    1. Rewrite of data selection, i/o, and field detection and creation
+
+    2. Octree and particle support (i.e., discrete points)
+
+    3. Unit conversions and dimensional analysis baked into the codebase
+
+    4. Rethinking the API, 'rebranding' the project
+
+    5. Advanced volume rendering
+
+3. Growing the Community
+
+    1. The gallery
+
+    2. Workshops
+
+    3. Contributor statistics.
+
+4. The future
+
+    1. New data styles
+
+        1. Unstructured meshes
+
+        2. Finite element analysis
+
+        3. Spectral codes
+
+    2. New domain-specific functionality (beyond astrophysics)
+
+    3. Browser GUIs powered by IPython
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nathan Goldbaum</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2779/yt-volumetric-data-analysis</guid><enclosure url="http://www.youtube.com/watch?v=sNkN7nyj4nE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/sNkN7nyj4nE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

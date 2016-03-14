@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Patrick Marsh</title><link>http://www.pyvideo.org/speaker/634/patrick-marsh/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/634/patrick-marsh/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Utilizing Python in a Real-Time, Quasi-Operational Meteorological Environment</title><link>http://www.pyvideo.org/video/1242/utilizing-python-in-a-real-time-quasi-operationa</link><description>&lt;p&gt;Description&lt;/p&gt;
+The National Oceanic and Atmospheric Administration's (NOAA) Hazardous Weather
+Testbed (HWT) is a facility jointly managed by NOAA's National Severe Storms
+Laboratory (NSSL), NOAA National Weather Service's (NWS) the Storm Prediction
+Center (SPC), and the NOAA NWS Oklahoma City/Norman Weather Forecast Office
+(OUN) within the National Weather Center building on the University of
+Oklahoma South Research Campus. The HWT is designed to accelerate the
+transition of promising new meteorological insights and technologies into
+advances in forecasting and warning for hazardous weather events throughout
+the United States. The HWT facilities include a combined forecast and research
+area situated between the operations rooms of the SPC and OUN, and a nearby
+development laboratory. The facilities support enhanced collaboration between
+research scientists and operational weather forecasters on specific topics
+that are of mutual interest.
+
+The cornerstone of the HWT is the yearly Experimental Forecast Program (EFP)
+and Experimental Warning Program (EWP) which take place every spring. In each
+of those programs, forecasters, researchers, and developers come together to
+participate in a real-time operational forecasting or warning environment with
+the purpose of testing and evaluating cutting-edge tools and methods for
+forecasting and warning. In the EFP program, between 5 and 10 TB of
+meteorological data are processed for evaluation over the course of a 5 week
+period. These data come in a variety of sources, a variety of formats, each
+requiring a different set of processing.
+
+This talk will discuss how the data flow and data creation processes of the
+EFP are accomplished in a real-time setting through the use of Python. The
+utilization of Python ranges from simple shell scripting, to speeding up
+algorithm development (and runtimes) with Numpy and Cython, to creating new,
+open source data-visualization platforms, such as the Skew-T and Hodograph
+Analysis and Research Program in Python, or SHARPpy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Patrick Marsh</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1242/utilizing-python-in-a-real-time-quasi-operationa</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Utilizing_Python_in_a_RealTime.mp4?Signature=6JVnu2cqjljXJd%2F8HbsSSvJfbdg%3D&amp;Expires=1346383456&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Utilizing_Python_in_a_RealTime.mp4?Signature=6JVnu2cqjljXJd%2F8HbsSSvJfbdg%3D&amp;Expires=1346383456&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=7-rey41z2us" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/7-rey41z2us/hqdefault.jpg"></media:thumbnail></item></channel></rss>

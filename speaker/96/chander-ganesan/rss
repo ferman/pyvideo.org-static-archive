@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chander Ganesan</title><link>http://www.pyvideo.org/speaker/96/chander-ganesan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/96/chander-ganesan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 07 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Introduction to Django</title><link>http://www.pyvideo.org/video/604/introduction-to-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The Django framework is a fast, flexible, easy to learn, and easy to use
+framework for designing and deploying web sites and services using Python. In
+this session, we'll cover the fundamentals of development with Django,
+generate a Django data model, and put together a simple web site using the
+framework.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chander Ganesan</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/604/introduction-to-django</guid><enclosure url="https://www.youtube.com/watch?v=hp5ymCrD9yw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/hp5ymCrD9yw/hqdefault.jpg"></media:thumbnail></item><item><title>Introduction to Django</title><link>http://www.pyvideo.org/video/255/pycon-2010--introduction-to-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction to Django
+
+Presented by Chander Ganesan
+
+The Django framework is a fast, flexible, easy to learn, and easy to use
+framework for designing and deploying web sites and services using Python. In
+this session, we'll cover the fundamentals of development with Django,
+generate a Django data model, and put together a simple web site using the
+framework.
+
+Intended Audience
+
+Beginner to Intermediate Python programmers
+
+Class Outline
+
+  * Django Overview and Basic Introduction (~ 5 min) 
+  * Downloading &amp; Installing Dango (~ 10 min) 
+  * Creating a new project (~ 5 min) 
+  * Choosing a database (~ 5 min) 
+  * Creating a new application (~ 5 min) 
+  * Installing &amp; Using Django contrib applications (~ 7 min) 
+  * Overview of Django flow (i.e., URLconf expression, view function, HTTPResponse object, etc.) (~7 min) 
+  * Generating Simple Dango Views (~ 5 min) 
+  * Configuring a URLConf for basic views (~ 5 min) 
+  * Creating Django Templates (template syntax, common filters and tags, loops, etc) (~ 10 min) 
+  * Creating &amp; using Template Context objects (~ 5 min) 
+  * Introduction to Django Models (~ 10 min) 
+  * Defining basic Django models (~ 15 min) 
+  * Understanding basic model fields &amp; options (~ 15 min) 
+  * Generating &amp; Reviewing Model SQL (~ 5 min) 
+  * Adding data to a model (~ 7 min) 
+  * Simple data retrieval using models (~ 7 min) 
+  * Working with QUerySets (filters, slicing, ordering, common methods) (~ 10 min) 
+  * Overview of Q objects (~ 5 min) 
+  * Using the Admin interface (~ 10 min) 
+  * Using Generic views (~ 10 min) 
+  * Access control with sessions &amp; users (~ 10 min) 
+
+Requirements
+
+  * Attendees wishing to try the examples should have Python 2.6 pre-installed ([http://www.python.org](http://www.python.org)) 
+  * Attendees should have Django pre-downloaded or pre-installed. ([http://www.djangoproject.com](http://www.djangoproject.com)) 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chander Ganesan</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/255/pycon-2010--introduction-to-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.ogv" length="965199376" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.ogv" fileSize="965199376" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010IntroductionToDjango732.png"></media:thumbnail></item><item><title>Introduction to Twisted</title><link>http://www.pyvideo.org/video/284/pycon-2010--introduction-to-twisted</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction to Twisted
+
+Presented by Chander Ganesan
+
+Interested in faster networking with Python? Twisted is an event-driven
+networking engine written in Python that allows developers to quickly and
+easily develop and deploy network services.
+
+In this tutorial, attendees will learn what twisted is, why to use it, how it
+works, and how to install, develop, and deploy simple clients and servers
+using Twisted.
+
+Attendees should bring a laptop if possible, to try out code examples in
+class.
+
+Intended Audience
+
+Intermediate Python Programmers with an understanding of Pythons object
+oriented syntax (classes, inheritance, etc.)
+
+Class Outline
+
+  * Introduction to Twisted (15 min) - Basic Concepts 
+    * Event-Driven model, cooperative multi-tasking 
+  * Installing Twisted &amp; Verifying Installation (10 min) 
+  * Starting the Event loop (10 min) 
+  * Timed Events (10 min) 
+  * Understanding Twisted Factories &amp; their use (15 min) 
+  * Understanding Protocol Objects &amp; their use (15 min) 
+  * Creating a simple Twisted Client (25 min) 
+    * Using twisted.internet.reactor.connectTCP() 
+    * Creating a Client Factory 
+    * Creating a Protocol 
+  * Creating a simple Twisted Server (Server Factory) (25 min) 
+    * Using twisted.internet.reactor.listenTCP() 
+    * Creating a Server Factory 
+  * Using Twisted SMTP to Send Mail (15 min) 
+  * Twisted Web Basics (25 min) 
+  * Introduction to the twist Daemonizer &amp; tac files (15 min) 
+
+Requirements
+
+  * An understanding of Object Oriented Python (OOP concepts, inheritance, classes, etc.) 
+  * Attendees wishing to try the examples should have Python 2.4 or newer and Twisted pre-installed. 
+  * Attendees wishing to try the examples should have Python 2.4 or newer and Twisted pre-downloaded (we'll go over installation) 
+  * Twisted may be downloaded at [http://www.twistedmatrix.com/](http://www.twistedmatrix.com)
+  * Windows users will require the Win32 extensions for Python as well [http://starship.python.net/crew/mhammond/win32/Downloads.html](http://starship.python.net/crew/mhammond/win32/Downloads.html)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chander Ganesan</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/284/pycon-2010--introduction-to-twisted</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/284_introduction-to-twisted.ogv" length="1005028048" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/284_introduction-to-twisted.ogv" fileSize="1005028048" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/284_introduction-to-twisted.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010IntroductionToTwisted616-750.jpg"></media:thumbnail></item><item><title>Introduction to unittest (a.k.a. PyUnit) (#96)</title><link>http://www.pyvideo.org/video/237/pycon-2010--introduction-to-unittest--a-k-a--pyun</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction to Unittest (a.k.a. PyUnit)
+
+Presented by Chander K Ganesan
+
+The PyUnit (unittest) unit testing framework provides an easy-to-use set of
+tools and techniques to add robust unit testing to your Python code. By
+integrating unit testing in their code, developers allow for a robust set of
+tools to quickly and easily identify "broken" code.
+
+In this session we'll explore the unittest module and demonstrate how to
+leverage PyUnit for unit testing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chander Ganesan</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/237/pycon-2010--introduction-to-unittest--a-k-a--pyun</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/237_introduction-to-unittest-a-k-a-pyunit-96.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010IntroductionToUnittestAkaPyUnit96996-668.jpg"></media:thumbnail></item></channel></rss>

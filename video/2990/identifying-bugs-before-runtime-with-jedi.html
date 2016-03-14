@@ -1,0 +1,300 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Identifying Bugs Before Runtime With Jedi</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="Finding bugs before runtime has been an incredibly tedious task in Python. Jedi is an autocompletion library with interesting capabilities: It understands a lot of the dynamic features of Python. I will show you how we can use the force of (the) Jedi to identify bugs in your Python code. It&#39;s not just another pylint. It&#39;s way better.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="identifying-bugs-before-runtime-with-jedi.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="identifying-bugs-before-runtime-with-jedi.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=DfVHSw0iOsk"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Identifying Bugs Before Runtime With Jedi</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/DfVHSw0iOsk/hqdefault.jpg"/>
+      <link property="sameAs" href="identifying-bugs-before-runtime-with-jedi.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Finding bugs before runtime has been an incredibly tedious task in Python. Jedi is an autocompletion library with interesting capabilities: It understands a lot of the dynamic features of Python. I will show you how we can use the force of (the) Jedi to identify bugs in your Python code. It's not just another pylint. It's way better.</p></div>
+        <meta property="caption" content="Finding bugs before runtime has been an incredibly tedious task in Python. Jedi is an autocompletion library with interesting capabilities: It understands a lot of the dynamic features of Python. I will show you how we can use the force of (the) Jedi to identify bugs in your Python code. It&#39;s not just another pylint. It&#39;s way better."/>
+      </div>
+    
+
+    
+      <div class="section">
+        <h4>Related URLs</h4>
+        <ul>
+          
+            <li><a href="https://github.com/davidhalter/jedi">https://github.com/davidhalter/jedi</a></li>
+          
+        </ul>
+      </div>
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Jedi is an autocompletion library for Python that has gained quite a following over the last year. There are a couple of plugins for the most popular editors (VIM, Sublime, Emacs, etc.) and mainstream IDEs like Spyder are switching to Jedi.</p>
+<p>Jedi basically tries to redefine the boundaries of autocompletion in dynamic languages. Most people still think that there's no hope for decent autocompletion in Python. This talk will try to argue the opposite, that decent autocompletion is very close.</p>
+<p>While the first part will be about Jedi, the second part of this talk will discuss the future of dynamic analysis. Dynamic Analysis is what I call the parts that static analysis doesn't cover. The hope is to generate a kind of "compiler" that doesn't execute code but reports additional bugs in your code (AttributeErrors and the like). </p>
+<p>I still have to work out the details of the presentation. I also have to add that Jedi I'm currently working full-time on Jedi and that there's going to be some major improvements until the conference. Autocompletion and static/dynamic analysis as well as refactoring are hugely important tools for a dynamic language IMHO, because they can improve the only big disadvantage compared to static languages: Finding bugs before running your tool.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1404/dave-halter.html">Dave Halter</a></div>
+            <meta property="author" content="Dave Halter"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 23, 2014
+            <meta property="dateCreated" content="2014-07-23"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>Aug. 1, 2014
+            <meta property="dateModified" content="2014-08-01T07:53:39.266257"/>
+            <meta property="datePublished" content="2014-08-01T07:53:39.266257"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=DfVHSw0iOsk" property="embedUrl">http://www.youtube.com/watch?v=DfVHSw0iOsk</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2990">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="identifying-bugs-before-runtime-with-jedi.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

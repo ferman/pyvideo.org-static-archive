@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Erik Rose</title><link>http://www.pyvideo.org/speaker/347/erik-rose/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/347/erik-rose/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Apr 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Designing Poetic APIs</title><link>http://www.pyvideo.org/video/2647/designing-poetic-apis</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The language you speak determines the thoughts you can think. Thus, API designers (and that includes you, if you've ever coined a function) have a great duty, as language inventors, to expand the mental canvases of those who come after. We'll concretize that into 7 hallmarks of good APIs, pulling examples (and bloopers) from popular Python libraries.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Rose</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2647/designing-poetic-apis</guid><enclosure url="http://www.youtube.com/watch?v=JQYnFyG7A8c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/JQYnFyG7A8c/hqdefault.jpg"></media:thumbnail></item><item><title>Elasticsearch (Part 1): Indexing and Querying</title><link>http://www.pyvideo.org/video/1784/elasticsearch-part-1-indexing-and-querying</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Elasticsearch provides an easy path to clusterable full-text search, with synonyms, faceting, and geographic math, but there's a paucity of written wisdom beyond its API docs. This talk, part 1 of a 2-part series, surveys its capabilities and shows how its internal data structures and algorithms work. With the groundwork laid, we explore how to choose efficient indexing and the right queries to make your apps go fast.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Rose</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1784/elasticsearch-part-1-indexing-and-querying</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Elasticsearch_Part_1_Indexing_.mp4?Signature=VARBFuaiUy2DUD8iwSfUhFLNAqQ%3D&amp;Expires=1363670991&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Elasticsearch_Part_1_Indexing_.mp4?Signature=VARBFuaiUy2DUD8iwSfUhFLNAqQ%3D&amp;Expires=1363670991&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=lWKEphKIG8U" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/lWKEphKIG8U/hqdefault.jpg"></media:thumbnail></item><item><title>Django's Nasal Passage</title><link>http://www.pyvideo.org/video/1406/djangos-nasal-passage</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django's testrunner gets you started quickly, but you soon hit your head on
+its limitations as your project grows. By trading it for nose, a testing
+framework popular in the wider Python community, we can reduce boilerplate,
+boost performance, and improve testing UI, with only a few lines of setting
+changes. Re-use your test DBs, integrate with Jenkins, split your suite into
+pieces, and more.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * Why nose?
+    * Pain points with standard Django testing
+    * Extensibility without writing custom, uncombineable testrunner subclasses
+    * Rich ecosystem of helpful plugins
+  * django-nose
+    * Testing just your apps, not all the random installed stuff
+    * Test-selection tricks: running just failed tests, running a module, etc.
+    * Killing the boilerplate:
+      * No more imports into **init**
+      * No more class name collisions and accidental shadowing
+      * With all this freedom, how best should you organize your tests?
+    * Going 4 times faster with fixture bundling
+      * Troubleshooting
+      * Fixtures are evil
+      * Where do I put the factories?
+    * Speeding startup with test DB reuse
+    * Writing faster TransactionTestCases with hygienic base classes
+      * Background on Django's handling of TransactionTestCases
+      * How to improve matters
+    * Test-only models: what's the best practice?
+  * nose-progressive
+    * Dots considered harmful. When will my tests be done?
+    * Patience is for the dead. Show me my tracebacks as they happen!
+    * My terminal is only this big. Don't waste my space.
+    * Hiding pointless stack frames
+    * Editor round-tripping for quick debugging
+  * Splitting into sub-suites
+    * An introduction to the attr plugin
+    * Have some run only on CI machines, some constantly, others before checkin
+    * Choosing tests with regexes
+  * Other fun plugins
+    * f7u12, for when your tests get angry
+    * Coverage
+    * xunit, for your continual integration pleasure
+    * Profiling
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Rose</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1406/djangos-nasal-passage</guid><enclosure url="http://www.youtube.com/watch?v=NZnnB7l3ZHM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/NZnnB7l3ZHM/hqdefault.jpg"></media:thumbnail></item><item><title>Parsing Horrible Things with Python</title><link>http://www.pyvideo.org/video/708/parsing-horrible-things-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+If you've ever wanted to get started with parsers, here's your chance for a
+ground-floor introduction. A harebrained spare-time project gives birth to a
+whirlwind journey from basic algorithms to Python libraries and, at last, to a
+parser for one of the craziest syntaxes out there: the MediaWiki grammar that
+drives Wikipedia.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Rose</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/708/parsing-horrible-things-with-python</guid><enclosure url="https://www.youtube.com/watch?v=tCUdeLIj4hE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/tCUdeLIj4hE/hqdefault.jpg"></media:thumbnail></item><item><title>Speedily Practical Large-Scale Tests</title><link>http://www.pyvideo.org/video/634/speedily-practical-large-scale-tests</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mozilla's projects have thousands of tests, so we've had to venture beyond
+vanilla test runners to keep things manageable. Our secret sauce can be used
+with your project as well. Reach beyond the test facilities that came with
+your project, harnessing pluggable test frameworks, dynamically reordering
+tests for speed, exploring various mocking libraries, and profiling your way
+to testing nirvana.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Rose</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/634/speedily-practical-large-scale-tests</guid><enclosure url="https://www.youtube.com/watch?v=1VZfL9JVgFg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/1VZfL9JVgFg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

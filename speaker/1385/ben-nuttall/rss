@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ben Nuttall</title><link>http://www.pyvideo.org/speaker/1385/ben-nuttall/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1385/ben-nuttall/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Keynote: Python Programming in Science Education</title><link>http://www.pyvideo.org/video/3339/keynote-python-programming-in-science-education</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ben Nuttall</dc:creator><pubDate>Wed, 22 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3339/keynote-python-programming-in-science-education</guid><enclosure url="https://www.youtube.com/watch?v=c8Qor1WD2kE" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/c8Qor1WD2kE/hqdefault.jpg"></media:thumbnail></item><item><title>Pioneering the Future of Computing Education</title><link>http://www.pyvideo.org/video/2954/pioneering-the-future-of-computing-education</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How the Raspberry Pi Foundation are leading the way in the computing in schools revolution by providing affordable open and connectable hardware to people of all levels of experience.
+
+Now we have an education team, we're pushing forward with creating resources and training teachers to help deliver modern computing education around the world.
+
+All our learning resources are Creative Commons licensed and available on GitHub. We write materials that match the UK computing curriculum.
+&lt;p&gt;Description&lt;/p&gt;
+I'm Ben, from Raspberry Pi. I do development and outreach for the Foundation and I work with the rest of the education team to help make learning through computer science, coding and hardware hacking more accessible to all.
+
+In this talk I explain the Raspberry Pi story: its mission - the reason the Pi exists; what happened before release - getting the board in to production; what happened in the first two years - the community birth and growth; and what's coming next - education focus, new hardware and improved software.
+
+Python is the main language used (and advocated by us) in education with Raspberry Pi.
+
+We're creating learning resources to match up with the new UK computing curriculum, where we teach young people programming and computer science concepts with Python on Pi, and help teachers deliver quality material in the classroom to work towards the objectives the curriculum sets out to achieve.
+
+With Raspberry Pi we open up possibilities for connecting to the real world in an accessible way using the powerful, high level and human read/write -able language of Python.
+
+We work closely with the community: hobbyists organising Raspberry Jam events; educators teaching with Raspberry Pi; the software communities and their contributions - and we welcome any interested parties to get involved with helping us provide for the wider community.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ben Nuttall</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2954/pioneering-the-future-of-computing-education</guid><enclosure url="http://www.youtube.com/watch?v=24eDPoJvmnI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/24eDPoJvmnI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michael Sims</title><link>http://www.pyvideo.org/speaker/183/michael-sims/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/183/michael-sims/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Greasing the Wheels of Exploration with Python</title><link>http://www.pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The control of the Mars Exploration Rovers (MER) requires a complex set of
+coordinated activites by a team. Early in the MER mission the author automated
+in Python much of the task of one of the operation positions, the Payload
+Uplink Lead, for 7 of the 9 cameras on each rover. This talk describes the MER
+rovers, the operation tasks and that implemented system.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The Mars Exploration Rovers (MER), Spirit and Opportunity, have been roaming
+the surface of Mars since January of 2004 leading to many discoveries about
+the nature and history of our sister planet. Each activity requires a complex
+set of coordinated activites by a team. Early in the MER mission the author
+automated much of the task of one of the positions, the Payload Uplink Lead,
+for 7 of the 9 cameras on each rover. The system, called AutoPUL, is written
+in Python and that has proven to be the excellent choice for the development
+and maintenance. In the talk I'll describe the Mars Rover mission and the
+operational activities and how AutoPUL and Python fullfilled those needs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Sims</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/369/pycon-2011--greasing-the-wheels-of-exploration-wi</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/369_greasing-the-wheels-of-exploration-with-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011GreasingTheWheelsOfExplorationWithPython860-969.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of DjangoCon 2009</title><link>http://www.pyvideo.org/category/1/djangocon-2009/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/1/djangocon-2009/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 May 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A socio-political analysis of open source community</title><link>http://www.pyvideo.org/video/22/djangocon-2009--a-socio-political-analysis-of-ope</link><description>&lt;p&gt;Description&lt;/p&gt;
+DjangoCon presents A socio-political analysis of open source community
+
+Presented by Ian Bicking
+
+Covers why are we doing what we're doing and why it matters in terms of Open
+Source and the movement. Focuses on the Django community, what's being
+produced and finding meaning in that.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Bicking</dc:creator><guid>http://www.pyvideo.org/video/22/djangocon-2009--a-socio-political-analysis-of-ope</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/22_a-socio-political-analysis-of-open-source-community.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ASociopoliticalAnalysisOfOpenSourceCommunity386.png"></media:thumbnail></item><item><title>Confessions of a life long Perl Bigot</title><link>http://www.pyvideo.org/video/30/djangocon-2009--confessions-of-a-life-long-perl-b</link><description>&lt;p&gt;Description&lt;/p&gt;
+Confessions of a life long Perl Bigot
+
+  
+Presented by Frank Wiles
+
+  
+Talks about Django from the perspective of the Perl world.
+
+  
+[VIDEO HAS ISSUES: is quiet]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Frank Wiles</dc:creator><guid>http://www.pyvideo.org/video/30/djangocon-2009--confessions-of-a-life-long-perl-b</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/30_confessions-of-a-life-long-perl-bigot.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ConfessionsOfALifeLongPerlBigot929.png"></media:thumbnail></item><item><title>Cowboy Development with Django</title><link>http://www.pyvideo.org/video/24/cowboy-development-with-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+Cowboy development with Django
+
+  
+Presented by Simon Willison
+
+  
+Hard to describe this talk--it's very entertaining.
+
+  
+[VIDEO HAS ISSUES: Audio is mostly in left speaker; lost audio at 36:45]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><guid>http://www.pyvideo.org/video/24/cowboy-development-with-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/24_cowboy-development-with-django.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CowboyDevelopmentWithDjango354.png"></media:thumbnail></item><item><title>Customizing your Satchmo Store</title><link>http://www.pyvideo.org/video/2/customizing-your-satchmo-store</link><description>&lt;p&gt;Description&lt;/p&gt;
+Customizing your satchmo store
+
+  
+Presented by Chris Moffitt
+
+  
+Talks about django development with satchmo. Satchmo is an open source
+framework for creating online stores.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Moffitt</dc:creator><guid>http://www.pyvideo.org/video/2/customizing-your-satchmo-store</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/2_customizing-your-satchmo-store.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CustomizingYourSatchmoStore406.png"></media:thumbnail></item><item><title>Custom Signals for Uncoupled Design</title><link>http://www.pyvideo.org/video/603/custom-signals-for-uncoupled-design</link><description>&lt;p&gt;Description&lt;/p&gt;
+Custom Signals for Uncoupled Design
+
+  
+Presented by Bruce Kroeze
+
+</description><guid>http://www.pyvideo.org/video/603/custom-signals-for-uncoupled-design</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/603_custom-signals-for-uncoupled-design.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CustomSignalsForUncoupledDesign412.png"></media:thumbnail></item><item><title>Database Migrations, South, And You</title><link>http://www.pyvideo.org/video/31/database-migrations--south--and-you</link><description>&lt;p&gt;Description&lt;/p&gt;
+Database migrations, south and you
+
+  
+Presented by Andrew Godwin
+
+  
+Talks about south which makes it easier to do database migrations.
+
+  
+[VIDEO HAS ISSUES: audio tends towards left speaker]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><guid>http://www.pyvideo.org/video/31/database-migrations--south--and-you</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/31_database-migrations-south-and-you.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DatabaseMigrationsSouthAndYou968.png"></media:thumbnail></item><item><title>Deploying Django</title><link>http://www.pyvideo.org/video/25/djangocon-2009--deploying-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+Deploying Django
+
+  
+Presented by Brian Rosner
+
+  
+Talks about deploying django sites.
+
+  
+[VIDEO HAS ISSUES: mostly in left speaker]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Rosner</dc:creator><guid>http://www.pyvideo.org/video/25/djangocon-2009--deploying-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/25_deploying-django.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DeployingDjango796.png"></media:thumbnail></item><item><title>Django is obsolete (but so is everything else)</title><link>http://www.pyvideo.org/video/33/djangocon-2009--django-is-obsolete--but-so-is-eve</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django is obsolete (but so is everything else)
+
+  
+Presented by Avi Bryant
+
+** Keynote for DjangoCon 2009.**
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Avi Bryant</dc:creator><guid>http://www.pyvideo.org/video/33/djangocon-2009--django-is-obsolete--but-so-is-eve</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/33_django-is-obsolete-but-so-is-everything-else.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoIsObsoleteButSoIsEverythingElse277.png"></media:thumbnail></item><item><title>Django on Jython: Ready for Production</title><link>http://www.pyvideo.org/video/7/django-on-jython--ready-for-production</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django on Jython: Ready for Production
+
+  
+Presented by Chris McAvoy
+
+  
+Talks about runnin Django on Jython. Walks through technical issues with
+getting Django running on Jython, but also talks about why you might want to
+do this and what it enables.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McAvoy</dc:creator><guid>http://www.pyvideo.org/video/7/django-on-jython--ready-for-production</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/7_django-on-jython-ready-for-production.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoOnJythonReadyForProduction857.png"></media:thumbnail></item><item><title>Django Technical Design Panel</title><link>http://www.pyvideo.org/video/23/django-technical-design-panel</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django Technical Design Panel
+
+  
+Featuring Joseph K, Russell Keith-Magee, Simon Willison, James Bennett, Brian
+
+  
+Moderated question and answer period covering a bunch of topics.
+
+  
+[VIDEO HAS ISSUES: sound only from left speaker]
+
+</description><guid>http://www.pyvideo.org/video/23/django-technical-design-panel</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/23_django-technical-design-panel.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoTechnicalDesignPanel418.png"></media:thumbnail></item><item><title>Fighting malnutrition with SMS and Django</title><link>http://www.pyvideo.org/video/12/fighting-malnutrition-with-sms-and-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+Fighting malnutrition with SMS and Django
+
+  
+Presented by Andy Mckay
+
+  
+Case study about using sms and django on a project called rapidsms.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Mckay</dc:creator><guid>http://www.pyvideo.org/video/12/fighting-malnutrition-with-sms-and-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/12_fighting-malnutrition-with-sms-and-django.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-FightingMalnutritionWithSMSAndDjango307.png"></media:thumbnail></item><item><title>Google Summer of Code Overview Panel</title><link>http://www.pyvideo.org/video/10/google-summer-of-code-overview-panel</link><description>&lt;p&gt;Description&lt;/p&gt;
+Google Summer of Code Overview Panel
+
+  
+Featuring Zain Memon, Alex Gaynor, Honza Kral, Marc Garcia
+
+  
+Moderated question and answer about GSOC and Django.
+
+</description><guid>http://www.pyvideo.org/video/10/google-summer-of-code-overview-panel</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/10_google-summer-of-code-overview-panel.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-GoogleSummerOfCodeOverviewPanel901.png"></media:thumbnail></item><item><title>How to Contribute to Pinax</title><link>http://www.pyvideo.org/video/28/how-to-contribute-to-pinax</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to Contribute to Pinax
+
+  
+Presented by James Tauber
+
+  
+Talks about what Pinax is and how to contribute to the Pinax project.
+
+  
+[Pinax project](http://pinaxproject.com/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/28/how-to-contribute-to-pinax</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/28_how-to-contribute-to-pinax.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-HowToContributeToPinax109.png"></media:thumbnail></item><item><title>How to name your open source Django project after a famous Jazz musician, and concepts behind Django-Mingus, a project leveraging only reusable apps.</title><link>http://www.pyvideo.org/video/5/how-to-name-your-open-source-django-project-after</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to name your open source Django project after a famous Jazz musician, and
+concepts behind Django-Minus, a project
+
+  
+Presented by Kevin Fricovsky
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kevin Fricovsk</dc:creator><guid>http://www.pyvideo.org/video/5/how-to-name-your-open-source-django-project-after</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/5_how-to-name-your-open-source-django-project-after-a-famous-jazz-musician-and-concepts-behind-django-mingus-a-project-leveraging-only-reusable-apps.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-HowToNameYourOpenSourceDjangoProjectAfterAFamousJazz252.png"></media:thumbnail></item><item><title>Introduction from the fake Jacob Kaplan-Moss</title><link>http://www.pyvideo.org/video/34/djangocon-2009--introduction-from-the-fake-jacob-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction from the fake Jacob Kaplan-Moss
+
+  
+Presented by James Tauber
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/34/djangocon-2009--introduction-from-the-fake-jacob-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/34_introduction-from-the-fake-jacob-kaplan-moss.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-IntroductionFromTheFakeJacobKaplanMoss840.png"></media:thumbnail></item><item><title>Introduction to Pinax</title><link>http://www.pyvideo.org/video/20/introduction-to-pinax</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction to Pinax
+
+  
+Presented by James Tauber and Daniel Greenfeld
+
+  
+Walks through what Pinax is, how it's useful to you, how to install it, and
+walks through building a simple site using Pinax.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Greenfeld,James Tauber</dc:creator><guid>http://www.pyvideo.org/video/20/introduction-to-pinax</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/20_introduction-to-pinax.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-IntroductionToPinax842.png"></media:thumbnail></item><item><title>Lightning Talks Day 2</title><link>http://www.pyvideo.org/video/14/djangocon-2009--lightning-talks-day-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lightning Talks Day 2
+
+  
+(00:09) Dive into CPython Bytecode - Alex Gaynor
+
+  
+(05:10) Testing with pywatch - Chris Heisel
+
+  
+(07:08) Pluggable Django E-Commerce - Aaron Cuker and someone else
+
+  
+(12:13) Introduction to Surlex - Cody Soyland
+
+</description><guid>http://www.pyvideo.org/video/14/djangocon-2009--lightning-talks-day-2</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/14_lightning-talks-day-2.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-LightningTalksDay2668.png"></media:thumbnail></item><item><title>Lightning Talks Day 3</title><link>http://www.pyvideo.org/video/9/djangocon-2009--lightning-talks-day-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lightning Talks Day 3
+
+  
+(00:07) Solace, a multilingual support platform - Armin Ronacher
+
+  
+(03:50) Dig Deeper, Digging through the Django source code - ?
+
+  
+(09:50) PSF, Pony Magic - James Tauber
+
+</description><guid>http://www.pyvideo.org/video/9/djangocon-2009--lightning-talks-day-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/9_lightning-talks-day-3.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-LightningTalksDay3853.png"></media:thumbnail></item><item><title>Making your PostgreSQL database sing</title><link>http://www.pyvideo.org/video/16/making-your-postgresql-database-sing</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making your PostgresSQL database sing
+
+  
+Presented by Frank Wiles at DjangoCon 2009
+
+  
+Talks about performance tuning with PostgresSQL.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Frank Wiles</dc:creator><guid>http://www.pyvideo.org/video/16/making-your-postgresql-database-sing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/16_making-your-postgresql-database-sing.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MakingYourPostgreSQLDatabaseSing988.png"></media:thumbnail></item><item><title>No! Bad Pony!</title><link>http://www.pyvideo.org/video/3/no--bad-pony</link><description>&lt;p&gt;Description&lt;/p&gt;
+No! Bad Pony!
+
+  
+Presented by Russell Keith-Magee
+
+  
+Talks about ponies, genesis of ponies, the history of the pony, magical
+powers, and everything else you want to know about ponies. Talks about how
+django feature proposals are handled.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/3/no--bad-pony</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/3_no-bad-pony.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-NoBadPony160.png"></media:thumbnail></item><item><title>Now What</title><link>http://www.pyvideo.org/video/8/now-what</link><description>&lt;p&gt;Description&lt;/p&gt;
+Now What
+
+  
+Presented by Ted Leung
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ted Leung</dc:creator><guid>http://www.pyvideo.org/video/8/now-what</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/8_now-what.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-NowWhat155.png"></media:thumbnail></item><item><title>Painless Django app localization with Transifex</title><link>http://www.pyvideo.org/video/11/painless-django-app-localization-with-transifex</link><description>&lt;p&gt;Description&lt;/p&gt;
+Painless Django app localization with Transifex
+
+  
+Presented by Dimitris Glezos
+
+  
+Talks about Transifex, what it does, how it works, and how to use it to
+localize your application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dimitris Glezos</dc:creator><guid>http://www.pyvideo.org/video/11/painless-django-app-localization-with-transifex</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/11_painless-django-app-localization-with-transifex.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-PainlessDjangoAppLocalizationWithTransifex294.png"></media:thumbnail></item><item><title>Pluggable, Reusable Django Apps: A Use Case and Proposed Solution</title><link>http://www.pyvideo.org/video/17/pluggable--reusable-django-apps--a-use-case-and-p</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pluggable, reusable, django apps: A use case and proposed solution
+
+  
+Presented by Shawn Rider and Nowell Strite
+
+  
+Talks about Django usage in PBS maintained sites.
+
+  
+[VIDEO HAS ISSUES: audio jumps around a bit]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shawn Rider and Nowell Strite</dc:creator><guid>http://www.pyvideo.org/video/17/pluggable--reusable-django-apps--a-use-case-and-p</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/17_pluggable-reusable-django-apps-a-use-case-and-proposed-solution.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-PluggableReusableDjangoAppsAUseCaseAndProposedSolution188.png"></media:thumbnail></item><item><title>Real-time Web and Other Buzzwords</title><link>http://www.pyvideo.org/video/19/djangocon-2009--real-time-web-and-other-buzzwords</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+
+</description><guid>http://www.pyvideo.org/video/19/djangocon-2009--real-time-web-and-other-buzzwords</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/19_real-time-web-and-other-buzzwords.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RealtimeWebAndOtherBuzzwords380.png"></media:thumbnail></item><item><title>RESTful Ponies</title><link>http://www.pyvideo.org/video/26/djangocon-2009--restful-ponies</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+
+</description><guid>http://www.pyvideo.org/video/26/djangocon-2009--restful-ponies</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/26_restful-ponies.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RESTfulPonies488.png"></media:thumbnail></item><item><title>Scaling Django Web Applications</title><link>http://www.pyvideo.org/video/13/djangocon-2009--scaling-django-web-applications</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+
+</description><guid>http://www.pyvideo.org/video/13/djangocon-2009--scaling-django-web-applications</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/13_scaling-django-web-applications.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ScalingDjangoWebApplications829.png"></media:thumbnail></item><item><title>Selling Django to Your Superiors: Success Stories Panel</title><link>http://www.pyvideo.org/video/15/djangocon-2009--selling-django-to-your-superiors-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Video freezes from 3:30-4:30, audio is fine.
+
+</description><guid>http://www.pyvideo.org/video/15/djangocon-2009--selling-django-to-your-superiors-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/15_selling-django-to-your-superiors-success-stories-panel.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-SellingDjangoToYourSuperiorsSuccessStoriesPanel152.png"></media:thumbnail></item><item><title>State of Pinax</title><link>http://www.pyvideo.org/video/6/state-of-pinax</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+
+</description><guid>http://www.pyvideo.org/video/6/state-of-pinax</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/6_state-of-pinax.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-StateOfPinax742.png"></media:thumbnail></item><item><title>Token Testing Talk</title><link>http://www.pyvideo.org/video/29/djangocon-2009--token-testing-talk</link><description>&lt;p&gt;Description&lt;/p&gt;
+Token Testing Talk
+
+  
+Presented by Eric Holscher
+
+  
+Talks about testing in Django.
+
+  
+[VIDEO HAS ISSUES: audio in left channel only]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><guid>http://www.pyvideo.org/video/29/djangocon-2009--token-testing-talk</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/29_token-testing-talk.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TokenTestingTalk148.png"></media:thumbnail></item><item><title>UR DOING IT WRONG</title><link>http://www.pyvideo.org/video/32/ur-doing-it-wrong</link><description>&lt;p&gt;Description&lt;/p&gt;
+UR DOIN IT WRONG
+
+  
+James Bennett
+
+  
+Talks about new people having problems doing what they're trying to do with
+Django. Some things discussed: not reading the documentation, learning Python
+as you go, ... Talks about the minimum Python you should know when working
+with Django.
+
+  
+[VIDEO HAS ISSUES: audio is soft at the beginning]
+
+</description><guid>http://www.pyvideo.org/video/32/ur-doing-it-wrong</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/32_ur-doing-it-wrong.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-URDOINGITWRONG701.png"></media:thumbnail></item><item><title>Using Django in Non-Standard Ways</title><link>http://www.pyvideo.org/video/21/using-django-in-non-standard-ways</link><description>&lt;p&gt;Description&lt;/p&gt;
+Using Django in Non-Standard Ways
+
+  
+Eric Florenzano
+
+  
+First, tries to define what "non-standard ways" entails, then talks about
+using Django in these ways.
+
+  
+[VIDEO HAS ISSUES: video freezes at times, but audio continues]
+
+</description><guid>http://www.pyvideo.org/video/21/using-django-in-non-standard-ways</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/21_using-django-in-non-standard-ways.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-UsingDjangoInNonStandardWays293.png"></media:thumbnail></item><item><title>What the Heck Went Wrong?</title><link>http://www.pyvideo.org/video/27/djangocon-2009--what-the-heck-went-wrong</link><description>&lt;p&gt;Description&lt;/p&gt;
+What the heck went wrong?
+
+  
+Andy McKay
+
+  
+Talks about how to debug Django.
+
+  
+[VIDEO HAS ISSUES: audio in left speaker]
+
+</description><guid>http://www.pyvideo.org/video/27/djangocon-2009--what-the-heck-went-wrong</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/27_what-the-heck-went-wrong.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-WhatTheHeckWentWrong528.png"></media:thumbnail></item><item><title>When not to use the ORM: bulk data loading strategies for large datasets.</title><link>http://www.pyvideo.org/video/4/when-not-to-use-the-orm--bulk-data-loading-strate</link><description>&lt;p&gt;Description&lt;/p&gt;
+When not to use the ORM: bulk data loading strategies for large datasets
+
+  
+Justin Bronn
+
+  
+Talks about data loading strategies for very large datasets and why not to use
+an ORM when doing it.
+
+</description><guid>http://www.pyvideo.org/video/4/when-not-to-use-the-orm--bulk-data-loading-strate</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/4_when-not-to-use-the-orm-bulk-data-loading-strategies-for-large-datasets.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-WhenNotToUseTheORMBulkDataLoadingStrategiesForLargeD600.png"></media:thumbnail></item><item><title>Introduction to GeoDjango</title><link>http://www.pyvideo.org/video/18/djangocon-2009--introduction-to-geodjango</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Gives an introduction to GeoDjango.
+&lt;p&gt;Description&lt;/p&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast</dc:creator><pubDate>Fri, 17 May 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/18/djangocon-2009--introduction-to-geodjango</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/18_introduction-to-geodjango.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-IntroductionToGeoDjango145.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rob Collins</title><link>http://www.pyvideo.org/speaker/498/rob-collins/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/498/rob-collins/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 04 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Further neck and amd shoulder massage training</title><link>http://www.pyvideo.org/video/1316/further-neck-and-amd-shoulder-massage-training</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Rob Collins - 3 JULY 2012 in "Track Spaghetti"
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rob Collins</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1316/further-neck-and-amd-shoulder-massage-training</guid><enclosure url="http://www.youtube.com/watch?v=itn8W9zI0Wk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/itn8W9zI0Wk/hqdefault.jpg"></media:thumbnail></item><item><title>Pricing products using Python graphs and sets</title><link>http://www.pyvideo.org/video/1038/pricing-products-using-python-graphs-and-sets</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Rob Collins - 22 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+We will look at the limitations of available rule engines when it comes to
+complex pricing rules. Rob has been part of a Python team writing a pricing
+engine based on network graphs. We will show:
+
+  * Why pricing is not easy
+  * Rule engine anti-patterns, e.g. to change one price requires a week's development time, and has to be fitted into a release cycle
+  * How to make pricing rules data driven, usable by the business
+  * How the use of graphs and sets reduces the complexity
+
+Rob is joined by David Layton of Grey Squirrel Consulting, who is a fellow
+contractor working with Rob on the pricing project. He is an American
+expatriate and Python developer, currently living and working in London. His
+background is in scientific computing, CRMs and Business Intelligence.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rob Collins</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1038/pricing-products-using-python-graphs-and-sets</guid><enclosure url="http://www.youtube.com/watch?v=TN9nIBxDXU8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/TN9nIBxDXU8/hqdefault.jpg"></media:thumbnail></item><item><title>Pricing products using Python graphs and sets</title><link>http://www.pyvideo.org/video/1114/pricing-products-using-python-graphs-and-sets-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Rob Collins - 22 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+We will look at the limitations of available rule engines when it comes to
+complex pricing rules. Rob has been part of a Python team writing a pricing
+engine based on network graphs. We will show:
+
+  * Why pricing is not easy
+  * Rule engine anti-patterns, e.g. to change one price requires a week's development time, and has to be fitted into a release cycle
+  * How to make pricing rules data driven, usable by the business
+  * How the use of graphs and sets reduces the complexity
+
+Rob is joined by David Layton of Grey Squirrel Consulting, who is a fellow
+contractor working with Rob on the pricing project. He is an American
+expatriate and Python developer, currently living and working in London. His
+background is in scientific computing, CRMs and Business Intelligence.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rob Collins</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1114/pricing-products-using-python-graphs-and-sets-0</guid><enclosure url="http://www.youtube.com/watch?v=XzXvVqdL6yk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/XzXvVqdL6yk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

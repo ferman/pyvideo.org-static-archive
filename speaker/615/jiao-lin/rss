@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jiao Lin</title><link>http://www.pyvideo.org/speaker/615/jiao-lin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/615/jiao-lin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>luban: a minimalist UI 'language'</title><link>http://www.pyvideo.org/video/1226/luban-a-minimalist-ui-language</link><description>&lt;p&gt;Description&lt;/p&gt;
+Luban ([http://lubanui.org](http://lubanui.org)) is a python package for
+building user interface. With luban, one can easily create dynamic, ajax-based
+web interfaces behaving like desktop UI using pure python: no knowledge of
+html and javascript is required.
+
+Luban is different from any existing web frameworks in philosophy: it provides
+a generic specification "language" for describing user interface, and a luban
+specification of user interface can be automatically rendered into web or
+native user interfaces using media-specific languages.
+
+Luban is focused on providing a simple, easy-to-understand syntax to describe
+user interfaces, and hence allows users to focus more on the business logic
+needed behind user interfaces.
+
+In this talk I will discuss recent developments of luban and some of its
+applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jiao Lin</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1226/luban-a-minimalist-ui-language</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/luban_a_minimalist_UI_language.mp4?Signature=3gc9t4eHIv%2FGYpWfbTQZcYASX5o%3D&amp;Expires=1346703571&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/luban_a_minimalist_UI_language.mp4?Signature=3gc9t4eHIv%2FGYpWfbTQZcYASX5o%3D&amp;Expires=1346703571&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=hgCR8ytWHeg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/hgCR8ytWHeg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

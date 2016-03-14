@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Martijn Faassen</title><link>http://www.pyvideo.org/speaker/1162/martijn-faassen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1162/martijn-faassen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 24 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Morepath: a Python Web Framework with Super Powers</title><link>http://www.pyvideo.org/video/2966/morepath-a-python-web-framework-with-super-power</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[Morepath](http://morepath.readthedocs.org) is a server web framework written with modern, rich client web development in mind. Why another new Python web framework in 2014? 
+
+Because it can be done better: Morepath understands how to construct hyperlinks from models. Writing a generic view in Morepath is like writing any other view. With Morepath, you can reuse, extend and override apps as easily as you can construct them.
+
+Even if you don't end up using Morepath, you will learn something about how the nature of web frameworks.
+&lt;p&gt;Description&lt;/p&gt;
+[Morepath](http://morepath.readthedocs.org) is a new server web
+framework written with modern, rich client web development in mind.
+
+In the talk I will be discussing some core features of Morepath that
+make it different:
+
+* Its different take on routing and linking. Morepath has support
+  to help you construct hyperlinks to models.
+* Its view system: plain views, generic views, view composition.
+* Morepath's approach to application construction allows application extension and overriding, and composition.
+
+This talk will attempt to convince people to try Morepath. For those
+unable or unwilling to try, I will communicate some design principles
+behind Morepath which can be of help to any web developer.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martijn Faassen</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2966/morepath-a-python-web-framework-with-super-power</guid><enclosure url="http://www.youtube.com/watch?v=gyDKMAWPyuY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/gyDKMAWPyuY/hqdefault.jpg"></media:thumbnail></item><item><title>Spinning a Web Framework</title><link>http://www.pyvideo.org/video/2416/spinning-a-web-framework</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Over the years I've been exposed to a lot of ideas in web frameworks. Reflecting on these ideas is valuable when you build a new one, but also when you simply use an existing web framework.
+
+In this talk I will discuss the slow genesis of Morepath, a micro web-framework with super powers that I've created, and discuss some of the ideas behind it, things I've learned, and also share some thoughts about the creative process.
+
+The ideas behind Morepath are not revolutionary, but hopefully still make you think.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martijn Faassen</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2416/spinning-a-web-framework</guid><enclosure url="https://www.youtube.com/watch?v=9A5T9C2OBB4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/9A5T9C2OBB4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Thierry Carrez</title><link>http://www.pyvideo.org/speaker/478/thierry-carrez/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/478/thierry-carrez/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Snakes on a cloud: the OpenStack project</title><link>http://www.pyvideo.org/video/1015/snakes-on-a-cloud-the-openstack-project</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Thierry Carrez - 23 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+OpenStack is an innovative open source project written in Python, backed by
+Rackspace Hosting and NASA, building a massively-scalable and reliable cloud
+computing platform.
+
+The first part of this talk will clarify the place of OpenStack in the general
+"cloud" landscape and explain why a fully open cloud infrastructure stack is
+necessary to avoid vendor lock-in. We'll then focus on the OpenStack project
+goals, its developer community, its open design and release processes, and the
+developer tools it chose.
+
+The second part of the talk will present into more technical details the
+different components of OpenStack: Nova (compute) and Swift (storage),
+including the Python libraries that are used (libvirt, SQLAlchemy, eventlet…).
+A Q&amp;A session at the end of the talk will give the audience a chance to clear
+any remaining dark area.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thierry Carrez</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1015/snakes-on-a-cloud-the-openstack-project</guid><enclosure url="http://www.youtube.com/watch?v=k9NGWSqcmDI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/k9NGWSqcmDI/hqdefault.jpg"></media:thumbnail></item><item><title>Snakes on a cloud: the OpenStack project</title><link>http://www.pyvideo.org/video/1101/snakes-on-a-cloud-the-openstack-project-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Thierry Carrez - 23 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+OpenStack is an innovative open source project written in Python, backed by
+Rackspace Hosting and NASA, building a massively-scalable and reliable cloud
+computing platform.
+
+The first part of this talk will clarify the place of OpenStack in the general
+"cloud" landscape and explain why a fully open cloud infrastructure stack is
+necessary to avoid vendor lock-in. We'll then focus on the OpenStack project
+goals, its developer community, its open design and release processes, and the
+developer tools it chose.
+
+The second part of the talk will present into more technical details the
+different components of OpenStack: Nova (compute) and Swift (storage),
+including the Python libraries that are used (libvirt, SQLAlchemy, eventlet…).
+A Q&amp;A session at the end of the talk will give the audience a chance to clear
+any remaining dark area.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thierry Carrez</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1101/snakes-on-a-cloud-the-openstack-project-0</guid><enclosure url="http://www.youtube.com/watch?v=-rmctl-VB1Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-rmctl-VB1Y/hqdefault.jpg"></media:thumbnail></item></channel></rss>

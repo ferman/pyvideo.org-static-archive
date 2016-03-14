@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Federico Caboni</title><link>http://www.pyvideo.org/speaker/484/federico-caboni/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/484/federico-caboni/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Healthcare process management in Python: a use case</title><link>http://www.pyvideo.org/video/1021/healthcare-process-management-in-python-a-use-ca</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Federico Caboni - 24 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this talk I'll describe our successful experience in introducing Python
+into a system for blood collection tube labeling in laboratory and hospital
+environments, based on IHE Technical Frameworks –the industry standard for
+modeling and streamlining healthcare processes– and designed to avoid human
+errors and ensure process traceability.
+
+During the talk I will explain why we chose Python in the first place, how
+we've been able to leverage the language's features and characteristics for
+our specific field and what problems and limitations we faced.
+
+I will show specific instances of Python usage in different parts of the
+project, including a low-level driver for laboratory automation machinery, an
+asynchronous messaging module, the implementation of IHE-compliant actors and
+the inevitable end-user web application, implemented with Django.
+
+Using Python greatly helped us in building our system, allowing very rapid
+prototyping cycles for both hardware and software, but during the talk I'll
+also point out what we found was missing, and what would be nice to have to
+ensure Python has its proper place as a viable platform for designing
+streamlined healthcare workflows based on established international standards.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Federico Caboni</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1021/healthcare-process-management-in-python-a-use-ca</guid><enclosure url="http://www.youtube.com/watch?v=btyuUwcfLW0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/btyuUwcfLW0/hqdefault.jpg"></media:thumbnail></item><item><title>Gestione di processi clinici in Python: un caso d'uso</title><link>http://www.pyvideo.org/video/1175/gestione-di-processi-clinici-in-python-un-caso-d</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Federico Caboni - 23 June 2011 in "Track Italiana Big Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In questo seminario descriverò la nostra esperienza positiva d'uso di Python
+per lo sviluppo di un sistema di etichettatura di provette per il prelievo
+sanguigno in ambito di laboratorio e corsia ospedaliera. Il sistema è basato
+sui Technical Framework di IHE –standard industriale per la modellazione di
+processi clinici– ed è progettato per ridurre gli errori umani e assicurare la
+tracciabilità del processo.
+
+Durante il seminario spiegherò perché abbiamo scelto Python in primo luogo, e
+descriverò come siamo stati in grado di sfruttarne le caratteristiche
+peculiari nello specifico del nostro dominio, esaminando le limitazioni e i
+problemi affrontati.
+
+Mostrerò specifici casi d'uso di Python in parti differenti del progetto, come
+un driver di basso livello per la gestione della robotica di laboratorio, un
+modulo di comunicazione asincrona, l'implementazione di attori IHE, e
+l'inevitabile applicazione web sviluppata in Django.
+
+Usare Python ha contribuito enormemente alla progettazione del sistema, e ci
+ha consentito di adottare cicli di prototipizzazione estremamente rapidi, sia
+per l'hardware che per il software. Durante il seminario parlerò anche di ciò
+che, secondo noi, ancora manca perché Python possa guadagnarsi il posto che
+gli spetta come piattaforma credibile per l'implementazione di processi
+clinici basati sui più diffusi standard internazionali.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Federico Caboni</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1175/gestione-di-processi-clinici-in-python-un-caso-d</guid><enclosure url="http://www.youtube.com/watch?v=l7e6NmyWclM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/l7e6NmyWclM/hqdefault.jpg"></media:thumbnail></item><item><title>Healthcare process management in Python: a use case</title><link>http://www.pyvideo.org/video/1142/healthcare-process-management-in-python-a-use-c-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Federico Caboni - 24 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this talk I'll describe our successful experience in introducing Python
+into a system for blood collection tube labeling in laboratory and hospital
+environments, based on IHE Technical Frameworks –the industry standard for
+modeling and streamlining healthcare processes– and designed to avoid human
+errors and ensure process traceability.
+
+During the talk I will explain why we chose Python in the first place, how
+we've been able to leverage the language's features and characteristics for
+our specific field and what problems and limitations we faced.
+
+I will show specific instances of Python usage in different parts of the
+project, including a low-level driver for laboratory automation machinery, an
+asynchronous messaging module, the implementation of IHE-compliant actors and
+the inevitable end-user web application, implemented with Django.
+
+Using Python greatly helped us in building our system, allowing very rapid
+prototyping cycles for both hardware and software, but during the talk I'll
+also point out what we found was missing, and what would be nice to have to
+ensure Python has its proper place as a viable platform for designing
+streamlined healthcare workflows based on established international standards.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Federico Caboni</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1142/healthcare-process-management-in-python-a-use-c-0</guid><enclosure url="http://www.youtube.com/watch?v=MsmmrfkLuvY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/MsmmrfkLuvY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

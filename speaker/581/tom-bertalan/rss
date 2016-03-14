@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tom Bertalan</title><link>http://www.pyvideo.org/speaker/581/tom-bertalan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/581/tom-bertalan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>OpenMG: A New Multigrid Implementation in Python</title><link>http://www.pyvideo.org/video/1205/openmg-a-new-multigrid-implementation-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Here, include a talk summary of no longer than 500 words. Aspects such as
+relevance to Python in science, applicability, and novelty will be considered
+by the program committee.
+
+In most large-scale computations, systems of equations arise in the form Au=b,
+where A is a linear operation to be performed on the unknown data u, producing
+the known right-hand-side, b, which represents some constraint of known or
+assumed behavior of the system being modeled. Since u can have a many millions
+to billions elements, direct solution is too slow. A multigrid solver solves
+partially at full resolution, and then solves directly only at low resolution.
+This creates a correction vector, which is then interpolated to full
+resolution, where it corrects the partial solution.
+
+This project aims to create an open-source multigrid solver library, written
+only in Python. The existing PyAMG multigrid implementation–a highly
+versatile, highly configurable, black-box solver–is fully sequential, and is
+difficult to read and modify due to its C core. OpenMG is a pure Python
+experimentation environment for developing multigrid optimizations, not a new
+production solver library. By making the code simple and modular, we make the
+alogrithmic details clear. We thereby create an opportunity for education and
+experimental optimization of the partial solver (Jacobi, Gauss Seidel, SOR,
+etc.), the restriction mechanism, the prolongation mechanism, and the direct
+solver, using GPGPU, multiple CPUs, MPI, or grid computing. The resulting
+solver is tested on an implicit pressure reservoir simulation problem with
+satisfactory results.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Akand W. Islam,Tom Bertalan</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1205/openmg-a-new-multigrid-implementation-in-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/OpenMG_A_New_Multigrid_Implementation_in_Python.mp4?Signature=kNN3vhu1YxcbCBNjVmWtEKMogcg%3D&amp;Expires=1346381424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/OpenMG_A_New_Multigrid_Implementation_in_Python.mp4?Signature=kNN3vhu1YxcbCBNjVmWtEKMogcg%3D&amp;Expires=1346381424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=R-FO_PX7a_I" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/R-FO_PX7a_I/hqdefault.jpg"></media:thumbnail></item></channel></rss>

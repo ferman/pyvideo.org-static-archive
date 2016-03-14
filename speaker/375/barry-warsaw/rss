@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Barry Warsaw</title><link>http://www.pyvideo.org/speaker/375/barry-warsaw/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/375/barry-warsaw/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Mailman 3</title><link>http://www.pyvideo.org/video/688/mailman-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mailman 3 has been in development for several years. This is an evolution of
+the ever popular mailing list management system that runs thousands of mailing
+lists around the world. This talk describes how the code has been modernized
+and how the architectural deficiencies of Mailman 2 have been addressed using
+REST and other technologies. This is a spinoff from the AOSA chapter on
+Mailman 3.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Barry Warsaw</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/688/mailman-3</guid><enclosure url="https://www.youtube.com/watch?v=dX3DRdFKW_E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/dX3DRdFKW_E/hqdefault.jpg"></media:thumbnail></item></channel></rss>

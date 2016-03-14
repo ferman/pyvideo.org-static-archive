@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of SciPy 2012</title><link>http://www.pyvideo.org/category/20/scipy_2012/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/20/scipy_2012/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Bokeh: An Extensible Implementation of the Grammar of Graphics for Python</title><link>http://www.pyvideo.org/video/1224/bokeh-an-extensible-implementation-of-the-gramma</link><description>&lt;p&gt;Description&lt;/p&gt;
+Bokeh is a new plotting framework for Python that natively understands the
+relationships in multidimensional datasets, uses a Protovis-like expression
+syntax scheme for creating novel visualizations, and is designed from the
+ground up to be used on the web.
+
+Although it can be thought of as "ggplot for Python", the goals of Bokeh are
+much more ambitious. The Grammar of Graphics primarily addresses the mapping
+of pre-built aeshetics and layouts to a particular data schema and tuples of
+measure variables. It has limited facility for expressing data interactivity,
+and its small set of graph types (aka "geoms" or glyphs) are somewhat limited
+in both their number and in the number of ways they can be combined with one
+another.
+
+On the flip side, most existing Python plotting frameworks adopt a "tell me
+how" instead of a "tell me what" approach. Thus, user plotting code
+canfrequently become mired down in what amounts to details of the rendering
+system.
+
+In our talk, we will show various features of Bokeh, and talk about future
+development. We will also go into some detail about how Bokeh unifies the
+tasks of describing data mapping, building data-driven layout, and composing
+novel visualizations using a single, multi-purpose scene and data graph.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hugo Shi,Peter Wang</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1224/bokeh-an-extensible-implementation-of-the-gramma</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Bokeh_An_Extensible_Implementation_of_the_Grammar_of_Graphics_for_Python.mp4?Signature=gBH9TWy6r8GT9YBqtkCWpOmRLPE%3D&amp;Expires=1346382408&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Bokeh_An_Extensible_Implementation_of_the_Grammar_of_Graphics_for_Python.mp4?Signature=gBH9TWy6r8GT9YBqtkCWpOmRLPE%3D&amp;Expires=1346382408&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=6_aE0kAedL0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/6_aE0kAedL0/hqdefault.jpg"></media:thumbnail></item><item><title>Can Python's web and science communities run concurrently?</title><link>http://www.pyvideo.org/video/1237/can-pythons-web-and-science-communities-run-conc</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python has been adopted by many disciplinary communities, showing its
+adaptability to many problems. Scientific computing and web development are
+two examples of such communities. These might, at first glance, seem to share
+few common interests, especially at the level of algorithms and libraries.
+However, at the level of integrated practice in time-constrained academic
+environments, where framework development is less valued than research and
+teaching productivity, ease of adoption of tools from each of these
+communities can be tremendously valuable.
+
+Using examples from the recently-deployed West Texas Lightning Mapping Array,
+which is processed and visualized in real-time, this paper will argue that a
+shared sense, among disciplinary communities, of the essence of how one
+deploys Python for specific problems is beneficial for continuation and growth
+of Python's status as a go-to language for practitioners in academic settings.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Bruning</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1237/can-pythons-web-and-science-communities-run-conc</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Can_Pythons_web_and_science_co.mp4?Signature=XdOdsW0aFz4ZLrWvxCfL9nFwpcc%3D&amp;Expires=1346383217&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Can_Pythons_web_and_science_co.mp4?Signature=XdOdsW0aFz4ZLrWvxCfL9nFwpcc%3D&amp;Expires=1346383217&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ZmzMhb2IYWM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ZmzMhb2IYWM/hqdefault.jpg"></media:thumbnail></item><item><title>Domain Analysis of Mosaic Proteins in Purple Sea Urchin</title><link>http://www.pyvideo.org/video/1241/domain-analysis-of-mosaic-proteins-in-purple-sea</link><description>&lt;p&gt;Description&lt;/p&gt;
+Purple sea urchins (Strongylocentrotus purpuratus or Sp) are invertebrates
+that share more than 7,000 genes with humans, more than other common model
+invertebrate organisms like fruit flies and worms. In addition, the innate
+immune system of sea urchins demonstrates unprecedented complexity. These
+factors make the sea urchin a very interesting organism for investigations of
+immunology. Of particular interest are the set of proteins in SP that contain
+C-type lectin (CLECT) domains, a functional region in the protein which
+recognizes sugars. Proteins containing CLECTs may be particularly important to
+immune system robustness because of sugars that are present on pathogens.
+
+The primary goals of this research project are first to identify all the
+CLECT-containing proteins in the Sp genome, and then to predict their function
+based on similarity to characterized proteins in other species (protein
+homology or similarity). The latter goal is particularly challenging and
+requires new and creative analysis methods.
+
+From an informational viewpoint, proteins are represented by a unique sequence
+of letters, each letter corresponding to an amino acid. For example G-A-V
+indicates the sequence glycine, alanine and valine. Commonality between
+proteins is usually measured by sequence alignments; that is, by directly
+comparing the sequence of letters between two proteins. Algorithms and tools
+for these alignments are among the most standardized and available tools in
+bioinformatics.
+
+Sequence similarity between homologous proteins can degrade over long
+evolutionary timescales. This is in part because some mutations at the
+sequence level can occur without compromising a protein's overall function.
+This is akin to the evolution of a language, e.g modern English and middle
+English, which initially appear to be separate languages due to spelling
+differences. Because domains are regions of a protein which can function semi-
+independently, they are less prone to accommodate mutations. By comparing
+proteins based on the ordering of their domains, or their "domain
+architecture", it becomes possible to identify homology, or similarities in
+domain order, separated by extensive evolution.
+
+Alignment tools based on domain architecture are promising, but are still in
+their infancy. Consequently, very few researchers utilize both sequence and
+domain alignment methodologies corroboratively. Using Python scripts in tandem
+with various web tools and databases, we have identified the top alignment
+candidates for the CLECT-containing Sp proteins using both methods. With the
+help of the Enthought Tool Suite, we have created a simple visualization tool
+that allows users to examine the sequence alignments side-by-side with two
+types of domain alignments. The information provided by these three results
+together is much more informative with respect to predicting protein function
+than any single method alone. Finally, we have developed a systematic set of
+heuristic rules to allow users to make objective comparisons among the three
+sets of results. The results can later be parsed using Python scripts to make
+quantitative and qualitative assessments of the dataset. We believe that these
+new comparison and visualization techniques will apply in general to
+computational proteomics.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Hughes</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1241/domain-analysis-of-mosaic-proteins-in-purple-sea</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Analysis_of_Mosaic_Prot.mp4?Signature=sk5dC792%2F9McCWo60IdAhf4LCUU%3D&amp;Expires=1346383398&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Analysis_of_Mosaic_Prot.mp4?Signature=sk5dC792%2F9McCWo60IdAhf4LCUU%3D&amp;Expires=1346383398&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=l4x23L-mSfk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/l4x23L-mSfk/hqdefault.jpg"></media:thumbnail></item><item><title>Enaml - A Framework for Building Declarative User Interfaces</title><link>http://www.pyvideo.org/video/1231/enaml-a-framework-for-building-declarative-user</link><description>&lt;p&gt;Description&lt;/p&gt;
+## Overview
+
+Enaml is a new domain specific declarative language for specifying user
+interfaces in Python applications. Its syntax, a strict superset of the Python
+language, provides a clean and compact representation of UI layout and
+styling, and uses dynamic expressions to bind a view's logic with an
+application's underlying computational model.
+
+## Design Goals
+
+A number of considerations were given during the design of Enaml with the
+ultimate goal being the creation of a dynamic UI framework that has a low
+barrier of entry and can scale in complexity and capability according to the
+needs of the developer.
+
+**Influence** Enaml improves upon existing technologies and ideas for specifying user interfaces. Much of Enaml's inspiration comes from Qt's QML, a declarative UI language derived from ECMAScript and designed specifically for developing mobile applications with the Qt toolkit. In contrast, Enaml is designed for the development of scientific and enterprise level applications, and makes use of a Python derived syntax and standard desktop-style widget elements. For layout, Enaml raises the bar by providing a system based on symbolic constraints. The underyling technology is the same which powers the Cocoa Auto-Layout system in OSX 10.7, however in Enaml, the constraints are exposed in a friendly Pythonic fashion.
+
+**Toolkit Independence** In large projects, the costs of changing infrastructure can be extremely high. Instead of forcing an application to be tied to a single underlying toolkit, Enaml is designed to be completely toolkit agnostic. This decoupling provides the benefit of being able to migrate an entire project from one gui library to another by changing only a single line of code or setting an environment variable. Enaml currently supports both Qt (via Pyside or PyQt4) and WxPython backends with plans for HTML 5 in the future. The authoring of new toolkit backends has been designed to be a simple affair. Adding new or custom widgets to an existing toolkit is trivial.
+
+**Extensibility** A good framework should be useable by a wide variety of audiences and should be able to adapt to work with technologies not yet invented. Enaml can provide the UI layer for any Python application, with few limitations placed on the architecture of the underlying computational model. While Enaml understands Enthought's Traits based models by default, it provides simple hooks that the developer can use to extend its functionality to any model architecture that provides some form of notification mechanism. Possibilities include, but are not limited to, models built upon databases, sockets, and pub-sub mechanisms.
+
+**Continuity** No matter how easy it is to get started with a new framework, it will not be adopted if the cost of switching is exceedingly high. Enaml is positioned to become the next generation of TraitsUI, the user interface layer of the Traits library. Enaml can both include existing TraitsUI views in an application as well as itself be embedded within a TraitsUI. Enaml also interacts seamlessly with the Chaco plotting library, allowing easy integration of interactive graphics. Enaml cleanly exposes the toolkit specific objects that it manages, allowing a user with a large amount of toolkit specific code to continue to use that code with little or no changes. This provides a path forward for both TraitsUI and non-TraitsUI applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S. Chris Colbert</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1231/enaml-a-framework-for-building-declarative-user</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Enaml_A_Framework_for_Building.mp4?Signature=08ekMtS%2FwDm0cg0G84k%2FIsD378g%3D&amp;Expires=1346382959&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Enaml_A_Framework_for_Building.mp4?Signature=08ekMtS%2FwDm0cg0G84k%2FIsD378g%3D&amp;Expires=1346382959&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ycFEwz_hAxk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/ycFEwz_hAxk/hqdefault.jpg"></media:thumbnail></item><item><title>Fcm - A python library for flow cytometry</title><link>http://www.pyvideo.org/video/1234/fcm-a-python-library-for-flow-cytometry</link><description>&lt;p&gt;Description&lt;/p&gt;
+Cellular populations in biology are often heterogeneous, and aggregate assays
+such as expression arrays can obscure the small differences between these
+populations. Examples where these differences can be highly significant
+include the identification of antigen-specific immune cells, stem cells and
+circulating cancer cells. As the frequency of such cells in the blood can be
+vanishingly small, assays to detect signals at the single cell level are
+essential. Flow cytometry is probably the best established single cell assay,
+and has been an integral tool in immunology and biology for decades, able to
+measure cellular marker levels for individual cells, as well as population
+statistics over millions of cells.
+
+Recent technological innovations in flow cytometry have increased the number
+of cell markers capable of being resolved simultaneously, and visual analysis
+(gating) is difficult and error prone with increasing data dimensionality.
+Hence there is increasing demand for tools to automate the analysis and
+management of flow data, so as to increase accuracy and reproducibility.
+However, essentially all software used by flow cytometry laboratories is
+commercial and based on the visual analysis paradigm. With the exception of
+the R BioConductor project, we are not aware of any other full-featured open
+source tools for analyzing flow data. The few open source flow software
+modules that exist simply extracts data from FCS (flow cytometry standard)
+files into tabular/csv format, losing all metadata associated with the file,
+and provide no additional tools for analysis. We therefore decided to develop
+the _fcm_ library in python that would provide a foundation for flow cytometry
+data management and analysis.
+
+The _fcm_ library provides functions to load fcs files, apply spectral
+compensation, and perform standard log and log-like transforms for
+visualization. The library also provides objects and methods for traditional
+gating-based analysis, including standard polygon, threshold, interval, and
+quadrant gates. Using _fcm_ and other common python libraries, one can quickly
+write scripts for doing large scale batch analysis. In addition to gating-
+based analysis, _fcm_ provides methods to do model-based analysis, utilizing
+GPU-optimized statistical models to identify cell subsets. These statistical
+models provide a data-driven way to construct generative probability models
+that scale well with the increasing dimensionality of flow data and do not
+require expert input to identify cell subsets. High performance computational
+routines to fit statistical models are optimized using cython and pycuda. More
+specialized tools for the analysis of flow data include the use of a novel
+information measure to optimize reagent panels and analysis strategies, and
+optimization methods for automatic determination of positivity thresholds.
+
+We are currently using the _fcm_ library for the analysis of tetramer assays
+for cancer immunotherapy, as well as intracellular expression of effector
+molecules in the NIAID-sponsored External Quality Assurance Policy Oversight
+Laboratory (EQAPOL) program to standardize flow cytometry assays in HIV
+studies. An illustrative example is the use of _fcm_ in building a pipeline
+for the Cytostream application to automate the analysis of 459 FCS files from
+12 laboratories, reducing the analysis time of one month to a single evening.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Frelinger</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1234/fcm-a-python-library-for-flow-cytometry</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Fcm_A_python_library_for_flow_.mp4?Signature=47khe03tMWQWqHO71268Wx73pMs%3D&amp;Expires=1346383053&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Fcm_A_python_library_for_flow_.mp4?Signature=47khe03tMWQWqHO71268Wx73pMs%3D&amp;Expires=1346383053&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=SXdIiLPQLAo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/SXdIiLPQLAo/hqdefault.jpg"></media:thumbnail></item><item><title>Forking your way to success and happiness: how GitHub style collaboration is ushering in a new era of amateur led innovation.</title><link>http://www.pyvideo.org/video/1229/forking-your-way-to-success-and-happiness-how-gi</link><description>&lt;p&gt;Description&lt;/p&gt;
+Come hear about the tools, technology, corporate structure, and ethos that
+lets GitHub use GitHub to build GitHub. From a couple of guys in a coffee shop
+to almost 100 employees, millions of users, and massive open source projects
+that are powering businesses around the world, it's been a bit of a wild ride.
+Hear about some lessons learned and challenges we've faced: things we've done
+right and others that didn't work out so well. Learn a little bit about our
+growing technology stack and how we design and deploy features. Get some
+insight into why we still have no managers and how everyone decides what to
+work on. Finally, hear about how open source has shaped the company and our
+vision of 'open' in everything from hardware to politics to education and
+science. The social web is old news, but the collaborative web is just in its
+infancy and GitHub sees that as a very bright future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tim Clem</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1229/forking-your-way-to-success-and-happiness-how-gi</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Invited_Talk.mp4?Signature=EYjC97jvwpFMboccedfKe%2Fk4N%2Fo%3D&amp;Expires=1346382857&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:thumbnail url="/static/videos/img/no_thumbnail.png"></media:thumbnail></item><item><title>How Sequencing Saved Python</title><link>http://www.pyvideo.org/video/1240/how-sequencing-saved-python</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Mueller</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1240/how-sequencing-saved-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/How_Sequencing_Saved_Python.mp4?Signature=NX46sJr%2BXKDZHlLwxFDoA8RW%2BYA%3D&amp;Expires=1346383360&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/How_Sequencing_Saved_Python.mp4?Signature=NX46sJr%2BXKDZHlLwxFDoA8RW%2BYA%3D&amp;Expires=1346383360&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=IfsCFdLIUhI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/IfsCFdLIUhI/hqdefault.jpg"></media:thumbnail></item><item><title>Interactive Visualization Widgets Using Chaco and Enable</title><link>http://www.pyvideo.org/video/1222/interactive-visualization-widgets-using-chaco-and</link><description>&lt;p&gt;Description&lt;/p&gt;
+Interactivity is an important part of computer visualization of data, but all
+too often the user interfaces to control the visualization are far from
+optimal. This talk will show how you can use the Enable and the Chaco to build
+interactive visualization widgets which give much better user feedback than
+sliders or text fields.
+
+Chaco is an open-source interactive 2D plotting library that is part of the
+Enthought tool-suite, which is in turn built upon the Enable interactive 2D
+drawing library that are compatible with PyQt, WxPython, Pyglet and VTK. These
+libraries are written in Python and are key tools that Enthought uses to
+deliver scientific applications to our clients.
+
+This talk will show how to use these tools to build UI widgets that can be
+used to control visualizations interactively. Rather than building a complex,
+monolithic control, the approach that we will demonstrate builds the control
+our of many smaller interactions, each controlling a small piece of the
+overall state of a visualization, with a high level of reusability.
+
+As a simple but useful case-study, we'll show how we built an interactive
+histogram widget that can be use to adjust the brightness, contrast, gamma and
+other attributes of an image in real-time. We'll also discuss some of the
+tricks we used to keep the user interactions responsive in the face of having
+to visualize larger images.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Corran Webster</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1222/interactive-visualization-widgets-using-chaco-and</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Interactive_Visualization_Widgets_Using_Chaco_and_Enable.mp4?Signature=ibuWV9xw9hjHwm4RIn0z53XayBY%3D&amp;Expires=1346382274&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Interactive_Visualization_Widgets_Using_Chaco_and_Enable.mp4?Signature=ibuWV9xw9hjHwm4RIn0z53XayBY%3D&amp;Expires=1346382274&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=we6sHcxbG-I" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/we6sHcxbG-I/hqdefault.jpg"></media:thumbnail></item><item><title>IPython: tools for the entire lifecycle of research computing</title><link>http://www.pyvideo.org/video/1221/ipython-tools-for-the-entire-lifecycle-of-resear</link><description>&lt;p&gt;Description&lt;/p&gt;
+IPython started as a better interactive Python interpreter in 2001, but over
+the last decade it has grown into a rich and powerful set of interlocking
+tools aimed at enabling an efficient, fluid and productive workflow in the
+typical use cases encountered by scientists in everyday research.
+
+Today, IPython consists of a kernel executing user code and capable of
+communicating with a variety of clients, using ZeroMQ for networking via a
+well-documented protocol. This enables IPython to support, from a single
+codebase, a rich variety of usage scenarios through user-facing applications
+and an API for embedding:
+
+  * An interactive, terminal-based shell with many capabilities far beyond the default Python interactive interpreter (this is the default application opened by the `ipython` command that most users are familiar with).
+  * A Qt console that provides the look and feel of a terminal, but adds support for inline figures, graphical calltips, a persistent session that can survive crashes of the kernel process, and more.
+  * A web-based notebook that can execute code and also contain rich text and figures, mathematical equations and arbitrary HTML. This notebook presents a document-like view with cells where code is executed but that can be edited in-place, reordered, mixed with explanatory text and figures, etc.
+  * A high-performance, low-latency system for parallel computing that supports the control of a cluster of IPython engines communicating over ZeroMQ, with optimizations that minimize unnecessary copying of large objects (especially numpy arrays).
+
+In this talk we will show how IPython supports all stages in the lifecycle of
+a scientific idea: individual exploration, collaborative development, large-
+scale production using parallel resources, publication and education. In
+particular, the IPython Notebook supports multiuser collaboration and allows
+scientists to share their work in an open document format that is a true
+"executable paper": notebooks can be version controlled, exported to HTML or
+PDF for publication, and used for teaching. We will demonstrate the key
+features of the system,
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Granger,Evan Patterson,Fernando Pérez,Min Ragan-Kelley,Thomas Kluyver</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1221/ipython-tools-for-the-entire-lifecycle-of-resear</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_tools_for_the_entire_lifecycle_of_research_computing.mp4?Signature=AgDUtK60kAvr4De7J2V6xj%2FZSxU%3D&amp;Expires=1346382215&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_tools_for_the_entire_lifecycle_of_research_computing.mp4?Signature=AgDUtK60kAvr4De7J2V6xj%2FZSxU%3D&amp;Expires=1346382215&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=iwVvqwLDsJo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/iwVvqwLDsJo/hqdefault.jpg"></media:thumbnail></item><item><title>Lightning Talks - Thursday</title><link>http://www.pyvideo.org/video/1348/lightning-talks-thursday</link><description>&lt;p&gt;Description&lt;/p&gt;
+  1. Scalable Python, Travis Oliphant.
+  2. Big Data in the Cloud with Python, Chris Cope.
+  3. CMake and Cython, Matt McCormick.
+  4. Psychometric Python, Mark Moulton.
+  5. Evolutionary Comp. in Python, Alan Lockett.
+  6. Generative Art with Neural Networks, Byron Galbraith.
+  7. Cellulose Based Serialization, Matt Terry.
+  8. NumFocus, Fernando Perez.
+  9. Software Carpentry, Matt Davis.
+
+</description><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1348/lightning-talks-thursday</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Lightning_Talks_thurs.mp4?Signature=sbPS2QkYCyICBMjgA083L4Jkssw%3D&amp;Expires=1347496910&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Lightning_Talks_thurs.mp4?Signature=sbPS2QkYCyICBMjgA083L4Jkssw%3D&amp;Expires=1347496910&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=fmKUgn6hk4M" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/fmKUgn6hk4M/hqdefault.jpg"></media:thumbnail></item><item><title>luban: a minimalist UI 'language'</title><link>http://www.pyvideo.org/video/1226/luban-a-minimalist-ui-language</link><description>&lt;p&gt;Description&lt;/p&gt;
+Luban ([http://lubanui.org](http://lubanui.org)) is a python package for
+building user interface. With luban, one can easily create dynamic, ajax-based
+web interfaces behaving like desktop UI using pure python: no knowledge of
+html and javascript is required.
+
+Luban is different from any existing web frameworks in philosophy: it provides
+a generic specification "language" for describing user interface, and a luban
+specification of user interface can be automatically rendered into web or
+native user interfaces using media-specific languages.
+
+Luban is focused on providing a simple, easy-to-understand syntax to describe
+user interfaces, and hence allows users to focus more on the business logic
+needed behind user interfaces.
+
+In this talk I will discuss recent developments of luban and some of its
+applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jiao Lin</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1226/luban-a-minimalist-ui-language</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/luban_a_minimalist_UI_language.mp4?Signature=3gc9t4eHIv%2FGYpWfbTQZcYASX5o%3D&amp;Expires=1346703571&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/luban_a_minimalist_UI_language.mp4?Signature=3gc9t4eHIv%2FGYpWfbTQZcYASX5o%3D&amp;Expires=1346703571&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=hgCR8ytWHeg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/hgCR8ytWHeg/hqdefault.jpg"></media:thumbnail></item><item><title>nD image segmentation using learned region agglomeration with the Ray Python library</title><link>http://www.pyvideo.org/video/1225/nd-image-segmentation-using-learned-region-agglom</link><description>&lt;p&gt;Description&lt;/p&gt;
+One of the principal goals of the Janelia Farm Research Campus is the
+reconstruction of complete neuronal circuits. This involves 3D electron-
+microscopy (EM) volumes many microns across with better than 10nm resolution,
+resulting in gigavoxel scale images. From these, individual neurons must be
+segmented out. Although image segmentation is a well-studied problem, these
+data present unique challenges in addition to scale: neurons have an
+elongated, irregular branching structure, with processes up to 50nm thin but
+hundreds of micrometers long); one neuron looks much like the next, with only
+a thin cellular boundary separating densely packed neurons; and internal
+neuronal structures can look similar to the cellular boundary. The first
+problem in particular means that small errors in segment boundary predictions
+can lead to large errors in neuron shape and neuronal network connectivity.
+
+Our segmentation workflow has three main steps: a voxelwise edge
+classification, a fine-grained segmentation into supervoxels (which can
+reasonably be assumed to be atomic groups of voxels), and hierarchical region
+agglomeration.
+
+For the first step, we use Ilastik, a pixel-level interactive learning
+program. Ilastik uses the output of various image filters as features to
+classify voxels as labeled by the user. We then use the watershed algorithm on
+the resulting edge probability map to obtain supervoxels. For the last step,
+we developed a new machine learning algorithm (Nunez-Iglesias et al, in
+preparation).
+
+Prior work has used the mean voxel-level edge-probability along the boundaries
+between regions to agglomerate them. This strategy works extremely well
+because boundaries get longer as agglomeration proceeds, resulting in ever-
+improving estimates of the mean probability. We hypothesized that we could
+improve agglomeration accuracy by using a classifier (which can use many more
+features than the mean). However, a classifier can perform poorly because
+throughout agglomeration we may visit a part of the feature space that has not
+yet been sampled. In our approach, we use active learning to ensure that we
+have examples from all parts of the space we are likely to encounter.
+
+We implemented our algorithm in arbitrary dimensions in an open-source, MIT-
+licensed Python library, Ray
+([https://github.com/jni/ray](https://github.com/jni/ray)). Ray combines
+leading scientific computing Python libraries, including NumPy, SciPy,
+NetworkX, and scikits-learn to deliver state of the art segmentation accuracy
+in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1225/nd-image-segmentation-using-learned-region-agglom</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nD_image_segmentation_using_le.mp4?Signature=c9cvY2RhvdhwqRDhvE48%2BgY%2Ftp4%3D&amp;Expires=1346444687&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nD_image_segmentation_using_le.mp4?Signature=c9cvY2RhvdhwqRDhvE48%2BgY%2Ftp4%3D&amp;Expires=1346444687&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=-cQpExBrh74" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-cQpExBrh74/hqdefault.jpg"></media:thumbnail></item><item><title>nmrglue: a Python Module for Working with NMR Data.</title><link>http://www.pyvideo.org/video/1236/nmrglue-a-python-module-for-working-with-nmr-dat</link><description>&lt;p&gt;Description&lt;/p&gt;
+Nuclear magnetic resonance (NMR) spectroscopy is a key analytical technique in
+the biomedical field, finding uses in drug discovery, metabolomics, and
+imaging as well as being the primary method for the determination of the
+structures of biological macromolecules in solution. In the course of a modern
+NMR structural or dynamic study of proteins and other biomolecules,
+experiments typically generate multiple gigabytes of 2D, 3D and even 4D data
+sets which must be collected, processed, analyzed, and visualized to extract
+useful information. The field has developed a number of software products to
+perform these functions, but few software suites exist that can perform all of
+the tasks which a typical scientist requires. For example, it is not uncommon
+for NMR data to be collected using software provided by the spectrometer
+vendor, processed and visualized using software from the NIH, and analyzed
+using software from a University, collaborator or developed in house.
+Complicating this process is the lack of a standard format for storing NMR
+data; each software program typically uses its own format for data storage.
+
+nmrglue is an open source Python module for working with NMR data which acts
+as the "glue" to tie together existing NMR programs, and can be used to
+rapidly develop new NMR processing, analysis or visualization methods. With
+nmrglue, spectral data from a number of common NMR file formats can be
+accessed as numpy arrays. This data can be sliced, rearranged or modified as
+needed and written out to any of the supported file formats for later use in
+existing NMR software programs. In this way, nmrglue can act as the "glue" to
+tie together NMR workflows which employ existing NMR software.
+
+In addition, nmrglue can be used in conjunction with other scientific python
+libraries to rapidly test, prototype, and develop new methods for processing,
+analyzing, and visualizing NMR data. The nmrglue package provides a number of
+common NMR processing functions, as well as implementation of scientific
+routines which may be of interest to other Python projects including peak
+pickers, multidimensional lineshape fitting routines, linear prediction
+functions, and a bounded least squares optimization. These functions together,
+with the ability to read, write and convert between a number of common file
+formats, allow developers to harness nmrglue for established routines while
+focusing on the novel portion of the new method being created. In addition,
+the numerical routines in numpy and scipy can be used to further speed this
+process. If these packages are used with the Ipython shell and matplotlib, a
+robust, interpreted environment for exploring and visualizing NMR data can be
+created using only open source software.
+
+nmrglue is distributed under the New BSD license. Documentation, tutorials,
+examples, and downloadable install files and source code are available at
+[http://code.google.com/p/nmrglue/](http://code.google.com/p/nmrglue/).
+Despite a limited exposure in the scientific field, nmrglue is already used in
+a number of university research labs and portions of the package have been
+adapted for use in VeSPA, a software suite for magnetic resonance
+spectroscopy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan J. Helmus</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1236/nmrglue-a-python-module-for-working-with-nmr-dat</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nmrglue_a_Python_Module_for_Wo.mp4?Signature=9xiNcp6ricFFFA5M%2BrG6qgsWQ%2BU%3D&amp;Expires=1346383171&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nmrglue_a_Python_Module_for_Wo.mp4?Signature=9xiNcp6ricFFFA5M%2BrG6qgsWQ%2BU%3D&amp;Expires=1346383171&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=pTxJFvLhHhI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/pTxJFvLhHhI/hqdefault.jpg"></media:thumbnail></item><item><title>Object Oriented Finite Elements at NIST</title><link>http://www.pyvideo.org/video/1232/object-oriented-finite-elements-at-nist</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Object Oriented Finite-Element project at NIST
+&lt;[http://www.ctcms.nist.gov/oof](http://www.ctcms.nist.gov/oof)&gt; is a Python
+and C++ tool designed to bring sophisticated numerical modeling capabilities
+to users in the field of Materials Science. The software provides numerous
+tools for constructing finite-element meshes from microstructural images, and
+for implementing material properties from a very broad class which includes
+elasticity, chemical and thermal diffusion, and electrostatics. The current
+series of releases has a robust interface for defining new nonlinear
+properties, and provides both first and second order time-dependence in the
+equations of motion. The development team is currently working on a fully-3D
+version of the code, as well as expanding the scope of available properties to
+include surface interactions, such as surface tension and chemical reactions,
+and inequality constraints, such as arise in mechanical surface contact and
+plasticity. The software is a hybrid of Python and C++ code, with the high
+level user interface and control code in Python, and the heavy numeric work
+being done in C++. The software can be operated either as an interactive, GUI-
+driven application, as a scripted command-line tool, or as a supporting
+library, providing useful access to users of varying levels of expertise. At
+every level, the user-interface objects are intended to be familiar to the
+materials-science user. This presentation will focus on an interesting example
+of a nonlinear property, called Ramberg-Osgood elasticity, and the process for
+incorporating this feature into the OOF architecture.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Reid</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1232/object-oriented-finite-elements-at-nist</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Object_Oriented_Finite_Element.mp4?Signature=UwtvlUJXYHNDjR5nZs59Lt1Fp7Y%3D&amp;Expires=1346383004&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Object_Oriented_Finite_Element.mp4?Signature=UwtvlUJXYHNDjR5nZs59Lt1Fp7Y%3D&amp;Expires=1346383004&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=mSCo09arkY0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/mSCo09arkY0/hqdefault.jpg"></media:thumbnail></item><item><title>Param: Declarative programming using Parameters</title><link>http://www.pyvideo.org/video/1230/param-declarative-programming-using-parameters</link><description>&lt;p&gt;Description&lt;/p&gt;
+As a scientific Python application grows, it can be increasingly difficult to
+use and maintain, because of implicit assumptions made when writing each
+component. Users can pass any possible data type for any argument, so code
+either fills up with assertions and tests to see what type of data has been
+supplied, or else has undefined behavior for some datatypes or values. Once
+software is exchanged with other users, obscure error messages or even
+incorrect results are the likely outcome. Programming languages that require
+types to be declared alleviate some of these issues, but are inflexible and
+difficult to use, both in general and when specifying details of types (such
+as ranges of allowed values). Luckily, Python metaobjects make it possible to
+extend the Python language to offer flexible declarative typing, offering the
+best of both worlds.
+
+The Param module provides a clean, low-dependency, pure-Python implementation
+of declarative parameters for Python objects and functions, allowing library
+and program developers to specify precisely what types of arguments or values
+are allowed. A Parameter is a special type of class attribute that supports
+type declarations (based on subtypes of a specified class, support for
+specified methods (duck typing), or any other criterion that can be tested),
+ranges, bounds, units, constant values, and enumerations. A Parameter has a
+docstring (visible at the command line or in generated documentation),
+inherits its default value, documentation, etc. along the class hierarchy, and
+can be set to dynamic values that generate a stream of numbers for use in
+controlling scientific code. In essence, a Parameter is a Python attribute
+extended to support clean, simple, robust, maintainable, and declarative
+scientific programming.
+
+Param has been under continuous development and use since 2002 as part of the
+Topographica simulator (topographica.org), but is now being released as a
+separate package due to demand from users who want similar functionality in
+their own code. Param is very similar in spirit to the Enthought Traits
+library, despite having been developed independently, and offers much of the
+same functionality. Param is particularly useful for people who find that
+Traits is difficult to integrate into their work flow, since it consists of
+only two pure Python files with no dependencies outside the standard library.
+Param is also useful for people building Tk applications, and provides an
+optional Tk property-sheet interface that can automatically generate a GUI
+window for viewing and editing an object's Parameters.
+
+Param is freely available under a BSD license from:
+[http://ioam.github.com/param/](http://ioam.github.com/param/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher E. Ball,James A. Bednar</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1230/param-declarative-programming-using-parameters</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Param_Declarative_programming_.mp4?Signature=3oD1SMXw6HQrdaZqDkubvMz8Eec%3D&amp;Expires=1346382906&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Param_Declarative_programming_.mp4?Signature=3oD1SMXw6HQrdaZqDkubvMz8Eec%3D&amp;Expires=1346382906&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=7_ELWwzFCi0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/7_ELWwzFCi0/hqdefault.jpg"></media:thumbnail></item><item><title>Py-ART: Python for remote sensing science</title><link>http://www.pyvideo.org/video/1239/py-art-python-for-remote-sensing-science</link><description>&lt;p&gt;Description&lt;/p&gt;
+The drive to publish often leaves scientists working with old, inflexible,
+poorly documented dead end software. Even operational systems can end up being
+a mash of legacy systems cobbled together. As the Atmospheric Radiation
+Measurement (ARM) Climate Facility brings its 30+ cloud and precipitation
+sensitive radars into operation a concerted effort to modernize, modularize
+and adapt existing code and write new code to retrieve geophysical parameters
+from the remotely sensed signals. Due to the open nature, active development
+community and lack of licensing issues Python is a natural development
+environment choice. This presentation will outline the challenges involved in
+retrieving model comparable geophysical parameters from scanning weather
+radars, introduce the framework behind the Python ARM Radar Toolkit (Py-ART)
+and discuss the challenges involved in building high performance code while
+maintaining portability, readability and ease of use.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Scott Collis</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1239/py-art-python-for-remote-sensing-science</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PyART_Python_for_remote_sensin.mp4?Signature=db%2B85Rg1e4O3dw7OtgFap8OG2TE%3D&amp;Expires=1346383293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PyART_Python_for_remote_sensin.mp4?Signature=db%2B85Rg1e4O3dw7OtgFap8OG2TE%3D&amp;Expires=1346383293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=oFrLBpYXmAY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/oFrLBpYXmAY/hqdefault.jpg"></media:thumbnail></item><item><title>Python as Super Glue for the Modern Scientific Workflow</title><link>http://www.pyvideo.org/video/1220/python-as-super-glue-for-the-modern-scientific-wo</link><description>&lt;p&gt;Description&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joshua Bloom</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1220/python-as-super-glue-for-the-modern-scientific-wo</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Keynote.mp4?Signature=XZt0yJhW6IAedCRDGV%2B%2FQRNSK7s%3D&amp;Expires=1346382154&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Keynote.mp4?Signature=XZt0yJhW6IAedCRDGV%2B%2FQRNSK7s%3D&amp;Expires=1346382154&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=mLuIB8aW2KA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/mLuIB8aW2KA/hqdefault.jpg"></media:thumbnail></item><item><title>Python @ Life</title><link>http://www.pyvideo.org/video/1238/python-life</link><description>&lt;p&gt;Description&lt;/p&gt;
+Life Technologies relies heavily on Python for product development. Here we
+present examples of using Python with the Numpy/SciPy/Matplotlib stack at Life
+Technologies for sequencing analysis, Bayesian estimation, mRNA complexity
+study, and customer survey analysis. We also display our use of Django for
+developing scientific web tools in Python. These applications, taken together,
+demonstrate scientific Python’s vital position in Life Technologies’ tool
+chain.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Williams</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1238/python-life</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Python_Life.mp4?Signature=GpWUpZLvfbpfS0shth4xiIExhi4%3D&amp;Expires=1346383250&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Python_Life.mp4?Signature=GpWUpZLvfbpfS0shth4xiIExhi4%3D&amp;Expires=1346383250&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=6yQJpLPEOJw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/6yQJpLPEOJw/hqdefault.jpg"></media:thumbnail></item><item><title>Python's role in VisIt</title><link>http://www.pyvideo.org/video/1228/pythons-role-in-visit</link><description>&lt;p&gt;Description&lt;/p&gt;
+VisIt is an open source, turnkey application for scientific data analysis and
+visualization that runs on a wide variety of platforms from desktops to
+petascale class supercomputers. This talk will provide an overview of Python’s
+role in VisIt with a focus on use cases of scripted rendering, data analysis,
+and custom application development.
+
+Python is the foundation of VisIt’s primary scripting interface, which is
+available from both a standard python interpreter and a custom command line
+client. The interface provides access to all features available through
+VisIt’s GUI. It also includes support for macro recording of GUI actions to
+python snippets and full control of windowless batch processing.
+
+While Python has always played an important scripting role in VisIt, two
+recent development efforts have greatly expanded VisIt’s python capabilities:
+
+  1. We recently enhanced VisIt by embedding python interpreters into our data flow network pipelines. This provides fine grained access, allowing users to write custom algorithms in python that manipulate mesh data via VTK’s python wrappers and leverage packages such as numpy and scipy. Current support includes the ability to create derived mesh quantities and execute data summarization operations.
+  2. We now support custom GUI development using Qt via PySide. This allows users to embed VisIt’s visualization windows into their own python applications. This provides a path to extend VisIt’s existing GUI and for rapid development of streamlined GUIs for specific use cases.
+
+The ultimate goal of this work is to evolve Python into a true peer to our
+core C++ plugin infrastructure.
+
+This work performed under the auspices of the U.S. Department of Energy by
+Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 (LLNL-
+ABS-552316).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cyrus Harrison,Harinarayan Krishnan</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1228/pythons-role-in-visit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Pythonu2019s_role_in_VisIt.mp4?Signature=syBSoJjkdBb1x58V850wn21fP04%3D&amp;Expires=1346382780&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Pythonu2019s_role_in_VisIt.mp4?Signature=syBSoJjkdBb1x58V850wn21fP04%3D&amp;Expires=1346382780&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=0e4TTcswqLg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0e4TTcswqLg/hqdefault.jpg"></media:thumbnail></item><item><title>PythonTeX: Fast Access to Python from within LaTeX</title><link>http://www.pyvideo.org/video/1227/pythontex-fast-access-to-python-from-within-late</link><description>&lt;p&gt;Description&lt;/p&gt;
+The LaTeX document preparation system is frequently used to create scientific
+documents and presentations. This process is often inefficient. The user must
+switch back and forth between the document and external scientific software
+that is used for performing calculations and creating figures.
+[PythonTeX](https://github.com/gpoore/pythontex) is a LaTeX package that
+allows Python code to be entered directly within a LaTeX document. The code is
+automatically executed and its output is included within the original
+document. The code may also be typeset within the document with syntax
+highlighting provided by Pygments.
+
+PythonTeX is fast and user-friendly. Python code is separated into user-
+defined sessions, and each session is only executed when its code is modified.
+When code is executed, sessions run in parallel. The contents of stdout and
+stderr are synchronized with the LaTeX document, so that printed content is
+easily accessible and error messages have meaningful line numbering.
+
+PythonTeX greatly simplifies scientific document creation with LaTeX. For
+example, SymPy can be used to automatically solve and typeset step-by-step
+mathematical derivations. It can also be used to automate the creation of
+mathematical tables. Plots can be created with matplotlib and then easily
+customized in place. Python code and its output can be typeset side by side.
+The full power of Python is conveniently available for programming LaTeX
+macros and customizing and automating LaTeX documents.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geoffrey M. Poore</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1227/pythontex-fast-access-to-python-from-within-late</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PythonTeX_Fast_Access_to_Pytho.mp4?Signature=WkwvorcGsMXORDJuJodc52xIzKc%3D&amp;Expires=1346382731&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PythonTeX_Fast_Access_to_Pytho.mp4?Signature=WkwvorcGsMXORDJuJodc52xIzKc%3D&amp;Expires=1346382731&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=yIO4l0zHGjw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/yIO4l0zHGjw/hqdefault.jpg"></media:thumbnail></item><item><title>QuTiP: An open-source Python framework for the dynamics of open quantum systems</title><link>http://www.pyvideo.org/video/1347/qutip-an-open-source-python-framework-for-the-dy</link><description>&lt;p&gt;Description&lt;/p&gt;
+We present QuTiP, an object-oriented open-source framework for solving the
+dynamics of open quantum systems. The QuTiP framework is written in a
+combination of Python and Cython, and using SciPy, NumPy and matplotlib to
+provide an environment for computational quantum mechanics that is easy and
+efficient to use. Arbitrary quantum systems, including time-dependent systems,
+may be built up from operators and states defined by a quantum object class,
+and then passed on to a choice of unitary and dissipative evolution solvers.
+We give an overview of the basic structure for the framework and the
+techniques used in its implementation. We also present a few selected examples
+from contemporary research on quantum mechanics that illustrate the strengths
+of the framework, and the types of calculation that can be performed. The
+framework described here is particularly well suited to the fields of quantum
+optics, superconducting circuit devices, nanomechanics, and trapped ions,
+while also being ideal as an educational tool.
+
+For more information see
+[http://qutip.googlecode.com](http://qutip.googlecode.com).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Nation,Robert Johansson</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1347/qutip-an-open-source-python-framework-for-the-dy</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QuTiP_An_opensource_Python_framework_for_the_dynamics_of_open_quantum_systems.mp4?Signature=ofqa37FpyivmhkcJ4Hmj4gmwblw%3D&amp;Expires=1346989222&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QuTiP_An_opensource_Python_framework_for_the_dynamics_of_open_quantum_systems.mp4?Signature=ofqa37FpyivmhkcJ4Hmj4gmwblw%3D&amp;Expires=1346989222&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=KxDFDYn-6Lc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/KxDFDYn-6Lc/hqdefault.jpg"></media:thumbnail></item><item><title>Running a Coupled General Circulation Model with Python</title><link>http://www.pyvideo.org/video/1349/running-a-coupled-general-circulation-model-with</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luiz Irber</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1349/running-a-coupled-general-circulation-model-with</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Running_a_Coupled_General_Circulation_Model_with_Python.mp4?Signature=jmoBmufhZ9W4RkqYZG50m6XpRN4%3D&amp;Expires=1346941523&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Running_a_Coupled_General_Circulation_Model_with_Python.mp4?Signature=jmoBmufhZ9W4RkqYZG50m6XpRN4%3D&amp;Expires=1346941523&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=zACPGvI_QjE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/zACPGvI_QjE/hqdefault.jpg"></media:thumbnail></item><item><title>Surface Subdivision Schemes for Python</title><link>http://www.pyvideo.org/video/1233/surface-subdivision-schemes-for-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+There exist two very powerful geometric surface subdivision schemes that do
+not yet exist for python users: Catmul-Clark subdivision surfaces, and Nira
+Dyn's Butterfly subdivision surface scheme. These schemes are useful in
+creating C2-continuous (under ideal conditions) surfaces from a control mesh
+of points. The later scheme interpolates the control mesh points, which makes
+it useful for scientific applications.
+
+We plan on providing some background on the schemes detailing usecases and
+visualizing the results. We also plan on discussing the various techniques we
+use to overcome performance bottlenecks (numpy/cython/etc.)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stephen McQuay,William Blattman</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1233/surface-subdivision-schemes-for-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Surface_Subdivision_Schemes_fo.mp4?Signature=wjAXp0QjrQuKuGkQ0nmSx5r7DUc%3D&amp;Expires=1346383518&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Surface_Subdivision_Schemes_fo.mp4?Signature=wjAXp0QjrQuKuGkQ0nmSx5r7DUc%3D&amp;Expires=1346383518&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ncjybHxXRWg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ncjybHxXRWg/hqdefault.jpg"></media:thumbnail></item><item><title>Total Recall: flmake and the Quest for Reproducibility</title><link>http://www.pyvideo.org/video/1223/total-recall-flmake-and-the-quest-for-reproducib</link><description>&lt;p&gt;Description&lt;/p&gt;
+[FLASH](http://flash.uchicago.edu/site/) is a high-performance computing (HPC)
+multi-physics code which is used to perform astrophysical and high-energy
+density physics simulations. It runs on the full range of systems from laptops
+to workstations to 100,000 processor super computers - such as the Blue Gene/P
+at Argonne National Laboratory.
+
+Historically, FLASH was born from a collection of unconnected legacy codes
+written primarily in Fortran and merged into a single project. Over the past
+13 years major sections have been rewritten in other languages. For instance,
+I/O is now implemented in C. However building, testing, and documentation are
+all performed in Python.
+
+FLASH has a unique architecture which compiles _simulation specific_
+executables for each new type of run. This is aided by an object-oriented-
+esque inheritance model that is implemented by inspecting the file system's
+directory hierarchy. This allows FLASH to compile to faster machine code than
+a compile-once strategy. However it also places a greater importance on the
+Python build system.
+
+To run a FLASH simulation, the user must go through three basic steps: setup,
+build, and execution. Canonically, each of these tasks are independently
+handled by the user. However, with the recent advent of [flmake](http://flash.
+uchicago.edu/site/flashcode/user_support/tools4b/usersguide/flmake/index.htm)
+- a Python workflow management utility for FLASH - such tasks may now be
+performed in a repeatable way.
+
+Previous workflow management tools have been written for FLASH. (For example,
+the "Milad system" was implemented entirely in Makefiles.) However, none of
+the priorattempts have placed reproducibility as their primary concern. This
+is in part becausefully capturing the setup metadata requires alterations to
+the build system.
+
+The development of flmake started by rewriting the existing build systemto
+allow FLASH to be run outside of the main line subversion repository. It
+separates outproject and simulation directories independent of the FLASH
+source directory. Thesedirectories are typically under their own version
+control.
+
+Moreover for each of the important tasks (setup, build, run, etc), a sidecar
+metadata _description_ file is either written or appended to. This is a simple
+dictionary-of-dictionaries JSON file which stores the environment of the
+system and the state of the code when each flmake command is run. This
+metadata includes the version information of both the FLASH main line and
+project repositories. However, it also may include _all_ local modifications
+since the last commit. A patch is automatically generated using the Python
+standard library `difflib` module and stored directly in the description.
+
+Along with universally unique identifiers, logging, and Python run control
+files, the flmake utility may use the description files to fully reproduce a
+simulation by re-executing each command in its original environment and state.
+While `flmake reproduce` makes a useful debugging tool, it fundamentally
+increases the scientific merit of FLASH simulations.
+
+The methods described above may be used whenever source code itself is
+distributed. While this is true for FLASH (uncommon amongst compiledcodes),
+most Python packages also distribute their source. Therefore the same
+reproducibility strategy is applicable and highly recommended for Python
+simulation codes. Thus flmake shows that reproducibility - which is notably
+absent from most computational science projects - is easily attainable using
+only version control and standard library modules.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anthony Scopatz</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1223/total-recall-flmake-and-the-quest-for-reproducib</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Total_Recall_flmake_and_the_Quest_for_Reproducibility.mp4?Signature=RXHp35B0p8ekEKA0Uds%2F6w73sRs%3D&amp;Expires=1346382337&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Total_Recall_flmake_and_the_Quest_for_Reproducibility.mp4?Signature=RXHp35B0p8ekEKA0Uds%2F6w73sRs%3D&amp;Expires=1346382337&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ce4UU0ltbPA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/ce4UU0ltbPA/hqdefault.jpg"></media:thumbnail></item><item><title>TuLiP: a toolbox for hybrid and reactive systems research</title><link>http://www.pyvideo.org/video/1235/tulip-a-toolbox-for-hybrid-and-reactive-systems</link><description>&lt;p&gt;Description&lt;/p&gt;
+We present a toolbox for the creation and study of controllers for hybrid
+systems. It contains modules for
+
+&gt;   * working with n-dimensional polytopes,
+
+&gt;   * refining continuous state space partitions to satisfy reachability
+properties,
+
+&gt;   * synthesizing, manipulating, and visualizing finite automata as winning
+strategies for a class of temporal logic-based games,
+
+&gt;   * simulating hybrid executions, and
+
+&gt;   * reading and writing problem solutions to an XML format.
+
+The toolbox is named TuLiP (for "Temporal Logic Planning") and written almost
+entirely in Python, making critical use of NumPy, SciPy, CVXOPT, and
+matplotlib. While software for hybrid systems research is commonly written in
+Matlab scripts or otherwise requires the end-user to build from source for her
+particular platform, TuLiP requires neither. For a standard scientific Python
+environment, the only additional library may be CVXOPT. Code (re)use and
+experimentation are easy, and because of this, TuLiP has provided a natural
+basis for further research and development.
+
+Source code and documentation are currently available at [http://tulip-
+control.sourceforge.net](http://tulip-control.sourceforge.net)
+
+In this talk we will describe the problem domain addressed by TuLiP, various
+use cases, and lessons learning in the Python implementation. We shall include
+a full example making use of all components and show ways that individual
+modules are useful more broadly. Major items of the talk will be
+
+&gt;   1. related work, and the paucity of Python use in hybrid control research,
+which we argue is a matter of inheritance rather than best practices;
+
+&gt;   2. overview of the type of hybrid systems represented in TuLiP and
+relevance to other fields;
+
+&gt;   3. summary of the major steps going from problem statement to solution;
+
+&gt;   4. using only the "polytope computations" module;
+
+&gt;   5. using only "discrete reactive synthesis" related modules, with a brief
+description about temporal logic synthesis to provide background for those not
+working on computer aided verification;
+
+&gt;   6. snippets about recent research using and building on TuLiP; and
+
+&gt;   7. discussion about the Python-based implementation and lessons learned.
+
+For the last item, we will describe challenges faced while developing TuLiP,
+given its role of "stitching together" several external tools, e.g., Gephi
+&lt;[http://gephi.org/](http://gephi.org/)&gt; for large graph visualization and
+gr1c &lt;[http://scottman.net/2012/gr1c](http://scottman.net/2012/gr1c)&gt; for game
+solving. We will also touch on liberation from a Matlab-only tool (Mult-
+Parametric Toolbox; see
+[http://control.ee.ethz.ch/~mpt/](http://control.ee.ethz.ch/~mpt/)), achieved
+by creating our own Python module for working with polytopes, using NumPy and
+CVXOPT for computations and matplotlib for visualization.
+
+A tool paper describing an earlier version of TuLiP was presented at the
+conference Hybrid Systems: Computation and Control (HSCC) in April 2011. There
+have since been substantial additions and improvements. Furthermore, a broader
+audience can be reached at SciPy 2012, with new opportunity to address designs
+issues likely shared by other scientific Python developers.
+
+Development of TuLiP has been supported in part by the AFOSR through the MURI
+program, the Multiscale Systems Center (MuSyC) and the Boeing Company.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard M. Murray,Scott C. Livingston</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1235/tulip-a-toolbox-for-hybrid-and-reactive-systems</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/TuLiP_a_toolbox_for_hybrid_and.mp4?Signature=jHwzNH0JYM75lVn8tBMA7WgqM%2FM%3D&amp;Expires=1346383122&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/TuLiP_a_toolbox_for_hybrid_and.mp4?Signature=jHwzNH0JYM75lVn8tBMA7WgqM%2FM%3D&amp;Expires=1346383122&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=AprLua-TIXs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AprLua-TIXs/hqdefault.jpg"></media:thumbnail></item><item><title>Utilizing Python in a Real-Time, Quasi-Operational Meteorological Environment</title><link>http://www.pyvideo.org/video/1242/utilizing-python-in-a-real-time-quasi-operationa</link><description>&lt;p&gt;Description&lt;/p&gt;
+The National Oceanic and Atmospheric Administration's (NOAA) Hazardous Weather
+Testbed (HWT) is a facility jointly managed by NOAA's National Severe Storms
+Laboratory (NSSL), NOAA National Weather Service's (NWS) the Storm Prediction
+Center (SPC), and the NOAA NWS Oklahoma City/Norman Weather Forecast Office
+(OUN) within the National Weather Center building on the University of
+Oklahoma South Research Campus. The HWT is designed to accelerate the
+transition of promising new meteorological insights and technologies into
+advances in forecasting and warning for hazardous weather events throughout
+the United States. The HWT facilities include a combined forecast and research
+area situated between the operations rooms of the SPC and OUN, and a nearby
+development laboratory. The facilities support enhanced collaboration between
+research scientists and operational weather forecasters on specific topics
+that are of mutual interest.
+
+The cornerstone of the HWT is the yearly Experimental Forecast Program (EFP)
+and Experimental Warning Program (EWP) which take place every spring. In each
+of those programs, forecasters, researchers, and developers come together to
+participate in a real-time operational forecasting or warning environment with
+the purpose of testing and evaluating cutting-edge tools and methods for
+forecasting and warning. In the EFP program, between 5 and 10 TB of
+meteorological data are processed for evaluation over the course of a 5 week
+period. These data come in a variety of sources, a variety of formats, each
+requiring a different set of processing.
+
+This talk will discuss how the data flow and data creation processes of the
+EFP are accomplished in a real-time setting through the use of Python. The
+utilization of Python ranges from simple shell scripting, to speeding up
+algorithm development (and runtimes) with Numpy and Cython, to creating new,
+open source data-visualization platforms, such as the Skew-T and Hodograph
+Analysis and Research Program in Python, or SHARPpy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Patrick Marsh</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1242/utilizing-python-in-a-real-time-quasi-operationa</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Utilizing_Python_in_a_RealTime.mp4?Signature=6JVnu2cqjljXJd%2F8HbsSSvJfbdg%3D&amp;Expires=1346383456&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Utilizing_Python_in_a_RealTime.mp4?Signature=6JVnu2cqjljXJd%2F8HbsSSvJfbdg%3D&amp;Expires=1346383456&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=7-rey41z2us" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/7-rey41z2us/hqdefault.jpg"></media:thumbnail></item><item><title>ALGES: Geostatistics and Python</title><link>http://www.pyvideo.org/video/1213/alges-geostatistics-and-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+ALGES is a laboratory that develops tools applied to geostatistics. We've been
+using python for a while and it has brought us very good results. Its ease-of-
+use and portability allow us to rapidly offer practical solutions to problems.
+Along with a brief introduction to the laboratory, we cover two particular
+projects we are currently working on. One project is an application for
+multivariate geostatistic analysis. Most available applications provide
+analysis for a single variable at a time and either obviate how variables can
+relate between one another or make it really difficult to consider any
+relationship. Our proposal provides both an interface that's both easy to use
+for primers and fine tuning for experienced users. The other presented project
+covers a problem in geological modeling and resource estimation. Commonly,
+when modeling geological volumes, continuity in data is assumed. This is not
+often true, as there are different kinds of faults that break this continuity.
+This is very hard to incorporate when modeling. We propose a solution to
+restore the original continuous volume for better modeling as well as
+restitution to the real distorted volume, all this providing a better
+estimation. Both projects have lots of heavy computations and no shortage of
+input data. We take this as a challenge to build fast processing solutions, so
+we take advantage of both the easiness of a python interface and the speed of
+C/C++ code.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Lema</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1213/alges-geostatistics-and-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ALGES_Geostatistics_and_Python.mp4?Signature=SY9wk52zGieTkNTs9q5txKugp1A%3D&amp;Expires=1346381755&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ALGES_Geostatistics_and_Python.mp4?Signature=SY9wk52zGieTkNTs9q5txKugp1A%3D&amp;Expires=1346381755&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=qOPNbjx5uhM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/qOPNbjx5uhM/hqdefault.jpg"></media:thumbnail></item><item><title>AstroML: data mining and machine learning for Astronomy</title><link>http://www.pyvideo.org/video/1218/astroml-data-mining-and-machine-learning-for-ast</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python is currently being adopted as the language of choice by many
+astronomical researchers. A prominent example is in the Large Synoptic Survey
+Telescope (LSST), a project which will repeatedly observe the southern sky
+1000 times over the course of 10 years. The 30,000 GB of raw data created each
+night will pass through a processing pipeline consisting of C++ and legacy
+code, stitched together with a python interface. This example underscores the
+need for astronomers to be well-versed in large-scale statistical analysis
+techniques in python. We seek to address this need with the AstroML package,
+which is designed to be a repository for well-tested data mining and machine
+learning routines, with a focus on applications in astronomy and astrophysics.
+It will be released in late 2012 with an associated graduate-level textbook,
+'Statistics, Data Mining and Machine Learning in Astronomy' (Princeton
+University Press). AstroML leverages many computational tools already
+available available in the python universe, including numpy, scipy, scikit-
+learn, pymc, healpy, and others, and adds efficient implementations of several
+routines more specific to astronomy. A main feature of the package is the
+extensive set of practical examples of astronomical data analysis, all written
+in python. In this talk, we will explore the statistical analysis of several
+interesting astrophysical datasets using python and astroML.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gray,Andrew Connolly,Jake Vanderplas,Zeljko Ivezic</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1218/astroml-data-mining-and-machine-learning-for-ast</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/AstroML_data_mining_and_machine_learning_for_Astronomy.mp4?Signature=wee1HpiGOvESlEYUkXaQoGp%2BgNo%3D&amp;Expires=1346381992&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/AstroML_data_mining_and_machine_learning_for_Astronomy.mp4?Signature=wee1HpiGOvESlEYUkXaQoGp%2BgNo%3D&amp;Expires=1346381992&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=62zY8mA-UVQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/62zY8mA-UVQ/hqdefault.jpg"></media:thumbnail></item><item><title>Astropy - Herding Snakes or Astronomers: which is more difficult?</title><link>http://www.pyvideo.org/video/1214/astropy-herding-snakes-or-astronomers-which-is</link><description>&lt;p&gt;Description&lt;/p&gt;
+Developers and users of astronomical software have long bemoaned the absence
+of shared efforts in the field. While there are well known, free software
+tools available for astronomy, most have been developed by large institutions,
+and the past few decades have seen comparatively little progress in fostering
+a community-based set of software tools. There is hope that is changing now.
+The continuing growth of Python in astronomy has led to an increasing
+awareness of needless duplication of efforts within the community and the need
+to make existing packages work better with each other; such discussions came
+to a head on the astropy email list in the spring of 2011 leading to formation
+of the astropy project. The first coordination meeting was held in the fall of
+2011, and significant progress has been made in setting up a community
+repository of core astronomical packages. We will describe the general goals
+of astropy and the progress that has been made to date.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Tollerud,Perry Greenfield,Thomas Robitaille</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1214/astropy-herding-snakes-or-astronomers-which-is</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Astropy_Herding_Snakes_or_Astronomers_which_is_more_difficult.mp4?Signature=mzIR%2FouPTEnbyJod6u03IF5%2B9Nk%3D&amp;Expires=1346381801&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Astropy_Herding_Snakes_or_Astronomers_which_is_more_difficult.mp4?Signature=mzIR%2FouPTEnbyJod6u03IF5%2B9Nk%3D&amp;Expires=1346381801&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=VmxthPjCFXo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VmxthPjCFXo/hqdefault.jpg"></media:thumbnail></item><item><title>A tale of four libraries</title><link>http://www.pyvideo.org/video/1211/a-tale-of-four-libraries</link><description>&lt;p&gt;Description&lt;/p&gt;
+In addition to bringing efficient array computing and standard mathematical
+tools to Python, the NumPy/SciPy libraries provide an ecosystem where multiple
+libraries can coexist and interact. This talk describes a success story where
+we integrate several libraries, developed by different groups, to solve our
+research problems. A brief description of our research and how we use these
+components follows.
+
+Our research focuses on using Reinforcement Learning (RL) to gather
+information in domains described by an underlying linked dataset. For
+instance, we are interested in problems such as the following: given a
+Wikipedia article as a seed, finding other articles that are interesting
+relative to the starting point. Of particular interest is to find articles
+that are more than one-click away from the seed, since these articles are in
+general harder to find by a human.
+
+In addition to the staples of scientific Python computing NumPy, SciPy,
+Matplotlib, and IPython, we use the libraries RL-Glue/RL-Library, NetworkX,
+Gensim, and scikit-learn.
+
+Reinforcement Learning considers the interaction between a given environment
+and an agent. The objective is to design an agent able to learn a policy that
+allows it to maximize its total expected reward. We use the RL-Glue/RL-Library
+libraries for our RL experiments. This libraries provide the infrastructure to
+connect an environment and an agent, each one described by an independent
+Python program.
+
+We represent the linked datasets we work with as graphs. For this we use
+NetworkX, which provides data structures to efficiently represent graphs
+together with implementations of many classic graph algorithms. We use
+NetworkX graphs to describe the environments implemented in RL-Glue/RL-
+Library. We also use these graphs to create, analyze and visualize graphs
+built from unstructured data.
+
+One of the contributions of our research is the idea of representing the items
+in the datasets as vectors belonging to a linear space. To this end, we build
+a Latent Semantic Analysis (LSA) model to project documents onto a vector
+space. This allows us, in addition to being able to compute similarities
+between documents, to leverage a variety of RL techniques that require a
+vector representation. We use the Gensim library to build the LSA model. This
+library provides all the machinery to build, among other options, the LSA
+model. One place where Gensim shines is in its capability to handle big data
+sets, like the entire Wikipedia, that do not fit in memory. We also combine
+the vector representation of the items as property of the NetworkX nodes.
+
+Finally, we also use the manifold learning capabilities of sckit-learn, like
+the ISOMAP algorithm, to perform some exploratory data analysis. By reducing
+the dimensionality of the LSA vectors obtained using Gensim from 400 to 3, we
+are able to visualize the relative position of the vectors together with their
+connections.
+
+In summary, this talk shows, by combining a variety of libraries to solve our
+research problems, that the NumPy/SciPy ecosystem has become the lingua-franca
+of scientific Python computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alejandro Weinstein,Michael Wakin</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1211/a-tale-of-four-libraries</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_tale_of_four_libraries.mp4?Signature=ISV7dA31tpzM%2BiwMs5xiUQ%2BkADo%3D&amp;Expires=1346381648&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_tale_of_four_libraries.mp4?Signature=ISV7dA31tpzM%2BiwMs5xiUQ%2BkADo%3D&amp;Expires=1346381648&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=BqMD0PE-akQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/BqMD0PE-akQ/hqdefault.jpg"></media:thumbnail></item><item><title>A Unified Release of Python &amp; IRAF software for astronomy</title><link>http://www.pyvideo.org/video/1216/a-unified-release-of-python-iraf-software-for-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+As astronomical software development expands from historical data reduction
+platforms towards more sophisticated Python applications, non-technically-
+focused users can struggle with installing and maintaining a large number of
+heterogeneous dependencies. PyRAF has successfully bridged the gap between
+IRAF and Python, but managing dependencies falls outside its scope. A few
+existing Python distributions make installation easy, but don't cater for
+specific needs (such as dependence on IRAF). STScI and Gemini have therefore
+developed a prototype, easy-to-install software distribution for Linux and OSX
+known provisionally as the 'Unified Release' (UR).
+
+Currently the UR includes STScI Python and its dependencies (eg. Python,
+NumPy, IRAF 2.15), as well as Matplotlib &amp; Tk, SciPy, a number of IRAF
+packages, DS9, X11IRAF and some testing and documentation tools. Its scope
+extends to complementary non-Python/IRAF software, but we do not intend to
+produce a comprehensive (Scisoft-like) distribution of tools for astronomy,
+nor to satisfy every installation preference. Our focus is on providing a
+simple way to run key tools, for users with minimal support resources and who
+may not have administrative privileges. Unlike most comparable distributions,
+our approach includes basic provision for in-place software additions and
+updates.
+
+Recently we have completed a first internal version of the UR for both Linux
+and OSX, which we shall briefly demonstrate. We plan to make our first public
+release during the coming months.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James E.H. Turner</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1216/a-unified-release-of-python-iraf-software-for-a</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_Unified_Release_of_Python_IRAF_software_for_astronomy.mp4?Signature=oCxI%2FyHw3t0nEcCFJ7AYbMa1YWQ%3D&amp;Expires=1346381851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_Unified_Release_of_Python_IRAF_software_for_astronomy.mp4?Signature=oCxI%2FyHw3t0nEcCFJ7AYbMa1YWQ%3D&amp;Expires=1346381851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=cgRouxz0y_4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/cgRouxz0y_4/hqdefault.jpg"></media:thumbnail></item><item><title>Bringing High Performance to Python/Numpy Without Changing a Single Line of Code.</title><link>http://www.pyvideo.org/video/1209/bringing-high-performance-to-pythonnumpy-without</link><description>&lt;p&gt;Description&lt;/p&gt;
+Recent years have provided a wealth of projects showing that using Python for
+scientific applications outperforms even popular choices such as Matlab. A
+major factor driving these successes is the efficient utilization of multi-
+cores, GPUs for general-purpose computation and scaling computations to
+clusters.
+
+However, often these advances sacrifice some of the high-productivity features
+of Python by introducing new language constructs, enforcing new language
+semantics and/or enforcing explicit data types. The result is that the user
+will have to rewrite existing Python applications to use the Python extension.
+
+In order to use GPGPUs in Python, a popular approach is to embed CUDA/OpenCL
+code kernels directly in the Python application. The programming productivity
+of this approach is better and more readable than C/C++ applications but it is
+still inferior to native Python code. Furthermore, the approach enforces
+hardware specific programming and thus requires intimate knowledge of the
+underlying hardware and the CUDA/OpenCL programming model.
+
+Copenhagen Vector Byte Code (cphVB) strives to provide a high-performance
+back-end for Numerical Python (NumPy) without reducing the high-productivity
+of Python/NumPy. Without any involvement of the user, cphVB will transform
+regular sequential Python/NumPy applications into high-performance
+applications. The cphVB runtime system is capable of utilizing a broad range
+of computing platforms efficiently, e.g. Multi-core CPUs, GPGPUs and clusters
+of such machines.
+
+cphVB consists of a bridge that translates NumPy array operations into cphVB
+vector operations. The bridge will send these vector operations to a Vector
+Engine that performs the actual execution of the operations. cphVB comes with
+a broad range of Vector Engines optimized to specific hardware architectures,
+such as multi-core CPUs, GPGPU and clusters of said architectures. Thus, cphVB
+provides a high-productivity, high-performance framework that support legacy
+NumPy applications without changing a single line of code.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Vinter,Mads Ruben Burgdorff Kristensen,Simon Andreas Frimann Lund,Troels Blum</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1209/bringing-high-performance-to-pythonnumpy-without</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Bringing_High_Performance_to_P.mp4?Signature=w983Dyy%2Fzuho%2FUZhUhfx1A0vcAY%3D&amp;Expires=1346444523&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Bringing_High_Performance_to_P.mp4?Signature=w983Dyy%2Fzuho%2FUZhUhfx1A0vcAY%3D&amp;Expires=1346444523&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=HFxn3mSp9ww" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/HFxn3mSp9ww/hqdefault.jpg"></media:thumbnail></item><item><title>Building a Solver Based on PyClaw for the Solution of the Multi-Layer Shallow Water Equations</title><link>http://www.pyvideo.org/video/1217/building-a-solver-based-on-pyclaw-for-the-solutio</link><description>&lt;p&gt;Description&lt;/p&gt;
+The multi-layer shallow water equations are an active topic for researchers in
+geophysical fluid dynamics looking for ways to increase the validity of
+shallow water modeling techniques without using a fully three dimensional
+model which may be too costly for the domain size being looked at. In this
+talk we will step through the effort needed to convert a Fortran based solver
+to one using the PyClaw framework, a Python framework targeted at the solution
+of hyperbolic conservation laws. Once the application is converted the ease of
+implementing parallel and other solver strategies is greatly simplified.
+Discussion of how this is accomplished and design decisions and future
+extensions to PyClaw will also be presented.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kyle Mandli</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1217/building-a-solver-based-on-pyclaw-for-the-solutio</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Building_a_Solver_Based_on_PyC.mp4?Signature=HM7U5y46Dx%2BYWUBpUU1AP6lU2sc%3D&amp;Expires=1346444626&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Building_a_Solver_Based_on_PyC.mp4?Signature=HM7U5y46Dx%2BYWUBpUU1AP6lU2sc%3D&amp;Expires=1346444626&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=jv_1-NwW0i4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/jv_1-NwW0i4/hqdefault.jpg"></media:thumbnail></item><item><title>Copperhead: Data Parallel Python</title><link>http://www.pyvideo.org/video/1197/copperhead-data-parallel-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Copperhead is a data parallel language embedded in Python, which aims to
+provide both a productive programming environment as well as excellent
+computational efficiency on heterogeneous parallel hardware. Copperhead
+programs are written in a small, restricted subset of Python, using standard
+constructs like map and reduce, along with traditional data parallel
+primitives like scan and sort. Copperhead programs are written in standard
+Python modules and interoperate with existing Python numerical and
+visualization libraries such as NumPy, SciPy, and Matplotlib. The Copperhead
+runtime compiles Copperhead programs to target either CUDA-enabled GPUs or
+multicore CPUs using OpenMP or Threading Building Blocks. On several example
+applications from Computer Vision and Machine Learning, Copperhead programs
+achieve between 45-100% of the performance of hand-coded CUDA code, running on
+NVIDIA GPUs. In this talk, we will discuss the subset of Python that forms the
+Copperhead language, the open source Copperhead runtime and compiler, and
+selected example programs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bryan Catanzaro</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1197/copperhead-data-parallel-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Copperhead_Data_Parallel_Python.mp4?Signature=laRgCy3mlIsaXoYCTKhlhu6Orck%3D&amp;Expires=1346380548&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Copperhead_Data_Parallel_Python.mp4?Signature=laRgCy3mlIsaXoYCTKhlhu6Orck%3D&amp;Expires=1346380548&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=FpDVyAwz2qM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/FpDVyAwz2qM/hqdefault.jpg"></media:thumbnail></item><item><title>Domain Specific Languages for Partial Differential Equations using Ignition</title><link>http://www.pyvideo.org/video/1219/domain-specific-languages-for-partial-differentia</link><description>&lt;p&gt;Description&lt;/p&gt;
+As scientific computing pushes towards extreme scales, the programming wall is
+becoming more apparent. For algorithms to scale on new architectures, they
+often must be rewritten accounting for completely different performance
+characteristics. A handful of the communities fastest codes have already
+turned to automatic code generation to tackle these issues. Code generation
+gives a user the ability to use the expressiveness of a domain specific
+language and promises for better portability as architectures rapidly change.
+
+In this presentation, I will show Ignition, a project for creating numerical
+code generators. Python and SymPy make exceptional languages for developing
+these code generators in a way that domain experts can understand and
+manipulate. I show examples how Ignition can generate several different parts
+of geophysical simulations.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1219/domain-specific-languages-for-partial-differentia</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Specific_Languages_for_Partial_Differential_Equations_using_Ignition.mp4?Signature=wUghS1%2BLg%2FG7V4eI0CClg6aLnCc%3D&amp;Expires=1346382037&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Specific_Languages_for_Partial_Differential_Equations_using_Ignition.mp4?Signature=wUghS1%2BLg%2FG7V4eI0CClg6aLnCc%3D&amp;Expires=1346382037&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=Dpc-bGwyJmk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/Dpc-bGwyJmk/hqdefault.jpg"></media:thumbnail></item><item><title>Implicit Multicore Parallelism using CnC-Python</title><link>http://www.pyvideo.org/video/1212/implicit-multicore-parallelism-using-cnc-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+We introduce CnC-Python (CP), an approach to implicit multicore parallelism
+for Python programmers based on a high-level macro data-flow programming model
+called Concurrent Collections (CnC). With the advent of the multi-core era, it
+is clear that improvements in application performance will primarily come from
+increased parallelism. Extracting parallelism from applications often involves
+the use of low-level primitives such as locks and threads. CP is implicitly
+parallel and enables programmers to achieve task, data and pipeline
+parallelism in a declarative fashion while only being required to describe the
+program as a coordination graph with serial Python code for individual nodes
+(steps). Thus, CP makes parallel programming accessible to a broad class of
+programmers who are not trained in parallel programming. The CP runtime
+requires that Python objects communicated between steps be picklable, but
+imposes no restriction on the Python idioms used within the serial code. Most
+data structures of interest to the SciPy community, including NumPy arrays,
+are included in the class of picklable data structures in Python.
+
+The CnC model is especially effective in exploiting parallelism in scientific
+applications in which the dependences can be represented as arbitrary directed
+acyclic graphs ("dag parallelism"). Such applications include, but are not
+limited to, tiled implementations of iterative linear algebra algorithms such
+as Cholesky decomposition, Gauss-Jordan elimination, Jacobi method, and
+Successive Over-Relaxation (SOR). Rather than using explicit threads and locks
+to exploit parallelism, the CnC-Python programmer decomposes their algorithm
+into individual computation steps and identifies data and control dependences
+among the steps to create such computation DAGs. Given the DAG (in the form of
+declarative constraints), it is the responsibility of the CP runtime to
+extract parallelism and performance from the application. By liberating the
+scientific programmer, who is not necessarily trained to write explicitly
+parallel programs, from the nuances of parallel programming, CP provides a
+high-productivity path for scientific programmers to achieve multi-core
+parallelism in Python.
+
+LINKS: CnC-Python: [http://cnc-python.rice.edu](http://cnc-python.rice.edu)
+Concurrent Collections:
+[http://habanero.rice.edu/cnc](http://habanero.rice.edu/cnc)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shams Imam,Vivek Sarkar</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1212/implicit-multicore-parallelism-using-cnc-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Implicit_Multicore_Parallelism_using_CnCPython.mp4?Signature=yyqfWPhoAeEggj1Sg1RiEE6k5jQ%3D&amp;Expires=1346381702&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Implicit_Multicore_Parallelism_using_CnCPython.mp4?Signature=yyqfWPhoAeEggj1Sg1RiEE6k5jQ%3D&amp;Expires=1346381702&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ZC2pm2b_Sks" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ZC2pm2b_Sks/hqdefault.jpg"></media:thumbnail></item><item><title>Julia: A Fast Dynamic Language for Technical Computing</title><link>http://www.pyvideo.org/video/1204/julia-a-fast-dynamic-language-for-technical-comp</link><description>&lt;p&gt;Description&lt;/p&gt;
+Julia is a dynamic language designed for technical applications and high
+performance. Its design is based on a sophisticated but unobtrusive type
+system, type inference, multiple dispatch instead of class-based OO, and a
+code generator based on LLVM. These features work together to run high-level
+code efficiently even without type declarations. At the same time, the type
+system provides useful expressiveness for designing libraries, enables forms
+of metaprogramming not traditionally found in dynamic languages, and creates
+the possibility of statically compiling whole programs and libraries. This
+combination of high performance and expressiveness makes it possible for most
+of Julia's standard library to be written in Julia itself, with an interface
+to call existing C and Fortran libraries.
+
+We will discuss some ways that Python and Julia can interoperate, and compare
+Julia's current capabilities to Python and NumPy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Bezanson</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1204/julia-a-fast-dynamic-language-for-technical-comp</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Julia_A_Fast_Dynamic_Language_for_Technical_Computing.mp4?Signature=otqxhrYPHzksIHD27rcge7iww4c%3D&amp;Expires=1346381386&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Julia_A_Fast_Dynamic_Language_for_Technical_Computing.mp4?Signature=otqxhrYPHzksIHD27rcge7iww4c%3D&amp;Expires=1346381386&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=VCp1jUgVRgE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VCp1jUgVRgE/hqdefault.jpg"></media:thumbnail></item><item><title>Lightning Talks - Wednesday</title><link>http://www.pyvideo.org/video/1346/lightning-talks-wednesday</link><description>&lt;p&gt;Description&lt;/p&gt;
+  1. SciPy Sparse Graphs, Jake Vanderplas.
+  2. Animation for Traits and Chaco, Corran Webster.
+  3. Pynthantics, Jon Roland.
+  4. State of the Numba, Jon Riehl.
+  5. Pipe-o-matic call, Walker Hale.
+  6. A Command ND-Array, Frédéric Bastien.
+
+</description><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1346/lightning-talks-wednesday</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Lightning_Talks_wed.mp4?Signature=hghVgLqsXlTou6DtFtXnvf6hPkI%3D&amp;Expires=1347556519&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Lightning_Talks_wed.mp4?Signature=hghVgLqsXlTou6DtFtXnvf6hPkI%3D&amp;Expires=1347556519&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=StRhIopoaSk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/StRhIopoaSk/hqdefault.jpg"></media:thumbnail></item><item><title>Matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.</title><link>http://www.pyvideo.org/video/1192/matplotlib-lessons-from-middle-age-or-how-you</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Hunter</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1192/matplotlib-lessons-from-middle-age-or-how-you</guid><enclosure url="http://archive.org/download/nextdayvideo/enthought%252Fscipy_2012%252Fmatplotlib_lessons_middle_age.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://archive.org/download/nextdayvideo/enthought%252Fscipy_2012%252Fmatplotlib_lessons_middle_age.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=e3lTby5RI54" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/e3lTby5RI54/hqdefault.jpg"></media:thumbnail></item><item><title>Numba Python bytecode to LLVM translator</title><link>http://www.pyvideo.org/video/1194/numba-python-bytecode-to-llvm-translator</link><description>&lt;p&gt;Description&lt;/p&gt;
+Numba is a Python bytecode to LLVM translator that allows creation of fast,
+machine code from Python functions. The Low Level Virtual Machine (LLVM)
+project is rapidly becoming a hardware-industry standard for the intermediate
+representation (IR) of compiled codes. Numba's high-level translator to the
+LLVM IR provides Python the ability to take advantage of the machine code
+generated by the hardware manufacturers contributions to LLVM. Numba
+translates a Python function comprised of a subset of Python syntax to machine
+code using simple type inference and the creation of multiple machine-code
+versions. In this talk, I will describe the design of Numba, illustrate its
+applications to multiple domains and discuss the enhancements to NumPy and
+SciPy that can benefit from this tool.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jon Riehl,Travis Oliphant</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1194/numba-python-bytecode-to-llvm-translator</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Numba_Python_bytecode_to_LLVM_translator.mp4?Signature=%2BcA8gDrQZWjn5rWICbp4KcUZpyk%3D&amp;Expires=1346379038&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Numba_Python_bytecode_to_LLVM_translator.mp4?Signature=%2BcA8gDrQZWjn5rWICbp4KcUZpyk%3D&amp;Expires=1346379038&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=WYi1cymszqY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/WYi1cymszqY/hqdefault.jpg"></media:thumbnail></item><item><title>OpenMG: A New Multigrid Implementation in Python</title><link>http://www.pyvideo.org/video/1205/openmg-a-new-multigrid-implementation-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Here, include a talk summary of no longer than 500 words. Aspects such as
+relevance to Python in science, applicability, and novelty will be considered
+by the program committee.
+
+In most large-scale computations, systems of equations arise in the form Au=b,
+where A is a linear operation to be performed on the unknown data u, producing
+the known right-hand-side, b, which represents some constraint of known or
+assumed behavior of the system being modeled. Since u can have a many millions
+to billions elements, direct solution is too slow. A multigrid solver solves
+partially at full resolution, and then solves directly only at low resolution.
+This creates a correction vector, which is then interpolated to full
+resolution, where it corrects the partial solution.
+
+This project aims to create an open-source multigrid solver library, written
+only in Python. The existing PyAMG multigrid implementation–a highly
+versatile, highly configurable, black-box solver–is fully sequential, and is
+difficult to read and modify due to its C core. OpenMG is a pure Python
+experimentation environment for developing multigrid optimizations, not a new
+production solver library. By making the code simple and modular, we make the
+alogrithmic details clear. We thereby create an opportunity for education and
+experimental optimization of the partial solver (Jacobi, Gauss Seidel, SOR,
+etc.), the restriction mechanism, the prolongation mechanism, and the direct
+solver, using GPGPU, multiple CPUs, MPI, or grid computing. The resulting
+solver is tested on an implicit pressure reservoir simulation problem with
+satisfactory results.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Akand W. Islam,Tom Bertalan</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1205/openmg-a-new-multigrid-implementation-in-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/OpenMG_A_New_Multigrid_Implementation_in_Python.mp4?Signature=kNN3vhu1YxcbCBNjVmWtEKMogcg%3D&amp;Expires=1346381424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/OpenMG_A_New_Multigrid_Implementation_in_Python.mp4?Signature=kNN3vhu1YxcbCBNjVmWtEKMogcg%3D&amp;Expires=1346381424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=R-FO_PX7a_I" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/R-FO_PX7a_I/hqdefault.jpg"></media:thumbnail></item><item><title>Parallel Computational Methods and Simulation for Coastal and Hydraulic Applications Using the Proteus Toolkit</title><link>http://www.pyvideo.org/video/1215/parallel-computational-methods-and-simulation-for</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Kees</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1215/parallel-computational-methods-and-simulation-for</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Parallel_Computational_Methods.mp4?Signature=dmXgP7vroeHOUEFj03EIbmZfTpc%3D&amp;Expires=1346444577&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Parallel_Computational_Methods.mp4?Signature=dmXgP7vroeHOUEFj03EIbmZfTpc%3D&amp;Expires=1346444577&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=c3HnqaN3W64" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/c3HnqaN3W64/hqdefault.jpg"></media:thumbnail></item><item><title>Performance Python Panel Discussion</title><link>http://www.pyvideo.org/video/1189/performance-python-panel-discussion</link><description>&lt;p&gt;Description&lt;/p&gt;
+Travis Oliphant (Continuum Analytics), Kurt Smith (Enthought) and Jeff
+Bezanson (MIT, Julia author) discuss Python performance issues. Andy Terrel
+(UT/TACC) is the moderator.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1189/performance-python-panel-discussion</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Performance_Python_Panel_Discussion.mp4?Signature=EK%2FxBne%2FwJ%2BADIU7LSsWlWbeKJk%3D&amp;Expires=1346379508&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Performance_Python_Panel_Discussion.mp4?Signature=EK%2FxBne%2FwJ%2BADIU7LSsWlWbeKJk%3D&amp;Expires=1346379508&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=7i2vhoQY-K4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/7i2vhoQY-K4/hqdefault.jpg"></media:thumbnail></item><item><title>PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation</title><link>http://www.pyvideo.org/video/1199/pysal-a-python-library-for-exploratory-spatial-d</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk presents an overview and update of PySAL. PySAL is designed to
+support the development of high level applications in exploratory spatial data
+analysis and geocomputation. The library includes a comprehensive suite of
+modules that cover the entire spatial data analysis research stack from
+geospatial data processing and integration, to exploratory spatial data
+analysis, spatial dynamics, regionalization, and spatial econometrics. A
+selection of these modules are illustrated drawing on research in spatial
+criminology, epidemiology and urban inequality dynamics. A number of
+geovisualization packages that have been implemented using PySAL as an
+analytical core are also demonstrated. Future plans for additional modules and
+enhancements are also discussed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sergio Rey</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1199/pysal-a-python-library-for-exploratory-spatial-d</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PySAL_A_Python_Library_for_Exploratory_Spatial_Data_Analysis_and_Geocomputation.mp4?Signature=En8RJ3zgz2U0Ttqxe4RpueZ8yLY%3D&amp;Expires=1346381871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PySAL_A_Python_Library_for_Exploratory_Spatial_Data_Analysis_and_Geocomputation.mp4?Signature=En8RJ3zgz2U0Ttqxe4RpueZ8yLY%3D&amp;Expires=1346381871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=FN1nH4Fkd_Y" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/FN1nH4Fkd_Y/hqdefault.jpg"></media:thumbnail></item><item><title>QNDArray: A Numpy Clone for C++/Qt</title><link>http://www.pyvideo.org/video/1203/qndarray-a-numpy-clone-for-cqt</link><description>&lt;p&gt;Description&lt;/p&gt;
+While Numpy/Scipy is an attractive implementation platform for many
+algorithms, in some cases C++ is mandated by a customer. However, a foundation
+of numpy's behavior is the notion of reference-counted instances, and
+implementing an efficient, cross-platform mechanism for reference counting is
+no trivial prerequisite.
+
+The reference counting mechanisms already implemented in the Qt C++ toolkit
+provide a cross-platform foundation upon which a numpy-like array class can be
+built. In this talk one such implementation is discussed, QNDArray. In fact,
+by mimicking the numpy behaviors, the job of implementing QNDArray became much
+easier, as the task of "defining the behavior" became "adopting the behavior,"
+to include function names.
+
+In particular, the following aspects of the implementation were found to be
+tricky and deserve discussion in this presentation:
+
+    
+
+  * slicing multidimensional arrays given the limitations of operator[] in C++,
+  * const
+  * partial specialization
+  * implicit vs. explicit data sharing in Qt
+QNDArray has been deployed in scientific research applications and currently
+has the following features:
+
+    
+
+  * bit-packed boolean arrays
+  * nascent masked array support
+  * unit test suite that validates QNDArray behavior against numpy behavior
+  * bounds checking with Q_ASSERT() (becomes a no-op in release mode)
+  * memmap()ed arrays via QFile::map()
+  * easily integrated as a QVariant value, leading to a natural mapping from QVariantMap to Python dict.
+  * float16 implementation including in-place compare
+
+The author has approval from his management to submit the source code for
+QNDArray to the Qt Project and plans to have it freely available for download
+via [http://qt.gitorious.org/](http://qt.gitorious.org/) before the SciPy
+conference begins.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glen W. Mabey</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1203/qndarray-a-numpy-clone-for-cqt</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QNDArray_A_Numpy_Clone_for_CQt.mp4?Signature=ODStHEG40%2FmQ5sV78j11L%2FYj%2Fks%3D&amp;Expires=1346381293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QNDArray_A_Numpy_Clone_for_CQt.mp4?Signature=ODStHEG40%2FmQ5sV78j11L%2FYj%2Fks%3D&amp;Expires=1346381293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=PLqIRtpUHGk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/PLqIRtpUHGk/hqdefault.jpg"></media:thumbnail></item><item><title>ROFL: a functional Python dialect for science</title><link>http://www.pyvideo.org/video/1191/rofl-a-functional-python-dialect-for-science</link><description>&lt;p&gt;Description&lt;/p&gt;
+Current parallel programming models leave a lot to be desired and fail to
+maintain pace with improvements in hardware architecture. For many scientific
+research groups these models only widen the gap between equations and scalable
+parallel code. The Resilient Optimizing Flow Language (ROFL) is a data-flow
+language designed with the purpose of solving the problems of both domain
+abstraction and efficient parallelism. Using a functional, declarative variant
+of the Python language, ROFL takes scientific equations and optimizes for both
+scalar and parallel execution.
+
+ROFL is closely tied to Python and the SciPy libraries. ROFL uses Python
+expression syntax, is implemented in Python, and emits optimized Python code.
+ROFL's implementation in Python allows ROFL to be embedded in Python. Using
+Python as a target language makes ROFL extensible and portable. By removing
+imperative loop constructs and focusing on integration with the NumPy and
+SciPy libraries, ROFL both supports and encourages data parallelism.
+
+In this presentation, we introduce the ROFL language, and demonstrate by
+example how ROFL enables scientists to focus more on the equations they are
+solving, and less on task and data parallelism.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Riehl</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1191/rofl-a-functional-python-dialect-for-science</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ROFL_a_functional_Python_dialect_for_science.mp4?Signature=s%2FDUCoB4OybZmEOzK2fg9hTBccw%3D&amp;Expires=1346445141&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ROFL_a_functional_Python_dialect_for_science.mp4?Signature=s%2FDUCoB4OybZmEOzK2fg9hTBccw%3D&amp;Expires=1346445141&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=OF3CYqj4H9U" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/OF3CYqj4H9U/hqdefault.jpg"></media:thumbnail></item><item><title>SciPy + MapReduce with Disco</title><link>http://www.pyvideo.org/video/1207/scipy-mapreduce-with-disco</link><description>&lt;p&gt;Description&lt;/p&gt;
+MapReduce has become one of two dominant paradigms in distributed computing
+(along with MPI). Yet many times, implementing an algorithm as a MapReduce job
+- especially in Python - forces us to sacrifice efficiency (BLAS routines,
+etc.) in favor of data parallelism.
+
+In my work, which involves writing distributed learning algorithms for
+processing terabytes of Twitter data at SocialFlow, I've come to advocate a
+form of "vectorized MapReduce" which integrates efficient numerical libraries
+like numpy/scipy into the MapReduce setting, yielding both faster per-machine
+performance and reduced I/O, which is often a major bottleneck. I'll also
+highlight some features of Disco (a Python/Erlang MapReduce implementation
+from Nokia) which make it a very compelling choice for writing scientific
+MapReduce jobs in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Al Barrentine</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1207/scipy-mapreduce-with-disco</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/SciPy_MapReduce_with_Disco.mp4?Signature=l4OuPT0vYgqgVL9CDSXQ2BPjZJk%3D&amp;Expires=1346381520&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/SciPy_MapReduce_with_Disco.mp4?Signature=l4OuPT0vYgqgVL9CDSXQ2BPjZJk%3D&amp;Expires=1346381520&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ofCddrXkw0U" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/ofCddrXkw0U/hqdefault.jpg"></media:thumbnail></item><item><title>Self-driving Lego Mindstorms Robot</title><link>http://www.pyvideo.org/video/1195/self-driving-lego-mindstorms-robot</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk, I'll describe the workings of my personal hobby project - a
+self-driving lego mindstorms robot! The body of the robot is built with Lego
+Mindstorms. An Android smartphone is used to capture the view in front of the
+robot. A user first teaches the robot how to drive; this is done by making the
+robot go around the track a small number of times. The image data, along with
+the user action is used to train a Neural Network. At run-time, images of what
+is in front of the robot are fed into the neural network and the appropriate
+driving action is selected. This project showcases the power of python's
+libraries, as they enabled me to put together a sophisticated working system
+in a very short amount of time. Specifically, I made use of the Python Image
+Library to downsample images, as well as the PyBrain neural network library.
+The robot was controlled using the nxt-python library. A high-level
+description + videos are available here: [http://slowping.com/2012/self-
+driving-lego-mindstorms-robot/](http://slowping.com/2012/self-driving-lego-
+mindstorms-robot/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Iqbal Mohomed</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1195/self-driving-lego-mindstorms-robot</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Selfdriving_Lego_Mindstorms_Robot.mp4?Signature=PpTlQqIOsIzppARCWX1sRa3JXPE%3D&amp;Expires=1346380091&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Selfdriving_Lego_Mindstorms_Robot.mp4?Signature=PpTlQqIOsIzppARCWX1sRa3JXPE%3D&amp;Expires=1346380091&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=8d8d_3-8ae4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/8d8d_3-8ae4/hqdefault.jpg"></media:thumbnail></item><item><title>Solving the import problem: Scalable Dynamic Loading Network File Systems</title><link>http://www.pyvideo.org/video/1201/solving-the-import-problem-scalable-dynamic-load</link><description>&lt;p&gt;Description&lt;/p&gt;
+The most common programming paradigm for scientific computing, SPMD (Single
+Program Multiple Data), catastrophically interacts with the loading strategies
+of dynamically linked executables and network-attached file systems on even
+moderately sized high performance computing clusters. This difficulty is
+further exacerbated by "function-shipped" I/O on modern supercomputer compute
+nodes, preventing the deployment of simple solutions. In this talk, we
+introduce a two-component solution: collfs, a set of low-level MPI-collective
+file operations that can selectively shadow file system access in a library,
+and walla, a set of Python import hooks for seamlessly enabling parallel
+dynamic loading scalable to tens of thousands of cores.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aron Ahmadia,Jed Brown,William Scullin</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1201/solving-the-import-problem-scalable-dynamic-load</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Solving_the_import_problem_Scalable_Dynamic_Loading_Network_File_Systems.mp4?Signature=03ccbsvqMA%2B2aqWka6hHeqFwiKI%3D&amp;Expires=1346381205&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Solving_the_import_problem_Scalable_Dynamic_Loading_Network_File_Systems.mp4?Signature=03ccbsvqMA%2B2aqWka6hHeqFwiKI%3D&amp;Expires=1346381205&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=BpuykTOy4a0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/BpuykTOy4a0/hqdefault.jpg"></media:thumbnail></item><item><title>SymPy Stats - Uncertainty Modeling</title><link>http://www.pyvideo.org/video/1208/sympy-stats-uncertainty-modeling</link><description>&lt;p&gt;Description&lt;/p&gt;
+SymPy is a symbolic algebra package for Python. In SymPy.Stats we add a
+stochastic variable type to this package to form a language for uncertainty
+modeling. This allows engineers and scientists to symbolically declare the
+uncertainty in their mathematical models and to make probabilistic queries. We
+provide transformations from probabilistic statements like $P(X*Y &gt; 3)$ or
+$E(X**2)$ into deterministic integrals. These integrals are then solved using
+SymPy's integration routines or through numeric sampling.
+
+This talk touches on a few rising themes:
+
+    
+
+  * The rise in interest in uncertainty quantification and
+  * The use of symbolics in scientific computing
+  * Intermediate representation layers and multi-stage compilation
+
+Historically solutions to uncertainty quantification problems have been
+expressed by writing Monte Carlo codes around individual problems. By creating
+a symbolic uncertainty language we allow the expression of the problem-to-be-
+solved to be written separately from the numerical technique. SymPy.stats
+serves as an interface layer. The statistical programmer doesn't need to think
+about the details of numerical techniques and the computational methods
+programmer doesn't need to think about the particular domain-specific
+questions to be solved.
+
+We have implemented multiple comptuational backends including purely symbolic
+(using SymPy's integration engine), sampling, and code generation.
+
+In the talk we discuss these ideas with a few illustrative examples taken from
+basic probability and engineering. The following is one such example
+
+[http://sympystats.wordpress.com/2011/07/02/a-lesson-in-data-assimilation-
+using-sympy/](http://sympystats.wordpress.com/2011/07/02/a-lesson-in-data-
+assimilation-using-sympy/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Rocklin</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1208/sympy-stats-uncertainty-modeling</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/SymPy_Stats_Uncertainty_Modeling.mp4?Signature=rl3GFBy%2FFvQFU4vEkWldM59hlQA%3D&amp;Expires=1346381534&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/SymPy_Stats_Uncertainty_Modeling.mp4?Signature=rl3GFBy%2FFvQFU4vEkWldM59hlQA%3D&amp;Expires=1346381534&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=27su3TQ3BvQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/27su3TQ3BvQ/hqdefault.jpg"></media:thumbnail></item><item><title>Time Series Manipulation with pandas</title><link>http://www.pyvideo.org/video/1206/time-series-manipulation-with-pandas</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk I'll discuss major developments in pandas over the last year
+related to time series handling and processing. This includes the integration
+of the new NumPy datetime64, implementation of rich and high performance
+resampling methods, better visualization, and a generally cleaner, more
+intuitive and productive API. I will also discuss how functionality from the
+defunct scikits.timeseries project has been integrated into pandas, thus
+providing a unified, cohesive set of time series tools for many different
+problem domains. Lastly, I'll give some details about the pandas development
+roadmap and opportunities for more people to get involved.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1206/time-series-manipulation-with-pandas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Manipulation_with_pandas.mp4?Signature=uouD0GXIhu8nr6a8Eaa5lldrkgc%3D&amp;Expires=1346381459&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Manipulation_with_pandas.mp4?Signature=uouD0GXIhu8nr6a8Eaa5lldrkgc%3D&amp;Expires=1346381459&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=bgfLrKpc4jA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/bgfLrKpc4jA/hqdefault.jpg"></media:thumbnail></item><item><title>Unlock: A Python-based framework for rapid development of practical brain-computer interface applications</title><link>http://www.pyvideo.org/video/1193/unlock-a-python-based-framework-for-rapid-develo</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Unlock Project aims to provide brain-computer interface (BCI) technologies
+to individuals suffering from locked-in syndrome, the complete or near-
+complete loss of voluntary motor function. While several BCI techniques have
+been demonstrated as feasible in a laboratory setting, limited effort has been
+devoted to translating that research into a system for viable home use. This
+is in large part due to the complexity of existing BCI software packages which
+are geared toward clinical use by domain experts. With Unlock, we have
+developed a Python-based modular framework that greatly simplifies the time
+and programming expertise needed to develop BCI applications and experiments.
+Furthermore, the entire Unlock system, including data acquisition, brain
+signal decoding, user interface display, and device actuation, can run on a
+single laptop, offering exceptional portability for this class of BCI.
+
+In this talk, I will present the Unlock framework, starting with a high-level
+overview of the system then touching on the acquisition, communication,
+decoding, and visualization components. Emphasis will be placed on the app
+developer API with several examples from our current work with steady-state
+visually evoked potentials (SSVEP).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Byron V. Galbraith,Frank H. Guenther,Jonathan S. Brumberg,Sean D. Lorenz</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1193/unlock-a-python-based-framework-for-rapid-develo</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Unlock_A_Pythonbased_framework.mp4?Signature=bLD7r1uAbL0HVyxX3BZUPBgGjiA%3D&amp;Expires=1346444446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Unlock_A_Pythonbased_framework.mp4?Signature=bLD7r1uAbL0HVyxX3BZUPBgGjiA%3D&amp;Expires=1346444446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=lIjdXLuuMlY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/lIjdXLuuMlY/hqdefault.jpg"></media:thumbnail></item><item><title>yt: An Integrated Science Environment for Astrophysical Simulations</title><link>http://www.pyvideo.org/video/1202/yt-an-integrated-science-environment-for-astroph</link><description>&lt;p&gt;Description&lt;/p&gt;
+The usage of the high-level scripting language Python has enabled new
+mechanisms for data interrogation, discovery and visualization of scientific
+data. We present yt ( [http://yt-project.org/](http://yt-project.org/) ), an
+open source, community-developed astrophysical analysis and visualization
+toolkit for both post-processing and in situ analysis of data generated by
+high-performance computing (HPC) simulations of astrophysical phenomena. We
+report on successes in astrophysical computation through development of
+analysis tasks, visualization, cross-code compatibility, and community
+building.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Turk</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1202/yt-an-integrated-science-environment-for-astroph</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/yt_An_Integrated_Science_Environment_for_Astrophysical_Simulations.mp4?Signature=YZv4Y7kMJmlHFaN%2BQK0j2pPs3Q4%3D&amp;Expires=1346381351&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/yt_An_Integrated_Science_Environment_for_Astrophysical_Simulations.mp4?Signature=YZv4Y7kMJmlHFaN%2BQK0j2pPs3Q4%3D&amp;Expires=1346381351&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=uPgCuGk8mnQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/uPgCuGk8mnQ/hqdefault.jpg"></media:thumbnail></item><item><title>Efficient Parallel Python for High-Performance Computing</title><link>http://www.pyvideo.org/video/1345/efficient-parallel-python-for-high-performance-co</link><description>&lt;p&gt;Description&lt;/p&gt;
+This tutorial is targeted at the intermediate-to-advanced Python user who
+wants to extend Python into High-Performance Computing. The tutorial will
+provide hands-on examples and essential performance tips every developer
+should know for writing effective parallel Python. The result will be a clear
+sense of possibilities and best practices using Python in HPC environments.
+
+Many of the examples you often find on parallel Python focus on the mechanics
+of getting the parallel infrastructure working with your code, and not on
+actually building good portable parallel Python. This tutorial is intended to
+be a broad introduction to writing high-performance parallel Python that is
+well suited to both the beginner and the veteran developer.
+
+We will discuss best practices for building efficient high-performance Python
+through good software engineering. Parallel efficiency starts with the speed
+of the target code itself, so we will first look at how to evolve code from
+for-loops to list comprehensions and generator comprehensions to using Cython
+with NumPy. We will also discuss how to optimize your code for speed and
+memory performance by using profilers.
+
+The tutorial will cover some of the common parallel communication technologies
+(multiprocessing, MPI, and cloud computing) and introduce the use of parallel
+map and map-reduce.
+
+At the end of the tutorial, participants should be able to write simple
+parallel Python scripts, make use of effective parallel programming
+techniques, and have a framework in place to leverage the power of Python in
+High- Performance Computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurt Smith</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1345/efficient-parallel-python-for-high-performance-co</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Efficient_Parallel_Python_for_HighPerformance_Computing.mp4?Signature=6wYCR88bOMRAXQ88pnHUo8kZCi4%3D&amp;Expires=1346914981&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Efficient_Parallel_Python_for_HighPerformance_Computing.mp4?Signature=6wYCR88bOMRAXQ88pnHUo8kZCi4%3D&amp;Expires=1346914981&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=AJU3EYvTNXc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AJU3EYvTNXc/hqdefault.jpg"></media:thumbnail></item><item><title>IPython in-depth: Interactive Tools for Scientific Computing</title><link>http://www.pyvideo.org/video/1343/ipython-in-depth-interactive-tools-for-scientifi</link><description>&lt;p&gt;Description&lt;/p&gt;
+IPython provides tools for interactive and parallel computing that are widely
+used in scientific computing. We will show some uses of IPython for scientific
+applications, focusing on exciting recent developments, such as the network-
+aware kernel, web-based notebook with code, graphics, and rich HTML, and a
+high-level framework for interactive parallel computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fernando Pérez,Min Ragan-Kelley</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1343/ipython-in-depth-interactive-tools-for-scientifi</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_indepth_Interactive_Tools_for_Scientific_Computing.mp4?Signature=iJFHJ%2FIFd8AMbdTd%2BFaPcYA80n4%3D&amp;Expires=1346902161&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/IPython_indepth_Interactive_Tools_for_Scientific_Computing.mp4?Signature=iJFHJ%2FIFd8AMbdTd%2BFaPcYA80n4%3D&amp;Expires=1346902161&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=AvknbGH01FE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AvknbGH01FE/hqdefault.jpg"></media:thumbnail></item><item><title>statsmodels</title><link>http://www.pyvideo.org/video/1200/statsmodels</link><description>&lt;p&gt;Description&lt;/p&gt;
+This tutorial will give users an overview of the capabilities of statsmodels,
+including how to conduct exploratory data analysis, fit statistical models,
+and check that the modeling assumptions are met.
+
+The use of Python in data analysis and statistics is growing rapidly. It is
+not uncommon now for researchers to conduct data cleaning steps in Python and
+then move to some other software to estimate statistical models. Statsmodels,
+however, is a Python module that attempts to bridge this gap and allow users
+to estimate statistical models, perform statistical tests, and conduct data
+exploration in Python. Researchers across fields such as economics and the
+social sciences to finance and engineering may find that statsmodels meets
+their needs for statistical computing and data analysis in Python.
+
+All examples in this tutorial will use real data. Attendees are expected to
+have some familiarity with statistical methods.
+
+With this knowledge attendees will be ready to jump in and use Python for
+applied statistical analysis and will have an idea how they can extend
+statsmodels for their own needs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Skipper Seabold</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1200/statsmodels</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/statsmodels.mp4?Signature=33EXalpD4sobT5zT3ZjQbB%2FlZO0%3D&amp;Expires=1346381343&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/statsmodels.mp4?Signature=33EXalpD4sobT5zT3ZjQbB%2FlZO0%3D&amp;Expires=1346381343&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=RWRsxhUzpxk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/RWRsxhUzpxk/hqdefault.jpg"></media:thumbnail></item><item><title>Time Series Data Analysis with pandas</title><link>http://www.pyvideo.org/video/1198/time-series-data-analysis-with-pandas</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this tutorial, I'll give a brief overview of pandas basics for new users,
+then dive into the nuts of bolts of manipulating time series data in memory.
+This includes such common topics date arithmetic, alignment and join / merge
+methods, resampling and frequency conversion, time zone handling, moving
+window functions like moving mean and standard deviation. A strong focus will
+be placed on working with large time series efficiently using array
+manipulations. I'll also illustrate visualization tools for slicing and dicing
+time series to make informative plots. There will be several example data sets
+taken from finance, economics, ecology, web analytics, or other areas.
+
+The target audience for the tutorial includes individuals who already work
+regularly with time series data and are looking to acquire additional skills
+and knowledge as well as users with an interest in data analysis who are new
+to time series. You will be expected to be comfortable with general purpose
+Python programming and have a modest amount of experience using NumPy. Prior
+experience with the basics of pandas's data structures will also be helpful.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1198/time-series-data-analysis-with-pandas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Data_Analysis_with_pandas.mp4?Signature=kkRls%2BknoyZjRP5XV2lzO%2FB%2FuKE%3D&amp;Expires=1346381098&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Data_Analysis_with_pandas.mp4?Signature=kkRls%2BknoyZjRP5XV2lzO%2FB%2FuKE%3D&amp;Expires=1346381098&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=0unf-C-pBYE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0unf-C-pBYE/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced Matplotlib</title><link>http://www.pyvideo.org/video/1344/advanced-matplotlib</link><description>&lt;p&gt;Description&lt;/p&gt;
+Matplotlib is one of the main plotting libraries in use within the scientific
+Python community. This tutorial covers advanced features of the Matplotlib
+library, including many recent additions: laying out axes, animation support,
+Basemap (for plotting on maps), and other tweaks for creating aesthetic plots.
+The goal of this tutorial is to expose attendees to several of the chief sub-
+packages within Matplotlib, helping to ensure that users maximize the use of
+the full capabilities of the library. Additionally, the attendees will be run
+through a 'grab-bag' of tweaks for plots that help to increase the aesthetic
+appeal of created figures. Attendees should be familiar with creating basic
+plots in Matplotlib as well as basic use of NumPy for manipulating data.
+
+[iPython notebooks used in the tutorial](http://github.com/dopplershift
+/Python-Tutorials)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan May</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1344/advanced-matplotlib</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Advanced_Matplotlib.mp4?Signature=aA%2BDpAdci0vVh5Yg%2B3cJg5fpMOs%3D&amp;Expires=1346908118&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Advanced_Matplotlib.mp4?Signature=aA%2BDpAdci0vVh5Yg%2B3cJg5fpMOs%3D&amp;Expires=1346908118&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=AmpWIC5SctY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AmpWIC5SctY/hqdefault.jpg"></media:thumbnail></item><item><title>HDF5 is for lovers</title><link>http://www.pyvideo.org/video/1196/hdf5-is-for-lovers</link><description>&lt;p&gt;Description&lt;/p&gt;
+HDF5 is a hierarchical, binary database format that has become a _de facto_
+standard for scientific computing. While the specification may be used in a
+relatively simple way (persistence of static arrays) it also supports several
+high-level features that prove invaluable. These include chunking, ragged
+data, extensible data, parallel I/O, compression, complex selection, and in-
+core calculations. Moreover, HDF5 bindings exist for almost every language -
+including two Python libraries (PyTables and h5py).
+
+This tutorial will discuss tools, strategies, and hacks for really squeezing
+every ounce of performance out of HDF5 in new or existing projects. It will
+also go over fundamental limitations in the specification and provide creative
+and subtle strategies for getting around them. Overall, this tutorial will
+show how HDF5 plays nicely with all parts of an application making the code
+and data both faster and smaller. With such powerful features at the
+developer's disposal, what is not to love?!
+
+This tutorial is targeted at a more advanced audience which has a prior
+knowledge of Python and NumPy. Knowledge of C or C++ and basic HDF5 is
+recommended but not required.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anthony Scopatz</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1196/hdf5-is-for-lovers</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/HDF5_is_for_lovers.mp4?Signature=cM8rA2NfAmu5op3Ha%2FNG7gQUYFc%3D&amp;Expires=1346380446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/HDF5_is_for_lovers.mp4?Signature=cM8rA2NfAmu5op3Ha%2FNG7gQUYFc%3D&amp;Expires=1346380446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=Nzx0HAd3FiI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/Nzx0HAd3FiI/hqdefault.jpg"></media:thumbnail></item><item><title>Introduction to NumPy and Matplotlib</title><link>http://www.pyvideo.org/video/1190/introduction-to-numpy-and-matplotlib</link><description>&lt;p&gt;Description&lt;/p&gt;
+NumPy is the most fundamental package for scientific computing with Python. It
+adds to the Python language a data structure (the NumPy array) that has access
+to a large library of mathematical functions and operations, providing a
+powerful framework for fast computations in multiple dimensions. NumPy is the
+basis for all SciPy packages which extends vastly the computational and
+algorithmic capabilities of Python as well as many visualization tools like
+Matplotlib, Chaco or Mayavi.
+
+This tutorial will teach students the fundamentals of NumPy, including fast
+vector-based calculations on numpy arrays, the origin of its efficiency and a
+short introduction to the matplotlib plotting library. In the final section,
+more advanced concepts will be introduced including structured arrays,
+broadcasting and memory mapping.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jones</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1190/introduction-to-numpy-and-matplotlib</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Introduction_to_NumPy_and_Matplotlib.mp4?Signature=UN58jJUugfvHKtN8jEGhX98I9Ug%3D&amp;Expires=1346380424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Introduction_to_NumPy_and_Matplotlib.mp4?Signature=UN58jJUugfvHKtN8jEGhX98I9Ug%3D&amp;Expires=1346380424&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=3Fp1zn5ao2M" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/3Fp1zn5ao2M/hqdefault.jpg"></media:thumbnail></item><item><title>scikit-learn</title><link>http://www.pyvideo.org/video/1342/scikit-learn</link><description>&lt;p&gt;Description&lt;/p&gt;
+Machine Learning has been getting a lot of buzz lately, and many software
+libraries have been created which implement these routines. scikit-learn is a
+python package built on numpy and scipy which implements a wide variety of
+machine learning algorithms, useful for everything from facial recognition to
+optical character recognition to automated classification of astronomical
+images. This tutorial will begin with a crash course in machine learning and
+introduce participants to several of the most common learning techniques for
+classification, regression, and visualization. Building on this background, we
+will explore several applications of these techniques to scientific data -- in
+particular, galaxy, star, and quasar data from the Sloan Digital Sky Survey --
+and learn some basic astrophysics along the way. From these examples, tutorial
+participants will gain knowledge and experience needed to successfully solve a
+variety of machine learning and statistical data mining problems with python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jake Vanderplas</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1342/scikit-learn</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/scikitlearn.mp4?Signature=S8FD%2F6oDUdQrSUxkjgrepB2ZVbY%3D&amp;Expires=1346988563&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/scikitlearn.mp4?Signature=S8FD%2F6oDUdQrSUxkjgrepB2ZVbY%3D&amp;Expires=1346988563&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=33L_EXLtJPE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/33L_EXLtJPE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

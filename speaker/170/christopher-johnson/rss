@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christopher Johnson</title><link>http://www.pyvideo.org/speaker/170/christopher-johnson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/170/christopher-johnson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Ecommerce in Python: Introduction to Satchmo and GetPaid (#146)</title><link>http://www.pyvideo.org/video/336/pycon-2010--ecommerce-in-python--introduction-to-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Ecommerce in Python: Introduction to Satchmo and GetPaid
+
+  
+Presented by Christopher Johnson (ifPeople); Chris Moffitt (Satchmo)
+
+  
+The world of open source ecommerce is dominated by PHP-based solutions.
+However, in the past few years, there has been significant progress in
+building robust python-based alternatives. This discussion will cover 2
+different python approaches. Satchmo is based on the Django framework and
+GetPaid is a framework for credit card processing in Plone. These solutions
+share a similar philosophy and approach but can be used in very different
+ways. This discussion will increase awareness of these applications, feature
+successful projects, explain how they can be used in your projects, and help
+you connect with the open source community.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Moffitt,Christopher Johnson</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/336/pycon-2010--ecommerce-in-python--introduction-to-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/336_ecommerce-in-python-introduction-to-satchmo-and-getpaid-146.ogv" length="438690455" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/336_ecommerce-in-python-introduction-to-satchmo-and-getpaid-146.ogv" fileSize="438690455" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/336_ecommerce-in-python-introduction-to-satchmo-and-getpaid-146.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010EcommerceInPythonIntroductionToSatchmoAndGetPai890.png"></media:thumbnail></item><item><title>Supercharging Web Communications: Integrating Python-based Apps with Salesforce.com CRM (#152)</title><link>http://www.pyvideo.org/video/346/pycon-2010--supercharging-web-communications--int</link><description>&lt;p&gt;Description&lt;/p&gt;
+Supercharging Web Communications: Integrating Python-based Apps with
+Salesforce.com CRM
+
+  
+Presented by Christopher Johnson
+
+  
+Salesforce.com is a leading provider of Customer Relationship Management (CRM)
+for enterprises (over 55,000 customers) and nonprofits (over 6,000 customers).
+While it handles sales, marketing and support processes, it can be extended to
+automate any business process, making it a core part of business operations.
+Python developers working with companies using salesforce.com need to be able
+to integrate applications with Salesforce. Luckily, Salesforce.com has an
+elegant and powerful SOAP API. This presentation will introduce an example of
+using the Python wrapper for the Salesforce.com API (Beatbox) in an
+interactive website. While the library itself is powerful and can be used in
+custom Python applications, the Python community can also leverage the
+advanced integration between the Plone Content Management System (CMS) and
+salesforce.com. We will demonstrate how a Plone website can post forms,
+ecommerce transactions, and event RSVPs to salesforce. Additionally, we will
+show how developers can make Salesforce.com data interactive in a Plone
+website.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Johnson</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/346/pycon-2010--supercharging-web-communications--int</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/346_supercharging-web-communications-integrating-python-based-apps-with-salesforce-com-crm-152.ogv" length="234819947" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/346_supercharging-web-communications-integrating-python-based-apps-with-salesforce-com-crm-152.ogv" fileSize="234819947" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/346_supercharging-web-communications-integrating-python-based-apps-with-salesforce-com-crm-152.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010SuperchargingWebCommunicationsIntegratingPythonbas271.png"></media:thumbnail></item></channel></rss>

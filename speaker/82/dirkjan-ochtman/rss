@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dirkjan Ochtman</title><link>http://www.pyvideo.org/speaker/82/dirkjan-ochtman/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/82/dirkjan-ochtman/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Modern version control: Mercurial internals (#113)</title><link>http://www.pyvideo.org/video/238/pycon-2010--modern-version-control--mercurial-int</link><description>&lt;p&gt;Description&lt;/p&gt;
+Modern version control: Mercurial internals
+
+Presented by Dirkjan Ochtman
+
+In this talk, I'd like to talk a bit about Mercurial. This will not be a
+beginner-level talk on DVCS or hg; it aims to be a higher-level discussion of
+the concepts employed in Mercurial. After having discussed these, I'd also
+like to compare Mercurial and git based on UI, performance and underlying
+concepts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dirkjan Ochtman</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/238/pycon-2010--modern-version-control--mercurial-int</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/238_modern-version-control-mercurial-internals-113.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ModernVersionControlMercurialInternals113726-31.jpg"></media:thumbnail></item></channel></rss>

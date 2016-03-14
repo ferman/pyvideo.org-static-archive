@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chad Cooper</title><link>http://www.pyvideo.org/speaker/404/chad-cooper/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/404/chad-cooper/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>27. Reading and writing spatial data for the non-spatial programmer</title><link>http://www.pyvideo.org/video/730/27-reading-and-writing-spatial-data-for-the-non-</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Location has become mainstream in society and computing. Developers are being
+tasked with working with spatial data of varying formats. Lucky for Python
+developers, there are many packages and libraries that can help us make sense
+of and utilize spatial data, and this poster will explain some of those
+options.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chad Cooper</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/730/27-reading-and-writing-spatial-data-for-the-non-</guid><enclosure url="https://www.youtube.com/watch?v=ziz2lh-14i8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/ziz2lh-14i8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

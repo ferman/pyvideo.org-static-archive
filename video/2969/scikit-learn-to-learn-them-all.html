@@ -1,0 +1,362 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Scikit-learn to "learn them all"</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="**Scikit-learn** is a powerful library, providing implementations for 
+many of the most popular machine learning algorithms. 
+This talk will provide an overview of the &quot;batteries&quot; included in 
+Scikit-learn, along with working code examples and internal insights, in order to 
+get the best for our machine learning code.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="scikit-learn-to-learn-them-all.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="scikit-learn-to-learn-them-all.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=zVPfVkC5qDk"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Scikit-learn to &quot;learn them all&quot;</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/zVPfVkC5qDk/hqdefault.jpg"/>
+      <link property="sameAs" href="scikit-learn-to-learn-them-all.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p><strong>Scikit-learn</strong> is a powerful library, providing implementations for 
+many of the most popular machine learning algorithms. 
+This talk will provide an overview of the "batteries" included in 
+Scikit-learn, along with working code examples and internal insights, in order to 
+get the best for our machine learning code.</p></div>
+        <meta property="caption" content="Scikit-learn is a powerful library, providing implementations for 
+many of the most popular machine learning algorithms. 
+This talk will provide an overview of the &quot;batteries&quot; included in 
+Scikit-learn, along with working code examples and internal insights, in order to 
+get the best for our machine learning code."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p><strong>Machine Learning</strong> is about <em>using the right features, to build the right 
+models, to achieve the right tasks</em> <a href="http://goo.gl/BnhoHa" title="Machine Learning: The Art and Science of Algorithms that Make Sense of Data, *Peter Flach, 2012*">[Flach, 2012]</a>
+However, to come up with a definition of what actually means <strong>right</strong> for 
+the problem at the hand, it is required to analyse 
+huge amounts of data, and to evaluate the performance of different algorithms 
+on these data.</p>
+<p>However, deriving a working machine learning solution for a given problem 
+is far from being a <em>waterfall</em> process. 
+It is an iterative process where continuous refinements are required for the 
+data to be used (i.e., the <em>right features</em>), and the algorithms to apply 
+(i.e., the <em>right models</em>).</p>
+<p>In this scenario, Python has been found very useful for practitioners and 
+researchers: its high-level nature, in combination with available tools and 
+libraries, allows to rapidly implement working machine learning code 
+without <em>reinventing the wheel</em>.</p>
+<p><a href="http://scikit-learn.org/stable/"><strong>Scikit-learn</strong></a> is an actively 
+developing Python library, built on top of the solid <code>numpy</code> and <code>scipy</code> 
+packages.</p>
+<p>Scikit-learn (<code>sklearn</code>) is an <em>all-in-one</em> software solution, providing 
+implementations for several machine learning methods, along with datasets and 
+(performance) evaluation algorithms.</p>
+<p>These "batteries" included in the library, in combination with a nice and intuitive
+software API, have made scikit-learn to become one of the most popular Python 
+package to write machine learning code.</p>
+<p>In this talk, a general overview of scikit-learn will be presented, along with 
+brief explanations of the techniques provided out-of-the-box by the library.</p>
+<p>These explanations will be supported by working code examples, and insights on 
+algorithms' implementations aimed at providing hints on 
+how to extend the library code.</p>
+<p>Moreover, advantages and limitations of the <code>sklearn</code> package will be discussed 
+according to other existing machine learning Python libraries
+(e.g., <a href="http://shogun-toolbox.org" title="Shogun Toolbox"><code>shogun</code></a>, 
+<a href="http://pyml.sourceforge.net" title="PyML"><code>pyML</code></a>, 
+<a href="http://mlpy.sourceforge.net" title="MLPy"><code>mlpy</code></a>).</p>
+<p>In conclusion, (examples of) applications of scikit-learn to big data and 
+computational intensive tasks will be also presented.</p>
+<p>The general outline of the talk is reported as follows (the order of the topics may vary):</p>
+<ul>
+<li>Intro to Machine Learning<ul>
+<li>Machine Learning in Python</li>
+<li>Intro to Scikit-Learn</li>
+</ul>
+</li>
+<li>Overview of Scikit-Learn<ul>
+<li>Comparison with other existing ML Python libraries</li>
+</ul>
+</li>
+<li>Supervised Learning with <code>sklearn</code><ul>
+<li>Text Classification with SVM and Kernel Methods</li>
+</ul>
+</li>
+<li>Unsupervised Learning with <code>sklearn</code><ul>
+<li>Partitional and Model-based Clustering (i.e., k-means and Mixture Models)</li>
+</ul>
+</li>
+<li>Scaling up Machine Learning<ul>
+<li>Parallel and Large Scale ML with <code>sklearn</code></li>
+</ul>
+</li>
+</ul>
+<p>The talk is intended for an intermediate level audience (i.e., Advanced).
+It requires basic math skills and a good knowledge of the Python language.</p>
+<p>Good knowledge of the <code>numpy</code> and <code>scipy</code> packages is also a plus.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1394/valerio-maggio.html">Valerio Maggio</a></div>
+            <meta property="author" content="Valerio Maggio"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 24, 2014
+            <meta property="dateCreated" content="2014-07-24"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 31, 2014
+            <meta property="dateModified" content="2014-07-31T23:04:48.769109"/>
+            <meta property="datePublished" content="2014-07-31T23:04:48.769109"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=zVPfVkC5qDk" property="embedUrl">http://www.youtube.com/watch?v=zVPfVkC5qDk</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2969">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="scikit-learn-to-learn-them-all.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Thomas Robitaille</title><link>http://www.pyvideo.org/speaker/598/thomas-robitaille/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/598/thomas-robitaille/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Astropy and astronomical tools Part I</title><link>http://www.pyvideo.org/video/2739/astropy-and-astronomical-tools-part-i</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The introductory session will start with an overview of the astropy project and the goals of the tutorial, followed by the basics on accessing astronomical data and the associated attributes of such data, including the units and coordinates. Also covered is how to use the new and powerful quantities facility, which allows physical quantities to be explicitly bound to the units they are defined in.
+&lt;p&gt;Description&lt;/p&gt;
+**Outline**
+
+* Overview of astropy (15 minutes) [Greenfield]
+    - Exercise: Import astropy, demonstrate that tools are present and echo simple examples given. (15 minutes: allowing for typical start-up problems)
+* Units/quantities (15 minutes) [Droettboom]
+    - Exercise: Solve problems using standard units; define new unit; use unit equivalencies; define blackbody function using quantities/units (15 minutes)
+* Tables (20 minutes) [Aldcroft]
+    - Exercise: read in provided table files and apply requested table manipulations (20 minutes)
+* Break (15 minutes)
+* Accessing and updating data
+    - FITS (30 minutes) [Bray]
+        + Exercise: Open supplied data files; manipulate header information; manipulate data; write results; update and append to existing file (30 minutes)
+    - ascii tables (15 minutes) [Aldcroft]
+        + Exercise: Open supplied ascii files, modify and convert into csv files (15 minutes) 
+* coordinates (sky/time) (15 minutes) [Robitaille]
+    - Exercises: solve coordinate/time conversion problems; read in various string representations for coordinates/times; print alternate string representations (15 minutes)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Bray,Perry Greenfield,Thomas Robitaille,Tom Aldcroft</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2739/astropy-and-astronomical-tools-part-i</guid><enclosure url="http://www.youtube.com/watch?v=eiSg1enFFV4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/eiSg1enFFV4/hqdefault.jpg"></media:thumbnail></item><item><title>WCSAxes: A Framework for Plotting Astronomical and Geospatial Data</title><link>http://www.pyvideo.org/video/2723/wcsaxes-a-framework-for-plotting-astronomical-an</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+I will present WCSAxes, a new framework for plotting astronomical data that seamlessly handles the plotting of ticks, tick labels, and grid lines for arbitrary coordinate systems and projections. While originally written for with astronomical data, it can be used for any kind of map provided that the projection and coordinate system can be represented by a pixel-to-world transformation.
+&lt;p&gt;Description&lt;/p&gt;
+Astronomical data (whether images on the sky, or other data) are typically stored with information about their corresponding projection (Gnomonic, Mercator, Conical, Aitoff, and *many* more) and coordinate system (Equatorial, Galactic, Ecliptic, and so on).
+
+I will present [WCSAxes](https://github.com/astrofrog/wcsaxes "WCSAxes"), a new framework for plotting such astronomical data, developed as part of the [Astropy](http://www.astropy.org) project. WCSAxes consists primarily of a [Matplotlib](http://www.matplotlib.org "Matplotlib") Axes sub-class that seamlessly handles the plotting of ticks, tick labels, and grid lines for arbitrary coordinate systems and projections.
+
+As an example, the following plot was produced with WCSAxes:
+
+![The Galactic Center as seen by Chandra](http://www.mpia.de/~robitaille/chandra_avm_small.png "The Galactic center as seen by the Chandra X-ray observatory")
+
+(Image Credit: NASA/CXC/UMass/D. Wang et al. - [http://chandra.harvard.edu/photo/2009/gcenter/](http://chandra.harvard.edu/photo/2009/gcenter/))
+
+Since it is a sub-class of the Matplotlib Axes class, all the default Matplotlib methods such as plot, scatter, imshow, contour, as well as patches, lines, collections, and so on are supported, and WCSAxes - in combination with Matplotlib's ability to accept arbitrary transformations - makes it very easy to define whether the plotting should apply to pixel coordinates, or a world coordinate system related to the data.
+
+WCSAxes has been designed as a framework that can be easily used in other Python tools, and it is planned for inclusion in [Glue](http://www.glueviz.org), [APLpy](http://aplpy.github.io), and other astronomical tools. While originally written for Astronomical images, it should be easily extendable to any kind of map (such as Earth-based geospatial data) provided that the projection and coordinate system can be represented by a pixel-to-world transformation.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Robitaille</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2723/wcsaxes-a-framework-for-plotting-astronomical-an</guid><enclosure url="http://www.youtube.com/watch?v=ukR5a2TJJt4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/ukR5a2TJJt4/hqdefault.jpg"></media:thumbnail></item><item><title>Astropy, growing a community-based software system for astronomy</title><link>http://www.pyvideo.org/video/1967/astropy-growing-a-community-based-software-syste-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference.
+&lt;p&gt;Description&lt;/p&gt;
+Authors: Droettboom, Michael, STScI; Robitaille, Thomas, Max Planck Institute; Tollerud, Erik, Yale Universit
+
+Track: Astronomy and Astrophysics
+
+Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference. The past year has seen much growth in the number and quality of the core libraries in astropy and a public release. We will highlight the new capabilities available, and outline the development plans for the upcoming year. Finally we discuss the strategies for advertising its capabilities and growing the documentation and tutorials available for users and developers.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Tollerud,Michael Droettboom,Thomas Robitaille</dc:creator><pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1967/astropy-growing-a-community-based-software-syste-0</guid><enclosure url="http://www.youtube.com/watch?v=0wfxxpM75vM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0wfxxpM75vM/hqdefault.jpg"></media:thumbnail></item><item><title>Astropy - Herding Snakes or Astronomers: which is more difficult?</title><link>http://www.pyvideo.org/video/1214/astropy-herding-snakes-or-astronomers-which-is</link><description>&lt;p&gt;Description&lt;/p&gt;
+Developers and users of astronomical software have long bemoaned the absence
+of shared efforts in the field. While there are well known, free software
+tools available for astronomy, most have been developed by large institutions,
+and the past few decades have seen comparatively little progress in fostering
+a community-based set of software tools. There is hope that is changing now.
+The continuing growth of Python in astronomy has led to an increasing
+awareness of needless duplication of efforts within the community and the need
+to make existing packages work better with each other; such discussions came
+to a head on the astropy email list in the spring of 2011 leading to formation
+of the astropy project. The first coordination meeting was held in the fall of
+2011, and significant progress has been made in setting up a community
+repository of core astronomical packages. We will describe the general goals
+of astropy and the progress that has been made to date.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Tollerud,Perry Greenfield,Thomas Robitaille</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1214/astropy-herding-snakes-or-astronomers-which-is</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Astropy_Herding_Snakes_or_Astronomers_which_is_more_difficult.mp4?Signature=mzIR%2FouPTEnbyJod6u03IF5%2B9Nk%3D&amp;Expires=1346381801&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Astropy_Herding_Snakes_or_Astronomers_which_is_more_difficult.mp4?Signature=mzIR%2FouPTEnbyJod6u03IF5%2B9Nk%3D&amp;Expires=1346381801&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=VmxthPjCFXo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VmxthPjCFXo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Simone Leo</title><link>http://www.pyvideo.org/speaker/538/simone-leo/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/538/simone-leo/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Programmazione MapReduce in Python con Pydoop</title><link>http://www.pyvideo.org/video/1184/programmazione-mapreduce-in-python-con-pydoop</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Simone Leo - 23 June 2011 in "Track Italiana Big Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Hadoop è la principale implementazione open source di MapReduce, il paradigma
+di calcolo distribuito su larga scala di Google. L'API nativa di Hadoop è in
+Java e le opzioni built-in per la programmazione in Python - Streaming e
+Jython - presentano diversi inconvenienti: la prima consente di accedere solo
+a un piccolo sottoinsieme delle funzionalità di Hadoop, mentre la seconda ha
+tutte le limitazioni di Jython rispetto a CPython.
+
+[Pydoop](http://pydoop.sourceforge.net) è un'API per Hadoop che rende
+disponibile buona parte delle funzionalità di Hadoop al programmatore Python,
+consentendo lo sviluppo in CPython. I suoi moduli di base sono wrapper
+Boost.Python per l'interfaccia C/C++ di Hadoop.
+
+Il talk consiste in un tutorial su MapReduce/Hadoop e in una presentazione
+dell'API Pydoop, con l'obiettivo principale di avvicinare le community di
+Hadoop e Python. Può essere utile, anche se non strettamente necessaria, una
+conoscenza di base della programmazione distribuita.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simone Leo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1184/programmazione-mapreduce-in-python-con-pydoop</guid><enclosure url="http://www.youtube.com/watch?v=iKqWk-yz8R8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/iKqWk-yz8R8/hqdefault.jpg"></media:thumbnail></item><item><title>Python MapReduce Programming with Pydoop</title><link>http://www.pyvideo.org/video/1109/python-mapreduce-programming-with-pydoop</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Simone Leo - 24 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Hadoop is the leading open source implementation of MapReduce, Google's large
+scale distributed computing paradigm. Hadoop's native API is in Java, and its
+built-in options for Python programming - Streaming and Jython - have several
+drawbacks: the former allows to access only a small subset of Hadoop's
+features, while the latter carries with it all of the limitations of Jython
+with respect to CPython.
+
+[Pydoop](http://pydoop.sourceforge.net) is an API for Hadoop that makes most
+of its features available to Python programmers while allowing CPython
+development. Its core consists of Boost.Python wrappers for Hadoop's C/C++
+interface.
+
+The talk consists of a MapReduce/Hadoop tutorial and a presentation of the
+Pydoop API, with the main goal of bridging the gap between the Hadoop and
+Python communities. A basic knowledge of distributed programming is helpful
+but not strictly required.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simone Leo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1109/python-mapreduce-programming-with-pydoop</guid><enclosure url="http://www.youtube.com/watch?v=IyXOP7SJqKQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IyXOP7SJqKQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

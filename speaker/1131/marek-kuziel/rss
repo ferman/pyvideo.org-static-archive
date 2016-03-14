@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Marek Kuziel</title><link>http://www.pyvideo.org/speaker/1131/marek-kuziel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1131/marek-kuziel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 13 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python in Home Automation</title><link>http://www.pyvideo.org/video/2363/python-in-home-automation</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Using Python to build a Home Automation system by connecting various bits of (open) hardware with protocols such as MQTT, or XMPP. Creating web-based interfaces for HA systems.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Protocols: brief introduction to MQTT and XMPP protocols. Introduction to related Python tools/libraries.
+
+Hardware: using hardware such Arduino, or Beaglebone as components for a DIY home automation systems.
+
+Low-level: serial communication, MQTT communication, XMPP communication using Python.
+
+High-level: web-based interface(s) for a Home Automation system made in Python.
+
+Connecting the dots: general overview of how Python can be used in Home Automation.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/marek-kuziel-python-in-home-automation</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marek Kuziel</dc:creator><pubDate>Fri, 13 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2363/python-in-home-automation</guid><enclosure url="http://www.youtube.com/watch?v=hXnDyHidDqo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/hXnDyHidDqo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

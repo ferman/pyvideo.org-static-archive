@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of yarko</title><link>http://www.pyvideo.org/speaker/1126/yarko/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1126/yarko/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Post djangocon: An overview of edX</title><link>http://www.pyvideo.org/video/2355/post-djangocon-an-overview-of-edx</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+edx is a major django application serving huge numbers of students for MIT, Harvard, Stanford, Berkely, and more.  
+- A brief history of Computer-Based Instruction (python has a role);
+- incomplete survey of current open-source CBI;
+- edX: how's it different / what's it's rough structure, what (besides django/python) is involved;
+- edX: hacking the platform (django development);
+- edX: hacking courses; a deployment-level VM, and how to get started there;
+- finally: future topics:  deployment; what this can't do (maybe) and why;
+- wrapup: call for interest &amp; edx project night(s);
+
+I'll try to have some USBs for anyone who want to try one of the edX VMs during the talk
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">yarko</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2355/post-djangocon-an-overview-of-edx</guid><enclosure url="http://s3.us.archive.org/ndvchipy/Post_djangocon_An_overview_of_.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvchipy/Post_djangocon_An_overview_of_.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=f1FoYwe_DT4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/f1FoYwe_DT4/hqdefault.jpg"></media:thumbnail></item><item><title>What's Love Got to do with It? / Love: for techies</title><link>http://www.pyvideo.org/video/2357/whats-love-got-to-do-with-it-love-for-techie</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+What you think Love is - is (probably) wrong.
+
+The correct metaphor / definition for live will make much more sense to the software person.  In fact, it will help with team building and design too.  Yup.
+
+Grab a beer.   I'll tell you a story about how this evolved (turing machine example), how and where evolution selected it, and why it works - and how it works for approaching problems (design) too.
+
+Then I'll lay out the api (functional description).
+
+Don't take it too seriously.
+You couldn't have known.
+Now you will.
+Cheers!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">yarko</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2357/whats-love-got-to-do-with-it-love-for-techie</guid><enclosure url="http://s3.us.archive.org/ndvchipy/Whats_Love_Got_to_do_with_It_L.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvchipy/Whats_Love_Got_to_do_with_It_L.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Qu6MVLnt2D8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/Qu6MVLnt2D8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

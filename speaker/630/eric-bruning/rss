@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Eric Bruning</title><link>http://www.pyvideo.org/speaker/630/eric-bruning/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/630/eric-bruning/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Can Python's web and science communities run concurrently?</title><link>http://www.pyvideo.org/video/1237/can-pythons-web-and-science-communities-run-conc</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python has been adopted by many disciplinary communities, showing its
+adaptability to many problems. Scientific computing and web development are
+two examples of such communities. These might, at first glance, seem to share
+few common interests, especially at the level of algorithms and libraries.
+However, at the level of integrated practice in time-constrained academic
+environments, where framework development is less valued than research and
+teaching productivity, ease of adoption of tools from each of these
+communities can be tremendously valuable.
+
+Using examples from the recently-deployed West Texas Lightning Mapping Array,
+which is processed and visualized in real-time, this paper will argue that a
+shared sense, among disciplinary communities, of the essence of how one
+deploys Python for specific problems is beneficial for continuation and growth
+of Python's status as a go-to language for practitioners in academic settings.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Bruning</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1237/can-pythons-web-and-science-communities-run-conc</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Can_Pythons_web_and_science_co.mp4?Signature=XdOdsW0aFz4ZLrWvxCfL9nFwpcc%3D&amp;Expires=1346383217&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Can_Pythons_web_and_science_co.mp4?Signature=XdOdsW0aFz4ZLrWvxCfL9nFwpcc%3D&amp;Expires=1346383217&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ZmzMhb2IYWM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ZmzMhb2IYWM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

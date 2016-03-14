@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nicholas Tollervey</title><link>http://www.pyvideo.org/speaker/476/nicholas-tollervey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/476/nicholas-tollervey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Lessons learned with asyncio ("Look ma, I wrote a distributed hash table!")</title><link>http://www.pyvideo.org/video/3388/lessons-learned-with-asyncio-look-ma-i-wrote-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk introduces the asyncio module. I'll cover what it's for, how it works and describe how I used it to write a real-world networked application (a distributed hash table).
+We'll explore the event loop, co-routines, futures and networking with examples from my code.
+This won't be an exhaustive exposition. Rather, attendees will grasp enough of asyncio to continue with their own studies.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Tollervey</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3388/lessons-learned-with-asyncio-look-ma-i-wrote-a</guid><enclosure url="https://www.youtube.com/watch?v=1eew8BngN7Y" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/1eew8BngN7Y/hqdefault.jpg"></media:thumbnail></item><item><title>The Return of "The Return of Peer to Peer Computing".</title><link>http://www.pyvideo.org/video/2973/the-return-of-the-return-of-peer-to-peer-computi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+At last year's Europython Holger Krekel gave a keynote called "The Return of Peer to Peer Computing". He described how developers, in light of the Snowden surveillance revelations, ought to learn about and build decentralized peer-to-peer systems with strong cryptography. This talk introduces, describes and demonstrates ideas, concepts and code that a group of Pythonistas have been working on since Holger's keynote. 
+
+We asked ourselves two questions: what are the fundamental elements / abstractions of a peer-to-peer application and, given a reasonable answer to the first question, what can we build?  We will present work done so far, discuss the sorts of application that might be written and explore how peer-to-peer technology could be both attractive and viable from an economic point of view.
+&lt;p&gt;Description&lt;/p&gt;
+This talk introduces, describes and demonstrates concepts and code created during sprints and via online collaboration by a distributed group of Pythonistas under the working title p4p2p (http://p4p2p.net).
+
+We asked ourselves, as frameworks such as Zope/Plone, Django, Pyramid or Flask are to web development what would the equivalent sort of framework look like for peer-to-peer application development?
+
+We've tackled several different technical issues: remote execution of code among peers, distributed hash tables as a mechanism for peer discovery and data storage, various cryptographic requirements and the nuts and bolts of punching holes in firewalls.
+
+Work is ongoing (we have another sprint at the end of March) and the final content of the talk will depend on progress made. However, we expect to touch upon the following (subject to the caveat above):
+
+* What is the problem we're trying to solve?
+* Why P2P?
+* The story of how we ended up asking the questions outlined in the abstract.
+* What we've done to address these questions.
+* An exploration of the sorts of application that could be built using P2P.
+* A call for helpers and collaboration.
+
+Happy to answer any questions!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Tollervey</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2973/the-return-of-the-return-of-peer-to-peer-computi</guid><enclosure url="http://www.youtube.com/watch?v=xxSKmecZ09E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xxSKmecZ09E/hqdefault.jpg"></media:thumbnail></item><item><title>The London Python Code Dojo - an Education in Developer Education</title><link>http://www.pyvideo.org/video/1013/the-london-python-code-dojo-an-education-in-dev</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Nicholas Tollervey - 24 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The London Python Code Dojo is a community organised monthly meeting for
+Python programmers in the UK. Variously described as social coding, developer
+training, "Scrapheap Challenge" for Pythonistas and "I didn't learn coding
+like this when I was a lad", we've forked the traditional code-dojo format and
+turned it into something very different.
+
+This talk will explain and explore what happens in the dojo, how it's
+organised and why various changes were made to the classic dojo format.
+Reference will also be made to influences from music education and philosophy
+of education.
+
+Hopefully, by the end of the talk you'll all want to go organise a dojo!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Tollervey</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1013/the-london-python-code-dojo-an-education-in-dev</guid><enclosure url="http://www.youtube.com/watch?v=vMjnjmUcldA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vMjnjmUcldA/hqdefault.jpg"></media:thumbnail></item><item><title>The London Python Code Dojo - an Education in Developer Education</title><link>http://www.pyvideo.org/video/1081/the-london-python-code-dojo-an-education-in-de-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Nicholas Tollervey - 24 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The London Python Code Dojo is a community organised monthly meeting for
+Python programmers in the UK. Variously described as social coding, developer
+training, "Scrapheap Challenge" for Pythonistas and "I didn't learn coding
+like this when I was a lad", we've forked the traditional code-dojo format and
+turned it into something very different.
+
+This talk will explain and explore what happens in the dojo, how it's
+organised and why various changes were made to the classic dojo format.
+Reference will also be made to influences from music education and philosophy
+of education.
+
+Hopefully, by the end of the talk you'll all want to go organise a dojo!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Tollervey</dc:creator><pubDate>Thu, 14 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1081/the-london-python-code-dojo-an-education-in-de-0</guid><enclosure url="http://www.youtube.com/watch?v=qpTAKS2jqZE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qpTAKS2jqZE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

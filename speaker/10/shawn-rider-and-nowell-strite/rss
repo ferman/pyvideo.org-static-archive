@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Shawn Rider and Nowell Strite</title><link>http://www.pyvideo.org/speaker/10/shawn-rider-and-nowell-strite/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/10/shawn-rider-and-nowell-strite/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:26:26 -0000</lastBuildDate><ttl>500</ttl><item><title>Pluggable, Reusable Django Apps: A Use Case and Proposed Solution</title><link>http://www.pyvideo.org/video/17/pluggable--reusable-django-apps--a-use-case-and-p</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pluggable, reusable, django apps: A use case and proposed solution
+
+  
+Presented by Shawn Rider and Nowell Strite
+
+  
+Talks about Django usage in PBS maintained sites.
+
+  
+[VIDEO HAS ISSUES: audio jumps around a bit]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shawn Rider and Nowell Strite</dc:creator><guid>http://www.pyvideo.org/video/17/pluggable--reusable-django-apps--a-use-case-and-p</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/17_pluggable-reusable-django-apps-a-use-case-and-proposed-solution.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-PluggableReusableDjangoAppsAUseCaseAndProposedSolution188.png"></media:thumbnail></item></channel></rss>

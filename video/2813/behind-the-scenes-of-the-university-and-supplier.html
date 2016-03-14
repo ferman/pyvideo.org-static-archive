@@ -1,0 +1,292 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Behind the Scenes of the University and Supplier Relationship</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="The University of California, Berkeley and San Francisco combined are one of the largest buyers in the Bay Area. Historically, it has been a time-consuming process to analyze suppliers&#39; proposed price files and ensure the University is not paying more than contracted. Through the use of Pandas and Python, this once tedious and manual process can routinely be done in a matter of a few seconds.
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="behind-the-scenes-of-the-university-and-supplier.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="behind-the-scenes-of-the-university-and-supplier.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=dIpLLwIVCYY"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Behind the Scenes of the University and Supplier Relationship</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/dIpLLwIVCYY/hqdefault.jpg"/>
+      <link property="sameAs" href="behind-the-scenes-of-the-university-and-supplier.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>The University of California, Berkeley and San Francisco combined are one of the largest buyers in the Bay Area. Historically, it has been a time-consuming process to analyze suppliers' proposed price files and ensure the University is not paying more than contracted. Through the use of Pandas and Python, this once tedious and manual process can routinely be done in a matter of a few seconds.</p></div>
+        <meta property="caption" content="The University of California, Berkeley and San Francisco combined are one of the largest buyers in the Bay Area. Historically, it has been a time-consuming process to analyze suppliers&#39; proposed price files and ensure the University is not paying more than contracted. Through the use of Pandas and Python, this once tedious and manual process can routinely be done in a matter of a few seconds."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>For the University of California, Berkeley and San Francisco, a routine management process of supplier price files used to be a time-consuming process. It is essential to analyze the sometimes tens of thousands of items a supplier offers to make sure the University doesn't accept larger price increases than is in compliance with a contract. A historical figure of past purchases is matched against the current and proposed catalogs and then analyzed to ultimately find out the percentage increase and number of products removed. Each Universities' motivation is to not accept a file that has larger price increases than contracted nor a file with several previously purchased products removed. </p>
+<p>To combat the tedious and time-consuming process of manually analyzing the previous spend with the current and proposed files, a Python script was written. This heavily uses Pandas as well as Numpy for computations. The code uploads all three files as a dataframes and creates a common variable to compare similar products. It matches what was previously purchased to the identical products in the current and proposed catalogs. After filtering any 'bad' input that would skew the results, several values are computed and the code outputs the necessary figures to determine if a supplier's price file is acceptable. The code even documents each catalog result automatically so the historical changes are organized and noted in a csv.  </p>
+<p>This code is an exponential improvement to the manual process that was historically done. The end numbers are known in a matter of seconds as opposed to hours of Excel or Access analysis. For some suppliers, Excel is even incapable of uploading the entire catalog, thus making any analysis nearly impossible. Python and Pandas have not only made the analysts time more efficient but have opened the door for several possibilities.</p>
+<p>Although this code has greatly improved this continuous analysis, more advanced techniques could potentially improve the process. The department soon hopes to use a forecasted spend figure rather than a historical snapshot to project spend against the proposed catalog. Moving forward, having the analysts armed with Python knowledge, Strategic Sourcing hopes to yield more meaning through the daily flow of spend data through machine learning techniques.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1315/alexis-perez.html">Alexis Perez</a></div>
+            <meta property="author" content="Alexis Perez"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 10, 2014
+            <meta property="dateCreated" content="2014-07-10"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 16, 2014
+            <meta property="dateModified" content="2014-07-16T14:34:05.663205"/>
+            <meta property="datePublished" content="2014-07-16T14:34:05.663205"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=dIpLLwIVCYY" property="embedUrl">http://www.youtube.com/watch?v=dIpLLwIVCYY</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2813">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="behind-the-scenes-of-the-university-and-supplier.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

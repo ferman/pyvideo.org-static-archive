@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Julia Grace</title><link>http://www.pyvideo.org/speaker/732/julia-grace/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/732/julia-grace/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Location, Location, Location</title><link>http://www.pyvideo.org/video/1752/location-location-location</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Are you building a Django application that needs to handle geographic location data? Are you unsure how to tackle using spatial databases, how to jump into using GeoDjango or how to allow users to query for data by, for example, zip code? I'll go over how to use GeoDjango, lessons learned in using spatial databases, and how I built an API exposing distance query functionality. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Grace</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1752/location-location-location</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Location_Location_Location.mp4?Signature=UT%2BeIteo9Uyv0nBl1H2gt8Fe4yo%3D&amp;Expires=1363661428&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Location_Location_Location.mp4?Signature=UT%2BeIteo9Uyv0nBl1H2gt8Fe4yo%3D&amp;Expires=1363661428&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=g7ka98Pq5vs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/g7ka98Pq5vs/hqdefault.jpg"></media:thumbnail></item><item><title>Between where the Tutorials end &amp; the Wild West begins: bringing new devs up to speed on Django</title><link>http://www.pyvideo.org/video/1390/between-where-the-tutorials-end-the-wild-west-b</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+4 months ago I had never even seen a Django template. But I'm an engineer;
+coming up to speed couldn't be that hard, right? Wrong. Doing so efficiently
+and effectively was tough. I went from zero to production ready code used by
+hundreds of users everyday. I'll present my missteps and victories, laying out
+how other teams can quickly bring new team members, who don't know Django, up
+to speed fast.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This is a rough outline of how I learned Django; 4 months ago I was a total
+outsider. Through this process I made mistakes, I had breakdowns, but I walked
+away with a very solid understanding of Django and have proudly have written
+thousands of lines of Python that are in production today. You'll leave this
+talk with lessons on how to bring new developers to your team up speed on
+Django.
+
+  1. Read the Django docs (obviously, right?)
+  2. Follow along building the sample application (Polls, Choices, yada yada).
+  3. Decide to jump into writing production ready code. Have a breakdown. Feel like you're trying to boil the ocean with a lighter.
+  4. Realize that building the sample app was cute but nothing compared to writing a real world application with real users and real constraints.
+  5. Re-read the docs.
+  6. Build a real Django app -- no more Polls. I decided to build a single-sign on application that allowed Etsy sellers to login and view all the photos of their all their listings in one place. I will give background as to why I chose this app, how I built it, and what it taught me.
+  7. Start biting off small pieces of production code to figure out what the hell is going on. Learn about commonly used Django packages such as django-registration, django-profiles, taggit, etc. - and what happens when you need to modify the code of those packages.
+  8. Attempt to boil the ocean, again. I needed to do a massive re- architecture of our application, combining several independent Django applications into a single, unified Django project. My first attempt totally failed. I will discuss why this was and key novice mistakes.
+  9. Key realization that knowing Django != knowing Python
+  10. "When you bang your head enough against the wall, eventually the wall comes down" -- me. I built a pretty kick ass Django application and I'm quite proud of.
+  11. Celebrate (with lessons learned)!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Grace</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1390/between-where-the-tutorials-end-the-wild-west-b</guid><enclosure url="http://www.youtube.com/watch?v=OV5akJtAjgE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OV5akJtAjgE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

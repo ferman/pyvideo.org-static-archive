@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Pavlos Christoforou</title><link>http://www.pyvideo.org/speaker/519/pavlos-christoforou/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/519/pavlos-christoforou/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 18 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Data Plumbing with Python</title><link>http://www.pyvideo.org/video/1073/data-plumbing-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Pavlos Christoforou - 21 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Point Nine provides operations outsourcing and support to large and complex
+financial institutions.
+
+As part of our day to day responsibilities we are required to process our
+client's trading activity which generally involves receiving data in various
+formats and through various protocols, apply transformations, validations and
+enrichment processes and distribute the resulting data to various third
+parties, in short Data Plumbing.
+
+The goal of this talk is to introduce the audience to the (vast) field of
+financial data processing which we believe presents a tremendous opportunity
+for python and it's community and provide a brief overview of Point Nine's
+deployment of Python as the main framework for all data plumbing activities.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pavlos Christoforou</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1073/data-plumbing-with-python</guid><enclosure url="http://www.youtube.com/watch?v=Bb3YEqtHvGs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Bb3YEqtHvGs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

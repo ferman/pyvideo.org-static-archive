@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Laurent Luce</title><link>http://www.pyvideo.org/speaker/1937/laurent-luce/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1937/laurent-luce/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 Nov 2013 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Les merveilles internes des objets du CPython</title><link>http://www.pyvideo.org/video/3734/les-merveilles-internes-des-objets-du-cpython</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+En connaître plus sur l'implémentation d'un langage aide à être plus efficace quand on code. CPython est l'implémentation la plus utilisée et ses objets contiennent plein de merveilles. On découvrira quelques merveilles trouvées dans l'implémentation de la liste, du dictionnaire, de la chaîne de caractères et de l'entier.
+
+On se posera les questions suivantes:
+
+Qu'est-ce qui rend rapide la méthode "append" de la liste ?
+Qu'est-ce qui est fait en interne pour accélérer la recherche d'une clé dans un dictionnaire ?
+Qu'est-ce qui permet d'optimiser la mémoire utilisée par les entiers ?
+On répondra à ces questions et on découvrira d'autres petites merveilles internes. Beaucoup de diagrammes seront utilisés pour être le plus clair possible. On montrera les différences entre Python 2.x et Python 3.x.
+
+Sommaire:
+
+Quelques merveilles internes de la liste:
+
+- Le grand O de la méthode "append".
+- L'algorithme de tri "timsort".
+
+Quelques merveilles internes du dictionnaire:
+
+- Redimensionnement du dictionnaire.
+- Résolution des collisions.
+
+Quelques merveilles internes de la chaîne de caractères:
+
+- Partage des petites chaînes.
+- L'algorithme de la méthode "find".
+
+Quelques merveilles internes de l'entier:
+
+- Partage des petits entiers.
+- Groupes d'entiers.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurent Luce</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3734/les-merveilles-internes-des-objets-du-cpython</guid><enclosure url="https://www.youtube.com/watch?v=QgDeh3IR0fs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/QgDeh3IR0fs/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

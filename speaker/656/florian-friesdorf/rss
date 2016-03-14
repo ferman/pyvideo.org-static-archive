@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Florian Friesdorf</title><link>http://www.pyvideo.org/speaker/656/florian-friesdorf/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/656/florian-friesdorf/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Aspect oriented programming applied to dictionary trees</title><link>http://www.pyvideo.org/video/1273/aspect-oriented-programming-applied-to-dictionary</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Florian Friesdorf - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Mixins enable code re-usage across class hierarchies, adapters allow for
+additional run-time behaviour — metachao aspects merge these two concept and
+go beyond: they can be applied to classes, instances and aspects themselves,
+allowing for functional meta-programming in python. Their beauty will be
+demonstrated by example of dictionary trees, where all behaviour is
+implemented in form of aspects and applied to different dictionary
+implementations. The goal of the talk is to get an understanding of how aspect
+oriented programming can look and why dictionary trees in combination with
+aspects are a cool way of designing applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Friesdorf</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1273/aspect-oriented-programming-applied-to-dictionary</guid><enclosure url="http://www.youtube.com/watch?v=EwLih26Cjfs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/EwLih26Cjfs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

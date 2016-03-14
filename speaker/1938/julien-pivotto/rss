@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Julien Pivotto</title><link>http://www.pyvideo.org/speaker/1938/julien-pivotto/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1938/julien-pivotto/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 Nov 2013 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Deployment and Continuous integration of a Plone/Zope application</title><link>http://www.pyvideo.org/video/3736/deployment-and-continuous-integration-of-a-plone</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cette conférence vous montrera comme nous utilisons Jenkins, Puppet et d'autres outils pour automatiser le déploiement et le test d'une application python de type Zope/Plone sur plusieurs machines. Ce que nous avons appris, les logiciels que nous utilisons, ce qui n'a pas fonctionné...
+
+Le système de buildout de plone et virtualenv sont des outils largement utilisés pour développer et déployer des applications plone. Mais une fois qu'il y a plusieurs nodes à déployer et que vous souhaitez être sur de la fiabilité de votre code avant vos déploiements, un buildout manuel sur chaque serveur est à proscrire.
+
+Nous utilisons Jenkins, Puppet, mcollective et d'autres outils pour packager et tester l'application, avant le déploiement sur nos serveurs. Nous l'avons fait pour déployer plus vite avec moins de risques un code de meilleure qualité.
+
+Nous avons énormément appris et souhaitons partager notre expérience.
+
+The Plone/Zope Buildout system and virtualenv are common tools to develop and build your plone application. But once you have several nodes to deploy and you want to trust your code before deploying it, and a manual buildout is something you should avoid.
+
+We use Jenkins, Puppet, Mcollective and some other tools to package and test the application, before deploying it to several nodes. We made it happen to be confident with our code and to deploy faster with less risks.
+
+We learned a lot and we want to share our experience about it.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julien Pivotto</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3736/deployment-and-continuous-integration-of-a-plone</guid><enclosure url="https://www.youtube.com/watch?v=ykzN8gSpIjM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/ykzN8gSpIjM/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

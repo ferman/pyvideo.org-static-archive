@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jack Diederich</title><link>http://www.pyvideo.org/speaker/177/jack-diederich/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/177/jack-diederich/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 15 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Name Things Once</title><link>http://www.pyvideo.org/video/3792/name-things-once-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+Naming things is hard so you should do as little of it as possible. Your coworkers will thank you for it. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jack Diederich</dc:creator><pubDate>Sat, 15 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3792/name-things-once-0</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3792_Name_Things_Once_2.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3792_Name_Things_Once_2.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/1__lNTlj1_w" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/1__lNTlj1_w/hqdefault.jpg"></media:thumbnail></item><item><title>Name Things Once</title><link>http://www.pyvideo.org/video/3718/name-things-once</link><description>&lt;p&gt;Description&lt;/p&gt;
+Naming things is hard so you should do as little of it as possible. Your coworkers will thank you for it.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jack Diederich</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3718/name-things-once</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3718_Name_Things_Once.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3718_Name_Things_Once.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/hZ7hgYKKnF0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/hZ7hgYKKnF0/hqdefault.jpg"></media:thumbnail></item><item><title>Deleting Code Is Hard And You Should Do It</title><link>http://www.pyvideo.org/video/1378/deleting-code-is-hard-and-you-should-do-it</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Adding code is easy. Everyone gets their start by cut-n-pasting some else's
+code. But every line of code you don't need is a burden. Delete that s++t.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jack Diederich</dc:creator><pubDate>Sun, 29 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1378/deleting-code-is-hard-and-you-should-do-it</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Deleting_Code_Is_Hard_And_You_Should_Do_It.mp4?Signature=6OV5naqLAOPAS62DXVd1hA6%2FHD0%3D&amp;Expires=1346595913&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Deleting_Code_Is_Hard_And_You_Should_Do_It.mp4?Signature=6OV5naqLAOPAS62DXVd1hA6%2FHD0%3D&amp;Expires=1346595913&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Ajln82vwycs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/Ajln82vwycs/hqdefault.jpg"></media:thumbnail></item><item><title>Stop Writing Classes</title><link>http://www.pyvideo.org/video/880/stop-writing-classes</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Classes are great but they are also overused. This talk will describe examples
+of class overuse taken from real world code and refactor the unnecessary
+classes, exceptions, and modules out of them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jack Diederich</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/880/stop-writing-classes</guid><enclosure url="https://www.youtube.com/watch?v=o9pEzgHorH0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/o9pEzgHorH0/hqdefault.jpg"></media:thumbnail></item><item><title>Useful Namespaces: Context Managers and Decorators</title><link>http://www.pyvideo.org/video/395/pycon-2011--useful-namespaces--context-managers-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+Useful Namespaces: Context Managers and Decorators
+
+Presented by Jack Diederich
+
+Python has two useful conventions for "I mean it, but only here" and you can
+say it with Context Managers and Decorators. Both give you the power to define
+a push/pop of a resource for a set period inside a namespace, be it a function
+or a level of indentation. This talk is a list of patterns that are
+implemented by one or the other (including some clever functions that are
+both).
+
+Abstract
+
+  * Decorators, formal definition. 
+  * Context Managers, formal definition. 
+  * Informal definition: both have the opportunity to do and then undo. - very similar to C++ RIIA "Resource Acquisition Is Initialization." - Context Managers were designed to do that but decorators are frequently just as good. 
+  * Which one to use use when is all about namespaces. - Context Managers manipulate at the block level. - Function Decorators manipulate the function level. - Class Decorators manipulate at the class level. 
+  * Recipes on writing decorators and context managers - Familiar examples from Django and Mock. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jack Diederich</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/395/pycon-2011--useful-namespaces--context-managers-a</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/395_useful-namespaces-context-managers-and-decorators.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011UsefulNamespacesContextManagersAndDecorators353.png"></media:thumbnail></item><item><title>Python's Dusty Corners (#182)</title><link>http://www.pyvideo.org/video/351/pycon-2010--python--39-s-dusty-corners---182</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python's Dusty Corners
+
+  
+Presented by Jack Diederich
+
+  
+The talk will be a brief overview of all the features in python that you don't
+need to know about right up until the moment you do. The list includes how
+comparisons work, descriptors, iterators, context managers, namespaces, else
+clauses on for/while loops (suggested by Hettinger). The narrative of the talk
+is that these are features that you don't need and/or shouldn't use in your
+day-to-day code but that you need to keep in the back of your mind because
+other people's code and the stdlib do use them. As Alex Martelli pointed out
+in his wonderful talk "Abstractions as Leverage" you can't successfully
+function at one level of abstraction if you don't know what is going on at the
+next level down. This talk is a whirlwind tour of the next level down.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jack Diederich</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/351/pycon-2010--python--39-s-dusty-corners---182</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/351_python-s-dusty-corners-182.ogv" length="137194246" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/351_python-s-dusty-corners-182.ogv" fileSize="137194246" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/351_python-s-dusty-corners-182.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PythonsDustyCorners182155.png"></media:thumbnail></item></channel></rss>

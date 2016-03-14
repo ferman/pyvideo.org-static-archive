@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Josh Marshall</title><link>http://www.pyvideo.org/speaker/325/josh-marshall/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/325/josh-marshall/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:37:34 -0000</lastBuildDate><ttl>500</ttl><item><title>Asynchronous Web Development with Tornado</title><link>http://www.pyvideo.org/video/561/asynchronous-web-development-with-tornado</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An introduction to non-blocking web development with Tornado, an open-source
+server and simple framework from Facebook/FriendFeed.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Web frameworks like Django, Flask, etc. are great for most traditional web
+sites. However, there is a growing need to produce web applications that are
+responsive to external "events", whether a response from Twitter's API or a
+new message in an online chat room. Newer, non-blocking frameworks like
+Tornado seek to address this in a scalable manner.
+
+This talk will briefly introduce non-blocking principles and patterns, and
+move quickly into an overview of the library, as well as use cases and anti-
+use cases. A portion of the time will also be spent pointing out community
+libraries that are building on Tornado's foundation.
+
+Outline:
+
+  1. Introduction
+    1. Why another framework?
+    2. Intro to Asynchronous Design
+  2. Overview of a Tornado project
+    1. a. Application
+    2. b. Basic (blocking) Request Handlers
+    3. c. Templates
+    4. d. Asynchronous Handlers
+    5. e. To block or not to block
+  3. Batteries included
+    1. Auth module
+    2. Options module
+    3. Database
+    4. UIModules
+    5. Security
+  4. Community
+    1. a. Tornad.io
+    2. b. No-SQL libraries
+    3. c. Twisted integration
+    4. d. Torn Admin
+  5. Q&amp;A;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josh Marshall</dc:creator><guid>http://www.pyvideo.org/video/561/asynchronous-web-development-with-tornado</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/561_asynchronous-web-development-with-tornado.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-AsynchronousWebDevelopmentWithTornado459-712.jpg"></media:thumbnail></item></channel></rss>

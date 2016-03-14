@@ -1,0 +1,309 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - How to kill a patent with Python</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="casestudy,patents,pycon,pycon2011">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="pycon-2011--how-to-kill-a-patent-with-python.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="pycon-2011--how-to-kill-a-patent-with-python.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/425_how-to-kill-a-patent-with-python.mp4"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">How to kill a patent with Python</h3>
+      <link property="thumbnailUrl" href="http://a.images.blip.tv/Pycon-PyCon2011HowToKillAPatentWithPython889.png"/>
+      <link property="sameAs" href="pycon-2011--how-to-kill-a-patent-with-python.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>How to kill a patent with Python</p>
+<p>Presented by Van Lindberg</p>
+<p>Finding the right piece of "prior art" - technical documentation that
+described a patented piece of technology before the patent was filed - is like
+finding a needle in a very big haystack. This session will talk about how I am
+making that process faster and more accurate through the use of natural
+language processing, graph theory, machine learning, and lots of Python.</p>
+<p>Abstract</p>
+<p>From my work consulting on a number of patent cases, I am frequently asked to
+find "prior art" - patents and publications that describe a technology before
+a certain date. The problem is that the indexing mechanisms for patents and
+publications are not as good as they could be, making good prior art searching
+more of an art than a science. When I decided to do better, I reached for
+Python.</p>
+<ul>
+<li>Part I (5 mins): The USPTO as a data source.* The full-text of each patent is available from the USPTO (and now from Google.) What does this data look like? How can it be harvested and normalized to create data structures that we can work with? </li>
+<li>Part II (15 mins, in two parts):* Once the patents have been cleaned and normalized, they can be turned into data structures that we can use to evaluate their relationship to other documents. This is done in two ways - by modeling each patent as a document vector and a graph node. </li>
+<li>Part IIA (7 mins): Patents as document vectors.* Once we have a patent as a data structure, we can treat the patent as a vector in an n-dimensional space. In moving from a document into a vector space, we will touch on normalization, stemming, TF/IDF, Latent Semantic Indexing (LSI) and Latent Dirichlet Allocation (LDA). </li>
+<li>Part IIB (7 mins): Patents as technology graphs.* This will show building graph structures using the connections between patents - both the built-in connections in the patents themselves as well as the connections discovered while working with the patents as vectors. We apply some social network analysis to partition the patent graph and find other documents in the same technology space. </li>
+<li>Part III (5 mins): What have we built?* Now that we have done all this analysis, we can see some interesting things about the patent database as a whole. How does the patent database act as a map to the world of technology? And how has this helped with the original problem - finding better prior art?</li>
+</ul></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/7/pycon-us-2011.html">PyCon US 2011</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/226/van-lindberg.html">Van Lindberg</a></div>
+            <meta property="author" content="Van Lindberg"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>March 11, 2011
+            <meta property="dateCreated" content="2011-03-11"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.985164"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.985164"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            Unknown
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/425_how-to-kill-a-patent-with-python.mp4" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/425">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">casestudy</span>
+          
+            <span property="keywords">patents</span>
+          
+            <span property="keywords">pycon</span>
+          
+            <span property="keywords">pycon2011</span>
+          
+          <meta property="keywords" content="PyCon US 2011"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="pycon-2011--how-to-kill-a-patent-with-python.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('html5');
+      });
+
+      updateVideoOffset('html5');
+    });
+  </script>
+
+</body>
+</html>

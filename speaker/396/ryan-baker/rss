@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ryan Baker</title><link>http://www.pyvideo.org/speaker/396/ryan-baker/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/396/ryan-baker/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>42. The Future of Python Packaging</title><link>http://www.pyvideo.org/video/813/42-the-future-of-python-packaging</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There are currently multiple methods for packaging, distributing, discovering,
+and installing Python software. This presentation will discuss the limitations
+of the current methods, the efforts to standardize Python packaging, and
+practical advice for developers to add support for the new packaging library,
+distutils2 ("packaging" in Python 3.3+), to their software.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Wilson,Ryan Baker,Taylor Hand,Taylor Michael</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/813/42-the-future-of-python-packaging</guid><enclosure url="https://www.youtube.com/watch?v=OceCWIqZt7I" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/OceCWIqZt7I/hqdefault.jpg"></media:thumbnail></item></channel></rss>

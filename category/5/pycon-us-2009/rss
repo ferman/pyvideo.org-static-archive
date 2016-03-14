@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of PyCon US 2009</title><link>http://www.pyvideo.org/category/5/pycon-us-2009/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/5/pycon-us-2009/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 02 Apr 2009 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A Tour of Python Standard Library (1 of 3)</title><link>http://www.pyvideo.org/video/169/a-tour-of-python-standard-library--1-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Welcome to A Tour of Python Standard Library. Together let us explore the
+various modules, which will help you to build robust working programs. Once
+you know about a particular library well, you will start replacing those 20
+odd lines of code you used to write with a 2-3 lines and feel safe that your
+code will now work on all the platforms that Python supports. Just like the
+galaxy, the Python Standard Library is vast and when hitch-hiking I will take
+you through some important ones that happen to be used most often. You can
+explore, ask questions, experiment through out the ride. Welcome! And let the
+journey begin.
+
+</description><guid>http://www.pyvideo.org/video/169/a-tour-of-python-standard-library--1-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/169_a-tour-of-python-standard-library-1-of-3.mp4" length="1040393588" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ATourOfPythonStandardLibraryPart001265-956.jpg"></media:thumbnail></item><item><title>A Tour of Python Standard Library (2 of 3)</title><link>http://www.pyvideo.org/video/170/a-tour-of-python-standard-library--2-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Welcome to A Tour of Python Standard Library. Together let us explore the
+various modules, which will help you to build robust working programs. Once
+you know about a particular library well, you will start replacing those 20
+odd lines of code you used to write with a 2-3 lines and feel safe that your
+code will now work on all the platforms that Python supports. Just like the
+galaxy, the Python Standard Library is vast and when hitch-hiking I will take
+you through some important ones that happen to be used most often. You can
+explore, ask questions, experiment through out the ride. Welcome! And let the
+journey begin.
+
+</description><guid>http://www.pyvideo.org/video/170/a-tour-of-python-standard-library--2-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/170_a-tour-of-python-standard-library-2-of-3.mp4" length="1044059016" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ATourOfPythonStandardLibraryPart002810-659.jpg"></media:thumbnail></item><item><title>Introduction to Object-Oriented Programming (1 of 3)</title><link>http://www.pyvideo.org/video/164/introduction-to-object-oriented-programming--1-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: 2 speakers, 1 mic.] Although often used as a "scripting"
+language, Python is an object-oriented programming language at its core. This
+tutorial is designed for programmers who are familiar with Python yet new to
+the concept of object-oriented programming. We also welcome programmers who
+are experienced with other object-oriented languages yet new to Python. We
+will begin the tutorial by introducing the general principles of object-
+oriented programming. We then focus on Python's treatment of object
+orientation. The tutorial will be organized as a mix of formal presentations
+together with hands-on demonstrations and exercises. Take your Python
+programming to the next level!
+
+</description><guid>http://www.pyvideo.org/video/164/introduction-to-object-oriented-programming--1-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/164_introduction-to-object-oriented-programming-1-of-3.mp4" length="1039666568" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AnIntroductionToObjectOrientedProgrammingPart001419-665.jpg"></media:thumbnail></item><item><title>Introduction to Object-Oriented Programming (2 of 3)</title><link>http://www.pyvideo.org/video/162/introduction-to-object-oriented-programming--2-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: 2 speakers, 1 mic.] Although often used as a "scripting"
+language, Python is an object-oriented programming language at its core. This
+tutorial is designed for programmers who are familiar with Python yet new to
+the concept of object-oriented programming. We also welcome programmers who
+are experienced with other object-oriented languages yet new to Python. We
+will begin the tutorial by introducing the general principles of object-
+oriented programming. We then focus on Python's treatment of object
+orientation. The tutorial will be organized as a mix of formal presentations
+together with hands-on demonstrations and exercises. Take your Python
+programming to the next level!
+
+</description><guid>http://www.pyvideo.org/video/162/introduction-to-object-oriented-programming--2-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/162_introduction-to-object-oriented-programming-2-of-3.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AnIntroductionToObjectOrientedProgrammingPart002427-35.jpg"></media:thumbnail></item><item><title>Introduction to Object-Oriented Programming (3 of 3)</title><link>http://www.pyvideo.org/video/163/introduction-to-object-oriented-programming--3-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: 2 speakers, 1 mic.] Although often used as a "scripting"
+language, Python is an object-oriented programming language at its core. This
+tutorial is designed for programmers who are familiar with Python yet new to
+the concept of object-oriented programming. We also welcome programmers who
+are experienced with other object-oriented languages yet new to Python. We
+will begin the tutorial by introducing the general principles of object-
+oriented programming. We then focus on Python's treatment of object
+orientation. The tutorial will be organized as a mix of formal presentations
+together with hands-on demonstrations and exercises. Take your Python
+programming to the next level!
+
+</description><guid>http://www.pyvideo.org/video/163/introduction-to-object-oriented-programming--3-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/163_introduction-to-object-oriented-programming-3-of-3.mp4" length="440216639" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AnIntroductionToObjectOrientedProgrammingPart003468-379.jpg"></media:thumbnail></item><item><title>PyCon 2009: A better Python for the JVM</title><link>http://www.pyvideo.org/video/226/pycon-2009--a-better-python-for-the-jvm</link><description>&lt;p&gt;Description&lt;/p&gt;
+A better Python for the JVM
+
+  
+Presented at PyCon 2009 by Tobias Ivarsson
+
+  
+At the last PyCon we announced that we were starting a project for improving
+the Jython compiler. This year we will share the first fruits of that work
+with the Python community!
+
+  
+[VIDEO HAS ISSUES: ambient mic left on; results in echoing audio]
+
+</description><guid>http://www.pyvideo.org/video/226/pycon-2009--a-better-python-for-the-jvm</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/226_pycon-2009-a-better-python-for-the-jvm.mp4" length="166143488" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ABetterPythonForTheJVM438-121.jpg"></media:thumbnail></item><item><title>PyCon 2009: About Python Namespaces (and Code Objects) (#46)</title><link>http://www.pyvideo.org/video/233/pycon-2009--about-python-namespaces--and-code-obj</link><description>&lt;p&gt;Description&lt;/p&gt;
+About Python Namespaces (and Code Objects)
+
+  
+Presented at PyCon 2009
+
+  
+An explanation of some of the underlying concepts of Python, come learn about
+names and values placed in namespaces, modified by code objects and collected
+into modules. We'll explore namespaces using the Python interactive prompt,
+with graphical display of object trees using Graphviz. Also explained will be
+the namespace concepts of closures and early binding; how to define new
+objects without subclassing via use of default/curried arguments and closures.
+
+  
+[VIDEO HAS ISSUES: Audio buzzing, missing beginning, talk is only 15 mins (may
+be cut)]
+
+</description><guid>http://www.pyvideo.org/video/233/pycon-2009--about-python-namespaces--and-code-obj</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/233_pycon-2009-about-python-namespaces-and-code-objects-46.mp4" length="48424307" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AboutPythonNamespacesAndCodeObjects397-138.jpg"></media:thumbnail></item><item><title>PyCon 2009: A Configuration Comparison in Python (#70)</title><link>http://www.pyvideo.org/video/210/pycon-2009--a-configuration-comparison-in-python-</link><description>&lt;p&gt;Description&lt;/p&gt;
+A Configuration Comparison in Python
+
+  
+Presented at PyCon 2009 by Terry Peppers
+
+  
+When faced with the simple task of figuring out how to use configuration to
+your advantage in Python there are a myriad of methods. The purpose of this
+talk is to walk through the standard library modules and the popular Python
+Package Index modules comparing and contrasting configuration formats and the
+code that consumes them. Specifically, I would like to walk through the use of
+the csv module, the ConfigParser module, ConfigObj, lxml, PyYaml and
+SimpleJSON.
+
+</description><guid>http://www.pyvideo.org/video/210/pycon-2009--a-configuration-comparison-in-python-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/210_pycon-2009-a-configuration-comparison-in-python-70.mp4" length="92189150" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AConfigurationComparisonInPython235-852.jpg"></media:thumbnail></item><item><title>PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 1 of 3)</title><link>http://www.pyvideo.org/video/213/pycon-2009--a-curious-course-on-coroutines-and-co</link><description>&lt;p&gt;Description&lt;/p&gt;
+A Curious Course on Coroutines and Concurrency (part 1 of 3)
+
+  
+Presented at PyCon 2009 by David Beazley
+
+  
+If you are a programmer who cares about Python and concurrency, then you
+should also care about Python coroutines. Although they were first introduced
+in Python 2.5, coroutines remain one of Python's most overlooked features---
+often vaguely described as a curious "extension" of generator functions with
+little insight as to how they might be applied to real-world problems. This
+tutorial examines coroutines in a more practical light by showing how they are
+actually a very elegant way to implement a processing "task." Using this task
+abstraction, it is possible to use coroutines to implement processing
+pipelines, event handling systems, and programs based on cooperative
+multitasking. Moreover, if you define tasks using coroutines, they can be
+easily incorporated into more traditional concurrent programs that utilize
+threads or message passing.
+
+  
+[VIDEO HAS ISSUES: bit of clipping start to finish.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Beazley</dc:creator><guid>http://www.pyvideo.org/video/213/pycon-2009--a-curious-course-on-coroutines-and-co</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/213_pycon-2009-a-curious-course-on-coroutines-and-concurrency-part-1-of-3.mp4" length="1040643135" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ACuriousCourseOnCoroutinesAndConcurrencyPart001109-911.jpg"></media:thumbnail></item><item><title>PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 2 of 3)</title><link>http://www.pyvideo.org/video/215/pycon-2009--a-curious-course-on-coroutines-and-c1</link><description>&lt;p&gt;Description&lt;/p&gt;
+A Curious Course on Coroutines and Concurrency (part 2 of 3)
+
+  
+Presented at PyCon 2009 by David Beazley
+
+  
+If you are a programmer who cares about Python and concurrency, then you
+should also care about Python coroutines. Although they were first introduced
+in Python 2.5, coroutines remain one of Python's most overlooked features---
+often vaguely described as a curious "extension" of generator functions with
+little insight as to how they might be applied to real-world problems. This
+tutorial examines coroutines in a more practical light by showing how they are
+actually a very elegant way to implement a processing "task." Using this task
+abstraction, it is possible to use coroutines to implement processing
+pipelines, event handling systems, and programs based on cooperative
+multitasking. Moreover, if you define tasks using coroutines, they can be
+easily incorporated into more traditional concurrent programs that utilize
+threads or message passing.
+
+  
+[VIDEO HAS ISSUES: bit of clipping start to finish.]
+
+</description><guid>http://www.pyvideo.org/video/215/pycon-2009--a-curious-course-on-coroutines-and-c1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/215_pycon-2009-a-curious-course-on-coroutines-and-concurrency-part-2-of-3.mp4" length="1043871584" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ACuriousCourseOnCoroutinesAndConcurrencyPart002433-523.jpg"></media:thumbnail></item><item><title>PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 3 of 3)</title><link>http://www.pyvideo.org/video/214/pycon-2009--a-curious-course-on-coroutines-and-c0</link><description>&lt;p&gt;Description&lt;/p&gt;
+A Curious Course on Coroutines and Concurrency (part 3 of 3)
+
+  
+Presented at PyCon 2009 by David Beazley
+
+  
+If you are a programmer who cares about Python and concurrency, then you
+should also care about Python coroutines. Although they were first introduced
+in Python 2.5, coroutines remain one of Python's most overlooked features---
+often vaguely described as a curious "extension" of generator functions with
+little insight as to how they might be applied to real-world problems. This
+tutorial examines coroutines in a more practical light by showing how they are
+actually a very elegant way to implement a processing "task." Using this task
+abstraction, it is possible to use coroutines to implement processing
+pipelines, event handling systems, and programs based on cooperative
+multitasking. Moreover, if you define tasks using coroutines, they can be
+easily incorporated into more traditional concurrent programs that utilize
+threads or message passing.
+
+  
+[VIDEO HAS ISSUES: bit of clipping start to finish.]
+
+</description><guid>http://www.pyvideo.org/video/214/pycon-2009--a-curious-course-on-coroutines-and-c0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/214_pycon-2009-a-curious-course-on-coroutines-and-concurrency-part-3-of-3.mp4" length="193891513" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ACuriousCourseOnCoroutinesAndConcurrencyPart003639-350.jpg"></media:thumbnail></item><item><title>PyCon 2009: Advanced SQLAlchemy (Part 1 of 3)</title><link>http://www.pyvideo.org/video/155/pycon-2009--advanced-sqlalchemy--part-1-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+SQLAlchemy is the premier SQL toolkit for Python. SQLAlchemy exposes the full
+power of SQL while remaining easy to use for the basics, and is flexible
+enough to work with existing database schemas as well as fresh designs.
+SQLAlchemy is used in production by leading Python web frameworks Pylons and
+TurboGears as well as many other web and non-web developers. This tutorial
+discusses current data mapping techniques, advanced Query techniques,
+Session/transaction usage, and maximizing schema usage with SQLAlchemy's event
+model.
+
+</description><guid>http://www.pyvideo.org/video/155/pycon-2009--advanced-sqlalchemy--part-1-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/155_pycon-2009-advanced-sqlalchemy-part-1-of-3.mp4" length="1039887585" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AdvancedSQLAlchemyPart001250-190.jpg"></media:thumbnail></item><item><title>PyCon 2009: Advanced SQLAlchemy (Part 2 of 3)</title><link>http://www.pyvideo.org/video/154/pycon-2009--advanced-sqlalchemy--part-2-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+[](http://blip.tv/file/2023897)
+
+SQLAlchemy is the premier SQL toolkit for Python. SQLAlchemy exposes the full
+power of SQL while remaining easy to use for the basics, and is flexible
+enough to work with existing database schemas as well as fresh designs.
+SQLAlchemy is used in production by leading Python web frameworks Pylons and
+TurboGears as well as many other web and non-web developers. This tutorial
+discusses current data mapping techniques, advanced Query techniques,
+Session/transaction usage, and maximizing schema usage with SQLAlchemy's event
+model.
+
+</description><guid>http://www.pyvideo.org/video/154/pycon-2009--advanced-sqlalchemy--part-2-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/154_pycon-2009-advanced-sqlalchemy-part-2-of-3.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AdvancedSQLAlchemyPart002668-996.jpg"></media:thumbnail></item><item><title>PyCon 2009: Advanced SQLAlchemy (Part 3 of 3)</title><link>http://www.pyvideo.org/video/156/pycon-2009--advanced-sqlalchemy--part-3-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+SQLAlchemy is the premier SQL toolkit for Python. SQLAlchemy exposes the full
+power of SQL while remaining easy to use for the basics, and is flexible
+enough to work with existing database schemas as well as fresh designs.
+SQLAlchemy is used in production by leading Python web frameworks Pylons and
+TurboGears as well as many other web and non-web developers. This tutorial
+discusses current data mapping techniques, advanced Query techniques,
+Session/transaction usage, and maximizing schema usage with SQLAlchemy's event
+model.
+
+</description><guid>http://www.pyvideo.org/video/156/pycon-2009--advanced-sqlalchemy--part-3-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/156_pycon-2009-advanced-sqlalchemy-part-3-of-3.mp4" length="331064645" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AdvancedSQLAlchemyPart003534-288.jpg"></media:thumbnail></item><item><title>PyCon 2009: An Introduction to Google App Engine (Part 1 of 2)</title><link>http://www.pyvideo.org/video/152/pycon-2009--an-introduction-to-google-app-engine-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: ] Google App Engine allows you to build scalable web
+applications and host them on Google hardware. This hands on tutorial will
+walk you through the steps of building a basic web application, from setting
+up the SDK through to using the major APIs that App Engine provides.
+
+</description><guid>http://www.pyvideo.org/video/152/pycon-2009--an-introduction-to-google-app-engine-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/152_pycon-2009-an-introduction-to-google-app-engine-part-1-of-2.mp4" length="1042140539" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AnIntroductionToGoogleAppEnginePart001520-885.jpg"></media:thumbnail></item><item><title>PyCon 2009: An Introduction to Google App Engine (Part 2 of 2)</title><link>http://www.pyvideo.org/video/153/pycon-2009--an-introduction-to-google-app-engine0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: ] Google App Engine allows you to build scalable web
+applications and host them on Google hardware. This hands on tutorial will
+walk you through the steps of building a basic web application, from setting
+up the SDK through to using the major APIs that App Engine provides.
+
+</description><guid>http://www.pyvideo.org/video/153/pycon-2009--an-introduction-to-google-app-engine0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/153_pycon-2009-an-introduction-to-google-app-engine-part-2-of-2.mp4" length="980969103" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AnIntroductionToGoogleAppEnginePart002235-499.jpg"></media:thumbnail></item><item><title>PyCon 2009: Application Developing with IronPython (Part 1 of 3)</title><link>http://www.pyvideo.org/video/221/pycon-2009--application-developing-with-ironpyth1</link><description>&lt;p&gt;Description&lt;/p&gt;
+A tutorial on "Developing with IronPython": Python for .NET and Mono. The
+Common Language Runtime is very different to CPython, with a powerful JIT
+compiler, and different garbage collection and threading model. More
+importantly, .NET's huge range of libraries can now be used from Python.
+Various aspects of developing with IronPython will be covered and attendees
+will put this into practice by extending an example application. Topics
+include: Differences between IronPython and CPython, including "Why Use
+IronPython?" Introduction to the .NET framework - a dynamic language on a
+statically typed framework GUIs with Windows Forms Databases Network requests
+and web services Handling XML Threading Come with laptop - running Linux,
+Windows or Mac OS X - and ready to code!
+
+  
+[VIDEO HAS ISSUES: first 5 min muted ]
+
+</description><guid>http://www.pyvideo.org/video/221/pycon-2009--application-developing-with-ironpyth1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/221_pycon-2009-application-developing-with-ironpython-part-1-of-3.mp4" length="1040499789" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DevelopingWithIronPythonPart001216-319.jpg"></media:thumbnail></item><item><title>PyCon 2009: Application Developing with IronPython (Part 2 of 3)</title><link>http://www.pyvideo.org/video/219/pycon-2009--application-developing-with-ironpytho</link><description>&lt;p&gt;Description&lt;/p&gt;
+A tutorial on "Developing with IronPython": Python for .NET and Mono. The
+Common Language Runtime is very different to CPython, with a powerful JIT
+compiler, and different garbage collection and threading model. More
+importantly, .NET's huge range of libraries can now be used from Python.
+Various aspects of developing with IronPython will be covered and attendees
+will put this into practice by extending an example application. Topics
+include: Differences between IronPython and CPython, including "Why Use
+IronPython?" Introduction to the .NET framework - a dynamic language on a
+statically typed framework GUIs with Windows Forms Databases Network requests
+and web services Handling XML Threading Come with laptop - running Linux,
+Windows or Mac OS X - and ready to code!
+
+  
+[VIDEO HAS ISSUES: first 5 min muted ]
+
+</description><guid>http://www.pyvideo.org/video/219/pycon-2009--application-developing-with-ironpytho</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/219_pycon-2009-application-developing-with-ironpython-part-2-of-3.mp4" length="1044055125" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DevelopingWithIronPythonPart002699-446.jpg"></media:thumbnail></item><item><title>PyCon 2009: Application Developing with IronPython (Part 3 of 3)</title><link>http://www.pyvideo.org/video/220/pycon-2009--application-developing-with-ironpyth0</link><description>&lt;p&gt;Description&lt;/p&gt;
+A tutorial on "Developing with IronPython": Python for .NET and Mono. The
+Common Language Runtime is very different to CPython, with a powerful JIT
+compiler, and different garbage collection and threading model. More
+importantly, .NET's huge range of libraries can now be used from Python.
+Various aspects of developing with IronPython will be covered and attendees
+will put this into practice by extending an example application. Topics
+include: Differences between IronPython and CPython, including "Why Use
+IronPython?" Introduction to the .NET framework - a dynamic language on a
+statically typed framework GUIs with Windows Forms Databases Network requests
+and web services Handling XML Threading Come with laptop - running Linux,
+Windows or Mac OS X - and ready to code!
+
+  
+[VIDEO HAS ISSUES: first 5 min muted ]
+
+</description><guid>http://www.pyvideo.org/video/220/pycon-2009--application-developing-with-ironpyth0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/220_pycon-2009-application-developing-with-ironpython-part-3-of-3.mp4" length="439323248" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DevelopingWithIronPythonPart003708-475.jpg"></media:thumbnail></item><item><title>PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)</title><link>http://www.pyvideo.org/video/230/pycon-2009--a-whirlwind-excursion-through-writing</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: Ambient mic used, some echoing] Everyone's heard of C
+extensions to Python, but few have ventured into those murky depths. This is a
+quick overview of how to write a C extension, complete with highlights of the
+C API, memory management, error handling, and type creation. Whether you want
+to speed up your Python, integrate with legacy code, contribute to Python's
+core, or just learn a little about how it all works under the covers, you will
+enjoy this trip through unfamiliar territory. I guarantee you will return
+safely.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><guid>http://www.pyvideo.org/video/230/pycon-2009--a-whirlwind-excursion-through-writing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/230_pycon-2009-a-whirlwind-excursion-through-writing-a-c-extension-68.mp4" length="168747462" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-AWhirlwindExcursionThroughWritingACExtension305-36.jpg"></media:thumbnail></item><item><title>PyCon 2009: Behind the scenes of EveryBlock.com (#111)</title><link>http://www.pyvideo.org/video/231/pycon-2009--behind-the-scenes-of-everyblock-com--</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyCon 2009: Behind the scenes of EveryBlock.com by Adrian Holovaty
+
+Adrian Holovaty, bad-boy YouTube guitar star (search for him, if you dare!)
+and co-author of the Django web framework, takes you under the hood of
+EveryBlock.com, a Knight Foundation News Challenge startup which rounds up
+local news and information, and is powered 100% by Python and Django.
+
+[VIDEO HAS ISSUES: Audio humming]
+
+</description><guid>http://www.pyvideo.org/video/231/pycon-2009--behind-the-scenes-of-everyblock-com--</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/231_pycon-2009-behind-the-scenes-of-everyblock-com-111.mp4" length="204743972" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-BehindTheScenesOfEveryBlockcom359-71.jpg"></media:thumbnail></item><item><title>PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 1 of 3)</title><link>http://www.pyvideo.org/video/173/pycon-2009--building-real-time-network-applicatio</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Haven't you always wanted to create a massively multiplayer, real-time game
+for the browser? Or perhaps add chat to your website, or maybe write a real-
+time financial application, collaborative text editor, or network health
+monitoring app, all in the browser. Forget web frameworks; Orbited.TCPSocket
+lets you communicate directly from a browser to any network server, with any
+protocol you want. By tutorial's end, every attendee will have built their own
+real-time data monitoring application, or multiplayer game, from scratch using
+Orbited, Twisted, and js.io.
+
+</description><guid>http://www.pyvideo.org/video/173/pycon-2009--building-real-time-network-applicatio</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/173_pycon-2009-building-real-time-network-applications-for-the-web-with-twisted-and-orbited-part-1-of-3.mp4" length="1039250040" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-BuildingRealtimeNetworkApplicationsForTheWebWithTwisted226-383.jpg"></media:thumbnail></item><item><title>PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 2 of 3)</title><link>http://www.pyvideo.org/video/175/pycon-2009--building-real-time-network-applicati1</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Haven't you always wanted to create a massively multiplayer, real-time game
+for the browser? Or perhaps add chat to your website, or maybe write a real-
+time financial application, collaborative text editor, or network health
+monitoring app, all in the browser. Forget web frameworks; Orbited.TCPSocket
+lets you communicate directly from a browser to any network server, with any
+protocol you want. By tutorial's end, every attendee will have built their own
+real-time data monitoring application, or multiplayer game, from scratch using
+Orbited, Twisted, and js.io.
+
+</description><guid>http://www.pyvideo.org/video/175/pycon-2009--building-real-time-network-applicati1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/175_pycon-2009-building-real-time-network-applications-for-the-web-with-twisted-and-orbited-part-2-of-3.mp4" length="1044634117" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-BuildingRealtimeNetworkApplicationsForTheWebWithTwisted900-383.jpg"></media:thumbnail></item><item><title>PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 3 of 3)</title><link>http://www.pyvideo.org/video/174/pycon-2009--building-real-time-network-applicati0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Haven't you always wanted to create a massively multiplayer, real-time game
+for the browser? Or perhaps add chat to your website, or maybe write a real-
+time financial application, collaborative text editor, or network health
+monitoring app, all in the browser. Forget web frameworks; Orbited.TCPSocket
+lets you communicate directly from a browser to any network server, with any
+protocol you want. By tutorial's end, every attendee will have built their own
+real-time data monitoring application, or multiplayer game, from scratch using
+Orbited, Twisted, and js.io.
+
+</description><guid>http://www.pyvideo.org/video/174/pycon-2009--building-real-time-network-applicati0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/174_pycon-2009-building-real-time-network-applications-for-the-web-with-twisted-and-orbited-part-3-of-3.mp4" length="571881838" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-BuildingRealtimeNetworkApplicationsForTheWebWithTwisted150-71.jpg"></media:thumbnail></item><item><title>PyCon 2009: Data Storage in Python - An Overview of Options (Part 1 of 3)</title><link>http://www.pyvideo.org/video/190/pycon-2009--data-storage-in-python---an-overview0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+There are many possibilities in Python to store data. This tutorials explores
+some of them: flat file, Excel files, NetCDF and HDF5, serialization with
+pickle and friends, relational databases, bsddb and ZODB. The objective of
+this course is to give the participants an overview over available options as
+well as there advantages and disadvantages for different purposes.
+Participants are strongly recommended to bring laptops because all topics are
+introduced with examples and exercises.
+
+</description><guid>http://www.pyvideo.org/video/190/pycon-2009--data-storage-in-python---an-overview0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/190_pycon-2009-data-storage-in-python-an-overview-of-options-part-1-of-3.mp4" length="1040288443" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DataStorageInPythonAnOverviewOfOptionsPart001373-556.jpg"></media:thumbnail></item><item><title>PyCon 2009: Data Storage in Python - An Overview of Options (Part 2 of 3)</title><link>http://www.pyvideo.org/video/189/pycon-2009--data-storage-in-python---an-overview-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+There are many possibilities in Python to store data. This tutorials explores
+some of them: flat file, Excel files, NetCDF and HDF5, serialization with
+pickle and friends, relational databases, bsddb and ZODB. The objective of
+this course is to give the participants an overview over available options as
+well as there advantages and disadvantages for different purposes.
+Participants are strongly recommended to bring laptops because all topics are
+introduced with examples and exercises.
+
+</description><guid>http://www.pyvideo.org/video/189/pycon-2009--data-storage-in-python---an-overview-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/189_pycon-2009-data-storage-in-python-an-overview-of-options-part-2-of-3.mp4" length="1044206941" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DataStorageInPythonAnOverviewOfOptionsPart002214-260.jpg"></media:thumbnail></item><item><title>PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)</title><link>http://www.pyvideo.org/video/191/pycon-2009--data-storage-in-python---an-overview1</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+There are many possibilities in Python to store data. This tutorials explores
+some of them: flat file, Excel files, NetCDF and HDF5, serialization with
+pickle and friends, relational databases, bsddb and ZODB. The objective of
+this course is to give the participants an overview over available options as
+well as there advantages and disadvantages for different purposes.
+Participants are strongly recommended to bring laptops because all topics are
+introduced with examples and exercises.
+
+</description><guid>http://www.pyvideo.org/video/191/pycon-2009--data-storage-in-python---an-overview1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/191_pycon-2009-data-storage-in-python-an-overview-of-options-part-3-of-3.mp4" length="33029068" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DataStorageInPythonAnOverviewOfOptionsPart003803-876.jpg"></media:thumbnail></item><item><title>PyCon 2009: Designing a web framework: Django's design decisions (#75)</title><link>http://www.pyvideo.org/video/225/pycon-2009--designing-a-web-framework--django--39</link><description>&lt;p&gt;Description&lt;/p&gt;
+Designing a web framework: Django's design decisions
+
+  
+Presented by Jacob Kaplan-Moss
+
+  
+Django is a high-level web development framework designed for rapid
+development of database-backed web sites. Since its release three years ago
+Django's grown by leaps and bounds; it's now part of a highly successful new
+generation of web development tools.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><guid>http://www.pyvideo.org/video/225/pycon-2009--designing-a-web-framework--django--39</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/225_pycon-2009-designing-a-web-framework-django-s-design-decisions-75.mp4" length="172288254" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DesigningAWebFrameworkDjangosDesignDecisions895-36.jpg"></media:thumbnail></item><item><title>PyCon 2009: Django in the Real World (Part 1 of 3)</title><link>http://www.pyvideo.org/video/140/pycon-2009--django-in-the-real-world--part-1-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+There's plenty of material (documentation, blogs, books) out there that'll
+help you write a site using Django... but then what? You've still got to test,
+deploy, monitor, and tune the site; failure at deployment time means all your
+beautiful code is for naught. This tutorial examines how best to cope when the
+Real World intrudes on your carefully designed website.
+
+  
+[VIDEO HAS ISSUES: blurry vga]
+
+</description><guid>http://www.pyvideo.org/video/140/pycon-2009--django-in-the-real-world--part-1-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/140_pycon-2009-django-in-the-real-world-part-1-of-3.mp4" length="1039606437" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DjangoInTheRealWorldPart001795-302.jpg"></media:thumbnail></item><item><title>PyCon 2009: Django in the Real World (Part 2 of 3)</title><link>http://www.pyvideo.org/video/139/pycon-2009--django-in-the-real-world--part-2-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+There's plenty of material (documentation, blogs, books) out there that'll
+help you write a site using Django... but then what? You've still got to test,
+deploy, monitor, and tune the site; failure at deployment time means all your
+beautiful code is for naught. This tutorial examines how best to cope when the
+Real World intrudes on your carefully designed website.
+
+  
+[VIDEO HAS ISSUES: blurry vga]
+
+</description><guid>http://www.pyvideo.org/video/139/pycon-2009--django-in-the-real-world--part-2-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/139_pycon-2009-django-in-the-real-world-part-2-of-3.mp4" length="1044813140" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DjangoInTheRealWorldPart002548-829.jpg"></media:thumbnail></item><item><title>PyCon 2009: Django in the Real World (Part 3 of 3)</title><link>http://www.pyvideo.org/video/138/pycon-2009--django-in-the-real-world--part-3-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+There's plenty of material (documentation, blogs, books) out there that'll
+help you write a site using Django... but then what? You've still got to test,
+deploy, monitor, and tune the site; failure at deployment time means all your
+beautiful code is for naught. This tutorial examines how best to cope when the
+Real World intrudes on your carefully designed website.
+
+  
+[VIDEO HAS ISSUES: blurry vga]
+
+</description><guid>http://www.pyvideo.org/video/138/pycon-2009--django-in-the-real-world--part-3-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/138_pycon-2009-django-in-the-real-world-part-3-of-3.mp4" length="277898087" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DjangoInTheRealWorldPart003327-984.jpg"></media:thumbnail></item><item><title>PyCon 2009: Django on Jython (#101)</title><link>http://www.pyvideo.org/video/143/pycon-2009--django-on-jython---101</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: house audio] Django is the most popular Python web
+framework, and the final release of Jython 2.5 should be available a couple of
+months before PyCon. This means we can now use a modern Python web framework
+on top of Java infrastructure by running Django on Jython. In this talk, we
+will show examples of how to use this combination, engage a discussion about
+what can take the Python (and Django) community from the Java world,
+especially the necessary infrastructure bits, and how a Django/Jython stack
+compares with other JVM web stacks like JRuby on Rails.
+
+</description><guid>http://www.pyvideo.org/video/143/pycon-2009--django-on-jython---101</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/143_pycon-2009-django-on-jython-101.mp4" length="133505783" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DjangoOnJython963-962.jpg"></media:thumbnail></item><item><title>PyCon 2009: Easy Concurrency with Kamaelia (Part 1 of 2)</title><link>http://www.pyvideo.org/video/161/pycon-2009--easy-concurrency-with-kamaelia--part0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: ] Writing concurrent applications in Python is now becoming
+not only easier, but quite elegant and simple, thanks to Kamaelia. Kamaelia is
+an interesting component based framework originating from BBC research. It
+accomplishes concurrent processing of data from and to many protocols.
+Components easily connect and pass data from and to each other. We are going
+to explore Kamaelia's strengths and possibilities, by running simple examples,
+then trying nested protocol support, and maybe some other fun examples if time
+permits.
+
+</description><guid>http://www.pyvideo.org/video/161/pycon-2009--easy-concurrency-with-kamaelia--part0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/161_pycon-2009-easy-concurrency-with-kamaelia-part-1-of-2.mp4" length="1039893237" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-EasyConcurrencyWithKamaeliaPart001786-408.jpg"></media:thumbnail></item><item><title>PyCon 2009: Easy Concurrency with Kamaelia (Part 2 of 2)</title><link>http://www.pyvideo.org/video/160/pycon-2009--easy-concurrency-with-kamaelia--part-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: ] Writing concurrent applications in Python is now becoming
+not only easier, but quite elegant and simple, thanks to Kamaelia. Kamaelia is
+an interesting component based framework originating from BBC research. It
+accomplishes concurrent processing of data from and to many protocols.
+Components easily connect and pass data from and to each other. We are going
+to explore Kamaelia's strengths and possibilities, by running simple examples,
+then trying nested protocol support, and maybe some other fun examples if time
+permits.
+
+</description><guid>http://www.pyvideo.org/video/160/pycon-2009--easy-concurrency-with-kamaelia--part-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/160_pycon-2009-easy-concurrency-with-kamaelia-part-2-of-2.mp4" length="258938777" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-EasyConcurrencyWithKamaeliaPart002761-912.jpg"></media:thumbnail></item><item><title>PyCon 2009: Eggs and Buildout Deployment in Python (Part 1 of 3)</title><link>http://www.pyvideo.org/video/151/pycon-2009--eggs-and-buildout-deployment-in-pyth1</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Puzzled about Python eggs and packages? Wondering how to repeatably pull
+together collections of packages into standalone development, testing and
+deployment environments, all while managing inter-dependencies? In this
+participatory tutorial, we'll start with distutils, walk through using eggs in
+the cheeseshop and creating your own eggs, touch a bit on using virtualenv to
+set up a development environment, and then dig into using zc.buildout to
+rigorously control assembly specifications, with build recipes, versioning and
+dependency management. We'll close by showing how to create your own recipes.
+Attendees are strongly encouraged to bring a laptop or partner with someone
+who does.
+
+</description><guid>http://www.pyvideo.org/video/151/pycon-2009--eggs-and-buildout-deployment-in-pyth1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/151_pycon-2009-eggs-and-buildout-deployment-in-python-part-1-of-3.mp4" length="1041103294" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-EggsAndBuildoutDeploymentInPythonPart001587-862.jpg"></media:thumbnail></item><item><title>PyCon 2009: Eggs and Buildout Deployment in Python (Part 2 of 3)</title><link>http://www.pyvideo.org/video/150/pycon-2009--eggs-and-buildout-deployment-in-pyth0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Puzzled about Python eggs and packages? Wondering how to repeatably pull
+together collections of packages into standalone development, testing and
+deployment environments, all while managing inter-dependencies? In this
+participatory tutorial, we'll start with distutils, walk through using eggs in
+the cheeseshop and creating your own eggs, touch a bit on using virtualenv to
+set up a development environment, and then dig into using zc.buildout to
+rigorously control assembly specifications, with build recipes, versioning and
+dependency management. We'll close by showing how to create your own recipes.
+Attendees are strongly encouraged to bring a laptop or partner with someone
+who does.
+
+</description><guid>http://www.pyvideo.org/video/150/pycon-2009--eggs-and-buildout-deployment-in-pyth0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/150_pycon-2009-eggs-and-buildout-deployment-in-python-part-2-of-3.mp4" length="1043465996" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-EggsAndBuildoutDeploymentInPythonPart002487-443.jpg"></media:thumbnail></item><item><title>PyCon 2009: Eggs and Buildout Deployment in Python (Part 3 of 3)</title><link>http://www.pyvideo.org/video/149/pycon-2009--eggs-and-buildout-deployment-in-pytho</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Puzzled about Python eggs and packages? Wondering how to repeatably pull
+together collections of packages into standalone development, testing and
+deployment environments, all while managing inter-dependencies? In this
+participatory tutorial, we'll start with distutils, walk through using eggs in
+the cheeseshop and creating your own eggs, touch a bit on using virtualenv to
+set up a development environment, and then dig into using zc.buildout to
+rigorously control assembly specifications, with build recipes, versioning and
+dependency management. We'll close by showing how to create your own recipes.
+Attendees are strongly encouraged to bring a laptop or partner with someone
+who does.
+
+</description><guid>http://www.pyvideo.org/video/149/pycon-2009--eggs-and-buildout-deployment-in-pytho</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/149_pycon-2009-eggs-and-buildout-deployment-in-python-part-3-of-3.mp4" length="278651748" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-EggsAndBuildoutDeploymentInPythonPart003314-551.jpg"></media:thumbnail></item><item><title>PyCon 2009: Faster Python Programs through Optimization (Part 1 of 3)</title><link>http://www.pyvideo.org/video/217/pycon-2009--faster-python-programs-through-optim0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: vga blurry] Although Python programs may be slow for
+certain types of tasks, there are many different ways to improve performance.
+This tutorial will introduce optimization strategies and demonstrate
+techniques to implement them. Another of the objectives of this course is to
+give participants the ability to decide what might be the optimal solution for
+a certain performance problem. Participants are strongly recommended to bring
+laptops because all techniques are introduced with examples and exercises.
+
+</description><guid>http://www.pyvideo.org/video/217/pycon-2009--faster-python-programs-through-optim0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/217_pycon-2009-faster-python-programs-through-optimization-part-1-of-3.mp4" length="1039227431" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-FasterPythonProgramsThroughOptimizationPart001361-789.jpg"></media:thumbnail></item><item><title>PyCon 2009: Faster Python Programs through Optimization (Part 2 of 3)</title><link>http://www.pyvideo.org/video/216/pycon-2009--faster-python-programs-through-optimi</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: vga blurry] Although Python programs may be slow for
+certain types of tasks, there are many different ways to improve performance.
+This tutorial will introduce optimization strategies and demonstrate
+techniques to implement them. Another of the objectives of this course is to
+give participants the ability to decide what might be the optimal solution for
+a certain performance problem. Participants are strongly recommended to bring
+laptops because all techniques are introduced with examples and exercises.
+
+</description><guid>http://www.pyvideo.org/video/216/pycon-2009--faster-python-programs-through-optimi</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/216_pycon-2009-faster-python-programs-through-optimization-part-2-of-3.mp4" length="1044637114" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-FasterPythonProgramsThroughOptimizationPart002899-905.jpg"></media:thumbnail></item><item><title>PyCon 2009: Faster Python Programs through Optimization (Part 3 of 3)</title><link>http://www.pyvideo.org/video/218/pycon-2009--faster-python-programs-through-optim1</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: vga blurry] Although Python programs may be slow for
+certain types of tasks, there are many different ways to improve performance.
+This tutorial will introduce optimization strategies and demonstrate
+techniques to implement them. Another of the objectives of this course is to
+give participants the ability to decide what might be the optimal solution for
+a certain performance problem. Participants are strongly recommended to bring
+laptops because all techniques are introduced with examples and exercises.
+
+</description><guid>http://www.pyvideo.org/video/218/pycon-2009--faster-python-programs-through-optim1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/218_pycon-2009-faster-python-programs-through-optimization-part-3-of-3.mp4" length="207948319" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-FasterPythonProgramsThroughOptimizationPart003785-715.jpg"></media:thumbnail></item><item><title>PyCon 2009: Functional Testing of Desktop Applications (#1)</title><link>http://www.pyvideo.org/video/229/pycon-2009--functional-testing-of-desktop-applica</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Many advocates of unit testing believe that testing desktop (GUI) applications
+is so difficult as to not be worth it. Not only is it possible, but
+'functional testing' (testing an application from the point of view of the
+user) is an important part of an agile development process.
+
+</description><guid>http://www.pyvideo.org/video/229/pycon-2009--functional-testing-of-desktop-applica</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/229_pycon-2009-functional-testing-of-desktop-applications-1.mp4" length="228468258" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-FunctionalTestingOfDesktopApplications136-206.jpg"></media:thumbnail></item><item><title>PyCon 2009: Giving back and helping expand the Python community. A roadmap for South America and Africa (#87)</title><link>http://www.pyvideo.org/video/137/pycon-2009--giving-back-and-helping-expand-the-py</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+For many of us, Python has dramatically changed our professional life: Open
+Source, technologies that get the job done, and let you learn and improve
+every day, a friendly and mature community, etc. Python is important! For
+learning, for science, for business, and for progress in general.
+
+</description><guid>http://www.pyvideo.org/video/137/pycon-2009--giving-back-and-helping-expand-the-py</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/137_pycon-2009-giving-back-and-helping-expand-the-python-community-a-roadmap-for-south-america-and-africa-87.mp4" length="109064829" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-GivingBackAndHelpingExpandThePythonCommunityARoadmapFo605-542.jpg"></media:thumbnail></item><item><title>PyCon 2009: Hands on with Trac plugins (Part 1 of 2)</title><link>http://www.pyvideo.org/video/188/pycon-2009--hands-on-with-trac-plugins--part-1-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Trac, an open-source project management tool, has been gaining in popularity,
+however few people tap its true potential. To fully mold Trac to your team and
+project, you must venture into the realm of custom plugins. These short (or
+not so short) bits of code allow you to customize almost every aspect of Trac
+to your liking. Come learn how to get 110% out of your Trac system, or just
+see what Trac can do for you. Attendees should bring a laptop for the hands-on
+portion or the tutorial.
+
+</description><guid>http://www.pyvideo.org/video/188/pycon-2009--hands-on-with-trac-plugins--part-1-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/188_pycon-2009-hands-on-with-trac-plugins-part-1-of-2.mp4" length="1038929559" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-HandsOnWithTracPluginsPart001304-597.jpg"></media:thumbnail></item><item><title>PyCon 2009: Hands on with Trac plugins (Part 2 of 2)</title><link>http://www.pyvideo.org/video/187/pycon-2009--hands-on-with-trac-plugins--part-2-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Trac, an open-source project management tool, has been gaining in popularity,
+however few people tap its true potential. To fully mold Trac to your team and
+project, you must venture into the realm of custom plugins. These short (or
+not so short) bits of code allow you to customize almost every aspect of Trac
+to your liking. Come learn how to get 110% out of your Trac system, or just
+see what Trac can do for you. Attendees should bring a laptop for the hands-on
+portion or the tutorial.
+
+</description><guid>http://www.pyvideo.org/video/187/pycon-2009--hands-on-with-trac-plugins--part-2-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/187_pycon-2009-hands-on-with-trac-plugins-part-2-of-2.mp4" length="234575078" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-HandsOnWithTracPluginsPart002424-933.jpg"></media:thumbnail></item><item><title>PyCon 2009: How AlterWay releases web applications using zc.buildout (#22)</title><link>http://www.pyvideo.org/video/224/pycon-2009--how-alterway-releases-web-application</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+This talk will describe how zc.buildout is used in our company every day to
+develop, package and distribute Pylons, Django or Plone applications. It will
+focus on the best practices we have built around the tool and the tools we
+have built on the top of it to speed up our work.
+
+</description><guid>http://www.pyvideo.org/video/224/pycon-2009--how-alterway-releases-web-application</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/224_pycon-2009-how-alterway-releases-web-applications-using-zc-buildout-22.mp4" length="110995087" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-HowAlterWayReleasesWebApplicationsUsingZcbuildout747-905.jpg"></media:thumbnail></item><item><title>PyCon 2009: How I Distribute Python applications on Windows - py2exe and InnoSetup (#108)</title><link>http://www.pyvideo.org/video/147/pycon-2009--how-i-distribute-python-applications-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+There are many deployment options for Python code. I'll share what has worked
+well for me on Windows, packaging command line tools and services using py2exe
+and InnoSetup. I'll demonstrate a simple build script which creates windows
+binaries and an InnoSetup installer in one step. In addition, I'll go over
+common errors which come up when using py2exe and hints on troubleshooting
+them. This is a short talk, so there will be a follow-up Open Space session to
+share experience and help each other solve distribution problems.
+
+</description><guid>http://www.pyvideo.org/video/147/pycon-2009--how-i-distribute-python-applications-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/147_pycon-2009-how-i-distribute-python-applications-on-windows-py2exe-and-innosetup-108.mp4" length="108923319" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-HowIDistributePythonApplicationsOnWindowsPy2exeInnoSet226-152.jpg"></media:thumbnail></item><item><title>PyCon 2009: How to Build Applications Linux Distributions will Package (#78)</title><link>http://www.pyvideo.org/video/148/pycon-2009--how-to-build-applications-linux-distr</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: no audio first 1.5m] If you've ever created a nifty
+application that makes people's lives easier you know the truly hard part is
+convincing others to use it. One way to increase the number of people
+installing your software is to convince Linux distributions to package your
+software so that their end users can install by using the system tools they're
+used to. One way of convincing them is by making your application easy to
+package.
+
+</description><guid>http://www.pyvideo.org/video/148/pycon-2009--how-to-build-applications-linux-distr</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/148_pycon-2009-how-to-build-applications-linux-distributions-will-package-78.mp4" length="126822207" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-HowToBuildApplicationsLinuxDistributionsWillPackage235-266.jpg"></media:thumbnail></item><item><title>PyCon 2009: Intermediate Turbogears (Part 1 of 3)</title><link>http://www.pyvideo.org/video/209/pycon-2009--intermediate-turbogears--part-1-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Have you conquered the basics of Pylons/TurboGears2 (or just taken the morning
+class)? Do you want to understand more about how everything works, and how you
+can go beyond the basics to understand how to customize things? This class
+will take you from a basic understanding of how to use the framework, to a
+clear picture of how the framework pieces are put together. I will also cover
+how to create REST+JSON based web services, we'll focus particularly on how
+all this works with rich javascript based user interfaces, but the techniques
+should easily apply to Flex, or other "Rich Internet Application" tools.
+
+</description><guid>http://www.pyvideo.org/video/209/pycon-2009--intermediate-turbogears--part-1-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/209_pycon-2009-intermediate-turbogears-part-1-of-3.mp4" length="1039354383" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntermediateTurbogearsPart001443-124.jpg"></media:thumbnail></item><item><title>PyCon 2009: Intermediate Turbogears (Part 2 of 3)</title><link>http://www.pyvideo.org/video/207/pycon-2009--intermediate-turbogears--part-2-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Have you conquered the basics of Pylons/TurboGears2 (or just taken the morning
+class)? Do you want to understand more about how everything works, and how you
+can go beyond the basics to understand how to customize things? This class
+will take you from a basic understanding of how to use the framework, to a
+clear picture of how the framework pieces are put together. I will also cover
+how to create REST+JSON based web services, we'll focus particularly on how
+all this works with rich javascript based user interfaces, but the techniques
+should easily apply to Flex, or other "Rich Internet Application" tools.
+
+</description><guid>http://www.pyvideo.org/video/207/pycon-2009--intermediate-turbogears--part-2-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/207_pycon-2009-intermediate-turbogears-part-2-of-3.mp4" length="1044355367" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntermediateTurbogearsPart002106-521.jpg"></media:thumbnail></item><item><title>PyCon 2009: Intermediate Turbogears (Part 3 of 3)</title><link>http://www.pyvideo.org/video/206/pycon-2009--intermediate-turbogears--part-3-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Have you conquered the basics of Pylons/TurboGears2 (or just taken the morning
+class)? Do you want to understand more about how everything works, and how you
+can go beyond the basics to understand how to customize things? This class
+will take you from a basic understanding of how to use the framework, to a
+clear picture of how the framework pieces are put together. I will also cover
+how to create REST+JSON based web services, we'll focus particularly on how
+all this works with rich javascript based user interfaces, but the techniques
+should easily apply to Flex, or other "Rich Internet Application" tools.
+
+</description><guid>http://www.pyvideo.org/video/206/pycon-2009--intermediate-turbogears--part-3-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/206_pycon-2009-intermediate-turbogears-part-3-of-3.mp4" length="356412781" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntermediateTurbogearsPart003567-791.jpg"></media:thumbnail></item><item><title>PyCon 2009: Internet Programming with Python (Part 1 of 3)</title><link>http://www.pyvideo.org/video/185/pycon-2009--internet-programming-with-python--pa0</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internet Programming with Python (part 1 of 3)
+
+  
+Presented by Wesley J. Chun
+
+  
+This tutorial introduces current Python programmers to 3-4 distinct areas of
+Internet programming, each in self-contained (approximately) 1-hour lectures
+(unless otherwise noted) with a demonstration of code on each lecture topic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><guid>http://www.pyvideo.org/video/185/pycon-2009--internet-programming-with-python--pa0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/185_pycon-2009-internet-programming-with-python-part-1-of-3.mp4" length="1039979119" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart001603-459.jpg"></media:thumbnail></item><item><title>PyCon 2009: Internet Programming with Python (Part 2 of 3)</title><link>http://www.pyvideo.org/video/184/pycon-2009--internet-programming-with-python--par</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internet Programming with Python (part 2 of 3)
+
+  
+Presented by Wesley J. Chun
+
+  
+This tutorial introduces current Python programmers to 3-4 distinct areas of
+Internet programming, each in self-contained (approximately) 1-hour lectures
+(unless otherwise noted) with a demonstration of code on each lecture topic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><guid>http://www.pyvideo.org/video/184/pycon-2009--internet-programming-with-python--par</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/184_pycon-2009-internet-programming-with-python-part-2-of-3.mp4" length="1044447826" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart002475-80.jpg"></media:thumbnail></item><item><title>PyCon 2009: Internet Programming with Python (Part 3 of 3)</title><link>http://www.pyvideo.org/video/186/pycon-2009--internet-programming-with-python--pa1</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internet Programming with Python (part 3 of 3)
+
+  
+Presented by Wesley J. Chun
+
+  
+This tutorial introduces current Python programmers to 3-4 distinct areas of
+Internet programming, each in self-contained (approximately) 1-hour lectures
+(unless otherwise noted) with a demonstration of code on each lecture topic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><guid>http://www.pyvideo.org/video/186/pycon-2009--internet-programming-with-python--pa1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/186_pycon-2009-internet-programming-with-python-part-3-of-3.mp4" length="21970101" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart003373-329.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 1 of 2)</title><link>http://www.pyvideo.org/video/176/pycon-2009--introduction-to-functional-web-testin</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: ] This tutorial aims to educate attendees on the the basics
+of functional testing of web applications. Is your app rendered as plain HTML?
+Great! We'll show you how to build a test suite for it. Is your app all AJAXy?
+No problem! We can do that too! We're going to write a web application, first
+in straight html and then with AJAX, and show you how to try to break it. At
+the end of this hands-on session, you'll be able to write tests for almost any
+web site, using all open-source tools and our favorite language - Python.
+
+</description><guid>http://www.pyvideo.org/video/176/pycon-2009--introduction-to-functional-web-testin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/176_pycon-2009-introduction-to-functional-web-testing-with-twill-and-selenium-part-1-of-2.mp4" length="1039565189" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToFunctionalWebTestingWithTwillSeleniumPart789-569.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 2 of 2)</title><link>http://www.pyvideo.org/video/177/pycon-2009--introduction-to-functional-web-testi0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: ] This tutorial aims to educate attendees on the the basics
+of functional testing of web applications. Is your app rendered as plain HTML?
+Great! We'll show you how to build a test suite for it. Is your app all AJAXy?
+No problem! We can do that too! We're going to write a web application, first
+in straight html and then with AJAX, and show you how to try to break it. At
+the end of this hands-on session, you'll be able to write tests for almost any
+web site, using all open-source tools and our favorite language - Python.
+
+</description><guid>http://www.pyvideo.org/video/177/pycon-2009--introduction-to-functional-web-testi0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/177_pycon-2009-introduction-to-functional-web-testing-with-twill-and-selenium-part-2-of-2.mp4" length="796569395" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToFunctionalWebTestingWithTwillSeleniumPart575-241.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to SQLAlchemy (Part 1 of 3)</title><link>http://www.pyvideo.org/video/199/pycon-2009--introduction-to-sqlalchemy--part-1-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: some buzzing ] SQLAlchemy is the premier SQL toolkit for
+Python. SQLAlchemy exposes the full power of SQL while remaining easy to use
+for the basics, and is flexible enough to work with existing database schemas
+as well as fresh designs. SQLAlchemy is used in production by leading Python
+web frameworks Pylons and Turbogears as well as many other web and non-web
+developers. This tutorial teaches SQLAlchemy's object-relational mapping to
+automate painlessly loading and persisting objects from and to your database,
+even when complex relationships exist.
+
+</description><guid>http://www.pyvideo.org/video/199/pycon-2009--introduction-to-sqlalchemy--part-1-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/199_pycon-2009-introduction-to-sqlalchemy-part-1-of-3.mp4" length="1039721008" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToSQLAlchemyPart001423-333.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to SQLAlchemy (Part 2 of 3)</title><link>http://www.pyvideo.org/video/200/pycon-2009--introduction-to-sqlalchemy--part-2-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: some buzzing ] SQLAlchemy is the premier SQL toolkit for
+Python. SQLAlchemy exposes the full power of SQL while remaining easy to use
+for the basics, and is flexible enough to work with existing database schemas
+as well as fresh designs. SQLAlchemy is used in production by leading Python
+web frameworks Pylons and Turbogears as well as many other web and non-web
+developers. This tutorial teaches SQLAlchemy's object-relational mapping to
+automate painlessly loading and persisting objects from and to your database,
+even when complex relationships exist.
+
+</description><guid>http://www.pyvideo.org/video/200/pycon-2009--introduction-to-sqlalchemy--part-2-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/200_pycon-2009-introduction-to-sqlalchemy-part-2-of-3.mp4" length="1044853183" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToSQLAlchemyPart002414-609.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to SQLAlchemy (Part 3 of 3)</title><link>http://www.pyvideo.org/video/198/pycon-2009--introduction-to-sqlalchemy--part-3-of</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: some buzzing ] SQLAlchemy is the premier SQL toolkit for
+Python. SQLAlchemy exposes the full power of SQL while remaining easy to use
+for the basics, and is flexible enough to work with existing database schemas
+as well as fresh designs. SQLAlchemy is used in production by leading Python
+web frameworks Pylons and Turbogears as well as many other web and non-web
+developers. This tutorial teaches SQLAlchemy's object-relational mapping to
+automate painlessly loading and persisting objects from and to your database,
+even when complex relationships exist.
+
+</description><guid>http://www.pyvideo.org/video/198/pycon-2009--introduction-to-sqlalchemy--part-3-of</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/198_pycon-2009-introduction-to-sqlalchemy-part-3-of-3.mp4" length="331707636" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToSQLAlchemyPart003481-712.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to TurboGears2 and WSGI (Part 1 of 2)</title><link>http://www.pyvideo.org/video/172/pycon-2009--introduction-to-turbogears2-and-wsgi0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: annoying noise starting at 1:17 (2nd half)] Are you
+interested in building web applications with modern libraries and tools? Do
+you want to build on top of the work that many others have done? Have you done
+some basic web development, but want to be more productive. If so this is the
+class for you. TurboGears 2 provides a well defined set of the best libraries
+for web development python has to offer. But more importantly it brings them
+together in a clean, well documented way that allows for developing reusable
+TurboGears 2 components. The result is a powerful, flexible, set of tools that
+helps make it easy to build dynamic web applications.
+
+</description><guid>http://www.pyvideo.org/video/172/pycon-2009--introduction-to-turbogears2-and-wsgi0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/172_pycon-2009-introduction-to-turbogears2-and-wsgi-part-1-of-2.mp4" length="1039958457" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToTurboGears2WSGIPart001522-886.jpg"></media:thumbnail></item><item><title>PyCon 2009: Introduction to TurboGears2 and WSGI (Part 2 of 2)</title><link>http://www.pyvideo.org/video/171/pycon-2009--introduction-to-turbogears2-and-wsgi-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: annoying noise starting at 1:17 (2nd half)] Are you
+interested in building web applications with modern libraries and tools? Do
+you want to build on top of the work that many others have done? Have you done
+some basic web development, but want to be more productive. If so this is the
+class for you. TurboGears 2 provides a well defined set of the best libraries
+for web development python has to offer. But more importantly it brings them
+together in a clean, well documented way that allows for developing reusable
+TurboGears 2 components. The result is a powerful, flexible, set of tools that
+helps make it easy to build dynamic web applications.
+
+</description><guid>http://www.pyvideo.org/video/171/pycon-2009--introduction-to-turbogears2-and-wsgi-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/171_pycon-2009-introduction-to-turbogears2-and-wsgi-part-2-of-2.mp4" length="667459323" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-IntroductionToTurboGears2WSGIPart002136-550.jpg"></media:thumbnail></item><item><title>PyCon 2009: Keynote: Reddit: Steve Huffman and Alexis Ohanian</title><link>http://www.pyvideo.org/video/234/pycon-2009--keynote--reddit--steve-huffman-and-al</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote: Reddit: Steve Huffman and Alexis Ohanian
+
+  
+The co-founders of reddit.com spoke about Reddit's origin, the switch to
+Python, and took many questions.
+
+</description><guid>http://www.pyvideo.org/video/234/pycon-2009--keynote--reddit--steve-huffman-and-al</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/234_pycon-2009-keynote-reddit-steve-huffman-and-alexis-ohanian.mp4" length="177947329" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-KeynoteRedditSteveHuffmanAndAlexisOhanian687-56.jpg"></media:thumbnail></item><item><title>PyCon 2009: Paver: easy build and deployment automation for Python projects (#13)</title><link>http://www.pyvideo.org/video/228/pycon-2009--paver--easy-build-and-deployment-auto</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: Audio clipping, ambient mic up (echoing audio)] Paver makes
+managing common aspects of Python projects easier, by providing just the right
+kind of scaffolding on which to automate building and packaging of your
+software. In this talk, you'll see how easy it is to get started with Paver,
+how you can use Paver without alienating other users of your code, and how you
+can use Paver to trivially extend Python's distutils commands.
+
+</description><guid>http://www.pyvideo.org/video/228/pycon-2009--paver--easy-build-and-deployment-auto</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/228_pycon-2009-paver-easy-build-and-deployment-automation-for-python-projects-13.mp4" length="96090618" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PaverEasyBuildAndDeploymentAutomationForPythonProjects145-314.jpg"></media:thumbnail></item><item><title>PyCon 2009: Plenary: Afternoon Lightning Talks</title><link>http://www.pyvideo.org/video/223/pycon-2009--plenary--afternoon-lightning-talks</link><description>&lt;p&gt;Description&lt;/p&gt;
+Plenary: Afternoon Lightning Talks
+
+  
+(00:05) Easy command line parsing with argparse - Steven Bethard
+
+  
+(04:14) Moments - Charles Brandt
+
+  
+(11:45) Crowdsourcing lightning -
+
+  
+(13:40) Python 3.1 changes - Benjamin Peterson
+
+  
+(19:35) The Poor Man's Continuous Integration - Zain
+
+  
+(25:55) cluemapper - Nate Aune
+
+  
+(29:55) ReleaseBot - Brian Warner
+
+  
+(34:50) worldPloneday - Jordan Baker and Roberto
+
+  
+(40:15) blist - Daniel Stutzbach
+
+  
+(45:10) Python Open Source Overview on Launchpad - Gary Poster
+
+  
+(49:50) Pyjamas - Bernd Dorn
+
+  
+(53:50) \ is Evil and IP Addresses in Python - Gregory Smith
+
+  
+(56:00) ctypes - Jason Coombs
+
+  
+(61:10) Come to EuroPython - Jonathan Hartley
+
+  
+(65:45) Zope - Lennart Regebro
+
+  
+(71:05) Site Checker - Eric Holscher
+
+  
+(76:20) PSF Community Awards
+
+</description><guid>http://www.pyvideo.org/video/223/pycon-2009--plenary--afternoon-lightning-talks</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/223_pycon-2009-plenary-afternoon-lightning-talks.mp4" length="496274439" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryAfternoonLightningTalks527-348.jpg"></media:thumbnail></item><item><title>PyCon 2009: Plenary: Intro to Sprinting</title><link>http://www.pyvideo.org/video/144/pycon-2009--plenary--intro-to-sprinting</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+by Brett Cannon What sprinting is: a group of people doing something together.
+Who goes: everyone! Why: fun, great learning, you can do it your way How: get
+a table, some chairs, some people...
+
+</description><guid>http://www.pyvideo.org/video/144/pycon-2009--plenary--intro-to-sprinting</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/144_pycon-2009-plenary-intro-to-sprinting.mp4" length="19611924" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryIntroToSprinting227-400.jpg"></media:thumbnail></item><item><title>PyCon 2009: Plenary: Morning Lightning Talks</title><link>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plenary: Morning Lightning Talks covering GeoDjango, Zope, Launchpad, JSOT,
+AppEngine, StackOverflow, Miro, zc.buildout and RPM, ham radio, Plyne,
+GozerBot, picking tools, and stop watch.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * (00:20) GeoDjango - Justin Bronn 
+  * (05:50) What's up with Zope - Martijn Faassen 
+  * (10:55) Scripting Launchpad - Paul Hummer 
+  * (13:50) JSQT - ? 
+  * (16:10) Python, AppEngine, and Informatics - Charles Severance 
+  * (20:55) an online game called stackoverflow - John Mulder 
+  * (25:25) Miro - Chris Webber 
+  * (28:40) Deploying applications with zc.buildout and RPM - Jim Fulton 
+  * (34:10) Ham radio and Python - Adam Fast 
+  * (38:30) Plone + Pylons = Plyne - Roberto Allende 
+  * (41:35) GozerBot - John Hampton 
+  * (44:25) Software Engineering and the Pickling Tools - Rich Saunders 
+  * (48:45) Talks about the stop watch 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast,Charles Severance,Christopher Allan Webber,JIm Fulton,John Hampton,John Mulder,Justin Bronn,Martin Faassen,Paul Hummer,Richard T. Saunders,Roberto Allende</dc:creator><guid>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</guid><enclosure url="http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalks730.mp4" length="242768891" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalks730-226.jpg"></media:thumbnail></item><item><title>PyCon 2009: Plenary: Morning Lightning Talks (Saturday)</title><link>http://www.pyvideo.org/video/193/pycon-2009--plenary--morning-lightning-talks--sat</link><description>&lt;p&gt;Description&lt;/p&gt;
+Plenary: Morning Lightning Talks
+
+  
+[VIDEO HAS ISSUES: missing a bit at the beginning]
+
+  
+(00:00) Building Appliances with Python - Moshe Zadka
+
+  
+(05:40) Proposed Python License V3 and ... VAN LINDBERG'D - Jesse Noller
+
+  
+(08: 20) The Status is Not Quo - Mike Pirnat
+
+  
+(12:55) Cork, building tiny apps - Alex Morega
+
+  
+(19:10) NASA uses Python? - Katie Cunningham
+
+  
+(23:35) SQLPython, command line interface to Oracle - Catherine Devlin (half
+done)
+
+  
+(25:20) Gitosis - Tommi Virtanen
+
+  
+(29:05) SQLPython, command line interface to Oracle (reprised) - Catherine
+Devlin
+
+  
+(35:00) Player Piano - Peter Fein
+
+  
+(40:10) Why DVCS - James Bennett
+
+  
+(45:15) PyMite - Dean Hall
+
+  
+(49:50) web2py - ?
+
+</description><guid>http://www.pyvideo.org/video/193/pycon-2009--plenary--morning-lightning-talks--sat</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/193_pycon-2009-plenary-morning-lightning-talks-saturday.mp4" length="317366822" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalksSaturday678-923.jpg"></media:thumbnail></item><item><title>PyCon 2009: Plenary: Sprint Intro</title><link>http://www.pyvideo.org/video/222/pycon-2009--plenary--sprint-intro</link><description>&lt;p&gt;Description&lt;/p&gt;
+Plenary: Sprint Prep
+
+  
+Talks about what sprints were happening, what was getting worked on, and who
+to talk to.
+
+</description><guid>http://www.pyvideo.org/video/222/pycon-2009--plenary--sprint-intro</guid><enclosure url="http://blip.tv/file/get/Pycon-PlenarySprintIntro722.mp4" length="91697008" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenarySprintIntro722-151.jpg"></media:thumbnail></item><item><title>PyCon 2009: Pylons on Jython (#96)</title><link>http://www.pyvideo.org/video/142/pycon-2009--pylons-on-jython---96</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pylons on Jython
+
+  
+Presented by Philip Jenvey
+
+  
+Jython is back, and better than ever.
+
+  
+[VIDEO HAS ISSUES: house audio]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philip Jenvey</dc:creator><guid>http://www.pyvideo.org/video/142/pycon-2009--pylons-on-jython---96</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/142_pycon-2009-pylons-on-jython-96.mp4" length="102996234" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PylonsOnJython681-237.jpg"></media:thumbnail></item><item><title>PyCon 2009: PyMite lighting talk</title><link>http://www.pyvideo.org/video/208/pycon-2009--pymite-lighting-talk</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyMite ligntning talk at PyCon09
+
+  
+Presenter: Dean Hall
+
+  
+Project Site: [http://www.pythononachip.org](http://www.pythononachip.org/)
+
+</description><guid>http://www.pyvideo.org/video/208/pycon-2009--pymite-lighting-talk</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/208_pycon-2009-pymite-lighting-talk.mp4" length="25097521" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-PyMiteAtPycon09517-578.jpg"></media:thumbnail></item><item><title>PyCon 2009: PyMite: Python-on-a-chip</title><link>http://www.pyvideo.org/video/136/pycon-2009--pymite--python-on-a-chip</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyMite: Python on a chip
+
+  
+Lightning talk at PyCon 2009 by James Snyder
+
+  
+"a significant subset of the Python language on microcontrollers without an
+OS. Lets Python run in a BILLION new places."
+
+  
+[http://www.pythononachip.org/](http://www.pythononachip.org/)
+
+</description><guid>http://www.pyvideo.org/video/136/pycon-2009--pymite--python-on-a-chip</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/136_pycon-2009-pymite-python-on-a-chip.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-PyMite410-91.jpg"></media:thumbnail></item><item><title>PyCon 2009: PyPy status talk (#72)</title><link>http://www.pyvideo.org/video/232/pycon-2009-pypy-status-talk-72</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyPy Status Talk
+
+  
+Presented by Holger Krekel and Maciej Fijalkowski
+
+  
+PyPy has come a long way. It's gone from being purely a research project to
+providing a flexible and reasonably fast Python Interpreter, itself
+implemented in Python. Although PyPy is not yet a viable CPython replacement,
+PyPy is able to run sophisticated python applications like Django and Twisted.
+In this talk, we'll focus on improvements that happened during the last year
+in PyPy. This talk will also explain the motivations driving current PyPy
+development and its targets for the future.
+
+  
+[VIDEO HAS ISSUES: Audio humming, other misc audio issues]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel,Maciej Fijalkowski</dc:creator><guid>http://www.pyvideo.org/video/232/pycon-2009-pypy-status-talk-72</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/232_pycon-2009-pypy-status-talk-72.mp4" length="127771496" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyPyStatusTalk814-335.jpg"></media:thumbnail></item><item><title>PyCon 2009: py.test II - cross-platform and distributed testing (Part 1 of 3)</title><link>http://www.pyvideo.org/video/180/pycon-2009--py-test-ii---cross-platform-and-dist1</link><description>&lt;p&gt;Description&lt;/p&gt;
+py.test II - cross-platform and distributed testing (part 1 of 3)
+
+  
+Want to know more about advanced automated testing with Python? Use a tool
+that allows you to ad-hoc distribute tests to multiple CPUs for speed and to
+multiple platforms for compatibility checks? With tons of debugging help in
+failure situations? This tutorial provides in-depth information on advanced
+usages of the popular py.test tool. We highlight its current feature set
+including using and writing extensions for generating HTML pages, testing
+Javascript or ReST documents. We showcase and discuss ways of distributing
+tests across CPUs and platforms and will leave time to discuss and tackle
+specific scenarios brought up during the session. The tutorial format will be
+an interactive lecture with plenty of time for questions.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><guid>http://www.pyvideo.org/video/180/pycon-2009--py-test-ii---cross-platform-and-dist1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/180_pycon-2009-py-test-ii-cross-platform-and-distributed-testing-part-1-of-3.mp4" length="1039956019" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-pytestIICrossplatformAndDistributedTestingPart001669-109.jpg"></media:thumbnail></item><item><title>PyCon 2009: py.test II - cross-platform and distributed testing (Part 2 of 3)</title><link>http://www.pyvideo.org/video/178/pycon-2009--py-test-ii---cross-platform-and-distr</link><description>&lt;p&gt;Description&lt;/p&gt;
+py.test II - cross-platform and distributed testing (part 2 of 3)
+
+  
+Want to know more about advanced automated testing with Python? Use a tool
+that allows you to ad-hoc distribute tests to multiple CPUs for speed and to
+multiple platforms for compatibility checks? With tons of debugging help in
+failure situations? This tutorial provides in-depth information on advanced
+usages of the popular py.test tool. We highlight its current feature set
+including using and writing extensions for generating HTML pages, testing
+Javascript or ReST documents. We showcase and discuss ways of distributing
+tests across CPUs and platforms and will leave time to discuss and tackle
+specific scenarios brought up during the session. The tutorial format will be
+an interactive lecture with plenty of time for questions.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><guid>http://www.pyvideo.org/video/178/pycon-2009--py-test-ii---cross-platform-and-distr</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/178_pycon-2009-py-test-ii-cross-platform-and-distributed-testing-part-2-of-3.mp4" length="1044433842" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-pytestIICrossplatformAndDistributedTestingPart002432-993.jpg"></media:thumbnail></item><item><title>PyCon 2009: py.test II - cross-platform and distributed testing (Part 3 of 3)</title><link>http://www.pyvideo.org/video/179/pycon-2009--py-test-ii---cross-platform-and-dist0</link><description>&lt;p&gt;Description&lt;/p&gt;
+py.test II - cross-platform and distributed testing (part 3 of 3)
+
+  
+Want to know more about advanced automated testing with Python? Use a tool
+that allows you to ad-hoc distribute tests to multiple CPUs for speed and to
+multiple platforms for compatibility checks? With tons of debugging help in
+failure situations? This tutorial provides in-depth information on advanced
+usages of the popular py.test tool. We highlight its current feature set
+including using and writing extensions for generating HTML pages, testing
+Javascript or ReST documents. We showcase and discuss ways of distributing
+tests across CPUs and platforms and will leave time to discuss and tackle
+specific scenarios brought up during the session. The tutorial format will be
+an interactive lecture with plenty of time for questions.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><guid>http://www.pyvideo.org/video/179/pycon-2009--py-test-ii---cross-platform-and-dist0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/179_pycon-2009-py-test-ii-cross-platform-and-distributed-testing-part-3-of-3.mp4" length="283460154" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-pytestIICrossplatformAndDistributedTestingPart003549-578.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python 102 (Part 1 of 3)</title><link>http://www.pyvideo.org/video/195/pycon-2009--python-102--part-1-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 102 (Part 1 of 3)
+
+  
+This half-day tutorial presents intermediate and some advanced features of
+Python to beginning and intermediate programmers. It pairs well with Python
+101 following a similar outline but at a deeper level. Rather than starting
+with "Hello, world!", we use the interactive Python interpreter to get hands-
+on familiarity with much of core Python before covering blocks and scripts.
+The tutorial is divided into short sections, each with presentation and
+exercises, to quickly cover lots of ground. Advanced topics are introduced
+throughout and covered in "extra credit" exercises such that more advanced
+participants can learn at their own pace.
+
+</description><guid>http://www.pyvideo.org/video/195/pycon-2009--python-102--part-1-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/195_pycon-2009-python-102-part-1-of-3.mp4" length="1039685697" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python102Part001692-621.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python 102 (Part 2 of 3)</title><link>http://www.pyvideo.org/video/196/pycon-2009--python-102--part-2-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 102 Part 2 of 3)
+
+  
+This half-day tutorial presents intermediate and some advanced features of
+Python to beginning and intermediate programmers. It pairs well with Python
+101 following a similar outline but at a deeper level. Rather than starting
+with "Hello, world!", we use the interactive Python interpreter to get hands-
+on familiarity with much of core Python before covering blocks and scripts.
+The tutorial is divided into short sections, each with presentation and
+exercises, to quickly cover lots of ground. Advanced topics are introduced
+throughout and covered in "extra credit" exercises such that more advanced
+participants can learn at their own pace.
+
+</description><guid>http://www.pyvideo.org/video/196/pycon-2009--python-102--part-2-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/196_pycon-2009-python-102-part-2-of-3.mp4" length="1044748856" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python102Part002967-183.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python 102 (Part 3 of 3)</title><link>http://www.pyvideo.org/video/197/pycon-2009--python-102--part-3-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 102 (Part 3 of 3)
+
+  
+This half-day tutorial presents intermediate and some advanced features of
+Python to beginning and intermediate programmers. It pairs well with Python
+101 following a similar outline but at a deeper level. Rather than starting
+with "Hello, world!", we use the interactive Python interpreter to get hands-
+on familiarity with much of core Python before covering blocks and scripts.
+The tutorial is divided into short sections, each with presentation and
+exercises, to quickly cover lots of ground. Advanced topics are introduced
+throughout and covered in "extra credit" exercises such that more advanced
+participants can learn at their own pace.
+
+</description><guid>http://www.pyvideo.org/video/197/pycon-2009--python-102--part-3-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/197_pycon-2009-python-102-part-3-of-3.mp4" length="263731252" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python102Part003896-321.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python 401: Some Advanced Topics (Part 1 of 3)</title><link>http://www.pyvideo.org/video/158/pycon-2009--python-401--some-advanced-topics--pa0</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 401: Some Advanced Topics
+
+  
+Steve Holden challenges you to find new and interesting applications for some
+of the less heavily utilized features of Python including generator
+expressions, string interpolation, iteration and metaclasses.
+
+</description><guid>http://www.pyvideo.org/video/158/pycon-2009--python-401--some-advanced-topics--pa0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/158_pycon-2009-python-401-some-advanced-topics-part-1-of-3.mp4" length="1039937869" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python401SomeAdvancedTopicsPart001455-299.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python 401: Some Advanced Topics (Part 2 of 3)</title><link>http://www.pyvideo.org/video/159/pycon-2009--python-401--some-advanced-topics--pa1</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 401: Some Advanced Topics (Part 2 of 3)
+
+  
+Steve Holden challenges you to find new and interesting applications for some
+of the less heavily utilized features of Python including generator
+expressions, string interpolation, iteration and metaclasses.
+
+</description><guid>http://www.pyvideo.org/video/159/pycon-2009--python-401--some-advanced-topics--pa1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/159_pycon-2009-python-401-some-advanced-topics-part-2-of-3.mp4" length="1044417926" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python401SomeAdvancedTopicsPart002889-455.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python 401: Some Advanced Topics (Part 3 of 3)</title><link>http://www.pyvideo.org/video/157/pycon-2009--python-401--some-advanced-topics--par</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 401: Some Advanced Topics (Part 3 of 3)
+
+  
+Steve Holden challenges you to find new and interesting applications for some
+of the less heavily utilized features of Python including generator
+expressions, string interpolation, iteration and metaclasses.
+
+</description><guid>http://www.pyvideo.org/video/157/pycon-2009--python-401--some-advanced-topics--par</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/157_pycon-2009-python-401-some-advanced-topics-part-3-of-3.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python401SomeAdvancedTopicsPart003305-184.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 1 of 2)</title><link>http://www.pyvideo.org/video/201/pycon-2009--python-for-teachers--and-teachers-of-</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+As a geek with Python kung fu, you have fun skills to share with others,
+including those still in high school and seeking to master mathematical
+concepts that will serve them for a life time. In taking this tutorial, you're
+opening a communications channel between yourself, and other eager learners
+hoping to partake more deeply of open source culture and the opportunities it
+offers. We know from last year that many PyCon delegates are broadly
+interested in education track. This proposal attempts to support this demand
+by developing some publicly-accessible Python-related material that
+demonstrates how object-oriented programming be learned by using them to
+implement concepts from the mathematical domain. Learning can take place at
+multiple levels: Python and object-oriented concepts. Mathematical concepts,
+which will be demonstrated in ways readily accessible to anyone who
+understands Python. Presentation of programming topics in the educational
+environment. From this latter point of view the pair teaching format can be
+considered experimental. Its success or otherwise will be determined largely
+by group dynamics, and our goal is to make the outcome in and of itself
+provide useful empirical data helpful to others planning workshops.
+
+</description><guid>http://www.pyvideo.org/video/201/pycon-2009--python-for-teachers--and-teachers-of-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/201_pycon-2009-python-for-teachers-and-teachers-of-teachers-part-1-of-2.mp4" length="1040201736" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PythonForTeachersAndTeachersOfTeachersPart001339-797.jpg"></media:thumbnail></item><item><title>PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 2 of 2)</title><link>http://www.pyvideo.org/video/202/pycon-2009--python-for-teachers--and-teachers-of0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+As a geek with Python kung fu, you have fun skills to share with others,
+including those still in high school and seeking to master mathematical
+concepts that will serve them for a life time. In taking this tutorial, you're
+opening a communications channel between yourself, and other eager learners
+hoping to partake more deeply of open source culture and the opportunities it
+offers. We know from last year that many PyCon delegates are broadly
+interested in education track. This proposal attempts to support this demand
+by developing some publicly-accessible Python-related material that
+demonstrates how object-oriented programming be learned by using them to
+implement concepts from the mathematical domain. Learning can take place at
+multiple levels: Python and object-oriented concepts. Mathematical concepts,
+which will be demonstrated in ways readily accessible to anyone who
+understands Python. Presentation of programming topics in the educational
+environment. From this latter point of view the pair teaching format can be
+considered experimental. Its success or otherwise will be determined largely
+by group dynamics, and our goal is to make the outcome in and of itself
+provide useful empirical data helpful to others planning workshops.
+
+</description><guid>http://www.pyvideo.org/video/202/pycon-2009--python-for-teachers--and-teachers-of0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/202_pycon-2009-python-for-teachers-and-teachers-of-teachers-part-2-of-2.mp4" length="111925099" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PythonForTeachersAndTeachersOfTeachersPart002402-418.jpg"></media:thumbnail></item><item><title>PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 1 of 3)</title><link>http://www.pyvideo.org/video/166/pycon-2009--scrape-the-web--strategies-for-progr0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: Speaker walked away from the mic most of the time.] Do you
+find yourself faced with websites that have data you need to extract? Would
+your life be simpler if you could programmatically input data into web
+applications, even those tuned to resist interaction by bots? We'll discuss
+the basics of web scraping, and then dive into the details of different
+methods and where they are most applicable. You'll leave with an understanding
+of when to apply different tools, and learn about a "heavy hammer" for screen
+scraping that I picked up at a project for the Electronic Frontier Foundation.
+Atendees should bring a laptop, if possible, to try the examples we discuss
+and optionally take notes.
+
+</description><guid>http://www.pyvideo.org/video/166/pycon-2009--scrape-the-web--strategies-for-progr0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/166_pycon-2009-scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it-part-1-of-3.mp4" length="1040169022" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp472-193.jpg"></media:thumbnail></item><item><title>PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 2 of 3)</title><link>http://www.pyvideo.org/video/165/pycon-2009--scrape-the-web--strategies-for-progra</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: Speaker walked away from the mic most of the time.] Do you
+find yourself faced with websites that have data you need to extract? Would
+your life be simpler if you could programmatically input data into web
+applications, even those tuned to resist interaction by bots? We'll discuss
+the basics of web scraping, and then dive into the details of different
+methods and where they are most applicable. You'll leave with an understanding
+of when to apply different tools, and learn about a "heavy hammer" for screen
+scraping that I picked up at a project for the Electronic Frontier Foundation.
+Atendees should bring a laptop, if possible, to try the examples we discuss
+and optionally take notes.
+
+</description><guid>http://www.pyvideo.org/video/165/pycon-2009--scrape-the-web--strategies-for-progra</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/165_pycon-2009-scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it-part-2-of-3.mp4" length="1044269303" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp443-212.jpg"></media:thumbnail></item><item><title>PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 3 of 3)</title><link>http://www.pyvideo.org/video/167/pycon-2009--scrape-the-web--strategies-for-progr1</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: Speaker walked away from the mic most of the time.] Do you
+find yourself faced with websites that have data you need to extract? Would
+your life be simpler if you could programmatically input data into web
+applications, even those tuned to resist interaction by bots? We'll discuss
+the basics of web scraping, and then dive into the details of different
+methods and where they are most applicable. You'll leave with an understanding
+of when to apply different tools, and learn about a "heavy hammer" for screen
+scraping that I picked up at a project for the Electronic Frontier Foundation.
+Atendees should bring a laptop, if possible, to try the examples we discuss
+and optionally take notes.
+
+</description><guid>http://www.pyvideo.org/video/167/pycon-2009--scrape-the-web--strategies-for-progr1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/167_pycon-2009-scrape-the-web-strategies-for-programming-websites-that-don-t-expect-it-part-3-of-3.mp4" length="173449267" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp728-232.jpg"></media:thumbnail></item><item><title>PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 1 of 3)</title><link>http://www.pyvideo.org/video/181/pycon-2009--the-big-f--39-ing-tutorial--developme</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Big F'ing Tutorial: Development Using repoze.bfg Web Framework (Part 1 of
+3)
+
+  
+Presented by Chris McDonough
+
+  
+Are you a Python web developer who thinks there might be some great stuff
+hidden away in Zope but you consider it inaccessible to you because you feel
+that Zope imposes too many foreign concepts for your tastes? Are you a more-
+or-less happy Zope developer that has the nagging feeling that much of Zope is
+unnecessary "baggage" on your current project? Maybe you're a Plone developer
+who feels that Plone is unsuitable for one of your current projects because
+it's too complicated? This tutorial will present everything you need to know
+about repoze.bfg, a small Python web framework in the spirit of Pylons. The
+goals of repoze.bfg are simplicity, familiarity to Zope programmers (but no
+Zope experience is required), execution speed, and complete, comprehensive,
+and up-to-date documentation. In this tutorial, we'll explain the core
+concepts in repoze.bfg, then we'll lead a guided development session where we
+make a small application using the framework. We'll also cover packaging and
+deployment of the application. Questions are highly encouraged during the
+presentation.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McDonough</dc:creator><guid>http://www.pyvideo.org/video/181/pycon-2009--the-big-f--39-ing-tutorial--developme</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/181_pycon-2009-the-big-f-ing-tutorial-development-using-the-repoze-bfg-web-framework-part-1-of-3.mp4" length="1038946752" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew393-62.jpg"></media:thumbnail></item><item><title>PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 2 of 3)</title><link>http://www.pyvideo.org/video/182/pycon-2009--the-big-f--39-ing-tutorial--developm0</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Big F'ing Tutorial: Development Using repoze.bfg Web Framework (Part 2 of
+3)
+
+  
+Presented by Chris McDonough
+
+  
+Are you a Python web developer who thinks there might be some great stuff
+hidden away in Zope but you consider it inaccessible to you because you feel
+that Zope imposes too many foreign concepts for your tastes? Are you a more-
+or-less happy Zope developer that has the nagging feeling that much of Zope is
+unnecessary "baggage" on your current project? Maybe you're a Plone developer
+who feels that Plone is unsuitable for one of your current projects because
+it's too complicated? This tutorial will present everything you need to know
+about repoze.bfg, a small Python web framework in the spirit of Pylons. The
+goals of repoze.bfg are simplicity, familiarity to Zope programmers (but no
+Zope experience is required), execution speed, and complete, comprehensive,
+and up-to-date documentation. In this tutorial, we'll explain the core
+concepts in repoze.bfg, then we'll lead a guided development session where we
+make a small application using the framework. We'll also cover packaging and
+deployment of the application. Questions are highly encouraged during the
+presentation.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McDonough</dc:creator><guid>http://www.pyvideo.org/video/182/pycon-2009--the-big-f--39-ing-tutorial--developm0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/182_pycon-2009-the-big-f-ing-tutorial-development-using-the-repoze-bfg-web-framework-part-2-of-3.mp4" length="1044696493" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew328-574.jpg"></media:thumbnail></item><item><title>PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 3 of 3)</title><link>http://www.pyvideo.org/video/183/pycon-2009--the-big-f--39-ing-tutorial--developm1</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Big F'ing Tutorial: Development Using repoze.bfg Web Framework (Part 3 of
+3)
+
+  
+Presented by Chris McDonough
+
+  
+Are you a Python web developer who thinks there might be some great stuff
+hidden away in Zope but you consider it inaccessible to you because you feel
+that Zope imposes too many foreign concepts for your tastes? Are you a more-
+or-less happy Zope developer that has the nagging feeling that much of Zope is
+unnecessary "baggage" on your current project? Maybe you're a Plone developer
+who feels that Plone is unsuitable for one of your current projects because
+it's too complicated? This tutorial will present everything you need to know
+about repoze.bfg, a small Python web framework in the spirit of Pylons. The
+goals of repoze.bfg are simplicity, familiarity to Zope programmers (but no
+Zope experience is required), execution speed, and complete, comprehensive,
+and up-to-date documentation. In this tutorial, we'll explain the core
+concepts in repoze.bfg, then we'll lead a guided development session where we
+make a small application using the framework. We'll also cover packaging and
+deployment of the application. Questions are highly encouraged during the
+presentation.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McDonough</dc:creator><guid>http://www.pyvideo.org/video/183/pycon-2009--the-big-f--39-ing-tutorial--developm1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/183_pycon-2009-the-big-f-ing-tutorial-development-using-the-repoze-bfg-web-framework-part-3-of-3.mp4" length="445324405" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew545-594.jpg"></media:thumbnail></item><item><title>PyCon 2009: The (lack of) design patterns in Python (#60)</title><link>http://www.pyvideo.org/video/146/pycon-2009--the--lack-of--design-patterns-in-pyth</link><description>&lt;p&gt;Description&lt;/p&gt;
+The (lack of) design patterns in Python
+
+  
+Presented at PyCon 2009 by Joe Gregorio
+
+  
+There is a distinct lack of Design Patterns discussed in relation to Python.
+Are the communities ignorant of Design Patterns or is there something else
+going on here? This talk is based on my well-trafficked article "Python isn't
+just Java without the compile" and expands on that article by using Design
+Patterns as a crude metric of gaps in a programming language.
+
+  
+[VIDEO HAS ISSUES: ]
+
+</description><guid>http://www.pyvideo.org/video/146/pycon-2009--the--lack-of--design-patterns-in-pyth</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/146_pycon-2009-the-lack-of-design-patterns-in-python-60.mp4" length="67685346" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-TheLackOfDesignPatternsInPython277-764.jpg"></media:thumbnail></item><item><title>PyCon 2009: The State of Django (#76)</title><link>http://www.pyvideo.org/video/141/pycon-2009--the-state-of-django---76</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Django 1.0 was released in September 2008. This release marks a major turning
+point in Django's development; a real maturation of the project. Join the lead
+developers of Django as they discuss what's new in Django 1.0, cover the
+Django 1.1 release (currently scheduled for a few weeks before PyCon), and
+discuss the project's future.
+
+</description><guid>http://www.pyvideo.org/video/141/pycon-2009--the-state-of-django---76</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/141_pycon-2009-the-state-of-django-76.mp4" length="93483383" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-TheStateOfDjango948-11.jpg"></media:thumbnail></item><item><title>PyCon 2009: The State of the Python Community: Leading the Python tribe (#118)</title><link>http://www.pyvideo.org/video/145/pycon-2009--the-state-of-the-python-community--le</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Steve Holden, Chairman of the Python Software Foundation, reflects on the
+meaning of the phrase "the Python community" and the changes that have taken
+place in the PSF in the last year. He discusses further possible changes that
+could turn the PSF into a more "community-facing" organization, and solicits
+your input on what kind of projects and activities it should be supporting.
+
+</description><guid>http://www.pyvideo.org/video/145/pycon-2009--the-state-of-the-python-community--le</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/145_pycon-2009-the-state-of-the-python-community-leading-the-python-tribe-118.mp4" length="214255799" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-TheStateOfThePythonCommunityLeadingThePythonTribe902-75.jpg"></media:thumbnail></item><item><title>PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 1 of 2)</title><link>http://www.pyvideo.org/video/211/pycon-2009--toscawidgets--test-driven-modular-aja</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: room's AC was loud] If you have ever struggled with having
+to re-create the same content in multiple places in your web application it
+might be time to look at ToscaWidgets. ToscaWidgets gives the developer the
+ability to create reusable web content. This 3 hour lesson will cover
+installation, integration, and usage of ToscaWidgets. After we have a handle
+on how to create validated forms with ToscaWidgets, we will spend the second
+half of this lesson creating a working ajax widget, which we will test the
+client side component using ToscaWidget javascript technology.
+
+</description><guid>http://www.pyvideo.org/video/211/pycon-2009--toscawidgets--test-driven-modular-aja</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/211_pycon-2009-toscawidgets-test-driven-modular-ajax-part-1-of-2.mp4" length="1038784757" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ToscaWidgetsTestDrivenModularAjaxPart001985-9.jpg"></media:thumbnail></item><item><title>PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 2 of 2)</title><link>http://www.pyvideo.org/video/212/pycon-2009--toscawidgets--test-driven-modular-aj0</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+[VIDEO HAS ISSUES: room's AC was loud] If you have ever struggled with having
+to re-create the same content in multiple places in your web application it
+might be time to look at ToscaWidgets. ToscaWidgets gives the developer the
+ability to create reusable web content. This 3 hour lesson will cover
+installation, integration, and usage of ToscaWidgets. After we have a handle
+on how to create validated forms with ToscaWidgets, we will spend the second
+half of this lesson creating a working ajax widget, which we will test the
+client side component using ToscaWidget javascript technology.
+
+</description><guid>http://www.pyvideo.org/video/212/pycon-2009--toscawidgets--test-driven-modular-aj0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/212_pycon-2009-toscawidgets-test-driven-modular-ajax-part-2-of-2.mp4" length="75066342" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ToscaWidgetsTestDrivenModularAjaxPart002764-754.jpg"></media:thumbnail></item><item><title>PyCon 2009: Using Twisted Deferreds (Part 1 of 3)</title><link>http://www.pyvideo.org/video/204/pycon-2009--using-twisted-deferreds--part-1-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+While the documentation about deferreds is good, it is still not enough for
+many. In this interactive tutorial, I will cover both the basics of deferreds
+and many non-trivial use-cases, with discussion of various approaches. Common
+mistakes, gotchas and other issues will be explained, as well as good idioms
+and techniques to use deferreds without pain. Deferreds bring asynchronous
+APIs the clarity and programming power that is sometimes lost when using
+event-based programming. They are an idea taken from many other programming
+languages, and made into a Pythonic solution If you are using Twisted, or
+would like to use Twisted, this tutorial can help you with one of the most
+subtle issues inherent in its APIs - Deferreds.
+
+</description><guid>http://www.pyvideo.org/video/204/pycon-2009--using-twisted-deferreds--part-1-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/204_pycon-2009-using-twisted-deferreds-part-1-of-3.mp4" length="1040669836" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-UsingTwistedDeferredsPart001300-178.jpg"></media:thumbnail></item><item><title>PyCon 2009: Using Twisted Deferreds (Part 2 of 3)</title><link>http://www.pyvideo.org/video/203/pycon-2009--using-twisted-deferreds--part-2-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+[](http://blip.tv/file/1997952)
+
+While the documentation about deferreds is good, it is still not enough for
+many. In this interactive tutorial, I will cover both the basics of deferreds
+and many non-trivial use-cases, with discussion of various approaches. Common
+mistakes, gotchas and other issues will be explained, as well as good idioms
+and techniques to use deferreds without pain. Deferreds bring asynchronous
+APIs the clarity and programming power that is sometimes lost when using
+event-based programming. They are an idea taken from many other programming
+languages, and made into a Pythonic solution If you are using Twisted, or
+would like to use Twisted, this tutorial can help you with one of the most
+subtle issues inherent in its APIs - Deferreds.
+
+</description><guid>http://www.pyvideo.org/video/203/pycon-2009--using-twisted-deferreds--part-2-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/203_pycon-2009-using-twisted-deferreds-part-2-of-3.mp4" length="1043770003" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-UsingTwistedDeferredsPart002282-868.jpg"></media:thumbnail></item><item><title>PyCon 2009: Using Twisted Deferreds (Part 3 of 3)</title><link>http://www.pyvideo.org/video/205/pycon-2009--using-twisted-deferreds--part-3-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+While the documentation about deferreds is good, it is still not enough for
+many. In this interactive tutorial, I will cover both the basics of deferreds
+and many non-trivial use-cases, with discussion of various approaches. Common
+mistakes, gotchas and other issues will be explained, as well as good idioms
+and techniques to use deferreds without pain. Deferreds bring asynchronous
+APIs the clarity and programming power that is sometimes lost when using
+event-based programming. They are an idea taken from many other programming
+languages, and made into a Pythonic solution If you are using Twisted, or
+would like to use Twisted, this tutorial can help you with one of the most
+subtle issues inherent in its APIs - Deferreds.
+
+</description><guid>http://www.pyvideo.org/video/205/pycon-2009--using-twisted-deferreds--part-3-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/205_pycon-2009-using-twisted-deferreds-part-3-of-3.mp4" length="2566011" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-UsingTwistedDeferredsPart003600-823.jpg"></media:thumbnail></item><item><title>Python 101 (1 of 2)</title><link>http://www.pyvideo.org/video/192/python-101--1-of-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 101 (Part 1 of 2)
+
+  
+This 2 part tutorial presents the basics of Python to beginning and
+intermediate programmers. It pairs well with Python 102 which follows a
+similar outline but goes much deeper. Rather than starting with "Hello,
+world!", we use the interactive Python interpreter to get hands-on familiarity
+with much of core Python before covering blocks and scripts. The tutorial is
+divided into short sections, each with presentation and exercises, to quickly
+cover lots of ground. Advanced topics are introduced throughout and covered in
+"extra credit" exercises such that more advanced participants can learn at
+their own pace.
+
+</description><guid>http://www.pyvideo.org/video/192/python-101--1-of-2</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/192_python-101-1-of-2.mp4" length="1039779806" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python101Part001694-719.jpg"></media:thumbnail></item><item><title>Python 101 (2 of 2)</title><link>http://www.pyvideo.org/video/194/python-101--2-of-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 101 (Part 2 of 2)
+
+  
+This half-day tutorial presents the basics of Python to beginning and
+intermediate programmers. It pairs well with Python 102 which follows a
+similar outline but goes much deeper. Rather than starting with "Hello,
+world!", we use the interactive Python interpreter to get hands-on familiarity
+with much of core Python before covering blocks and scripts. The tutorial is
+divided into short sections, each with presentation and exercises, to quickly
+cover lots of ground. Advanced topics are introduced throughout and covered in
+"extra credit" exercises such that more advanced participants can learn at
+their own pace.
+
+</description><guid>http://www.pyvideo.org/video/194/python-101--2-of-2</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/194_python-101-2-of-2.mp4" length="1035984662" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-Python101Part002503-307.jpg"></media:thumbnail></item><item><title>Tour of Python Standard Library (3 of 3)</title><link>http://www.pyvideo.org/video/168/tour-of-python-standard-library--3-of-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+Welcome to A Tour of Python Standard Library. Together let us explore the
+various modules, which will help you to build robust working programs. Once
+you know about a particular library well, you will start replacing those 20
+odd lines of code you used to write with a 2-3 lines and feel safe that your
+code will now work on all the platforms that Python supports. Just like the
+galaxy, the Python Standard Library is vast and when hitch-hiking I will take
+you through some important ones that happen to be used most often. You can
+explore, ask questions, experiment through out the ride. Welcome! And let the
+journey begin.
+
+</description><guid>http://www.pyvideo.org/video/168/tour-of-python-standard-library--3-of-3</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/168_tour-of-python-standard-library-3-of-3.mp4" length="243491007" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-ATourOfPythonStandardLibraryPart003650-998.jpg"></media:thumbnail></item><item><title>Building a Simple Configuration-driven Web Testing Framework With Twill</title><link>http://www.pyvideo.org/video/1851/building-simple-configuration-driven-web-testing-f</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Building a flexible and scalable functional testing framework for your application is typically an evolutionary process. You experiment and find things that work, and things that don't, particularly if you have little programming experience. Sometimes, you proceed down a path that binds your hands later down the road, and a massive refactor is needed. I would like to present a simple testing framework built upon several existing, free technologies (ConfigObj, twill, nose) and models (Page Objects, Scenario Objects, Abstract State Machines) that is easy to configure, extend, and maintain. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kevin Boers</dc:creator><pubDate>Thu, 02 Apr 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1851/building-simple-configuration-driven-web-testing-f</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/1851_building-a-simple-configuration-driven-web-testing-framework-with-twill.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-BuildingASimpleConfigurationdrivenWebTestingFrameworkWith294-915.jpg"></media:thumbnail></item></channel></rss>

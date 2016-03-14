@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeremy Stott</title><link>http://www.pyvideo.org/speaker/2023/jeremy-stott/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2023/jeremy-stott/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A practical guide to web security</title><link>http://www.pyvideo.org/video/3855/a-practical-guide-to-web-security</link><description>&lt;p&gt;Description&lt;/p&gt;
+This presentation is an introduction to securing your Python web application. I am definitely not a security expert, just a developer who thinks security should be everyone's job. That's right. It's your responsibility too. Hopefully I can soften the blow by giving you a beginner's guide to security. That's me, the beginner.
+
+We will pick apart an example Python web application to demonstrate good security practices, along with examples and explanations of why they are important.
+
+I'll cover a few different web security topics:
+
+* Not trusting any input from your users
+* Authentication and session management
+* Using HTTPS effectively
+* Things not to do in client land
+* Obvious mistakes
+* Not so obvious mistakes
+
+If you have written a web application and not thought twice about security, this talk is for you. If you can name the OWASP Top 10, then you can come along anyway and ask me a really tricky question at the end.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeremy Stott</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3855/a-practical-guide-to-web-security</guid><enclosure url="http://youtu.be/54E8GVe8m0o" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/54E8GVe8m0o/hqdefault.jpg"></media:thumbnail></item></channel></rss>

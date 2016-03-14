@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Wesley J. Chun</title><link>http://www.pyvideo.org/speaker/77/wesley-j--chun/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/77/wesley-j--chun/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: Internet Programming with Python (Part 1 of 3)</title><link>http://www.pyvideo.org/video/185/pycon-2009--internet-programming-with-python--pa0</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internet Programming with Python (part 1 of 3)
+
+  
+Presented by Wesley J. Chun
+
+  
+This tutorial introduces current Python programmers to 3-4 distinct areas of
+Internet programming, each in self-contained (approximately) 1-hour lectures
+(unless otherwise noted) with a demonstration of code on each lecture topic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><guid>http://www.pyvideo.org/video/185/pycon-2009--internet-programming-with-python--pa0</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/185_pycon-2009-internet-programming-with-python-part-1-of-3.mp4" length="1039979119" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart001603-459.jpg"></media:thumbnail></item><item><title>PyCon 2009: Internet Programming with Python (Part 2 of 3)</title><link>http://www.pyvideo.org/video/184/pycon-2009--internet-programming-with-python--par</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internet Programming with Python (part 2 of 3)
+
+  
+Presented by Wesley J. Chun
+
+  
+This tutorial introduces current Python programmers to 3-4 distinct areas of
+Internet programming, each in self-contained (approximately) 1-hour lectures
+(unless otherwise noted) with a demonstration of code on each lecture topic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><guid>http://www.pyvideo.org/video/184/pycon-2009--internet-programming-with-python--par</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/184_pycon-2009-internet-programming-with-python-part-2-of-3.mp4" length="1044447826" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart002475-80.jpg"></media:thumbnail></item><item><title>PyCon 2009: Internet Programming with Python (Part 3 of 3)</title><link>http://www.pyvideo.org/video/186/pycon-2009--internet-programming-with-python--pa1</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internet Programming with Python (part 3 of 3)
+
+  
+Presented by Wesley J. Chun
+
+  
+This tutorial introduces current Python programmers to 3-4 distinct areas of
+Internet programming, each in self-contained (approximately) 1-hour lectures
+(unless otherwise noted) with a demonstration of code on each lecture topic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><guid>http://www.pyvideo.org/video/186/pycon-2009--internet-programming-with-python--pa1</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/186_pycon-2009-internet-programming-with-python-part-3-of-3.mp4" length="21970101" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-InternetProgrammingWithPythonPart003373-329.jpg"></media:thumbnail></item><item><title>Python 3: the next generation is here already</title><link>http://www.pyvideo.org/video/375/python-3-the-next-generation-is-here-already</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 3: the next generation is here already
+
+Presented by wesley chun
+
+This talk is about the evolution of Python. We will discuss Python 2 and
+Python 3: what the compatibility issues are, what the main differences are,
+and also talk about migration, Python 2.6/2.7, and other transition tools.
+
+Abstract
+
+Python is currently at a crossroads: Python 2 has taken it from a quiet word-
+of-mouth language to primetime, with many companies around the world using it
+and an ever-increasing global marketshare of the programming world. But now
+comes Python 3, the first version of the language that is not backwards
+compatible with previous releases.
+
+What does this mean? Are all my Python programs going to break? Will I have to
+rewrite everything? How much time do I have? When is Python 2 going to be
+EOL'd? Is the language undergoing a complete rewrite and will I even recognize
+it? What are the changes between Python 2 and 3 anyway? Also, the next
+generation is already here, as Python 3 is over two years old now. What has
+been ported so far, and what is its current status? Are migration plans or
+transition tools available? If I want to start learning Python, should I do
+Python 2 or Python 3? Are all Python 2 books obsolete?
+
+We will attempt to answer all of these questions and more. Join us!
+
+OUTLINE/TOPICS
+
+  * Python 2 vs. Python 3 
+  * Introduction to Python 3 
+  * Backwards Compatibility 
+  * Generational Changes 
+  * Key Differences 
+  * Role of Remaining Python 2.x releases 
+  * Transition &amp; Migration Plans &amp; Tools 
+  * Futures 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/375/python-3-the-next-generation-is-here-already</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/375_python-3-the-next-generation-is-here-already.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011Python3TheNextGenerationIsHereAlready624.png"></media:thumbnail></item><item><title>Running Django Apps on Google App Engine</title><link>http://www.pyvideo.org/video/386/running-django-apps-on-google-app-engine</link><description>&lt;p&gt;Description&lt;/p&gt;
+Running Django Apps on Google App Engine
+
+Presented by wesley chun
+
+In the past, Django users couldn't run apps unmodified on Google App Engine.
+Some tools helped with integration but required you to change your data
+models. Django-nonrel removes this requirement letting you run native Django
+apps on App Engine with only config changes if you bear in mind its
+restrictions like no JOINs. In this talk, we'll discuss Django-nonrel &amp;
+porting App Engine apps to Django.
+
+Abstract
+
+Previously, Django users could not get their apps to run unmodified on Google
+App Engine, the cloud application-hosting platform. Older tools like "the
+Helper" and "the Patch" required a change to the data models as well as
+perhaps integrating additional tools into the application source tree. The
+creators of the Patch realized how cumbersome this is and created a
+replacement for all of these older tools.
+
+Django-nonrel allows users to run pure Django apps on App Engine with only
+minor configuration changes. It basically enables Django's ORM to operate on
+top of non-relational databases (in addition to preserving its ability to
+support standard relational DBs), one of which is Google App Engine's
+Datastore. (MongoDB is another.)
+
+What this means that current Django users can now use their existing knowledge
+to write apps for App Engine as long as they keep App Engine restrictions in
+mind, e.g., no JOINs. Projects written in this manner will work without any
+modifications other than changing the configuration settings. On the other
+side, App Engine developers now have an alternative to the '"webapp" framework
+that comes with its SDK. You can now leverage the power of a full web
+framework like Django and still enjoy the flexibility and scalability of App
+Engine. In this talk, we'll discuss Django-nonrel, and how to port App Engine
+apps from webapp to pure Django to run on App Engine using Django-nonrel.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/386/running-django-apps-on-google-app-engine</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/386_running-django-apps-on-google-app-engine.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011RunningDjangoAppsOnGoogleAppEngine570.png"></media:thumbnail></item><item><title>Python 3: The Next Generation (#48)</title><link>http://www.pyvideo.org/video/280/pycon-2010--python-3--the-next-generation---48</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 3: The Next Generation
+
+  
+Presented by Wesley J. Chun
+
+  
+This talk is about the evolution of Python. We will discuss Python 2 and
+Python 3: what the compatibility issues are, what the main differences are,
+and also talk about migration, Python 2.6, and other transition tools.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/280/pycon-2010--python-3--the-next-generation---48</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/280_python-3-the-next-generation-48.ogv" length="150617866" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/280_python-3-the-next-generation-48.ogv" fileSize="150617866" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/280_python-3-the-next-generation-48.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010Python3TheNextGeneration48189-803.jpg"></media:thumbnail></item><item><title>Writing Books using Python and Open Source Software (#40)</title><link>http://www.pyvideo.org/video/332/writing-books-using-python-and-open-source-softwa</link><description>&lt;p&gt;Description&lt;/p&gt;
+Writing Books using Python and Open Source Software
+
+  
+Presented by Mr. wesley j. chun
+
+  
+These days, there are countless number of software applications and web
+services that have been developed using free and open source software (FOSS).
+Such tools have become so flexible, powerful, and universal, that it should
+also be possible for authors to write manuscripts using open source tools like
+Python in the same way that applications are developed. In this talk, we
+present some case studies of this phenomenon.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wesley J. Chun</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/332/writing-books-using-python-and-open-source-softwa</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/332_writing-books-using-python-and-open-source-software-40.ogv" length="188692385" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/332_writing-books-using-python-and-open-source-software-40.ogv" fileSize="188692385" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/332_writing-books-using-python-and-open-source-software-40.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010WritingBooksUsingPythonAndOpenSourceSoftware40530.png"></media:thumbnail></item></channel></rss>

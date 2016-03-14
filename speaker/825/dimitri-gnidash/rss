@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dimitri Gnidash</title><link>http://www.pyvideo.org/speaker/825/dimitri-gnidash/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/825/dimitri-gnidash/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Nov 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Success Rate of Technology Projects</title><link>http://www.pyvideo.org/video/1596/success-rate-of-technology-projects</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Why do some projects fail and some succeed? Is it about technology and quality
+of developers?
+
+I will be advocating that the success or failure of a given technology project
+will be dependent on factors frequently outside of control of development
+team.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dimitri Gnidash</dc:creator><pubDate>Sun, 11 Nov 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1596/success-rate-of-technology-projects</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Success_Rate_of_Technology_Projects.mp4?Signature=%2FakrGZ6zrEMwBejXXUu6xr9U%2BOk%3D&amp;Expires=1352840515&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Success_Rate_of_Technology_Projects.mp4?Signature=%2FakrGZ6zrEMwBejXXUu6xr9U%2BOk%3D&amp;Expires=1352840515&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=YpuIndUXHwo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/YpuIndUXHwo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

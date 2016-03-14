@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Guy Kloss</title><link>http://www.pyvideo.org/speaker/61/guy-kloss/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/61/guy-kloss/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:53 -0000</lastBuildDate><ttl>500</ttl><item><title>Guy Kloss - Python Data Plotting and Visualisation Extravaganza</title><link>http://www.pyvideo.org/video/115/guy-kloss---python-data-plotting-and-visualisatio</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python Data Plotting and Visualization Extravaganza
+
+Presented by Guy Kloss
+
+Abstract
+
+In various fields data is accumulated or produced. This can be observation
+data, statistical data, simulation data, ... Information like that can in many
+cases be much more easily analysed through the user's eyes employing data
+visualisation. This talk is trying to dive briefly into various means and
+tools to visually analyse data of different qualities: time series, simple 2D
+plots, surface plots, volume plots, quiver plots, etc.
+
+Outline
+
+I am planning on doing a "fly by" through the world of data visualisation for
+different types of data using different tools. Types of data:
+
+  * 1D data and simple functions 
+  * 2D data for surface plots 
+  * 3D data through quiver plots, iso surfaces, and cutting planes 
+  * n-D data through different means 
+  * continuous and non-continuously structured data 
+  * time series 
+  * real time data visualisation/analysis 
+
+The tools that will probably appear in the demos and discussions:
+
+  * GNUplot 
+  * matplotlib 
+  * Mayavi2 
+  * Visual Python 
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guy Kloss</dc:creator><guid>http://www.pyvideo.org/video/115/guy-kloss---python-data-plotting-and-visualisatio</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/115_guy-kloss-python-data-plotting-and-visualisation-extravaganza.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-GuyKlossPythonDataPlottingAndVisualisationExtravaganza813-419.jpg"></media:thumbnail></item></channel></rss>

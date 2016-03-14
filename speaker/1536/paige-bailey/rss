@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Paige Bailey</title><link>http://www.pyvideo.org/speaker/1536/paige-bailey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1536/paige-bailey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 04 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>I ♥ Maps: Quantum GIS + Python</title><link>http://www.pyvideo.org/video/3160/i-maps-quantum-gis-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Quantum GIS (QGIS) is an open-source, highly customizable geospatial application that's great for data exploration, manipulation, and cartographic preparation -- in other words, it's software that allows you to make detailed, aesthetically-pleasing maps for free!
+
+QGIS is also *extremely* script-able with Python, and integrates with a large number of database and analysis backends (GRASS, R, PostGIS, etc.). In this talk, Paige Bailey will be giving a short overview of QGIS; detailing a few mapping case studies; then showing how to leverage additional functionality by writing custom Python plugins.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paige Bailey</dc:creator><pubDate>Sat, 04 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3160/i-maps-quantum-gis-python</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3160_I_Maps_Quantum_GIS_Python.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3160_I_Maps_Quantum_GIS_Python.webm" mime_type="video/webm"></media:content><media:content url="http://www.youtube.com/watch?v=7OU0SjOR-r0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/7OU0SjOR-r0/hqdefault.jpg"></media:thumbnail></item><item><title>Python 101++: Let's Get Down to Business</title><link>http://www.pyvideo.org/video/3153/python-101-lets-get-down-to-business</link><description>&lt;p&gt;Description&lt;/p&gt;
+You've started the Codecademy and Coursera courses; you've thumbed through Zed Shaw's "Learn Python the Hard Way"; and now you're itching to see what Python can help you do.  This is the workshop for you!
+
+Here's the breakdown: we're going to be taking you on a whirlwind tour of Python's capabilities.  By the end of the workshop, you should be able to easily follow any of the widely available Python courses on the internet, and have a grasp on some of the more complex aspects of the language.  
+
+Please don't forget to bring your personal laptop!
+
+Audience:
+This course is aimed at those who already have some basic programming experience, either in Python or in another high level programming language (such as C/C++, Fortran, Java, Ruby, Perl, or Visual Basic).  If you're an absolute beginner -- new to Python, and new to programming in general -- make sure to check out the "Python 101" workshop!
+
+chapters:
+(00:00)
+(0:01:33)
+(0:01:39)
+(0:09:39)
+(0:10:24)
+(0:14:34)
+(0:18:11)
+(0:23:45)
+(0:24:06)
+(0:25:37)
+(0:37:31)
+(1:28:25)
+(1:28:27) </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paige Bailey</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3153/python-101-lets-get-down-to-business</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3153_Python_101_Lets_Get_Down_to_Business.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3153_Python_101_Lets_Get_Down_to_Business.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/zmWsgVk6VGw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/zmWsgVk6VGw/hqdefault.jpg"></media:thumbnail></item><item><title>Python 101: Python for Absolute Beginners</title><link>http://www.pyvideo.org/video/3149/python-101-python-for-absolute-beginners</link><description>&lt;p&gt;Description&lt;/p&gt;
+If you're absolutely new to Python, and to programming in general, this is the place to start!  
+
+Here's the breakdown: by the end of this workshop, you'll have Python downloaded onto your personal machine; have a general idea of what Python can help you do; be pointed in the direction of some excellent practice materials; and have a basic understanding of the syntax of the language. 
+
+Please don't forget to bring your laptop!
+
+Audience:
+"Python 101" is geared toward individuals who are new to programming. If you've had some programming experience (shell scripting, MATLAB, Ruby, etc.), then you'll probably want to check out the more intermediate workshop, "Python 101++".</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paige Bailey</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3149/python-101-python-for-absolute-beginners</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3149_Python_101_Python_for_Absolute_Beginners.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3149_Python_101_Python_for_Absolute_Beginners.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/2LOHY-HsYHc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/2LOHY-HsYHc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

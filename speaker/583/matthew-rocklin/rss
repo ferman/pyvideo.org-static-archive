@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Matthew Rocklin</title><link>http://www.pyvideo.org/speaker/583/matthew-rocklin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/583/matthew-rocklin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 10 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Blaze: Building a Foundation for Array-Oriented Computing in Python</title><link>http://www.pyvideo.org/video/2811/blaze-building-a-foundation-for-array-oriented-c</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The Blaze project is a collection of libraries being built towards the goal of generalizing NumPy's data model and working on distributed data. This talk covers each of these libraries, and how they work together to accomplish this goal.
+&lt;p&gt;Description&lt;/p&gt;
+Python's scientific computing and data analysis ecosystem, built around NumPy, SciPy, Matplotlib, Pandas, and a host of other libraries, is a tremendous success. NumPy provides an array object, the array-oriented ufunc primitive, and standard practices for exposing and writing numerical libraries to Python all of which have assisted in making it a solid foundation for the community. Over time, however, it has become clear that there are some limitations of NumPy that are difficult to address via evolution from within. Notably, the way NumPy arrays are restricted to data with regularly strided memory structure on a single machine is not easy to change.
+
+Blaze is a project being built with the goal of addressing these limitations, and becoming a foundation to grow Python's success in array-oriented computing long into the future. It consists of a small collection of libraries being built to generalize NumPy's notions of array, dtype, and ufuncs to be more extensible, and to represent data and computation that is distributed or does not fit in main memory.
+
+Datashape is the array type system that describes the structure of data, including a specification of a grammar and set of basic types, and a library for working with them. LibDyND is an in-memory array programming library, written in C++ and exposed to Python to provide the local representation of memory supporting the datashape array types. BLZ is a chunked column-oriented persistence storage format for storing Blaze data, well-suited for out of core computations. Finally, the Blaze library ties these components together with a deferred execution graph and execution engine, which can analyze desired computations together with the location and size of input data, and carry out an execution plan in memory, out of core, or in a distributed fashion as is needed.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Wiebe,Matthew Rocklin</dc:creator><pubDate>Thu, 10 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2811/blaze-building-a-foundation-for-array-oriented-c</guid><enclosure url="http://www.youtube.com/watch?v=9HPR-1PdZUk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/9HPR-1PdZUk/hqdefault.jpg"></media:thumbnail></item><item><title>SymPy Tutorial Part 1</title><link>http://www.pyvideo.org/video/2706/sympy-tutorial-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+
+&lt;p&gt;Description&lt;/p&gt;
+In this tutorial we will introduce attendees to SymPy. We will show basics of constructing and manipulating mathematical expressions in SymPy, the most common issues and differences from other computer algebra systems, and how to deal with them. In the last part of this tutorial we will show how to solve some practical problems with SymPy. This will include showing how to interface SymPy with popular numeric libraries like NumPy.
+
+This knowledge should be enough for attendees to start using SymPy for solving mathematical problems and hacking SymPy's internals (though hacking core modules may require additional expertise).</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer,Jason K. Moore,Matthew Rocklin</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2706/sympy-tutorial-part-1</guid><enclosure url="http://www.youtube.com/watch?v=Lgp442bibDM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Lgp442bibDM/hqdefault.jpg"></media:thumbnail></item><item><title>SymPy Tutorial Part 2</title><link>http://www.pyvideo.org/video/2713/sympy-tutorial-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer,Jason K. Moore,Matthew Rocklin</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2713/sympy-tutorial-part-2</guid><enclosure url="http://www.youtube.com/watch?v=_PTe10whFKo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/_PTe10whFKo/hqdefault.jpg"></media:thumbnail></item><item><title>SymPy Tutorial Part 3</title><link>http://www.pyvideo.org/video/2707/sympy-tutorial-part-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer,Jason K. Moore,Matthew Rocklin</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2707/sympy-tutorial-part-3</guid><enclosure url="http://www.youtube.com/watch?v=qleGSnrnxgc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/qleGSnrnxgc/hqdefault.jpg"></media:thumbnail></item><item><title>SymPy Tutorial Part 4</title><link>http://www.pyvideo.org/video/2711/sympy-tutorial-part-4</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer,Jason K. Moore,Matthew Rocklin</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2711/sympy-tutorial-part-4</guid><enclosure url="http://www.youtube.com/watch?v=04AGOl1P2U4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/04AGOl1P2U4/hqdefault.jpg"></media:thumbnail></item><item><title>Taking Control: Enabling Mathematicians and Scientists</title><link>http://www.pyvideo.org/video/2712/taking-control-enabling-mathematicians-and-scien</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Good solutions to hard problems require both domain and algorithmic expertise.
+Domain experts know what to do and computer scientists know how to do it
+well. This talk discusses challenges and experiences trying to reconcile these
+two groups, particularly within SymPy. It proposes concrete approaches
+including multiple dispatch, pattern matching, and programmatic strategies.
+
+&lt;p&gt;Description&lt;/p&gt;
+Good solutions to hard problems require both domain and algorithmic expertise.
+Domain experts know *what* to do and computer scientists know *how* to do it
+well.  Coordination between the algorithmic and domain programmer is 
+challenging to do well and difficult to scale.  It is also arguably one of the
+most relevant blocks to scientific progress today.
+
+This talk draws from experience supporting mathematical programmers in the
+SymPy project.  SymPy is a computer algebra system, a complex problem that
+requires the graph manipulation algorithms of a modern compiler alongside the           mathematics of several PhD theses.  SymPy draws from a broad developer base
+with experienced and novice developers alike and so struggles to maintain a
+cohesive organized codebase.
+
+We approach this development problem by separating software engineering
+into a collection of small functions, written by domain experts, alongside an
+abstract control system, written by algorithmic programmers.  We facilitate
+this division with techniques taken from other languages and compiler 
+technologies.  Notably we motivate the use of a few general purpose libraries
+for multiple dispatch, pattern matching, and programmatic control.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Rocklin</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2712/taking-control-enabling-mathematicians-and-scien</guid><enclosure url="http://www.youtube.com/watch?v=QldxygVVj-s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/QldxygVVj-s/hqdefault.jpg"></media:thumbnail></item><item><title>SymPy Stats - Uncertainty Modeling</title><link>http://www.pyvideo.org/video/1208/sympy-stats-uncertainty-modeling</link><description>&lt;p&gt;Description&lt;/p&gt;
+SymPy is a symbolic algebra package for Python. In SymPy.Stats we add a
+stochastic variable type to this package to form a language for uncertainty
+modeling. This allows engineers and scientists to symbolically declare the
+uncertainty in their mathematical models and to make probabilistic queries. We
+provide transformations from probabilistic statements like $P(X*Y &gt; 3)$ or
+$E(X**2)$ into deterministic integrals. These integrals are then solved using
+SymPy's integration routines or through numeric sampling.
+
+This talk touches on a few rising themes:
+
+    
+
+  * The rise in interest in uncertainty quantification and
+  * The use of symbolics in scientific computing
+  * Intermediate representation layers and multi-stage compilation
+
+Historically solutions to uncertainty quantification problems have been
+expressed by writing Monte Carlo codes around individual problems. By creating
+a symbolic uncertainty language we allow the expression of the problem-to-be-
+solved to be written separately from the numerical technique. SymPy.stats
+serves as an interface layer. The statistical programmer doesn't need to think
+about the details of numerical techniques and the computational methods
+programmer doesn't need to think about the particular domain-specific
+questions to be solved.
+
+We have implemented multiple comptuational backends including purely symbolic
+(using SymPy's integration engine), sampling, and code generation.
+
+In the talk we discuss these ideas with a few illustrative examples taken from
+basic probability and engineering. The following is one such example
+
+[http://sympystats.wordpress.com/2011/07/02/a-lesson-in-data-assimilation-
+using-sympy/](http://sympystats.wordpress.com/2011/07/02/a-lesson-in-data-
+assimilation-using-sympy/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Rocklin</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1208/sympy-stats-uncertainty-modeling</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/SymPy_Stats_Uncertainty_Modeling.mp4?Signature=rl3GFBy%2FFvQFU4vEkWldM59hlQA%3D&amp;Expires=1346381534&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/SymPy_Stats_Uncertainty_Modeling.mp4?Signature=rl3GFBy%2FFvQFU4vEkWldM59hlQA%3D&amp;Expires=1346381534&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=27su3TQ3BvQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/27su3TQ3BvQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

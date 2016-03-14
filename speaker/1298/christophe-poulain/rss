@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christophe Poulain</title><link>http://www.pyvideo.org/speaker/1298/christophe-poulain/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1298/christophe-poulain/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>CodaLab: A New Service for Data Exchange, Code Execution, Benchmarks &amp; Reproducible Research</title><link>http://www.pyvideo.org/video/2792/codalab-a-new-service-for-data-exchange-code-ex</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn, Share and Collaborate with CodaLab -- A new open source platform which lets communities create and explore experiments together and engage in benchmarking and competitions to enable true reproducibility and advance the state of the art in data-driven research
+&lt;p&gt;Description&lt;/p&gt;
+CodaLab is a web-based open source platform that allows researchers to share and browse code, data, and create experiments in a truly reproducible manner. CodaLab focuses on accomplishing the following:
+
+* Serve as a data repository for data sets including large scale data sets that could only be hosted in a cloud computing environment 
+* Serve as an algorithm repository that researchers can use in their experimentation, to teach and learn from others
+* Host the execution of experiments as worksheets, sometimes referred to as "executable papers", which are annotated scientific documents that combine textual process descriptions with live data sets and functioning code.
+* Enable the creation of benchmarks 
+
+CodaLab is a community-driven effort led by Percy Liang from Stanford University who built the precursor of CodaLab, namely, MLComp. From a development viewpoint CodaLab supports both the Linux and Windows communities with code in GitHub and Python as one of the main language used to support the scientific community.
+
+At SciPi, we invite the community to participate in CodaLab by creating experiments as executable papers and by sharing them with the rest of the community at [http://codalab.org](http://codalab.org). These worksheets or "executable papers" can then be freely reproduced, appended, and otherwise modified to improve productivity and accelerate the pace of discovery and learning among data-driven scientific professionals.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Poulain</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2792/codalab-a-new-service-for-data-exchange-code-ex</guid><enclosure url="http://www.youtube.com/watch?v=vla-EQaPHYU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/vla-EQaPHYU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

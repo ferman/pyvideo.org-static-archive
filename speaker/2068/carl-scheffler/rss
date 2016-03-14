@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Carl Scheffler</title><link>http://www.pyvideo.org/speaker/2068/carl-scheffler/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2068/carl-scheffler/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Distributed pub-sub infrastructure with Apache Kafka</title><link>http://www.pyvideo.org/video/3924/distributed-pub-sub-infrastructure-with-apache-ka</link><description>&lt;p&gt;Description&lt;/p&gt;
+[Apache Kafka](http://kafka.apache.org/) is great for building a large scale distributed data bus. Even a small cluster will happily accept and store thousands of messages per second, and make them available to consumers with low latency.
+
+Kafka was chosen as the solution to our publish-subscribe infrastructure at [Takealot.com](http://www.takealot.com/). It supports our event-driven systems on the website, in the warehouses and in the office, as well as our analytics and machine learning projects.
+
+This talk will
+
+ * introduce the basic Kafka principles that make things work,
+ * outline how Kafka fits in with the rest of our architecture,
+ * cover some of the practicalities of building Python-based Kafka services,
+ * compare the two main Python libraries for Kafka, namely [kafka-python](https://github.com/mumrah/kafka-python) and [pykafka](https://github.com/Parsely/pykafka),
+ * demonstrate some practical applications at Takealot.com.
+
+Join in if you are interested in scalable distributed infrastructure.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Scheffler</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3924/distributed-pub-sub-infrastructure-with-apache-ka</guid><enclosure url="http://youtu.be/b8Cj5-LieH0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/b8Cj5-LieH0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

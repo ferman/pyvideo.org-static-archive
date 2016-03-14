@@ -1,0 +1,332 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Accelerating and Enhancing Django with Redis</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="django,redis">
+  
+    <meta name="description" content="This tutorial introduces Redis, an in-memory key-object NoSQL datastore. We
+discuss out-of-the-box ways Redis can help improve the performance of your
+Django deployments, ways that using Redis instead of SQL for some data
+management can accelerate your apps, and more advanced and unconventional uses
+for Redis to solve real-time and big-data problems.
+
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="accelerating-and-enhancing-django-with-redis.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="accelerating-and-enhancing-django-with-redis.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=xbWBIudWRxQ"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Accelerating and Enhancing Django with Redis</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/xbWBIudWRxQ/hqdefault.jpg"/>
+      <link property="sameAs" href="accelerating-and-enhancing-django-with-redis.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>This tutorial introduces Redis, an in-memory key-object NoSQL datastore. We
+discuss out-of-the-box ways Redis can help improve the performance of your
+Django deployments, ways that using Redis instead of SQL for some data
+management can accelerate your apps, and more advanced and unconventional uses
+for Redis to solve real-time and big-data problems.</p></div>
+        <meta property="caption" content="This tutorial introduces Redis, an in-memory key-object NoSQL datastore. We
+discuss out-of-the-box ways Redis can help improve the performance of your
+Django deployments, ways that using Redis instead of SQL for some data
+management can accelerate your apps, and more advanced and unconventional uses
+for Redis to solve real-time and big-data problems."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Getting your Django app to a v1.0 release means focusing on function and user
+experience before prematurely focusing on optimization. But once it's off the
+ground, the Redis key-object store provides a versatile and functional way to
+take your app to the next level of performance and function with minimal
+engineering.</p>
+<p><a href="http://redis.io">Redis</a> is an in-memory key-object database that can perform
+standard operations on simple values, lists, sets, hash maps, and scored sets
+with incredible efficiency. While it cannot and should not replace SQL for
+schema-defined, persistent data storage, it can provide dramatically faster
+operational efficiency for volatile, temporary, or rapidly changing data with
+minimal coding required.</p>
+<p>This talk begins by introducing Redis, its basic featureset, and the data
+types and operations it supports. We'll cover some high-level guidelines and
+strategies for identifying where Redis may be an appropriate performance-
+enhancing solution. We then cover the out-of-the-box ways that Redis can
+improve a Django application as a cache, session store, Celery broker, and
+more. We'll then proceed to more advanced usage possibilities, implementing a
+real-time websocket based messaging solution, scripting within Redis using its
+embedded Lua interpreter, and connecting Redis to PostgreSQL using Foreign
+Data Wrappers to efficiently blend SQL tables with Redis data.</p>
+<p>By the end of the presentation, you should be able to use all of the data-
+structures offered by Redis, to identify opportunities within you codebase
+that Redis may offer simple but dramatic efficiency improvements, and to
+envision how advanced Redis usage may bring new and cutting-edge functionality
+to your project.</p>
+<p>Redis was developed by <a href="http://twitter.com/antirez">Salvatore Sanfilippo</a> and
+<a href="http://twitter.com/pnoordhuis">Pieter Noordhuis</a>, who are both supported by
+VMWare to develop the database full-time. Redis has excellent <a href="https://github.com/andymccurdy/redis-py/">Python
+bindings</a> developed by Andy McCurdy.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/23/djangocon-2012.html">DjangoCon 2012</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/748/joshua-ginsberg.html">Joshua Ginsberg</a></div>
+            <meta property="author" content="Joshua Ginsberg"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Sept. 6, 2012
+            <meta property="dateCreated" content="2012-09-06"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:26.969232"/>
+            <meta property="datePublished" content="2014-04-08T20:28:26.969232"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=xbWBIudWRxQ" property="embedUrl">http://www.youtube.com/watch?v=xbWBIudWRxQ</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1410">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Creative Commons Attribution license (reuse allowed
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">django</span>
+          
+            <span property="keywords">redis</span>
+          
+          <meta property="keywords" content="DjangoCon 2012"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="accelerating-and-enhancing-django-with-redis.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rick Harding</title><link>http://www.pyvideo.org/speaker/298/rick-harding/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/298/rick-harding/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 28 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Wrangling the bits, standardizing how apps get built</title><link>http://www.pyvideo.org/video/517/pyohio-2010--wrangling-the-bits--standardizing-ho</link><description>&lt;p&gt;Description&lt;/p&gt;
+Wrangling the bits, standardizing how apps get built
+
+Presented by Rick Harding
+
+As we moved more work to Python we had to figure out how to start, share, and
+deploy projects in a standard way. Virtualenv, pip, and Git to the rescue.
+
+[Note: The talk starts at around 7:20 when the mic is working.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rick Harding</dc:creator><guid>http://www.pyvideo.org/video/517/pyohio-2010--wrangling-the-bits--standardizing-ho</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/517_pyohio-2010-wrangling-the-bits-standardizing-how-apps-get-built.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-WranglingTheBitsStandardizingHowAppsGetBuilt608.png"></media:thumbnail></item><item><title>PyOhio 2011: SqlAlchemy tutorial</title><link>http://www.pyvideo.org/video/525/pyohio-2011--sqlalchemy-tutorial</link><description>&lt;p&gt;Description&lt;/p&gt;
+SqlAlchemy tutorial
+
+Presented by Rick Harding
+
+SqlAlchemy is one of the top 5 "must have" modules for Python. We'll go
+through why you might want to use an ORM, situations to use the different
+layers of SqlAlchemy, and some tips and tricks on a real sample application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rick Harding</dc:creator><guid>http://www.pyvideo.org/video/525/pyohio-2011--sqlalchemy-tutorial</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/525_pyohio-2011-sqlalchemy-tutorial.ogv" length="564479437" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-SqlAlchemyTutorial951.png"></media:thumbnail></item><item><title>Starting your project right: setup and automation for all</title><link>http://www.pyvideo.org/video/1354/starting-your-project-right-setup-and-automation</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Everyone starts hacking on their little Python library or application, with
+one goal in mind: Hacking Code! However, you need to do a little work to
+prepare your project for success. We'll discuss project layout, automation
+with Make, and 3rd party services to help your project appear more organized,
+accessible, and dare I say, professional!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rick Harding</dc:creator><pubDate>Sat, 28 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1354/starting-your-project-right-setup-and-automation</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Starting_your_project_right_setup_and_automation_for_all.mp4?Signature=ptYcZSzQz8WO7CbjjVLZXD%2Fo3Vg%3D&amp;Expires=1346554799&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Starting_your_project_right_setup_and_automation_for_all.mp4?Signature=ptYcZSzQz8WO7CbjjVLZXD%2Fo3Vg%3D&amp;Expires=1346554799&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=VNSIDCwJxAg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VNSIDCwJxAg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

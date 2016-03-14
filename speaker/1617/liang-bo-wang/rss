@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Liang Bo Wang</title><link>http://www.pyvideo.org/speaker/1617/liang-bo-wang/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1617/liang-bo-wang/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 27 Jun 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Handy Parallel (Distributed) Computing in Python</title><link>http://www.pyvideo.org/video/3257/handy-parallel-distributed-computing-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+We all start our programming with single process in mind. But parallelization from scratch is a real headache. Things get worse when it comes to writing a spaghetti code in both short time and high performance, which is often the case doing data analysis.
+
+In fact, cases like computation under different conditions, programs can be easily parallelized (distributed) with a few modifications using existed library like multiprocessing, IPython Parallel, and Celery.
+
+This talk makes you not afraid of parallel or distributed computing and provides ways for different level of parallelization from single machine, cluster, to cluster with task queue. I will only talk about the basic scenario, which should be easier for newbies to try on and understand how powerful these tools can be.
+
+A machine learning example will be given in the end to compare performance and possible issues with different implementations. 
+
+
+About the speaker
+
+呆呆電雞生，喜歡寫 R / Python，喜歡統計與生物資訊。目前為 Taiwan R Users Group 工作人員及 Taipei.py 常客。
+
+Bioinfo / Stat / R / Python, master student of NTU BEBI. Co-organizer of Taiwan R Users Group and freq attendee of Taipei.py.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Liang Bo Wang</dc:creator><pubDate>Fri, 27 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3257/handy-parallel-distributed-computing-in-python</guid><enclosure url="https://www.youtube.com/watch?v=IsyhAJRkETY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/IsyhAJRkETY/hqdefault.jpg"></media:thumbnail></item><item><title>Statistics in Python with R</title><link>http://www.pyvideo.org/video/3268/statistics-in-python-with-r-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+Statistics is essential to data analysis, and many people choose R because of its great package diversity. With the advent of pandas, Python becomes one of the hottest language to do data analysis, and it will be more helpful if we can do statistics in Python as well. 
+
+In this talk, I will first introduce how to do statistics in Python using statsmodel and some related functions implemented in Numpy and Scipy. 
+
+Then I will introduces the communication from Python to R using rpy2, and give you advices or alternatives about when to use this approach or not.
+
+
+About the speaker
+
+呆呆電雞生，喜歡寫 R / Python，喜歡統計與生物資訊。目前為 Taiwan R Users Group 工作人員及 Taipei.py 常客。
+Bioinfo / Stat / R / Python, master student of NTU BEBI. Co-organizer of Taiwan R Users Group and freq attendee of Taipei.py.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Liang Bo Wang</dc:creator><pubDate>Tue, 24 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3268/statistics-in-python-with-r-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=YzVvZ9HPrn8" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/YzVvZ9HPrn8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

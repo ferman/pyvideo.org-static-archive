@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ed Leafe</title><link>http://www.pyvideo.org/speaker/91/ed-leafe/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/91/ed-leafe/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Aug 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Build Your Infrastructure - with Python!</title><link>http://www.pyvideo.org/video/2326/build-your-infrastructure-with-python-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cloud computing is changing the way that businesses think about their infrastructure. Rather than ordering and managing hardware, they can now provision what they need with a few clicks or API calls. This talk will demonstrate building infrastructure using our favorite language: Python!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ed Leafe</dc:creator><pubDate>Sun, 11 Aug 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2326/build-your-infrastructure-with-python-0</guid><enclosure url="http://www.youtube.com/watch?v=HKeEt2dVjkQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/HKeEt2dVjkQ/hqdefault.jpg"></media:thumbnail></item><item><title>Build your infrastructure - with Python!</title><link>http://www.pyvideo.org/video/2212/build-your-infrastructure-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cloud computing is changing the way that businesses think about their computing requirements. Instead of ordering hardware, waiting for delivery, allocating space in a data center, installing and wiring it up, and then configuring each piece of the system, you can now do the equivalent with a few clicks on a control panel, but that gets tedious. What's much more interesting is to do all of this programmatically, using our favorite language: Python!
+
+This session will deep-dive into this topic by using pyrax, the Python SDK for the OpenStack and Rackspace Clouds. It will cover the following:
+
+• Getting your cloud account and credentials
+• Installing pyrax
+• Creating servers
+• Saving a customized server as a template image
+• Creating more servers on demand from your template images.
+• Creating, attaching, and imaging Block Storage volumes.
+• Using private networks to create a bastion host setup
+• Managing these servers with a Load Balancer
+• Creating and managing Cloud Databases
+• Using pyrax to manage your DNS
+• Object storage and management using pyrax</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ed Leafe</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2212/build-your-infrastructure-with-python</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Build_your_infrastructure_with.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Build_your_infrastructure_with.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ohmAT6hpqaQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/ohmAT6hpqaQ/hqdefault.jpg"></media:thumbnail></item><item><title>Creating Rich Client Applications Using Dabo</title><link>http://www.pyvideo.org/video/248/creating-rich-client-applications-using-dabo</link><description>&lt;p&gt;Description&lt;/p&gt;
+Creating Rich Client Applications Using Dabo
+
+Presented by Ed Leafe and Paul McNett
+
+While web applications seem to get all the attention these days, many
+businesses still rely on desktop, or "rich client", applications to run their
+business. For those who prefer to do their coding with Python, Dabo is the
+only full-featured desktop app framework.
+
+In this tutorial, we'll cover the general structure and approach to
+application development used in Dabo, including lots of interactive work where
+we will all develop applications that will be able to query a database,
+display the results, allow the user to edit the data, and then save it back to
+the database. We will cover the various tools available in Dabo to help you
+develop your applications, and how they work together.
+
+Intended Audience
+
+Developers with basic to intermediate Python experience.
+
+Class Outline
+
+Introduction: The thinking and design approach behind the framework. (15 min).
+
+  * Explanation of the framework design. Frameworks are great if you're working with them, but not if you're constantly fighting them! We'll outline the various parts of the framework, and how they work together to create applications. 
+
+Building an app in 30 seconds. (15 min)
+
+  * You can use the AppWizard to create a completely functional CRUD application in less than 30 seconds. We'll demonstrate how to use the AppWizard, and how you can build on and further customize the application it creates. 
+
+The primary non-UI classes in Dabo (15 min)
+
+  * There are lots of classes in Dabo, but only a few main ones that are used in every app. This section will cover them: the application class, the business object class, and the DBAPI data adapter class. 
+
+Introduction to the Dabo Tools (30 min)
+
+  * One of the benefits of a framework is that the mundane, repetitive tasks are handled by the framework, leaving you to focus on the creative parts of app development. In this section we'll discuss several of the visual tools available to help you create Dabo applications faster and easier. 
+
+Developing an actual application, part 1 (15 min)
+
+  * Talk is fine, but here's where we begin creating an actual application. Attendees will learn how to create a new Dabo app, along with database connections, menus and a main form. In the second half of the tutorial we'll use this app as the basis for more complex development. 
+
+REFRESHMENT BREAK
+
+Overview of UI Classes (30 min)
+
+  * This is where we talk about the "rich" in "rich client". Dabo has a full set of UI widgets, based on the wxPython toolkit. We've taken those widget classes and added a consistent interface, so that the developer uses the same properties and methods to accomplish the same thing in all the classes, making developing smoother and more intuitive. We'll cover all of the most-commonly used controls, and how to work with them. 
+
+Developing an actual application, part 2 (30 min)
+
+  * The basic app created in the first half was an impressive result for such a short amount of time, but here's where we'll start to make it more interesting. We'll create several related business objects, bind them to the UI elements, and have it all work seamlessly with a database. After that, we'll show how to create and run reports against that same data. We'll then wrap up by explaining how to deploy your finished application. 
+
+Rich Client Web Applications with Dabo (10 min)
+
+  * HTML web apps are trying to get a richer client experience through the increased use and sophistication of Javascript-based tools. That's great if you like spending your time in Javascript, but not so great if you are a Python dev. We take the opposite approach: taking our rich-client apps and deploying them over the web so that users can run them without first installing the app. 
+
+Future plans for Dabo (5 min)
+
+  * Dabo is being actively developed, and we have plans for future enhancements that we'll cover here. 
+
+Wrap-up and Final Questions (15 min)
+
+Requirements
+
+Students do not need to have a computer, but they will not get as much out of
+the session if they cannot actively participate in creating the example
+applications. They should have the following prerequisites installed, using
+the latest available stable releases except where specific version numbers are
+indicated:
+
+  * Python 2.5.4 
+  * wxPython 2.8.10.1 unicode 
+  * MySQLdb 
+  * reportlab 
+  * Python Imaging Library 
+  * Dabo 0.9.2 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ed Leafe,Paul McNett</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/248/creating-rich-client-applications-using-dabo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/248_creating-rich-client-applications-using-dabo.ogv" length="955215464" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/248_creating-rich-client-applications-using-dabo.ogv" fileSize="955215464" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/248_creating-rich-client-applications-using-dabo.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010CreatingRichClientApplicationsUsingDabo644-559.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ricardo Kirkner</title><link>http://www.pyvideo.org/speaker/368/ricardo-kirkner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/368/ricardo-kirkner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Using fabric to standardize the development process</title><link>http://www.pyvideo.org/video/677/using-fabric-to-standardize-the-development-proce</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+By ensuring consistency and repeatability in setting up the development
+environments of a team of developers, errors can be avoided (by automating
+repetitive tasks). It also helps by lowering the entry barrier for new
+developers, and letting existing developers focus on development tasks without
+having to worry about infrastructure or process issues.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ricardo Kirkner</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/677/using-fabric-to-standardize-the-development-proce</guid><enclosure url="https://www.youtube.com/watch?v=bTXert2uRco" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/bTXert2uRco/hqdefault.jpg"></media:thumbnail></item></channel></rss>

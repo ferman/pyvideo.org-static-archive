@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Raymond Hettinger</title><link>http://www.pyvideo.org/speaker/138/raymond-hettinger/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/138/raymond-hettinger/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Beyond PEP 8 -- Best practices for beautiful intelligible code</title><link>http://www.pyvideo.org/video/3511/beyond-pep-8-best-practices-for-beautiful-inte</link><description>&lt;p&gt;Description&lt;/p&gt;
+Distillation of knowledge gained from a decade of Python consulting, Python training, code reviews, and serving as a core developer.   Learn to avoid some of the hazards of the PEP 8 style guide and learn what really matters for creating beautiful intelligible code.
+
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3511/beyond-pep-8-best-practices-for-beautiful-inte</guid><enclosure url="https://www.youtube.com/watch?v=wf-BqAjZb8M" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/wf-BqAjZb8M/hqdefault.jpg"></media:thumbnail></item><item><title>Super considered super!</title><link>http://www.pyvideo.org/video/3413/super-considered-super</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python's super() is well-designed and powerful, but it can be tricky to use if you don't know all the moves.
+
+This talk offers clear, practical advice with real-world use cases on how to use super() effectively and not get tripped-up by common mistakes.
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3413/super-considered-super</guid><enclosure url="https://www.youtube.com/watch?v=EiOglTERPEo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/EiOglTERPEo/hqdefault.jpg"></media:thumbnail></item><item><title>Keynote - What Makes Python Awesome</title><link>http://www.pyvideo.org/video/1669/keynote-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Show the specific features that make Python more than just another scripting language.
+&lt;p&gt;Description&lt;/p&gt;
+
+Raymond Hettinger, a Python core developer for over decade,
+offers his perspective on what differentiates Python from
+other scripting languages.
+
+Ten years ago, Python was equal to other scripting languages
+in terms of its expressiveness.  Since then, it has pulled
+very far ahead using a number of advanced technologies:
+list comprehensions, iterators, generators, generator
+expressions, decorators, context managers, metaclasses,
+and abstract base classes.
+
+Each of these capabilities were added in a way that respected
+the language's reputation for readable, beautiful code.
+Together, the toolset offers unique capabilities for
+rapid application development and maintainable code.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1669/keynote-3</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Keynote-3.mp4?Signature=OVAc36g8DH807DBfeAy%2Bh09jQ%2FI%3D&amp;Expires=1363646252&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Keynote-3.mp4?Signature=OVAc36g8DH807DBfeAy%2Bh09jQ%2FI%3D&amp;Expires=1363646252&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=NfngrdLv9ZQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/NfngrdLv9ZQ/hqdefault.jpg"></media:thumbnail></item><item><title>Python's Class Development Toolkit</title><link>http://www.pyvideo.org/video/1779/pythons-class-development-toolkit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is a short, but thorough tutorial on the Python's built-in toolset for creating classes.  We look at commonly encountered challenges and how to solve them using Python. 
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1779/pythons-class-development-toolkit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Pythons_Class_Development_Tool.mp4?Signature=Uv5WTjJ6EmwLYVN0VyTWGOtFAUc%3D&amp;Expires=1363810786&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Pythons_Class_Development_Tool.mp4?Signature=Uv5WTjJ6EmwLYVN0VyTWGOtFAUc%3D&amp;Expires=1363810786&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=HTLu2DFOdTg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/HTLu2DFOdTg/hqdefault.jpg"></media:thumbnail></item><item><title>Transforming Code into Beautiful, Idiomatic Python</title><link>http://www.pyvideo.org/video/1780/transforming-code-into-beautiful-idiomatic-pytho</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn to take better advantage of Python's best features and improve existing code through a series of code transformations, "When you see this, do that instead."
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1780/transforming-code-into-beautiful-idiomatic-pytho</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Transforming_Code_into_Beautif.mp4?Signature=J6w1HSr4D1uQ3OLB9DYMWgef64g%3D&amp;Expires=1363841075&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Transforming_Code_into_Beautif.mp4?Signature=J6w1HSr4D1uQ3OLB9DYMWgef64g%3D&amp;Expires=1363841075&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=OSGv2VnC0go" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/OSGv2VnC0go/hqdefault.jpg"></media:thumbnail></item><item><title>The Art of Subclassing</title><link>http://www.pyvideo.org/video/879/the-art-of-subclassing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+All problems have simple, easy-to-understand, logical wrong answers.
+Subclassing in Python is no exception. Avoid the common pitfalls and learn
+everything you need to know about making effective use of inheritance in
+Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/879/the-art-of-subclassing</guid><enclosure url="https://www.youtube.com/watch?v=miGolgp9xq8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/miGolgp9xq8/hqdefault.jpg"></media:thumbnail></item><item><title>Keynote: Raymond Hettinger</title><link>http://www.pyvideo.org/video/976/keynote-raymond-hettinger</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Keynote by Raymond Hettinger.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Tue, 23 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/976/keynote-raymond-hettinger</guid><enclosure url="http://www.youtube.com/watch?v=b_pTxGu2L04" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/b_pTxGu2L04/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python 3</title><link>http://www.pyvideo.org/video/979/panel-python-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is a panel discussion in which Nick Coghlan, Raymond Hettinger and
+Richard Jones discuss the state of Python 3, some of the new features, the 3rd
+party adoption, migration strategies and open to the floor for questions.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Coghlan,Raymond Hettinger,Richard Jones</dc:creator><pubDate>Tue, 23 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/979/panel-python-3</guid><enclosure url="http://www.youtube.com/watch?v=dt3JpHo-gNg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/dt3JpHo-gNg/hqdefault.jpg"></media:thumbnail></item><item><title>Fun with Python's newer tools</title><link>http://www.pyvideo.org/video/1022/fun-with-pythons-newer-tools</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 23 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Spend ten minutes each learning to work with Counters, named tuples, new
+string formatting, and the LRU cache. Learn the basic API, see how it works
+under the hood, enjoy a simple example, and then have fun pushing it to the
+limit in interesting ways.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1022/fun-with-pythons-newer-tools</guid><enclosure url="http://www.youtube.com/watch?v=twrNGyl1sbc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/twrNGyl1sbc/hqdefault.jpg"></media:thumbnail></item><item><title>What makes Python so AWESOME</title><link>http://www.pyvideo.org/video/1032/what-makes-python-so-awesome</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In a world of many programming languages, the popularity of Python continues
+to grow without bound. We examine what makes it special and how it influences
+the way we program:
+
+  * what gives python its texture and feel
+  * what features support rapid development
+  * where does the readability come from
+  * what features support economy of expression
+  * look at the mix of lightweight tools and industrial grade tools
+  * how easy is it to learn python? how hard is it to master
+  * what can python do that other languages can't
+  * what is the role of the python community
+  * why does the license matter
+  * does python just have zen or is there a python attitude?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1032/what-makes-python-so-awesome</guid><enclosure url="http://www.youtube.com/watch?v=u1sVfGEBKWQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/u1sVfGEBKWQ/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced Python</title><link>http://www.pyvideo.org/video/1059/advanced-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 21 June 2011 in "Training Pizza
+Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This tutorial will work through a series of real-world examples, showing how
+an understanding of the tools built into the Python interpreter or included in
+the standard library can be combined to solve difficult problems clearly and
+Pythonically. We will also discuss when and how to reach beyond the standard
+library when needed to address difficult algorithmic and optimization
+problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1059/advanced-python</guid><enclosure url="http://www.youtube.com/watch?v=paK0-lkksIc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/paK0-lkksIc/hqdefault.jpg"></media:thumbnail></item><item><title>Fun with Python's newer tools</title><link>http://www.pyvideo.org/video/1146/fun-with-pythons-newer-tools-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 23 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Spend ten minutes each learning to work with Counters, named tuples, new
+string formatting, and the LRU cache. Learn the basic API, see how it works
+under the hood, enjoy a simple example, and then have fun pushing it to the
+limit in interesting ways.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1146/fun-with-pythons-newer-tools-0</guid><enclosure url="http://www.youtube.com/watch?v=Dop2EoBwyR4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Dop2EoBwyR4/hqdefault.jpg"></media:thumbnail></item><item><title>Python Tips, Tricks, and Idioms</title><link>http://www.pyvideo.org/video/1108/python-tips-tricks-and-idioms</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 23 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Dozens of little insights into the language. A whirlwind tour of nifty tricks,
+little known features, and common patterns.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1108/python-tips-tricks-and-idioms</guid><enclosure url="http://www.youtube.com/watch?v=JbNG3rVLJvA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/JbNG3rVLJvA/hqdefault.jpg"></media:thumbnail></item><item><title>The Art of Subclassing</title><link>http://www.pyvideo.org/video/1094/the-art-of-subclassing-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 24 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+All problems have simple, easy-to-understand, logical wrong answers.
+Subclassing in Python is no exception. Avoid the common pitfalls and learn
+everything you need to know about how subclass in Python.
+
+  * Overriding and extending
+
+  * Calling your parents
+
+  * The ellipse / circle problem - what does a subclass mean?
+
+  * Liskov Substitution Principle
+
+  * Open Closed Principle
+
+  * The facts of life when subclassing builtin types
+
+  * How to Implement Cooperative Multiple Inheritance
+
+  * A example of perfect and simple python diamond
+
+  * Beware the Concrete C API
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1094/the-art-of-subclassing-0</guid><enclosure url="http://www.youtube.com/watch?v=yrboy25WKGo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/yrboy25WKGo/hqdefault.jpg"></media:thumbnail></item><item><title>What makes Python so AWESOME</title><link>http://www.pyvideo.org/video/1088/what-makes-python-so-awesome-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In a world of many programming languages, the popularity of Python continues
+to grow without bound. We examine what makes it special and how it influences
+the way we program:
+
+  * what gives python its texture and feel
+  * what features support rapid development
+  * where does the readability come from
+  * what features support economy of expression
+  * look at the mix of lightweight tools and industrial grade tools
+  * how easy is it to learn python? how hard is it to master
+  * what can python do that other languages can't
+  * what is the role of the python community
+  * why does the license matter
+  * does python just have zen or is there a python attitude?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1088/what-makes-python-so-awesome-0</guid><enclosure url="http://www.youtube.com/watch?v=U1r2nsd5wsQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/U1r2nsd5wsQ/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced Python</title><link>http://www.pyvideo.org/video/1165/advanced-python-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 21 June 2011 in "Training Pizza
+Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This tutorial will work through a series of real-world examples, showing how
+an understanding of the tools built into the Python interpreter or included in
+the standard library can be combined to solve difficult problems clearly and
+Pythonically. We will also discuss when and how to reach beyond the standard
+library when needed to address difficult algorithmic and optimization
+problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1165/advanced-python-0</guid><enclosure url="http://www.youtube.com/watch?v=nR9dlkn9wk4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nR9dlkn9wk4/hqdefault.jpg"></media:thumbnail></item><item><title>API design: Lessons Learned</title><link>http://www.pyvideo.org/video/1167/api-design-lessons-learned</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Raymond Hettinger - 21 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Share the lessons learned from a decade of core Python development, what
+worked and what didn't. Look at the development process and thinking behind
+some of Python's successful APIs and ones that leave something to be desired.
+Learn general principles for designing a good API for public consumption.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1167/api-design-lessons-learned</guid><enclosure url="http://www.youtube.com/watch?v=heJuQWNdwJI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/heJuQWNdwJI/hqdefault.jpg"></media:thumbnail></item><item><title>API Design: Lessons Learned</title><link>http://www.pyvideo.org/video/366/pycon-2011--api-design--lessons-learned</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+API lessons learned from a decade of core Python development.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Share the lessons learned from a decade of core Python development, what
+worked and what didn't. Look at the development process and thinking behind
+some of Python's successful APIs and ones that leave something to be desired.
+Learn general principles for designing a good API for public consumption.
+
+Hear the story and principles behind the design of Python's "in" operator, the
+development of deques, and the evolution of the set API.
+
+Examine the principles and story behind the development of the named tuple
+API. Learn about unforeseen use cases and a bug that made it to production.
+
+Discuss the decimal module's API challenge -- adhering to a published
+standard. Talk about the Queue module's framework style and how the API was
+refactored.
+
+Discuss what we've learned about naming functions and methods. Look at the
+i-naming convention in itertools, camelcase oddities, the proposed Italian
+name for enumerate, and vaguely named methods like assertItemsEqual.
+
+Learn about Guido's ideas on when to add flags to method signatures. Recap his
+thoughts on the problems with the percent formatting operator. Then hear
+Raymond's advice on packaging, hierarchies, and nested name spaces.
+
+See how to use documentation to mitigate API problems using examples from
+regular expressions, decimal, tokenize, sorting.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/366/pycon-2011--api-design--lessons-learned</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/366_api-design-lessons-learned.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011APIDesignLessonsLearned555.png"></media:thumbnail></item><item><title>Fun with Python's Newer Tools</title><link>http://www.pyvideo.org/video/367/pycon-2011--fun-with-python--39-s-newer-tools</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Spend ten minutes each learning to work with Counters, named tuples, new
+string formatting, and the LRU cache. Learn the basic API, see how it works
+under the hood, enjoy a simple example, and then have fun pushing it to the
+limit in interesting ways.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Look at how a Counter is implemented. See a simple word count example. Use a
+counter for unittests. Implement a sparse matrix.
+
+Show how named tuples are created, combined, subclassed, and extended. See how
+to implement an Enum class and how to create default values.
+
+Learn the basics of the new string formatting syntax. See how to use it for
+templating.
+
+Show everyday uses for an LRU cache, look at the underlying implementation,
+and see how to use it to trivially solve a dynamic programming problem.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/367/pycon-2011--fun-with-python--39-s-newer-tools</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/367_fun-with-python-s-newer-tools.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011FunWithPythonsNewerTools386-808.jpg"></media:thumbnail></item><item><title>Mastering Team Play: Four powerful examples of composing Python tools (#184)</title><link>http://www.pyvideo.org/video/307/pycon-2010--mastering-team-play--four-powerful-ex</link><description>&lt;p&gt;Description&lt;/p&gt;
+Mastering Team Play: Four powerful examples of composing Python tools
+
+  
+Presented by Raymond Hettinger
+
+  
+Starts with a quick review of the performance characteristics of major
+individual tools in Python: bisect, heapq, lists, deques, sets, frozensets,
+class structures, sorts, and weakreferences. Show how these tools can be
+powerfully combined to create elegant solutions to four hard problems.
+
+  1. Random sampling: when one data structure isn't enough. Discuss how the nature of the problem dictates when to use one of two alternate data structures. 
+  2. Ordered dictionaries: with the right compostion of dictionaries, linked lists, and weak references, a dictionary can remember its insertion order without any impact on its big-Oh running times. 
+  3. NFA to DFA conversion. The classic, but difficult, algorithm for lexical analysis becomes simple when composing Python's dicts and frozensets. 
+  4. Running median: the obvious approaches are horribly slow. The problem centers around how to efficiently maintain sorted data while advancing a large sliding window one value at a time. A list of deques provides a dramatic and scalable improvement in running time. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/307/pycon-2010--mastering-team-play--four-powerful-ex</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/307_mastering-team-play-four-powerful-examples-of-composing-python-tools-184.ogv" length="492820610" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010MasteringTeamPlayFourPowerfulExamplesOfComposin150.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Róman Joost</title><link>http://www.pyvideo.org/speaker/2098/roman-joost-0/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2098/roman-joost-0/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How your Python program behaves: a story on how to build a program slicer</title><link>http://www.pyvideo.org/video/3975/how-your-python-program-behaves-a-story-on-how-t</link><description>&lt;p&gt;Description&lt;/p&gt;
+Understanding the control flows in programs can be simple but increasingly difficult once the program becomes more complex. Debugging these programs can become problematic even worse with a meager amount of test coverage. So what to do? Increasing test coverage can cost you quite a lot of time and may not necessarily yield better results.
+
+Using slicing as a technique for debugging programs aids to understand control flow better. A slice is a subset of the program which affects the values of the point of interest, also known as a slicing criterion. Using program slicing, reasoning about your code will become much quicker and easier as you can safely ignore any not relevant parts of the program.
+
+This talk is about building a slicing tool for Python and the journey to this solution.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Róman Joost</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3975/how-your-python-program-behaves-a-story-on-how-t</guid><enclosure url="https://www.youtube.com/watch?v=S1Nx3zSkd40" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/S1Nx3zSkd40/hqdefault.jpg"></media:thumbnail></item></channel></rss>

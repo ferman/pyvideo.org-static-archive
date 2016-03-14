@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of DjangoCon 2012</title><link>http://www.pyvideo.org/category/23/djangocon-2012/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/23/djangocon-2012/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 06 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>BDFL Keynote - Adrian Holovaty</title><link>http://www.pyvideo.org/video/1387/bdfl-keynote-adrian-holovaty</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 - BDFL Keynote - Adrian Holovaty
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrian Holovaty</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1387/bdfl-keynote-adrian-holovaty</guid><enclosure url="http://www.youtube.com/watch?v=O2MGR0N68UI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/O2MGR0N68UI/hqdefault.jpg"></media:thumbnail></item><item><title>DjangoCon 2012 Keynote - Eric Sterling</title><link>http://www.pyvideo.org/video/1404/djangocon-2012-keynote-eric-sterling</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 - Keynote - Eric Sterling
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Sterling</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1404/djangocon-2012-keynote-eric-sterling</guid><enclosure url="http://www.youtube.com/watch?v=134WqTquENk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/134WqTquENk/hqdefault.jpg"></media:thumbnail></item><item><title>DjangoCon 2012 Keynote - Geoff Schmidt</title><link>http://www.pyvideo.org/video/1389/djangocon-2012-keynote-geoff-schmidt</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 - Keynote - Geoff Schmidt
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geoff Schmidt</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1389/djangocon-2012-keynote-geoff-schmidt</guid><enclosure url="http://www.youtube.com/watch?v=34_oKFx43O4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/34_oKFx43O4/hqdefault.jpg"></media:thumbnail></item><item><title>DjangoCon 2012 Keynote - Russell Keith-Magee</title><link>http://www.pyvideo.org/video/1400/djangocon-2012-keynote-russell-keith-magee</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 - Keynote - Russell Keith-Magee
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1400/djangocon-2012-keynote-russell-keith-magee</guid><enclosure url="http://www.youtube.com/watch?v=KSednnZNJ04" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/KSednnZNJ04/hqdefault.jpg"></media:thumbnail></item><item><title>DjangoCon 2012 Keynote - Selena Deckelmann</title><link>http://www.pyvideo.org/video/1416/djangocon-2012-keynote-selena-deckelmann</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 Keynote - Selena Deckelmann
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Selena Deckelmann</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1416/djangocon-2012-keynote-selena-deckelmann</guid><enclosure url="http://www.youtube.com/watch?v=K0jJhYtzLbs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/K0jJhYtzLbs/hqdefault.jpg"></media:thumbnail></item><item><title>DjangoCon 2012 Lightning Talks</title><link>http://www.pyvideo.org/video/1415/djangocon-2012-lightning-talks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 Lightning Talks
+
+</description><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1415/djangocon-2012-lightning-talks</guid><enclosure url="http://www.youtube.com/watch?v=tXyenP18iUg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tXyenP18iUg/hqdefault.jpg"></media:thumbnail></item><item><title>About Django from the Pyramid Guy</title><link>http://www.pyvideo.org/video/1407/about-django-from-the-pyramid-guy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An opinionated recounting of the features Django shares with the Pyramid web
+framework, and how the two frameworks differ, as well as a prescription for
+collaboration between the Django and Pyramid communities.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+# About Django from the Pyramid Guy
+
+## Who Am I
+
+  * BBS nerd in the 80s.
+
+  * Bad Perl hacker until Python. Came to Python via Zope in 1999. Worked at Digital Creations (aka Zope Corporation) until 2003.
+
+  * Primary author of: Pyramid web framework, Supervisor UNIX process control system, Deform form system, Repoze collection of middleware, and other unmentionables. Contributor to Zope, WebOb, and lots of other OSS projects.
+
+  * Quoting Glyph: "I've been doing IRC support for 10 years, so I'm pretty much dead inside."
+
+## What is a Web Framework
+
+  * A web framework receives a request, calls user code in order to return a response. Everything else is a bonus.
+
+  * Arguments about how a web framework implements "MVC" are usually distractions. Django gets this right.
+
+## Django Docs Do It Right
+
+  * Django docs broke the Python documentation curve.
+
+  * Great resources for multiple audiences.
+
+## Django Views Do It Right
+
+  * No magical globals (request or response).
+
+  * Django view lookup and execution is very fast.
+
+## Django Forms Do It Right
+
+  * Decoupling of models from forms.
+
+  * Optional recoupling via modelforms.
+
+## Django Convenience vs. Explicitness
+
+  * No thread locals.
+
+## Django Extensibility Does It Right
+
+  * Replaceable backends for authentication.
+
+  * Replaceable backends for storage.
+
+  * Encourages an environment of plugins at different levels.
+
+## Django Defaults Do It Right
+
+  * Django provides people with unambiguous ways to solve 80% of their web development problems.
+
+  * Doesn't prevent specialization or use of external libraries.
+
+## Django Reality Does It Right
+
+  * Can't argue with success.
+
+  * Scores of very successful sites built using Django.
+
+## What is Pyramid
+
+  * Pyramid handles view lookup and execution and provides related convenience APIs. It also allows extensive configuration of these things.
+
+  * Pyramid is a corner of a corner of Django, magnified.
+
+  * James Bennett's PyCon 2012 "Django In Depth" tutorial: ~20 minutes out of 3 hours devoted to things that Pyramid actually does: low-level template API, view lookup and execution, HTTP responses, middleware.
+
+  * Pyramid is independent of any particular peristence system. It has no built-in form generation system. It does not prefer any particular templating system. It does not ship with an admininstrative application.
+
+  * Something like Pyramid could be used to build something like Django.
+
+## Pylons Project
+
+  * Project lead consolidation decision.
+
+  * Attempt to get Pylons, TurboGears and `repoze.bfg` communities rowing in the same direction.
+
+  * Pylons 1.x web framework shifted into “legacy” status. Maintained indefinitely.
+
+  * New development: Pyramid and related.
+
+  * Turbogears: wildcard.
+
+## Is Pyramid a Microframework?
+
+  * Pyramid is sort of microframework-like. You can write a Pyramid application in a single file.
+
+  * Self-identifying microframeworks tend to suggest application development patterns to its users which promote convenience over explicitness. Pyramid (for better or worse) does not do this, because it needs to be useful in larger systems where these patterns can lead to extensibility problems.
+
+  * In reality, the term "microframework" is a marketing term, not a technological term, so whether the answer is yes or no doesn't really matter too much unless you have a stake in the project.
+
+## Small Pyramid Program
+
+    
+    from wsgiref.simple_server import make_server
+    from pyramid.config import Configurator
+    from pyramid.response import Response
+    
+    def hello_world(request):
+       return Response('Hello %(name)s!' % request.matchdict)
+    
+    if __name__ == '__main__':
+       config = Configurator()
+       config.add_route('hello', '/hello/{name}')
+       config.add_view(hello_world, route_name='hello')
+       app = config.make_wsgi_app()
+       server = make_server('0.0.0.0', 8080, app)
+       server.serve_forever()
+    
+
+## Pyramid and Python 3
+
+  * Pyramid's current release (1.3) supports Python 3.2+ (as well as Python 2.6 and 2.7).
+
+  * Most existing add-ons already ported. When feasible, we port add-on dependencies (`beaker`, `WebOb`, `zope.*` packages).
+
+  * We have a committment to Python 3. It involves lots of whining and bitching.
+
+## I'm No Genius
+
+  * Pyramid does things wrong. Many parts of Pyramid make me cringe. https://github.com/Pylons/pyramid/wiki/Mistakes
+
+  * The grass is always greener.
+
+## Pyramid Docs
+
+  * Culture of documentation (if it's not documented, it's broken).
+
+  * Pyramid itself has ~800 printed pages of narrative and API documentation, plus a few hundred pages of "cookbook" material.
+
+  * Comprehensive but pretty dry.
+
+## Docs Pain
+
+  * Many pain points are related to plain old bad docs: our fault. Docs are at least 10X harder to write well than the associated code and take much longer. Most coders hate writing docs. I write lots of documentation but it's often not very good.
+
+  * But other pain points people experience when trying to learn Pyramid from its docs is due to poorly documented dependencies (setuptools). We need to redocument subsystems "in context", for better or worse. (HELP!)
+
+  * And some pain points are due to an audience mismatch; narrative documentation assumes people know "Python" _and_ "the web". They often need remedial help in one or both, which the docs don't provide.
+
+  * "Chipin" project raised ~$5K for documentation overhaul.
+
+## Pyramid Friends
+
+  * Colander/Deform: form handling.
+
+  * SQLAlchemy: SQL database connectivity and querying.
+
+  * Pyramid-specific add-ons like `pyramid_mailer`, `pyramid_zodbconn`, `pyramid_socketio`, `pyramid_mongodb`, and so forth.
+
+  * The typical Pyramid application makes use of some combination of add-ons.
+
+## Scaffolding
+
+  * A scaffold renders a project. A project is installable like any other setuptools distribution (it has a `setup.py`, etc).
+
+  * The project depends on some combination of Pyramid, Pyramid plugins, and other third-party libraries and frameworks.
+
+  * `zodb`, `alchemy` and `starter` scaffolds provided by Pyramid itself. Others are contributed to PyPI by third parties.
+
+## Bindings Packages
+
+A more generic package is specialized for convenient use under Pyramid via use
+of a bindings package.
+
+  * `deform` + `pyramid_deform`.
+
+  * `repoze.who` + `pyramid_who`.
+
+  * 2X documentation burden: document once in general package docs, document again in bindings docs. That's no fun.
+
+  * But this will happen anyway if your code is popular (Celery).
+
+## Higher Level Frameworks
+
+  * `ptah`
+
+  * `kotti`
+
+  * `poolyx`
+
+  * `substanced`
+
+## Packaging Is Like a Blast Shield
+
+  * A blast shield helps keep shrapnel out.
+
+  * It can also help keep shrapnel _in_.
+
+  * Shrapnel tends to penetrate anything not within a blast shield.
+
+  * Every piece of software eventually blows up.
+
+  * The more blast shields you have, the more the damage is contained.
+
+  * But blast shields obscure the landscape. More work required for users.
+
+  * More packages add more documentation and conceptual overhead, and more unwanted choice.
+
+## Django Avoids Setuptools
+
+  * Setup.py develop of django doesn't work.
+
+  * Avoidance of setuptools also prevents use of console scripts (e.g. django-admin).
+
+  * Django recreates some of the patterns that setuptools provides (i.e. test discovery hooks).
+
+  * Developers whom are ignorant of distribution issues are very confused when inevitably faced with them.
+
+## Django Avoids Setuptools (2)
+
+  * Django's defacto avoidance of setuptools is understandable. But it's not helping to improve Python packaging. Python packaging and distribution needs you very badly.
+
+  * Fewer documentation issues to cope with, but contributing to docs for setuptools would float all boats.
+
+## Subclassing Is Convenient
+
+  * You don't have to explain a protocol (the protocol is Python).
+
+  * But offering extensibility via subclassing is often a poorer choice than offering extensibility via composition and very explicit interfaces.
+
+  * Why? People begin depending upon the implementation details of the classes you tell them to subclass. Unless you're extremely clear about what the API of the superclass is, and the social contract to use nothing else but the documented API exists, you'll be pressured into making retroactive APIs. Impossible to recover from without breaking b/w compat.
+
+  * Not uncommon to see a subclass of a subclass of a subclass of a subclass; figuting out how the thing works can be an exercise in pain and multiple editor windows.
+
+## Globals are Convenient
+
+  * You don't have to explain a protocol for obtaining a value (the protocol is `import`).
+
+  * But the development of circular imports is inevitable.
+
+  * Global registries make it impossible to embed more than one application into the same Python process.
+
+## Module-Scope Work Is Convenient
+
+From Django tutorial, at module scope:
+
+    
+    from django.contrib import admin
+    admin.autodiscover()
+    
+
+## Module-Scope Work Is Convenient (2)
+
+  * These things can be done at module scope without concern:
+
+  * An import of another module or global.
+
+  * Assignment of a variable name in the module to some constant value.
+
+  * The addition of a function via a def statement.
+
+  * The addition of a class via a class statement.
+
+  * Control flow which may handles conditionals for platform-specific handling or failure handling of the above.
+
+  * Everything else is at least suspect. Test runners and other code scanners can import with abandon, and side effects are often undesirable.
+
+## Pluggable Apps / Reusable Apps
+
+  * Pluggable apps probably aren't really that pluggable, reusable apps probably aren't as reusable as you might like.
+
+  * IMO, even a framework as high-level as Django can't really offer such a feature without stretching the truth just a little bit.
+
+  * The only thing that can truly offer pluggable apps: another app. No general-purpose framework can do a great job here. (Examples: Wordpress, Jenkins, Plone).
+
+## Rendering Is Meta-View
+
+  * `render_to_response` using template in view is no fun to test.
+
+  * Returning a dict from a view callable is more fun to test.
+
+## Unit Tests
+
+  * Exclusive use of Django test client for tests will cause test suite to run more slowly than necessary.
+
+  * A slow enough test suite won't be run before commit.
+
+  * Testers who don't understand any type of testing other than "system" or "integration" testing tend to bring poor testing practices to unrelated systems.
+
+  * Using setuptools provides nice hooks for test discovery and execution.
+
+## Static Files
+
+  * Python WSGI servers are getting better at serving static files. E.g. Gunicorn supports `sendfile` on UNIX.
+
+  * Might be time to reconsider offloading media to a dedicated non-Python server and make use of what's available in WSGI-land.
+
+## Community
+
+  * Pyramid community is maybe 10% the size of the Django community.
+
+  * It's growing.
+
+  * Your success is our success. I'd be very pleased to have Pyramid be considered the #2 Python web framework (at least for "Python people"). Forever.
+
+## Collaboration (Low-Level)
+
+  * Create adapter for WebOb or Werkzeug that implements the Django request API?
+
+  * Create an adapter for SQLAlchemy that implements the Django ORM API?
+
+  * These are likely losers. They are "30 year plans". Things change so fast. Who will pay immediately? Who will benefit immediately?
+
+  * Might be better to try to use common non-domain-specific dependencies (e.g. setuptools, virtualenv, WSGI middleware, etc). It would be a great win to share documentation burden, even if we had to "fork" it for our own contextual requirements.
+
+## Collaboration (High-Level)
+
+  * Django is limited by backwards compatibility concerns. It's impractical to make large architectural changes now. Your users would kill you.
+
+  * But I could imagine somebody from the Django community creating a "Django-NG" or a Django-like system from whole cloth. Or break Django apart into something that isn't quite bw compatible.
+
+  * It might make sense to consider Pyramid or another smaller framework as a base for such an effort. If you used Pyramid, you'd get URL routing, internationalization, template bindings, configuration extensibility, flexible view lookup and execution, an event system, security, documentation, Python 3 compatibility, and other things. `ptah` is such a system right now.
+
+  * Pyramid community is very enthusiastic, friendly, helpful, and experienced.
+
+## Promoting Python
+
+  * I challenge you to not be complacent.
+
+  * I challenge you to investigate how other frameworks work.
+
+  * I challenge you to embrace existing Python packaging and distribution tools.
+
+  * I challenge you to port quickly to Python 3. Commit to supporting it in your add-ons and helping folks who have existing add-ons port.
+
+  * I challenge you to speak out when folks bash competitors. Haters are everywhere, and when someone bashes Pyramid, Flask, Bottle, or Zope, and nobody defends against it, the hate will eventually come back to harm you.
+
+## Unknowns
+
+  * Django Class-Based Views Might Not Do It Right. `as_view`. Hmm. All views in Pyramid are potentially generic. They have a context passed to them. Class-based views in Pyramid are not things handed down from "good devs" to reuse, they're just normal things.
+
+  * How does Django allow for configuration extensibility? Conflict detection?
+
+  * Event system
+
+  * Alternate templating languages
+
+  * Exception views
+
+  * View predicates
+
+  * Transaction management
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McDonough</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1407/about-django-from-the-pyramid-guy</guid><enclosure url="http://www.youtube.com/watch?v=eN7h6ZbzMy0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/eN7h6ZbzMy0/hqdefault.jpg"></media:thumbnail></item><item><title>Accelerating and Enhancing Django with Redis</title><link>http://www.pyvideo.org/video/1410/accelerating-and-enhancing-django-with-redis</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial introduces Redis, an in-memory key-object NoSQL datastore. We
+discuss out-of-the-box ways Redis can help improve the performance of your
+Django deployments, ways that using Redis instead of SQL for some data
+management can accelerate your apps, and more advanced and unconventional uses
+for Redis to solve real-time and big-data problems.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Getting your Django app to a v1.0 release means focusing on function and user
+experience before prematurely focusing on optimization. But once it's off the
+ground, the Redis key-object store provides a versatile and functional way to
+take your app to the next level of performance and function with minimal
+engineering.
+
+[Redis](http://redis.io) is an in-memory key-object database that can perform
+standard operations on simple values, lists, sets, hash maps, and scored sets
+with incredible efficiency. While it cannot and should not replace SQL for
+schema-defined, persistent data storage, it can provide dramatically faster
+operational efficiency for volatile, temporary, or rapidly changing data with
+minimal coding required.
+
+This talk begins by introducing Redis, its basic featureset, and the data
+types and operations it supports. We'll cover some high-level guidelines and
+strategies for identifying where Redis may be an appropriate performance-
+enhancing solution. We then cover the out-of-the-box ways that Redis can
+improve a Django application as a cache, session store, Celery broker, and
+more. We'll then proceed to more advanced usage possibilities, implementing a
+real-time websocket based messaging solution, scripting within Redis using its
+embedded Lua interpreter, and connecting Redis to PostgreSQL using Foreign
+Data Wrappers to efficiently blend SQL tables with Redis data.
+
+By the end of the presentation, you should be able to use all of the data-
+structures offered by Redis, to identify opportunities within you codebase
+that Redis may offer simple but dramatic efficiency improvements, and to
+envision how advanced Redis usage may bring new and cutting-edge functionality
+to your project.
+
+Redis was developed by [Salvatore Sanfilippo](http://twitter.com/antirez) and
+[Pieter Noordhuis](http://twitter.com/pnoordhuis), who are both supported by
+VMWare to develop the database full-time. Redis has excellent [Python
+bindings](https://github.com/andymccurdy/redis-py/) developed by Andy McCurdy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joshua Ginsberg</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1410/accelerating-and-enhancing-django-with-redis</guid><enclosure url="http://www.youtube.com/watch?v=xbWBIudWRxQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xbWBIudWRxQ/hqdefault.jpg"></media:thumbnail></item><item><title>Boosting teamwork with Vagrant</title><link>http://www.pyvideo.org/video/1408/boosting-teamwork-with-vagrant</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I will present Vagrant, a free open-source tool facilitating the
+manipulation of virtualized environments, and how it may benefit the
+development of Django applications. This talk is aimed at Django developers of
+all levels who are interested in getting an overview of the great
+possibilities Vagrant offers to support teamwork and quality assurance.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this talk I will present Vagrant, a free open-source tool facilitating the
+manipulation of virtualized environments, and how it may benefit the
+development of Django applications. This talk is aimed at Django developers of
+all levels who are interested in getting an overview of the great
+possibilities Vagrant offers to support teamwork and quality assurance.
+
+One major benefit of using Vagrant is with on-boarding. Previously, when new
+developers joined a project, it could take hours or days for them to correctly
+set up their development environment and install all the projects'
+dependencies (the correct version of Python, the virtualenv, the database
+server, the caching engine, etc.). With Vagrant, combined with provisioning
+tools like Chef or Puppet, it is now possible to easily create a virtual
+machine with all the right dependencies properly pre-installed and pre-
+configured to allow anyone to be fully operational and ready to contribute to
+the project in a matter of minutes.
+
+Another major benefit of Vagrant is that it gives the opportunity to create a
+working environment for all developers that closely matches that of the
+production server. This in turn allows to anticipate potential issues when new
+code and resources eventually get deployed live.
+
+In this talk, I will present some key functionalities and workflows around the
+use of Vagrant: - installing Vagrant and Virtualbox. - creating a new virtual
+machine. - provisioning a virtual machine with basic requirements. - sharing
+virtual machine specifications with team members.
+
+This talk will include a brief introduction to Chef and Puppet. It will also
+include multiple practical tricks like accessing the VM's database server from
+the host's machine, setting up useful shell aliases or automatically
+activating the virtualenv when launching the VM.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julien Phalip</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1408/boosting-teamwork-with-vagrant</guid><enclosure url="http://www.youtube.com/watch?v=DsYVx-mh3NE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/DsYVx-mh3NE/hqdefault.jpg"></media:thumbnail></item><item><title>Building PCI compliant Django applications</title><link>http://www.pyvideo.org/video/1411/building-pci-compliant-django-applications</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+If you currently accept credit cards with your Django application today, or
+you plan on accepting them in the future, then you will need to worry about
+PCI DSS. Learn what you need to do to make sure that your application is PCI
+DSS compliant, and if it is not, what you need to do to bring it into
+compliance.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PCI DSS is a set of twelve different security standards that are required for
+any organization that handles credit or debit card transactions. These
+standards are created by the Payment Card Industry Security Standards Council
+and they require all organizations to validate that they are compliant every
+year.
+
+Understanding these rules and how they effect you is sometimes a daunting
+task. The goals of this talk will be the following:
+
+  * Explain PCI DSS, and quickly go over the rules that will effect your application.
+  * Show how to securely handle credit card transactions in your Django application.
+  * Storing credit card information isn't ideal, but if you need to, I'll explain the different ways to securely store the data.
+  * Go over the different ways to limit your PCI DSS liability (BrianTree, Akamai Edge Tokenization, Auth.net CIM)
+  * Explore the different tools you will need in order validate your PCI compliance (Web application scans, IDS, Network Scan, firewalls)
+  * How to be PCI Complaint in the cloud
+
+I'll close out the talk with some of the details on how I haver personally
+satisfied PCI DSS Requirements on my projects in the past. I'll cover some of
+the tools and services that I used, and why I decided to use them.
+
+At the conclusion of the talk you should have a better understanding of PCI
+DSS, and what you need to do, in order for your Django application to be
+certified as compliant.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ken Cochrane</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1411/building-pci-compliant-django-applications</guid><enclosure url="http://www.youtube.com/watch?v=9ZIPNWqjIEI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9ZIPNWqjIEI/hqdefault.jpg"></media:thumbnail></item><item><title>Django's Nasal Passage</title><link>http://www.pyvideo.org/video/1406/djangos-nasal-passage</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django's testrunner gets you started quickly, but you soon hit your head on
+its limitations as your project grows. By trading it for nose, a testing
+framework popular in the wider Python community, we can reduce boilerplate,
+boost performance, and improve testing UI, with only a few lines of setting
+changes. Re-use your test DBs, integrate with Jenkins, split your suite into
+pieces, and more.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * Why nose?
+    * Pain points with standard Django testing
+    * Extensibility without writing custom, uncombineable testrunner subclasses
+    * Rich ecosystem of helpful plugins
+  * django-nose
+    * Testing just your apps, not all the random installed stuff
+    * Test-selection tricks: running just failed tests, running a module, etc.
+    * Killing the boilerplate:
+      * No more imports into **init**
+      * No more class name collisions and accidental shadowing
+      * With all this freedom, how best should you organize your tests?
+    * Going 4 times faster with fixture bundling
+      * Troubleshooting
+      * Fixtures are evil
+      * Where do I put the factories?
+    * Speeding startup with test DB reuse
+    * Writing faster TransactionTestCases with hygienic base classes
+      * Background on Django's handling of TransactionTestCases
+      * How to improve matters
+    * Test-only models: what's the best practice?
+  * nose-progressive
+    * Dots considered harmful. When will my tests be done?
+    * Patience is for the dead. Show me my tracebacks as they happen!
+    * My terminal is only this big. Don't waste my space.
+    * Hiding pointless stack frames
+    * Editor round-tripping for quick debugging
+  * Splitting into sub-suites
+    * An introduction to the attr plugin
+    * Have some run only on CI machines, some constantly, others before checkin
+    * Choosing tests with regexes
+  * Other fun plugins
+    * f7u12, for when your tests get angry
+    * Coverage
+    * xunit, for your continual integration pleasure
+    * Profiling
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Rose</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1406/djangos-nasal-passage</guid><enclosure url="http://www.youtube.com/watch?v=NZnnB7l3ZHM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/NZnnB7l3ZHM/hqdefault.jpg"></media:thumbnail></item><item><title>Get off the bench: Making the leap from user to contributor</title><link>http://www.pyvideo.org/video/1409/get-off-the-bench-making-the-leap-from-user-to-c</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django -- like all Open Source projects -- is only as good as the community of
+people that contribute to it. We have a huge user community, but the vast
+majority of users never make the leap and become contributors. This talk will
+walk you through the process of making the transition from Django user, to
+Django Project contributor.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django needs you! No -- seriously -- Django is a volunteer project, and the
+ability of Django to continue to improve is entirely controlled by the time
+and dedication people like you are willing to put into making Django better.
+
+However, it's not just a matter of sitting down and writing code. If you don't
+have a plan for how you're going to engage with the rest of the community,
+it's very easy to put in a lot of effort, and then have that effort go
+entirely to waste. This talk will give you some tips on how to engage the
+community so that you can see your effort turn into progress, and not just be
+lost in a mailing list.
+
+Getting involved doesn't just mean contributing code, either. There are lots
+of other ways that you can be a valuable member of the community, and this
+talk will give you several suggestions for how your talents could be used to
+improve the entire Django ecosystem.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1409/get-off-the-bench-making-the-leap-from-user-to-c</guid><enclosure url="http://www.youtube.com/watch?v=grGIl9gP-iY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/grGIl9gP-iY/hqdefault.jpg"></media:thumbnail></item><item><title>Is Django for Designers?</title><link>http://www.pyvideo.org/video/1414/is-django-for-designers</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How designer friendly is Django? This talk reviews the history of Django and
+how it came to be one of the most designer friendly frameworks around. We will
+review the Django design methodology and how simple it is for designers to get
+started creating and publishing their own projects.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+From the beginning, Django has been built to be designer friendly. This talk
+is meant for those who are looking to learn more about how Django empowers
+designers to create websites intelligently. Here is a brief outline of what
+will be covered:
+
+  * Overview of Django's designer roots
+    * Personal background as a designer learning Django
+    * How did Django start out with designers in mind?
+    * Design methodologies
+  * How is Django designer friendly?
+
+    * Documentation overview
+    * Code examples
+      * Template inheritance and why it's awesome
+      * Overview of the built-in template tags and filters
+      * What's new in Django 1.4?
+  * Django needs designers
+
+    * How to contribute
+    * Why designers are an important part of the community
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Elman</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1414/is-django-for-designers</guid><enclosure url="http://www.youtube.com/watch?v=nGqQC4_UV-A" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nGqQC4_UV-A/hqdefault.jpg"></media:thumbnail></item><item><title>Models and Migrations and Schemas - oh my!</title><link>http://www.pyvideo.org/video/1412/models-and-migrations-and-schemas-oh-my</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A look at the past, current and future of schemas, migrations and Django, and
+what it means for both website developers and ops staff.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django has a long and varied history of dealing with changing schema
+requirements - from the early projects like django-evolution and the two
+aborted attempts to provide migrations in Django itself, through to projects
+like South and now looking ahead to a more integrated solution with Django
+itself once more.
+
+This talk will cover some of that history - helpful to get some kind of
+context when it comes to current developments - as well as exploring some of
+the common problems a migration system (and its users) encounter, and how
+those lessons and ideas are being used to help improve Django itself to better
+support schema migrations.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1412/models-and-migrations-and-schemas-oh-my</guid><enclosure url="http://www.youtube.com/watch?v=gwP7zLDDdPA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/gwP7zLDDdPA/hqdefault.jpg"></media:thumbnail></item><item><title>Under the Microscope: Evaluating Existing Django Code When Onboarding a New Client</title><link>http://www.pyvideo.org/video/1413/under-the-microscope-evaluating-existing-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As a Web development firm that specializes in Django, we receive many
+inquiries from organizations looking for assistance with their existing Django
+websites. This session will describe our process for evaluating existing
+codebases and deployment structures. The goal is to provide a framework for
+evaluating other people's code and understand the scrutiny your code may
+someday endure.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Taking over someone else’s code is an exercise fraught with peril. However,
+with the growing popularity of Django, more and more organizations are seeking
+companies and individuals to take over their Django website and support their
+existing Django codebase. This talk will describe the standardized process
+Imaginary Landscape has developed to evaluate existing code as part of their
+new client onboarding process.
+
+Covered topics:
+
+  * Introduction/Overview
+
+  * Top reasons why clients are looking to change vendor
+
+  * Initial assessment
+
+&gt;     * What questions to ask before looking at the code.
+
+  * Where to start when looking at code? 
+
+&gt;     * Traversing the code tree to get a feel for how the code is structured
+
+&gt;     * Trying to determine how the previous developer thinks
+
+  * Detailed code review including checklist
+
+&gt;     * Things to look for when evaluating code: Version control, "Standard"
+site layout, Settings file, hardcoding, Virtualenv, south, etc.
+
+  * Examples (names have been changed to protect the imperfect)
+
+&gt;     * The good: the kinds of coding and configuration techniques that seem
+to be consistent among well-thought-out projects.
+
+&gt;     * The bad: examples of code and configuration that make onboarding and
+maintenance difficult.
+
+  * Final thoughts
+
+&gt;     * What you can do as a developer taking over a project.
+
+&gt;     * What you can do as a developer hoping to make great code that others
+may someday see.
+
+&gt;     * Exercise your right to say no, it’s your reputation on the line
+
+  * Q&amp;A
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Moloney,Joe Jasinski</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1413/under-the-microscope-evaluating-existing-django</guid><enclosure url="http://www.youtube.com/watch?v=-hma3mlcrD8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-hma3mlcrD8/hqdefault.jpg"></media:thumbnail></item><item><title>Where Django Caching Busts at the Seams</title><link>http://www.pyvideo.org/video/1405/where-django-caching-busts-at-the-seams</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Most mid-sized Django websites thrive by relying on memcached. Though what
+happens when basic memcached is not enough? And how can one identify when the
+caching architecture is becoming a bottleneck? We'll cover the problems we've
+encountered and solutions we've put in place.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Most mid-sized Django websites thrive by relying on memcached. Though what
+happens when basic memcached is not enough? And how can one identify when the
+caching architecture is becoming a bottleneck? We'll cover the problems we've
+encountered and solutions we've put in place.
+
+The following highlight the issues we'll discuss during the talk:
+
+  * Cache Warming. For content that will likely be in demand, getting it ready in cache before use is a helpful start. 
+  * Two-tier caching. In multi-server environments, certain content that changes infrequently and has high-demand can be cached locally on each server. In these cases, having methods to burn the cache on each server becomes critical.
+  * Categorizing Cache. If good estimates exist for the expected demand of certain cache as well as the frequency of change, this can lead to better insight into when to warm that content as well as whether to cache it locally.
+  * Caching comparison with memcached vs. reddis vs. mongo
+  * Cachemodel. Our open-source, mini-framework for simplifying caching in Django. 
+  * Adding servers to memcached. And consistent hashing algorithms to avoid having to burn all cache when the cache cluster changes in size.
+  * Elasticache on AWS.
+
+As caching problems become more common, better layers and mini-frameworks will
+help simplify and elegantly solve some of these problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kyle Rimkus,Mike Biglan</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1405/where-django-caching-busts-at-the-seams</guid><enclosure url="http://www.youtube.com/watch?v=dXDLWGY0Tro" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/dXDLWGY0Tro/hqdefault.jpg"></media:thumbnail></item><item><title>Between where the Tutorials end &amp; the Wild West begins: bringing new devs up to speed on Django</title><link>http://www.pyvideo.org/video/1390/between-where-the-tutorials-end-the-wild-west-b</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+4 months ago I had never even seen a Django template. But I'm an engineer;
+coming up to speed couldn't be that hard, right? Wrong. Doing so efficiently
+and effectively was tough. I went from zero to production ready code used by
+hundreds of users everyday. I'll present my missteps and victories, laying out
+how other teams can quickly bring new team members, who don't know Django, up
+to speed fast.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This is a rough outline of how I learned Django; 4 months ago I was a total
+outsider. Through this process I made mistakes, I had breakdowns, but I walked
+away with a very solid understanding of Django and have proudly have written
+thousands of lines of Python that are in production today. You'll leave this
+talk with lessons on how to bring new developers to your team up speed on
+Django.
+
+  1. Read the Django docs (obviously, right?)
+  2. Follow along building the sample application (Polls, Choices, yada yada).
+  3. Decide to jump into writing production ready code. Have a breakdown. Feel like you're trying to boil the ocean with a lighter.
+  4. Realize that building the sample app was cute but nothing compared to writing a real world application with real users and real constraints.
+  5. Re-read the docs.
+  6. Build a real Django app -- no more Polls. I decided to build a single-sign on application that allowed Etsy sellers to login and view all the photos of their all their listings in one place. I will give background as to why I chose this app, how I built it, and what it taught me.
+  7. Start biting off small pieces of production code to figure out what the hell is going on. Learn about commonly used Django packages such as django-registration, django-profiles, taggit, etc. - and what happens when you need to modify the code of those packages.
+  8. Attempt to boil the ocean, again. I needed to do a massive re- architecture of our application, combining several independent Django applications into a single, unified Django project. My first attempt totally failed. I will discuss why this was and key novice mistakes.
+  9. Key realization that knowing Django != knowing Python
+  10. "When you bang your head enough against the wall, eventually the wall comes down" -- me. I built a pretty kick ass Django application and I'm quite proud of.
+  11. Celebrate (with lessons learned)!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Grace</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1390/between-where-the-tutorials-end-the-wild-west-b</guid><enclosure url="http://www.youtube.com/watch?v=OV5akJtAjgE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OV5akJtAjgE/hqdefault.jpg"></media:thumbnail></item><item><title>Cryptography for Django Applications</title><link>http://www.pyvideo.org/video/1381/cryptography-for-django-applications</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A review of encryption in the context of a web application storing sensitive
+information. Topics covered include choosing whether to use crypto, selection
+of tools, proper usage (including examples), and operational considerations
+with respect to security assessment.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+# Introduction
+
+The web is a hostile place, and isn't showing any signs of becoming less so.
+In order to mitigate this, many developers turn to cryptography.
+Unfortunately, cryptography can be complicated, and is easily circumvented if
+not properly handled. This presentation will provide an introduction to
+cryptographic tools available to Python/Django applications, appropriate use
+cases for each, proper usage, and operational concerns necessary to operate in
+a certified environment. Finally, we will also demonstrate a reusable
+application that wraps this all up, providing secure key-management
+capabilities to a running Django environment via the Django admin.
+
+# Why Encrypt?
+
+# Rules of Encryption
+
+  * Don't do it if you don't need it.
+  * Don't write your own.
+  * Understand what you're doing if you do.
+
+# When to encrypt?
+
+## Understand what you're protecting
+
+  * Data
+  * User records
+  * Code
+  * Systems
+
+## Understand your attack vectors
+
+  * Data (backups, revision control)
+  * Systems
+  * Application
+  * Transport
+  * Client
+
+## Understand the types of encryption you might use:
+
+  * Hashing
+
+### Passwords are a special case. Use a key derivation function
+
+  * PBKDF2 – Upgrade to Django 1.4!
+
+### Algorithms
+
+  * MD5 - fine as a checksum. not fine as a cryptographic hash.
+  * SHA1 - fine as a checksum. becoming less fine as a cryptographic hash every day
+  * SHA2 - so far so good. use as many bits as you can handle.
+
+## Symmetric Encryption
+
+  * Fast
+  * Reversible
+
+### Algorithms
+
+  * Caesar Cipher (for fun puzzles)
+  * DES (don't use)
+  * AES (certified)
+  * Blowfish
+
+## Asymmetric Encryption
+
+  * Slow
+  * One-way
+
+### Algorithms
+
+  * RSA
+  * DSA
+
+#### Uses
+
+##### Signing
+
+###### Web of Trust
+
+  * PGP
+
+###### PKI
+
+##### Encryption
+
+  * PGP
+  * SSL
+  * TLS
+
+# Doing it right
+
+## Use known-good algorithms
+
+  * AES-256
+  * SHA2
+  * RSA
+  * DSA
+
+## Use known-good implementations
+
+  * Open Source is good
+
+## Extra Credit
+
+  * FIPS 140 certified implementations
+  * FIPS 140 / NIST configurations
+
+## Transport (always use HTTPS)
+
+  * Use good algorithms AES-256
+
+## At Rest (insecure servers or backups)
+
+  * Understand the ramifications of key management
+
+# Examples
+
+## Hashing
+
+  * Use a key-derivation function
+
+### Don't be linked-in
+
+  * Salt your hashes (with a secret). 
+  * Salt and pepper your hashes if possible (with a known unique value)
+
+## SSL
+
+  * Forced connections
+  * Making the application aware
+  * Hardened cipher selection
+
+### Robust PKI
+
+  * Client authentication
+  * SSL Test Page
+
+## Asymmetric Encryption
+
+### Key Management
+
+  * Using GPG Agent
+  * GPG Manager App
+
+### PGP Files
+
+## Symmetric Encryption
+
+### Key Management
+
+  * Use Asymmetric Encryption
+
+### Use a unique Initialization Vector if possible
+
+  * LoopBack Devices
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Labianca</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1381/cryptography-for-django-applications</guid><enclosure url="http://www.youtube.com/watch?v=pWCAADXd-DI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pWCAADXd-DI/hqdefault.jpg"></media:thumbnail></item><item><title>Django forms in a web API world</title><link>http://www.pyvideo.org/video/1388/django-forms-in-a-web-api-world</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In a world of django powered web APIs and arbitrary consumers, traditional
+methods of rendering &amp; validating django forms are ineffective. We discuss how
+to uphold the API provider/ consumer separation, yet utilize provider's django
+form subsystem to power forms in a pure JS consumer. We achieve this by
+serializing form configurations, rendering metadata, error handlers &amp; exposing
+them over API.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In our quest to modularize the architecture of web applications, we create
+self-containing backend systems that provide web APIs for programmatic
+interactions. This gives us the flexibility to separate different system
+components. A system with multiple backend components e.g. user profile
+engine, content engine, community engine, analytics engine may have a single
+frontend application that fetches data from all of these components using
+respective web APIs.
+
+With the increased availability of powerful JavaScript frameworks, such
+frontend applications are often purely JS based to decrease application
+footprint, increase deployment flexibility and separate presentation from
+data. The separation is very rewarding from a software engineering standpoint
+but imposes several limitations on system design. Using django to construct
+the API for arbitrary consumers comes with the limitation of not being able to
+utilize the powerful django form subsystem to drive forms on these consumers.
+But is there a way to overcome this restriction?
+
+This is not a trivial problem to solve and there are only a few assumptions we
+can make about the web API consumer. It can be a native mobile or desktop -
+application or browser. We advocate that web APIs should provide sufficient
+information about 'forms' so that they can be faithfully reproduced at the
+consumer end.
+
+Even in a API backend built using django, forms are essential for accepting,
+filtering, processing and saving data. The django form subsystem provides many
+useful features to accomplish these tasks. At the same time it facilitates the
+process of rendering the form elements in a browser environment. The concepts
+of form fields combined with widgets can go a long way in streamlining the
+interface to interact with data.
+
+We propose an architecture to serialize information about django forms (to
+JSON) in a framework independent fashion so that it can be consumed by any
+frontend application that renders HTML. Such information includes but is not
+limited to basic form configurations, security tokens (if necessary),
+rendering metadata and error handling instructions. We lovingly name this
+architecture - django-remote-forms.
+
+At WiserTogether, we are in the process of building a component based
+architecture that strictly provides data endpoints for frontend applications
+to consume. We are working towards developing our frontend application for web
+browsers using backbone.js as MVC and handlebars as the templating engine.
+django-remote-forms helps us streamline our data input interface with the
+django forms living at the API backend.
+
+In this talk we detail the architecture of our components, the mechanism of
+delivering django form metadata over API and a backbone.js/ handlebars
+implementation to consume the metadata and reproduce forms.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tareque Hossain</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1388/django-forms-in-a-web-api-world</guid><enclosure url="http://www.youtube.com/watch?v=fwXEJh63sKc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/fwXEJh63sKc/hqdefault.jpg"></media:thumbnail></item><item><title>Flasky Goodness (or Why Django Sucks?)</title><link>http://www.pyvideo.org/video/1386/flasky-goodness-or-why-django-sucks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk dives into the specifics of why Django isn't always the best tool
+for the job, general frustrations with the framework, and potential fixes. It
+will balance out with many Django praises too, of course.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk dives into the specifics of why Django isn't always the best tool
+for the job, general frustrations with the framework, and potential fixes.
+
+It will balance out with many Django praises too, of course.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Reitz</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1386/flasky-goodness-or-why-django-sucks</guid><enclosure url="http://www.youtube.com/watch?v=U2frH932U1g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/U2frH932U1g/hqdefault.jpg"></media:thumbnail></item><item><title>Lessons in Testing</title><link>http://www.pyvideo.org/video/1384/lessons-in-testing-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn from failures (and successes) around testing patterns and culture in a
+growing company, both in amount of code, and number of engineers. We'll dive
+into how DISQUS adopted testing, and the many challenges we've had to
+overcome.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Testing can be one of the more difficult concepts to pick up in a development
+cycle. With the complexities of large projects, and even small projects,
+writing effective, automated tests can take many times longer than writing the
+code and testing it by hand.
+
+This talk will explore the various patterns of testing that DISQUS has
+implemented, and iterated upon over the last two years. It will describe how
+testing has been used to speed up the product lifecycle, improve stability
+through automation, and the culture shift required to get there. Most
+importantly, it will cover the practices that have been put in place that have
+helped ease the burden of writing tests.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1384/lessons-in-testing-0</guid><enclosure url="http://www.youtube.com/watch?v=9_39Vbjx23Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9_39Vbjx23Y/hqdefault.jpg"></media:thumbnail></item><item><title>So You Want to Make a Payment: Comparing and contrasting Django payment options</title><link>http://www.pyvideo.org/video/1391/so-you-want-to-make-a-payment-comparing-and-cont</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+So you've developed an eCommerce site and now you want users to be able to
+make payments. The aim of this talk will be to introduce and compare some
+common payment gateway options, such as Payflow, Authorize.net, Stripe, and
+Braintree, with the focus of integrating them into Django projects.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+When developing eCommerce applications in Django, you will often be faced with
+the choice of which payment API to use. It's not always clear which services
+are available, which will fit your needs, and how to get started with them.
+This talk aims to evaluate these payment options from a Django programmer's
+perspective and provide you with background that may help you choose a payment
+processor that fits your needs.
+
+Topics will include:
+
+  * High-level overview of how payments work. 
+  * Overview of popular payment options: Google Checkout, Authorize.net, Payflow Payments, Braintree, Stripe, etc. 
+  * Compare and contrast these payment gateway APIs 
+    * compare ease of use
+    * features 
+    * price
+  * General overview of payment gateway web interfaces 
+  * Example Code snippets for payment processing
+  * Useful Python/Django payment-related modules 
+  * Q&amp;A 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Jasinski</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1391/so-you-want-to-make-a-payment-comparing-and-cont</guid><enclosure url="http://www.youtube.com/watch?v=vZc5mETltzM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vZc5mETltzM/hqdefault.jpg"></media:thumbnail></item><item><title>The Dungeon Master's guide to Django's ORM</title><link>http://www.pyvideo.org/video/1380/the-dungeon-masters-guide-to-djangos-orm</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+If you've ever been curious about Django's ORM implementation, you will have
+noticed the required learning curve. Some of the code is fairly complicated.
+Other bits are worse. Here comes a 30 or 40 minute guided tour of the
+uncharted realms: how the pieces fit together, where to look for things, why
+the current design is what it is. A portion of this is my fault; I should
+probably explain myself.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django's database layer is a necessarily complicated piece of code. It is a
+very powerful API that works more or less seamlessly across multiple database
+storage systems, smoothing over many of the inconsistencies and implementation
+differences that go with the territory. This is great for developers who use
+Django.
+
+It's a little less awesome for the maintainers of that code; working in that
+environment is fairly difficult. Still, we all like a challenge. Problem is:
+where to start? Coming to grips with the ORM code isn't easy. The code is well
+written and documented, but the entry points are particularly well highlighted
+and, really, the sheer mass of code is an obstacle to be overcome.
+
+This talk will look at the various layers of the ORM, from the public
+gateways, to the semi-public doors into the implementation, to the deeper
+internals and down to the interaction with databases. In effect, following the
+journey of a couple of adventurous young queries as they traverse the pathways
+to bring back some data, smelted into just the right format.
+
+The goal is to provide some kind of mental map of the code. Some tips for
+orienting yourself in the future and how to examine new nooks and corners
+without losing your mind. We obviously cannot cover everything, but let's go
+over the common paths and show how the other pieces hang off that backbone.
+
+Along the way, we'll put some of the details into historical perspective.
+Getting inside the mind of previous adventurers might help understand why
+things are the way they are.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Malcolm Tredinnick</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1380/the-dungeon-masters-guide-to-djangos-orm</guid><enclosure url="http://www.youtube.com/watch?v=bgV39DlmZ2U" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/bgV39DlmZ2U/hqdefault.jpg"></media:thumbnail></item><item><title>Using Celery with Social Networks</title><link>http://www.pyvideo.org/video/1382/using-celery-with-social-networks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Many web applications need to interface with social networks, and celery, a
+Python distributed task queue library, is a great tool for the job. However,
+achieving speed and stability can be difficult. This talk will cover task
+organization/distribution, rate limiting, failover, and other practices to aid
+in working with social networks at scale.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Twitter conditionally rate limits based on IP address rather than access token
+even when one is provided for some of its API calls. Facebook has at least 10
+unique error messages to indicate a bad or expired access token (that I've
+found so far). LinkedIn's pagination has an occasional off-by-one bug
+resulting in an endless list of 1-user pages. Let's face it: interfacing with
+social networks is tricky. Celery helps, but to provide stable, reliable, and
+fast social features for your website, you'll need an arsenal of strategies
+and tools to get you the rest of the way there.
+
+By the end of this talk, you'll understand how to set up tasks to quickly
+serve users with massive networks by employing intelligent distribution.
+You'll be able to design robust processes to handle inconsistencies or
+instabilities in 3rd party APIs. And you'll know how to have confidence that
+the work you intend to do gets done, regardless of external rate limits,
+pagination design, or API call dependency chains.
+
+This talk is intended for people who have basic familiarity with celery and
+would like to learn more about how to take advantage of it for large,
+distributed task loads.
+
+## Outline
+
+I. Intro
+
+A. 3rd party interfaces are hard
+
+    
+      * Speed
+    
+        * Much slower than local data
+        * Users may still expect near-immediate results
+    
+      * Rate limits
+    
+        * Different rules for every service
+        * Need to handle reactive &amp; proactive as some don't publish rates
+    
+      * Instability
+    
+        * Outages (yes, Facebook does go down)
+        * Random failures
+    
+
+B. Why Celery?
+
+    
+      * Asynchronous
+      * Distributed
+      * Fault tolerant
+    
+
+II. Task Organization
+
+    
+    A. Small, atomic tasks (1 API call per task)
+    B. Minimal message state
+    
+       * Primitive types only (no model instances!)
+       * Defer as much data access to the task itself as possible
+    
+    C. Create Task subclasses for common patterns
+    D. Whenever possible, make tasks idempotent
+    
+
+III. Task Distribution
+
+    
+     A. Managing pagination
+    
+        * For a known set size
+    
+          * Where limit/offset is supported, launch all page tasks simlutaneously
+          * Otherwise, 1 page launches the next as soon as the next cursor is obtained
+    
+        * For an unknown set size
+    
+          * Set max simultaneous pages
+          * Task is terminal if blank, otherwise launches page w/ offset + max pages
+    
+        * Setting page size is an art, not a science
+    
+          * Minimize the number of api calls when possible
+          * Avoid long-running tasks by setting a timeout ceiling
+          * Avoid the temptation to pass API data to dependent tasks
+    
+     B. Tracking task dependencies ("Done?" is difficult for distributed systems)
+    
+        * Use an external backend to store a dependency tree
+        * Subclass ResultSet to evaluate the task state of the tree
+        * Requires ignore_result=False
+    
+
+IV. Rate Limiting
+
+    
+    A. Problems
+    
+       * Celery's rate limiting doesn't do what you think it does
+       * 3rd party rate limits depend on many factors
+    
+    B. Solution
+    
+       * For services with known rate limits:
+    
+         * Use an external backend to store rate limit counters
+         * Increment counters based on rate limit factors per api call
+    
+       * For services with unknown rate limits:
+    
+         * Use an external backend to store rate limit backoff counters
+         * Ramp up / ratchet down call rate by power law as api calls fail/succeed
+    
+
+V. Failover
+
+A. Problems
+
+    
+      * Celery's countdown doesn't do what you think it does
+      * 3rd parties can fail in lots of "interesting" ways
+    
+
+B. Solution
+
+    
+      * Implement native RabbitMQ alternative to countdown
+      * Create task base classes per social network to handle error conditions
+    
+
+VI. Multiple queues
+
+    
+    A. Better control over task priority management &amp; resource distribution
+    B. Not all social accounts are created equal (handling whales &amp; spikes)
+    C. When you can't stream updates, use a trickle queue
+    
+
+VII. Celerybeat considered harmful
+
+    
+     A. Periodic task persistence gets out of sync with code
+     B. Just 1 more process to manage
+     C. Cron: it's just. not. that. hard.
+    
+
+VIII. Debugging
+
+    
+      A. Don't use "always eager"
+      B. Logging, logging, logging
+      C. Unit tests are good, but integration tests save lives
+    
+
+IV. Gotchas
+
+    
+    A. Open socket prevents Celery soft timeout
+    B. Celery soft timeout doesn't retry the task
+    C. If result state is not known, Celery reports "PENDING"
+    
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Gouldin</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1382/using-celery-with-social-networks</guid><enclosure url="http://www.youtube.com/watch?v=z751qhAzMb4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/z751qhAzMb4/hqdefault.jpg"></media:thumbnail></item><item><title>What is Django's Role on Mobile?</title><link>http://www.pyvideo.org/video/1383/what-is-djangos-role-on-mobile</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mobile grows bigger each year, but we love the web, and Django. Where does our
+knowledge and experience fit in this new ecosystem? What kind of a role can
+Django play on fast-growing platforms like iOS and Android?
+
+
+&lt;p&gt;Description&lt;/p&gt;
+# Intro
+
+  * Django's version of MVC vs. iOS/Android version of MVC
+  * How the platforms differ from Django
+  * What is similar to Django
+
+# API
+
+  * Easiest way for Django to be used in conjunction with mobile today
+  * Big fat requests with lots of data preferable to many smaller requests
+  * Authentication best practices for mobile backend APIs
+
+# PhoneGap
+
+  * Can actually use Django to build your mobile app today
+  * JavaScript tricks to get around things like tap delay
+  * How much Django is really used vs. how much JavaScript
+  * Offline caching
+  * Performance issues with this approach
+
+# Future
+
+  * Quick look at RubyMotion
+  * Turns out it's possible to cross-compile Python for iOS
+  * Android has Py4A (including interpreter embedding)
+  * What can be done with this? Mobile Django.
+
+# Conclusion
+
+  * They are different worlds, need to be careful to respect both
+  * Even today Django proves useful as an API layer
+  * Django web apps in native wrapper can be a solution, albeit with its issues
+  * As hardware gets better, we may see something like an embedded Django
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Florenzano</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1383/what-is-djangos-role-on-mobile</guid><enclosure url="http://www.youtube.com/watch?v=3_R3DYwBWyY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3_R3DYwBWyY/hqdefault.jpg"></media:thumbnail></item><item><title>Why the Django Community Sucks</title><link>http://www.pyvideo.org/video/1385/why-the-django-community-sucks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Continuing in the tradition of self-deprecation that has made DjangoCon
+famous, a relative newcomer will outline what the Django community can learn
+from the world of social activism.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In 2010, Eric Florenzano ignited a fever following his lightfooted and
+lighthearted placement of a mirror in front of the hardest of the hardcore in
+the django community with his presentation, “Why Django Sucks, and How We can
+Fix It.” Then, a year later, at DjangCon 2011, Steve Holden grasped the self-
+critique baton with an even steeper challenge, making a claim that he
+described as “the most outrageous thing you can say” - that the Django
+documentation sucked.
+
+The Django documentation, already widely considered the best in its class, has
+responded to the critique and continues to improve daily.
+
+Also widely viewed as a top strength of Django is its community. While Django
+enjoys one of the most thoughtful, patient, and responsive communities in the
+world of open source web frameworks, it has a special opportunity for learning
+in Washington, D.C., where many of the most successful and voracious non-
+profit advocacy organizations call home.
+
+This presentation will examine some of their tactics and compare them with
+those employed by the Django community. Among the topics covered will be
+mobilization of new troops, building and listening to diverse coalitions, and
+identifying and reaching out to under-represented populations.
+
+The presenter comes from a decade of experience in non-profit social justice
+activism. Having been a Django user for 3.5 years and involved in the
+community for 2, will be at only his second DjangoCon.. Freshly imported, he
+has the perspective of a passionate newcomer rather a seasoned veteran.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Justin Myles Holmes</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1385/why-the-django-community-sucks</guid><enclosure url="http://www.youtube.com/watch?v=NrkopXN9sQg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/NrkopXN9sQg/hqdefault.jpg"></media:thumbnail></item><item><title>A Gringo's Guide to Internationalization</title><link>http://www.pyvideo.org/video/1379/a-gringos-guide-to-internationalization</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Coming from a speaker who escaped a notion to "why would we need to
+translate?" this talk aims to show what actually goes into translating a
+website or app using Django's Internationalization tools. Covered will be an
+overview of batteries included, best practices and anti-patterns in using
+them, and some third party tools to help make your life escaping the myth of a
+Lingua Franca easier.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+There's often a bubble in the English-speaking programming world that the
+entire internet runs on English. Our Top-level domains are shortened english
+words. Our programming languages--Python in particular--try to emulate English
+words and grammar.
+
+Firmly in place in this world for many years, my first attempt to translate a
+pre-existing site came with a high sticker shock of nuanced difficulty. This
+talk covers all the lessons I learned in taking a fully-fleshed web app with
+no translation (and a programmer with no translation experience) to being
+completely translated.
+
+# Talk Overview
+
+  1. Introduction to Translation
+    1. Overview of gettext
+    2. Brief history of a translation
+      1. Add gettext calls
+      2. `django-admin.py makemessages`
+      3. Ship po file to translation service
+      4. Receive file back
+      5. Compile
+      6. Fin
+    3. gettext vs gettext_lazy
+  2. Batteries Included
+    1. gettext Python calls
+    2. Middleware
+    3. template tags
+      1. trans vs. blocktrans
+    4. Anti-patterns of the battery included use.
+      1. Heavy whitespace in blocktrans
+      2. Monster-sized translations
+  3. The best laid plans of mice and men...
+    1. Problems that get in the way of A history of a translation.
+      1. Realize half the site is still untranslated
+      2. Edit out the translations you already had translated to avoid re-curring costs
+      3. Have the product adjust so two words change
+      4. Realize common text that's in the database
+      5. Fin?
+    2. Patterns and tools to help
+      1. `poxx.py` and the idea of a 'canonical' po file.
+      2. `dbgettext`
+      3. Wholly-translated template files (translate_include, trans_render)
+  4. Advanced Translation Technique
+    1. While undocumented, translation backend is pretty darn flexible and the source code is a treasure trove to make 'impossible' use cases not too bad.
+    2. Overview of how the translation service works behind the scenes
+      1. `_translation` thread local
+      2. Merged translations (root-&gt;app-&gt;default)
+      3. Sessions vs. Accept-Language
+      4. Middleware and Context processors
+    3. Example of advanced translation code: Multi-tenancy translation.
+      1. Translating some sites, not translating others
+      2. Translating Site A one way, Site B another
+      3. Using an English translation for duct-tape and profit.
+  5. Why Django's i18n sucks.
+    1. In the vein of the "Django Sucks" Key note. It doesn't really, but it could use some changes--from minor to major.
+    2. Why .po Files are archaic and limited.
+    3. What we can do to improve for 1.5 and beyond.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Burch</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1379/a-gringos-guide-to-internationalization</guid><enclosure url="http://www.youtube.com/watch?v=j2ZHZWfx60Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/j2ZHZWfx60Y/hqdefault.jpg"></media:thumbnail></item><item><title>API Design Tips</title><link>http://www.pyvideo.org/video/1398/api-design-tips</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The focus of this talk will be on some pragmatic tips on how to design
+programmatic (non-web-based) APIs for use by other developers.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+If you're a developer of any sort (Django, Python, Javascript, etc), chances
+are that someone, at some point, will have to take the code you've written &amp;
+use it in a different context. This is even more amplified if you work on OSS,
+where people _will_ use it in ways you've never dreamed about.
+
+This talk is a reflection on my experience building libraries for other
+people's consumption &amp; thoughts on how to design/make (non-HTTP) APIs in a way
+that will make others love you (or at least not hunt you down &amp; strangle you).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Lindsley</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1398/api-design-tips</guid><enclosure url="http://www.youtube.com/watch?v=IKQzXu43hzY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IKQzXu43hzY/hqdefault.jpg"></media:thumbnail></item><item><title>Creating Dynamic Applications with Django and Backbone.js</title><link>http://www.pyvideo.org/video/1402/creating-dynamic-applications-with-django-and-bac</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+See how well Django and Backbone.js can complement each other, and learn a few
+best-practices for building dynamic web applications using these tools in
+concert.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django is a great tool for creating powerful database-driven web applications
+quickly. The ORM, form processing, the admin interface, and wealth of
+community applications make Django the right tool for a number of situations.
+
+One thing that Django doesn’t do well is make it terribly easy to create
+highly-interactive, dynamic interfaces. There are solutions that people are
+working on. This talk will be about using Django with Backbone.js to help
+create these interfaces. Backbone.js is a Javascript framework that, in many
+ways, sees the world in the same way as Django. These two tools can complement
+each other nicely.
+
+Topics:
+
+  * Similarities and differences in how the two frameworks see the world
+  * Creating REST interfaces with Django REST Framework
+  * Tools to ease the interface between Django and Backbone
+  * Templating strategies
+  * Shortcomings and implications on accessibility
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mjumbe Poe</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1402/creating-dynamic-applications-with-django-and-bac</guid><enclosure url="http://www.youtube.com/watch?v=Is0TIzSG3eg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Is0TIzSG3eg/hqdefault.jpg"></media:thumbnail></item><item><title>Debugging Live Python Web Applications</title><link>http://www.pyvideo.org/video/1395/debugging-live-python-web-applications</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Monitoring tools record the result of what happened to your web application
+when a problem arises, but for some classes of problems, monitoring systems
+are only a starting point. Sometimes it is necessary to take more intrusive
+steps to plan for the unexpected by embedding mechanisms that will allow you
+to interact with a live deployed web application and extract even more
+detailed information.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk will go over some of the ways in which a monitoring system such as
+New Relic can be used to focus in on where problems are arising in a Python
+web application using a framework such as Django. It will also describe how
+you can then use that information to drill down even further by applying
+separate debugging tools and techniques rather than monitoring systems.
+Debugging tools aren't generally associated with production systems however
+and even mentioning them in relation to production systems often makes DevOps
+people rather nervous.
+
+The main purpose of the talk therefore is to look at a range of debugging
+tools and techniques which can be applied to web applications but also
+separate them into what might and might not be realistically used on live
+production web applications. It will then describe the use of an embedded
+interactive console port as a gateway into a live web application, how one may
+setup a set of predefined commands that could be issued against a live web
+application, or for the brave, how it could be used to fire up an embedded
+Python interpreter prompt or pdb session.
+
+Topics to be touched on would include:
+
+  * Browser viewable error pages.
+  * Browser based debuggers.
+  * Python interactive debuggers.
+  * Post-mortem exception analysis.
+  * Methods for dumping Python stack traces
+  * Methods for dumping C stack traces.
+  * Methods for analyzing thread utilization.
+  * Interactive process introspection tools.
+  * Error reporting and logging services.
+  * Performance monitoring services.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Amjith Ramanujam</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1395/debugging-live-python-web-applications</guid><enclosure url="http://www.youtube.com/watch?v=YM4F6sSAu9k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YM4F6sSAu9k/hqdefault.jpg"></media:thumbnail></item><item><title>Designing Your Open Source Project</title><link>http://www.pyvideo.org/video/1392/designing-your-open-source-project</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There is an ever present rift between designers and developers and it is one
+that has existed since our paths started crossing. We'll talk about how to be
+mindful of design in your own open source project and how to attract designers
+to help your project become even more awesome.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+There is an ever present rift between designers and developers and it is one
+that has existed since our paths started crossing. While it has almost become
+a requirement for designers to be able to grok the code they work with on a
+daily basis, that has unfortunately had no effect on the willingness of
+designers to work on open source projects.
+
+Fortunately, if your project is in need of a designer, there are ways that you
+can make your project more appealing to our “special breed” of personality. In
+this quick talk, we’ll jump into the mind of your typical designer, show you
+just how many similarities we share and then apply that knowledge to make your
+project easy and appealing for designers to jump into.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bryan Veloso</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1392/designing-your-open-source-project</guid><enclosure url="http://www.youtube.com/watch?v=bdqLtx3K36k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/bdqLtx3K36k/hqdefault.jpg"></media:thumbnail></item><item><title>Django on Gevent</title><link>http://www.pyvideo.org/video/1393/django-on-gevent</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is an introduction to using the Gevent networking library to empower your
+Django application with realtime features and resource-efficient cooperative
+concurrency. Django's synchronous APIs make it impractical to use in a
+callback-based networking library, but fast single-threaded concurrency is
+still possible using the mind-blowing capabilities of coroutines.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Gevent is an ultra-fast networking library built on top of the greenlet
+module. Greenlets are the ideal solution to making Django's synchronous API
+calls possible in a cooperative concurrency environment.
+
+I'll begin with an overview of the models of network programming, including
+threading, callbacks, and coroutines. I'll explain how greenlets (coroutines)
+work in harmony to provide simple blocking network APIs while not blocking
+execution of the entire thread. I'll show how easy it is to integrate other
+network services into your app.
+
+As an exploration into using realtime features in Django, I'll demonstrate a
+simple realtime collaboration app that uses websockets for communication. I
+will show how to integrate ZeroMQ to allow the app to scale beyond a single
+server. I will also show how to attach to and monitor your web app using
+gevent.backdoor.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cody Soyland</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1393/django-on-gevent</guid><enclosure url="http://www.youtube.com/watch?v=nocGRsytBkk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nocGRsytBkk/hqdefault.jpg"></media:thumbnail></item><item><title>How we found our security best practices (and what they are)</title><link>http://www.pyvideo.org/video/1394/how-we-found-our-security-best-practices-and-wha</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mozilla takes data security very seriously. We have AppSec, OpSec, and
+InfraSec teams, and our web developers have baked our security best practices
+into documentation and a Django app called Funfactory. Hear how we came to
+those best practices, what they are, and how to follow them.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Privacy and security are key parts of Mozilla's mission, and we build some of
+the largest Django applications on the web, so being at the absolutely
+forefront of security is crucial to us. And having a great user experience is,
+too. So over the past few years, we've developed a number of proposals, tools
+--like Bleach and django-ratelimit--and best practices, and we've wrapped
+these up into our application template Playdoh and an app called Funfactory.
+
+I'll share those best practices and their motivations. We'll also go over a
+number of tools, settings, and even some fairly new web standard proposals
+(with tools, of course) to help you build the most secure Django applications
+you can, at whatever scale you're building.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Socol</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1394/how-we-found-our-security-best-practices-and-wha</guid><enclosure url="http://www.youtube.com/watch?v=Wb83VL3k3zo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Wb83VL3k3zo/hqdefault.jpg"></media:thumbnail></item><item><title>Maintaining Your Sanity While Maintaining Your Open Source App</title><link>http://www.pyvideo.org/video/1403/maintaining-your-sanity-while-maintaining-your-op</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django has a thriving community of open source pluggable applications.
+Maintaining an external application can be a rewarding experience and doesn't
+need to take over your life. Learn what it takes to package, document and test
+your Django app so that others can use and contribute to what you've built.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+## Introduction/Overview
+
+So you want to release your Django app into the wild. Now what? I'll go over
+packaging your application to add to the Python Package Index (PyPi), creating
+documentation to host on Read The Docs and setup an environment to test your
+application against different versions of Python and Django. I'll also go over
+some things you should and shouldn't do when maintaining your app over the
+years.
+
+## Packaging
+
+  * Creating a setup.py
+  * Registering your package
+  * Uploading your package
+  * Sane versioning with PEP386
+
+## Documentation
+
+  * Getting started with Sphinx
+  * Using Read the Docs
+
+## Testing
+
+  * Running your app tests
+  * Testing multiple Python/Django versions with tox
+  * Testing your documentation build
+
+## Things to Do
+
+  * State your goals
+  * Let others help you
+  * Include a license
+  * Prepare for the future
+
+## Things to Avoid
+
+  * Rejecting every contribution
+  * Accepting every contribution
+  * Developer burnout
+
+## Conclusion
+
+Reusable applications are my favorite feature of Django. It does take work to
+maintain an open source app but it can be quite rewarding. If you use these
+tools you can help provide your users with the best experience and empower
+them to help you with your application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Lavin</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1403/maintaining-your-sanity-while-maintaining-your-op</guid><enclosure url="http://www.youtube.com/watch?v=xgWFTrXn0_U" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xgWFTrXn0_U/hqdefault.jpg"></media:thumbnail></item><item><title>OpenBlock: Overview &amp; Initial Experience</title><link>http://www.pyvideo.org/video/1401/openblock-overview-initial-experience</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+OpenBlock is an open-source project aiming to provide a framework for "hyper-
+local" civic data. We've been using OpenBlock in a project focused on
+increasing access to public records in rural North Carolina communities. In
+this talk we provide an overview of OpenBlock and how to get started using it,
+we describe our experience using it, and discuss some extensions we have made
+to it.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+# Abstract
+
+What do you do if EveryBlock isn't available in your city? OpenBlock, released
+to the community from the Knight-funded project, EveryBlock.com, is a
+neighborhood news project aiming to provide a framework for "hyper-local"
+civic data. Over the past few years, the open source project has been
+maintained by the non-profit OpenPlans. Their goal was to simplify and
+accelerate adoption of OpenBlock by making it easier to use. Today, Caktus is
+working with Ryan Thornburg of the UNC School of Journalism and Mass
+Communication to bring OpenBlock to rural North Carolina newspapers. Open
+Rural aims to leverage OpenBlock to increase access to public records in small
+communities. This talk focuses on our experience with OpenBlock as we work to
+deploy OpenRural in North Carolina.
+
+# Outline
+
+## Introduction
+
+  * What is OpenBlock?
+  * How does it relate to/compare to EveryBock?
+  * When/why might you want to incorporate OpenBlock into a site?
+  * What have we (Caktus) be doing with OpenBlock?
+
+## Geocoding
+
+  * Geocoding is a hard problem to solve
+  * String parsing
+  * Places and locations
+  * Street/block data
+  * 3rd-party geocoder comparison
+
+## Getting Started: Choosing Source for Street/Block Data
+
+  * Pros and Cons of Census (Tiger) Data
+  * Pros and Cons of Other Data Sources
+  * Differences with county data and OpenBlocks preference for cities
+  * Our Experience with Columbus County, NC
+
+## Scrapers
+
+  * What are they?
+  * How do you write them?
+  * Our Experience with Some Scrapers for Columbus County, NC
+  * How we improve data accessibility with ScraperWiki
+
+## The Missing Piece: Data Review and Analysis
+
+  * OpenBlock handles scraping and public viewing, but is missing review and analysis
+  * How successful was the geocoder?
+  * How many news items were added this past week?
+  * Why is my scraper failing to run?
+  * Why did this address fail to geocode? How can I correct it?
+  * Data Dashboard
+
+## Adding OpenBlock to an Existing Site
+
+  * Out-of-the-box views/templates
+  * Our experience integrating with local online newspapers
+  * Our OpenRural deployment setup
+
+## Conclusion
+
+  * State of the OpenBlock community
+  * Our plans in North Carolina
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Colin Copeland,Karen Tracey</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1401/openblock-overview-initial-experience</guid><enclosure url="http://www.youtube.com/watch?v=nwr_G6Nln3s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nwr_G6Nln3s/hqdefault.jpg"></media:thumbnail></item><item><title>PostgreSQL when it's not your job</title><link>http://www.pyvideo.org/video/1399/postgresql-when-its-not-your-job</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this DevOps world, Django developers are increasingly being asked to manage
+the database as well. In 40 brisk minutes, we will talk about (nearly)
+everything you need to know to bring up, tune, and keep a PostgreSQL database
+health. We'll go over installation, basic tuning, backups, disaster recovery,
+and helpful tools and techniques.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+It's a very rare startup these days that has a full-time DBA on staff; mostly,
+the developers are pressed into service to handle the database as well. In
+this talk, we'll present the survival skills required to manage your
+PostgreSQL database while trying to push the product out the door.
+
+We'll cover:
+
+  * Installation.
+  * Basic tuning (it's easier than you think).
+  * Performance, including things you must not do.
+  * Backups and disaster recovery.
+  * Helpful tools, tips and tricks.
+
+Django experience is helpful, but no PostgreSQL experience required.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Pettus</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1399/postgresql-when-its-not-your-job</guid><enclosure url="http://www.youtube.com/watch?v=3yhfW1BDOSQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3yhfW1BDOSQ/hqdefault.jpg"></media:thumbnail></item><item><title>Take Two: If I got to do it all over again</title><link>http://www.pyvideo.org/video/1396/take-two-if-i-got-to-do-it-all-over-again</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django has always had a strong commitment to backwards compatibility, and is
+used by thousands of developers every day. This means that it's very difficult
+to make large sweeping changes to Django. This talk is a look at how I'd
+redesign different components of Django, if I got to do it all over again.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk has two parts.
+
+First, identifying the principles we're trying to adhere to, and the problems
+we're trying to solve by re-imagining every single API.
+
+Second, looking at specific changes to individual APIs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1396/take-two-if-i-got-to-do-it-all-over-again</guid><enclosure url="http://www.youtube.com/watch?v=0FD510Oz2e4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/0FD510Oz2e4/hqdefault.jpg"></media:thumbnail></item><item><title>Views can be Classy!</title><link>http://www.pyvideo.org/video/1397/views-can-be-classy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An overview of what class-based views (CBVs) are, which ones are available,
+and how to use them in your projects. I'll also cover creating mixins, where
+function-based views still make sense, and how to test CBVs. As part of this,
+I'll be covering my django-braces (https://crate.io/packages/django-braces/)
+package.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+It seems like most people in the Django community either don't have any idea
+how class-based views work or are scared to try them out. I want to help with
+a solid introduction to the technology.
+
+  * The usual "who I am" bit.
+  * Most other things in Django are classes.
+  *     * models
+  *     * forms
+  *     * even templates
+  * Views should be classes, too.
+  * What view classes are provided by Django.
+  * How to create your own mixins to clean up pain points
+  * Where function-based views are still handy.
+  * Example CBVs for common use cases
+  *     * handling form input for more than one form
+  *     * serving different content based on users
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1397/views-can-be-classy</guid><enclosure url="http://www.youtube.com/watch?v=yr9HOLipPXc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/yr9HOLipPXc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

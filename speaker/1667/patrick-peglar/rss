@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Patrick Peglar</title><link>http://www.pyvideo.org/speaker/1667/patrick-peglar/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1667/patrick-peglar/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Efficient large data operations with Biggus</title><link>http://www.pyvideo.org/video/3324/efficient-large-data-operations-with-biggus</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Biggus is a lightweight pure-Python package which implements lazy operations on numpy array-like objects. This provides dramatically improved efficiency in analysing large datasets, for minimal additional effort in the client code.
+&lt;p&gt;Description&lt;/p&gt;
+As scientific datasets continue to grow exponentially in size, the resource requirements of even simple analyses can quickly grow to become a problem -- e.g. the job takes an unreasonably long time, or simply runs out of space.
+
+Existing solutions to this may be powerful, but can also come with a large complexity overhead, especially for the non-expert user. This makes adapting an existing analysis to the needs of larger datasets potentially very costly.
+
+Biggus provides simple abstractions of data access and calculations which provide lazy evaluation. It exposes this as simple virtual array object which mimics a numpy array. Thus, it does not require the user to re-cast an operation in unfamiliar terms, or specify unrelated details of data storage or concurrency factors.
+
+The lazy evaluation approach allows optimised resource usage for both storage accesses and the parallelisation of calculations. Pure Python is well suited to describing and implementing these techniques, and the resulting implementation is easily accessible to the average user.
+
+At the Met Office, we develop data analysis tools for a large community of research scientists. We developed [Biggus](https://github.com/SciTools/biggus) as a resource for the Iris project, our next-generation analysis library for meteorological and oceanographic data (see: &lt;http://scitools.org.uk/iris/&gt;). While Biggus is still work-in-progress, within Iris it is already delivering significant benefit, in tasks such as catalogueing large datasets and accelerating statistical calculations. Here, performance already exceeds that of other standard software toolsets.
+
+## Schedule
+
+* the problems Biggus is aiming to solve, and techniques employed
+* an overview of the architecture and code of the current implementation
+* a demonstration of current performance, in ease-of-use and efficiency benefits
+* suggestions for future developments; how to get involved; questions</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Patrick Peglar</dc:creator><pubDate>Wed, 22 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3324/efficient-large-data-operations-with-biggus</guid><enclosure url="https://www.youtube.com/watch?v=7rpcWZJaGFo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/7rpcWZJaGFo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

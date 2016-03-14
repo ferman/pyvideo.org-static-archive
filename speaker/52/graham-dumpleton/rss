@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Graham Dumpleton</title><link>http://www.pyvideo.org/speaker/52/graham-dumpleton/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/52/graham-dumpleton/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 03 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Monkeying Around with Python at New Relic</title><link>http://www.pyvideo.org/video/104/djangocon-2011--monkeying-around-with-python-at-n</link><description>&lt;p&gt;Description&lt;/p&gt;
+Monkeying around with Python at New Relic
+
+Presented by Graham Dumpleton
+
+This session will cover the challenges of creating a production application
+performance monitoring system for Python. It includes an overview of the
+architecture of the system, as well as how it hooks into Django and captures
+details about web transactions, database transactions, memcache requests,
+exceptions and much more.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><guid>http://www.pyvideo.org/video/104/djangocon-2011--monkeying-around-with-python-at-n</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/104_monkeying-around-with-python-at-new-relic.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MonkeyingAroundWithPythonAtNewRelic328-388.jpg"></media:thumbnail></item><item><title>PyConAU 2010: Getting started with Apache/mod_wsgi</title><link>http://www.pyvideo.org/video/468/pyconau-2010--getting-started-with-apache-mod-wsg</link><description>&lt;p&gt;Description&lt;/p&gt;
+Getting started with Apache/mod_wsgi
+
+Presented by Graham Dumpleton
+
+An introduction to using Apache/mod_wsgi to host Python web applications
+supporting the Python Web Server Gateway Interface (WSGI).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><guid>http://www.pyvideo.org/video/468/pyconau-2010--getting-started-with-apache-mod-wsg</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/468_pyconau-2010-getting-started-with-apache-mod-wsgi.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-GettingStartedWithApachemod_wsgi847.png"></media:thumbnail></item><item><title>Using benchmarks to understand how WSGI servers work</title><link>http://www.pyvideo.org/video/4049/using-benchmarks-to-understand-how-wsgi-servers-w</link><description>&lt;p&gt;Description&lt;/p&gt;
+During the development of a Python web application the inbuilt development web server provided by the web framework is often what is used. When moving to a production environment, one has to choose a more capable production grade WSGI deployment mechanism. Which of the various WSGI servers available is going to be the most suitable is going to depend on a range of criteria related to your specific web applications requirements.
+
+Unfortunately, rather than look at the bigger picture and what would be the most suitable across such criteria, many people will simply rush to trying to run an overly simplistic benchmark on the various WSGI servers and make the decision based purely on perceptions of whether one WSGI server is faster than the alternatives. Worse, they don't even attempt to do the benchmarks themselves and instead rely on benchmarks published on some public blog site.
+
+Such public benchmarks as are available are often flawed, or cover such a narrow use case as to in no way be relevant to that users own specific situation.
+
+A further problem with such benchmarks is that they try and evaluate the performance of a WSGI server as if they are a black box. As such, there is no attempt to try and work out what is actually going on within the WSGI server and why it is exhibiting the behaviour it is.
+
+The purpose of this talk is to explore a number of different micro benchmarks, using them to work out what is actually going on within a WSGI server when they are run. The analysis will delve down into, and look at the different ways that WSGI servers are implemented and deployed. The behaviour under the different benchmarks will be determined using fine grained metrics captured from hooking instrumentation into the WSGI servers themselves.
+
+As there are many factors which could be investigated, the talk cannot be entirely comprehensive, but selected benchmarks drawing from a sub set of the following areas will be presented:
+
+* multithreading
+* CPU intensive tasks
+* long running requests
+* combination of short and long running requests
+* large request content uploads
+* large amounts of response content
+* blocking on back end services
+* slow HTTP clients
+
+The tests will look not just at response times, but also server capacity utilisation, CPU and memory utilisation.
+
+Although the discussion will primarily revolve around WSGI servers, a comparison will also be made for some tests were one instead to use an ASYNC web application framework alone, or in conjunction with a WSGI adapter.
+
+To conclude, an attempt will be made to summarise what you should be looking at in a WSGI server to determine if it is the right choice for your use case.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Mon, 03 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4049/using-benchmarks-to-understand-how-wsgi-servers-w</guid><enclosure url="https://www.youtube.com/watch?v=SGleKfigMsk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/SGleKfigMsk/hqdefault.jpg"></media:thumbnail></item><item><title>How do debug tool bars for web applications work? by Graham Dumpleton</title><link>http://www.pyvideo.org/video/3098/how-do-debug-tool-bars-for-web-applications-work</link><description>&lt;p&gt;Description&lt;/p&gt;
+When your production web application breaks, working out what went wrong can be hard. Information from log messages and details of any Python exceptions which occurred, along with other application performance data can help to identify the issue, but not always. Often you will need to fall back to a development or test environment and hope you can replicate the problem and then debug the issue from there.
+
+The purpose of this talk is to dive in and look at one class of tools that can be used in helping debug web applications. Specifically, it will look at web application tools such as the Django debug tool bar.
+
+Rather than simply look at how you might use such a tool though, this talk will look at how these debug tool bars are actually implemented, how they hook into your web application, how they capture the information that they do, as well as how they can be extended to add new functionality.
+
+The limitations on these tools as far as performance overhead, security of data etc, which nearly aways lead to them only being recommended for development environments, will also be discussed.
+
+At the same time though, this notion that they are only suitable for development environments will also be challenged by looking at how a tool such as the New Relic Python agent, which implements application performance monitoring, overcomes such limitations to provide a production grade solution.
+
+Are there lessons to be learnt from how the New Relic Python agent works which could drive improvements to existing web application debug tool bars? Could the New Relic Python agent itself be used as a base for a new generation of debug tool bars which combine an ability to debug a web application, even in a production environment, with the ability to monitor the performance of the web application over time?</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3098/how-do-debug-tool-bars-for-web-applications-work</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/51-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/51-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=Yk5EE0Us0DE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/Yk5EE0Us0DE/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced methods for creating decorators</title><link>http://www.pyvideo.org/video/2617/advanced-methods-for-creat</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2617/advanced-methods-for-creat</guid><enclosure url="http://www.youtube.com/watch?v=7jGtDGxgwEY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/7jGtDGxgwEY/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced methods for creating decorators</title><link>http://www.pyvideo.org/video/2444/advanced-methods-for-creating-decorators</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Decorators are a simple concept, yet extremely powerful. Implementing decorators which will work in a range of contexts is however non trivial. This talk will walk through various problems which arise with the more common ways of implementing decorators and then describe how to combine a wrapper and a descriptor to build a better decorator.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
+
+**Audience level**
+
+Experienced
+
+**Abstract**
+
+A decorator is any callable Python object that is used to modify a function, method or class definition. A decorator is passed the original object being defined and returns a modified object, which is then bound to the name in the definition.
+
+One would generally expect the result of applying a decorator to an object to be another object which is not readily distinguishable from the original. Naive implementations of decorators do not however preserve introspectability. This can result in callable objects having different names, appearing to have different signatures or not returning the original doc strings. This can cause problems for tools where you want to derive information about the original wrapped object such as debuggers, IDEs, documentation systems or performance monitoring software.
+
+The use of the functools.wraps() decorator addresses some of these issues, but relies on decorators being implemented as closures. Using a closure to implement a decorator will not always work when wrapping functions where the descriptor protocol needs to be triggered to bind a function to an instance, to create an instance method, or where the function is a special method type such as a class method or static method.
+
+A more robust decorator, and one where the decorator is able to distinguish when it is being applied to a normal function or instance method, needs to be implemented as a combination of a wrapper and a descriptor. To also be able to use this as a generic wrapper when performing monkey patching requires even more tricks.
+
+The purpose of this talk is to walk through the various problems which arise with the more common ways of implementing decorators. It will then describe how to create a more robust generic wrapper/decorator which can be used in a wider range of scenarios than typical decorators.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/graham-dumpleton-advanced-methods-for-creating-decorators</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Sun, 15 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2444/advanced-methods-for-creating-decorators</guid><enclosure url="http://www.youtube.com/watch?v=W7Rv-km3ZuA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/W7Rv-km3ZuA/hqdefault.jpg"></media:thumbnail></item><item><title>Making Apache suck less for hosting Python web applications.</title><link>http://www.pyvideo.org/video/1773/making-apache-suck-less-for-hosting-python-web-ap</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+It is not hard to find developers who will tell you that Apache sucks for running Python web applications. Is there a valid basis to such claims or have they simply been misguided by the views of others? This talk will endeavor to shine a light on the realities of and limitations in working with Apache, as well as the challenges in implementing the mod_wsgi module for Apache.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1773/making-apache-suck-less-for-hosting-python-web-ap</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Making_Apache_suck_less_for_ho.mp4?Signature=wTXuIyfGSxJeWV3oCdtylBmM2yM%3D&amp;Expires=1363728242&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Making_Apache_suck_less_for_ho.mp4?Signature=wTXuIyfGSxJeWV3oCdtylBmM2yM%3D&amp;Expires=1363728242&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=k6Erh7oHvns" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/k6Erh7oHvns/hqdefault.jpg"></media:thumbnail></item><item><title>Web Server Bottlenecks And Performance Tuning</title><link>http://www.pyvideo.org/video/1633/web-server-bottlenecks-and-performance-tuning-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A benchmark of a hello world application is often what developers use to make
+the all important decision of what web hosting infrastructure they use. Worse
+is that in many cases this is the only sort of performance testing or monitor
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A benchmark of a hello world application is often what developers use to make
+the all important decision of what web hosting infrastructure they use. Worse
+is that in many cases this is the only sort of performance testing or
+monitoring they will ever do. When it comes to their production applications
+they are usually flying blind and have no idea of how it is performing and
+what they need to do to tune their web application stack.
+
+This talk will provide an overview as to where in your overall request
+handling pipeline the main overheads are going to arise. It will then zoom in
+and discuss different limiting factors or bottlenecks which can arise within
+your WSGI server stack and system that can directly affect the performance of
+your Python web application.
+
+Such factors that will be discussed will include:
+
+  * Use of threads vs processes.
+  * Number of processors available.
+  * Python global interpreter lock (GIL)
+  * Amount of memory available.
+  * Slow HTTP browsers/clients.
+  * Browser keep alive connections.
+  * Need to handle static assets.
+
+From this will be provided some general guidelines of what is a good
+configuration/architecture to use for different types of Python web
+applications.
+
+The importance of continuous production monitoring will also be covered,
+ensuring that you know when the performance of your system is dropping off due
+to changing traffic patterns as well as code changes you have made in your
+actual web application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1633/web-server-bottlenecks-and-performance-tuning-0</guid><enclosure url="http://www.youtube.com/watch?v=eOkxLCCbU9w" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/eOkxLCCbU9w/hqdefault.jpg"></media:thumbnail></item><item><title>Debugging Live Python Web Applications</title><link>http://www.pyvideo.org/video/1643/debugging-live-python-web-applications-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Monitoring tools will record the result of what happened to your web
+application or system when a problem arises, but for some classes of problem
+are of limited help in working out what happened, except through inference or
+by way of
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Monitoring tools will record the result of what happened to your web
+application or system when a problem arises, but for some classes of problem
+are of limited help in working out what happened, except through inference or
+by way of anecdotal evidence.
+
+This talk will describe the limitations on what monitoring tools can help you
+with. It will then move onto look at a range of debugging tools and techniques
+which can be applied to web applications, but also separate them into what can
+and cannot be used on live production web applications.
+
+Topics which will be discussed will include:
+
+  * Browser viewable error pages.
+  * Browser based debuggers.
+  * Python interactive debuggers.
+  * Post-mortem exception analysis.
+  * Methods for dumping Python stack traces
+  * Methods for dumping C stack traces.
+  * Methods for analysing thread utilisation.
+  * Interactive process introspection tools.
+  * Error reporting and logging services.
+  * Performance monitoring services.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1643/debugging-live-python-web-applications-0</guid><enclosure url="http://www.youtube.com/watch?v=FG2ai9XFzSo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/FG2ai9XFzSo/hqdefault.jpg"></media:thumbnail></item><item><title>Web Server Bottlenecks And Performance Tuning</title><link>http://www.pyvideo.org/video/703/web-server-bottlenecks-and-performance-tuning</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+New Python web developers seem to love running benchmarks on WSGI servers.
+Reality is that they often have no idea what they are doing or what to look
+at. This talk will look at a range of factors which can influence the
+performance of your Python web application. This includes the impact of using
+threads vs processes, number of processors, memory available, the GIL and slow
+HTTP clients.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/703/web-server-bottlenecks-and-performance-tuning</guid><enclosure url="https://www.youtube.com/watch?v=Bt2HStzaBzE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Bt2HStzaBzE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

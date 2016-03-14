@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andreas Klostermann</title><link>http://www.pyvideo.org/speaker/1164/andreas-klostermann/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1164/andreas-klostermann/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Brain Waves for Hackers</title><link>http://www.pyvideo.org/video/3037/brain-waves-for-hackers</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Using the Neurosky Mindwave headset we can read brain waves via bluetooth. In this talk I will present ways to interface with this device and to analyze their data, mostly from the perspective of a Python hacker, and not so much from the perspective of academic research or the development of production-ready software. 
+
+I will convey the basic scientific and technical background, keeping in mind the non-medical audience, and touch on several practical applications, especially Neurofeedback and its use for personal mental training and potential therapeutic uses.
+
+The Audience can expect to walk away with a basic knowledge of EEG analysis, Neurofeedback and how to start experimenting with these devices on their own.
+&lt;p&gt;Description&lt;/p&gt;
+A new class of cheap consumer EEG devices allows ordinary hackers and even high school students a glimpse into the human brain.
+
+This talk will present how to use the "Neurosky Mindwave" headset with python software, and lay out the basic scientific and technical background.
+
+The Mindwave Mobile is a device that can be easily talked to using bluetooth, and it talks a binary protocol which is specifically designed to be useful without  much computing power in the receiving device or advanced knowledge of signal processing. In fact, an Arduino with a few lines of code is perfectly capable of parsing some of the byte stream and reacting to the mental state of the user, while fully-featured python software can do advanced analysis using PyEEG and Pandas.
+
+The same hardware module and protocol is used in the Nekomimi headset (mind-controlled cat ears for cosplay) and some Boardgames (MindFlex).
+
+A python library for interfacing with the headset is presented and will be demonstrated on stage. Mostly kivy applications will be used.
+
+Also I will present some data analysis you can perform with pandas and scipy.
+
+Neurofeedback is a type of mental exercise where a computer uses the EEG data to direct the user towards certain mental states. In the easiest configuration a program would display a bar with the "concentration" level, and the user would learn how to tilt this bar upwards. In more complicated setups a game could react favorably towards states like relaxation or concentration. Using Gamification, Neurofeedback can provide a more engaging experience for children or adults, than other techniques with similar goals, like mindfulness meditation, and the more immediate feedback should enhance the effectiveness of mental training, though that has not been investigated scientifically yet.
+
+Neurofeedback has been shown to be effective (albeit not recommended as sole treatment) in Patients with Attention Deficit Hyperactivity Disorder (ADHD), Epilepsy and Dementia. Some background about these conditions and applications of Neurofeedback to them will be given. The first use of Neurofeedback was done in Cats, during early experiments with EEG electrodes in the 60ies. Cats where conditioned to exhibit certain wave patterns, and later, due to a coincidence, the researchers noticed that the conditioned cats where more resistant to epilepsy-inducing medications. The effect has since been reproduced in humans, in cases where medications did not work sufficiently.
+
+Ample hints on not to treat any of this information as medical advice will be provided.
+
+The goal of this talk is to promote Neurofeedback as a useful mental training and to encourage development of applications around Neurofeedback and the analysis of EEG data, from the perspective of a python hacker.
+
+I gave a similar talk at PyConDe 2013 in Cologne. The new talk will be in English, show some improvements on the software, and more advanced demonstrations.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Klostermann</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3037/brain-waves-for-hackers</guid><enclosure url="http://www.youtube.com/watch?v=6ewIEOyC5v0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/6ewIEOyC5v0/hqdefault.jpg"></media:thumbnail></item><item><title>Gehirnwellen für Hacker</title><link>http://www.pyvideo.org/video/2420/gehirnwellen-fur-hacker</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag beschreibt das Neurosky Mindwave Headset, wie man es mit Python von einem Linuxsystem aus ansteuert.
+
+Minimale biophysikalische Grundlagen zu Gehirnströmen werden erklärt um ein Gefühl für Fähigkeiten und Grenzen dieses Systems zu vermitteln.
+
+Es werden Anwendungen im Neurofeedback vorgestellt, wie sie zum Beispiel gegen das Aufmerksamkeitsdefizit-/Hyperaktivitätsstörungssyndrom (ADHS)  als unterstützende Maßnahme eingesetzt werden könnten.
+
+Zum Thema Brain Computer Interfaces stelle ich vor was mit diesem Headset funktioniert und was nicht.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Klostermann</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2420/gehirnwellen-fur-hacker</guid><enclosure url="https://www.youtube.com/watch?v=CMKV4hlcU8Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/CMKV4hlcU8Y/hqdefault.jpg"></media:thumbnail></item></channel></rss>

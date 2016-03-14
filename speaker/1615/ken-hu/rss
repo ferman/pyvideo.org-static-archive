@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ken Hu</title><link>http://www.pyvideo.org/speaker/1615/ken-hu/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1615/ken-hu/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 27 Jun 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Anatomy of a Data Analytics MVP</title><link>http://www.pyvideo.org/video/3250/anatomy-of-a-data-analytics-mvp-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+Behind the glamour of mobile apps, business SaaS products have been steadily building itself into a billion dollar industry. With companies such as Salesforce spearheading the adaption of business SaaS products in corporate, startups are rising to take on the SME market.
+
+With hot topics such as "big data" and "machine learning" flying around, it may seem overwhelming to put an idea into action. I will walk through the process of building an data analytics minimum viable product (MVP). Attendees will have hands on experiences with the free and/or affordable technology and services that can get their MVP up and running.
+
+This talk assumes attendees understand the basic of Python. Basic understanding of MapReduce and NoSQL databases will be big pluses as well.
+
+
+About the speaker
+
+I am a data scientist, software developer, and aspiring entrepreneur. I'm especially interested in machine learning, information retrieval, text analytics, and cloud technology. My weapon of choice is Python.
+
+I previously founded a social data analysis company and developed its core technology. I grew the startup into a profitable entity, without any outside funding.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ken Hu</dc:creator><pubDate>Fri, 27 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3250/anatomy-of-a-data-analytics-mvp-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=BJkWl5RiCAg" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/BJkWl5RiCAg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

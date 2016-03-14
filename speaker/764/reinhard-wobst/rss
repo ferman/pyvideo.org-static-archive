@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Reinhard Wobst</title><link>http://www.pyvideo.org/speaker/764/reinhard-wobst/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/764/reinhard-wobst/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Oct 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>boost.python - die Nabelschnur zu Python</title><link>http://www.pyvideo.org/video/2424/boostpython-die-nabelschnur-zu-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mit boost.python kann man Klassen und Klasseninstanzen an einen eingebetteten Python-Interpreter weiterreichen und die Instanzen dort verändern; ebenso lassen sich Python-Objekte bequem in C++ verarbeiten. Gegenüber der Python-C-API entfällt das fehlerträchtige Referenz-Handling, und der Stil ist näher an Python. Eigentlich ist diese Bibliothek die erste Wahl für diese Situation, doch leider ist die Dokumentation völlig unzureichend. Hilfe gibt es im Netz, doch unstrukturiert und nicht immer optimal. Der Vortrag geht auf Missverständnisse und typische Fehler ein, die bei der Nutzung wenigstens anfangs auftreten, zeigt die (noch vorhandenen) Grenzen auf und bietet einige "Kochrezepte". Außerdem zeigt er, wozu das alles in der Praxis gut sein kann.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reinhard Wobst</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2424/boostpython-die-nabelschnur-zu-python</guid><enclosure url="https://www.youtube.com/watch?v=dx0HfAHbhf8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/dx0HfAHbhf8/hqdefault.jpg"></media:thumbnail></item><item><title>OpenOffice-Dokumente selbst modifizieren</title><link>http://www.pyvideo.org/video/1450/openoffice-dokumente-selbst-modifizieren</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Vortrag stellt eine Python-Klasse vor, die das fast beliebige Modifizieren
+von Open/LibreOffice-Dokumenten bequem ermöglicht. Es geht mehr um die
+Vorstellung einer Methode als um ein fertiges Werkzeug. So manche Aufgabe
+lässt sich damit erheblich einfacher bewerkstelligen als mit Makros oder über
+die pyUNO-Schnittstelle.
+
+Hat man eine größere Zahl von ODF-Files (also im Open Document Format) oder
+ein großes ODF-Dokument an vielen Stellen in gleicher Weise zu bearbeiten, ist
+das ermüdend, zeitaufwändig und fehleranfällig. Wozu gibt es Computer?
+Open/LibreOffice erlaubt zwar Makros, doch deren Leistung ist beschränkt, und
+die pyUNO-Schnittstelle ist kompliziert, schlecht dokumentiert und noch nicht
+ausgetestet.
+
+Es geht auch anders: ODF-Files sind Zip-Archive von XML-Files, und diese
+lassen sich mit Pythonskripten einfach bearbeiten. Das ODF-Format ist relativ
+leicht zu verstehen (der Standard ist gut lesbar), der Phantasie des Anwenders
+sind keine Grenzen gesetzt - sei es, um manuelle Formatierungen zu markieren,
+in bestimmte Tabellen Spalten einzufügen oder diese um Zeilen zu ergänzen,
+deren Berechnung partout nicht ins Konzept der Calc-Formeln passen will.
+
+Dabei sind allerdings einige kleine Stolpersteine zu beachten, auf die der
+Vortrag hinweist. Die hier vorgestellte Klasse ist eine mögliche Methode, um
+sich auf die "wesentlichen Dinge" konzentrieren zu können.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reinhard Wobst</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1450/openoffice-dokumente-selbst-modifizieren</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_OpenOfficeDokumente_se.mp4?Signature=4SSedVti6KVV9qsA3khVQvrmfYk%3D&amp;Expires=1352028522&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_OpenOfficeDokumente_se.mp4?Signature=4SSedVti6KVV9qsA3khVQvrmfYk%3D&amp;Expires=1352028522&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=u44L-l3RPy0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/u44L-l3RPy0/hqdefault.jpg"></media:thumbnail></item><item><title>"White Box Debugging" - Debugger für Unittests nutzen</title><link>http://www.pyvideo.org/video/1437/white-box-debugging-debugger-f-r-unittests-nut</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+"White Box Testing" ist das Testen von internen Zuständen zur Laufzeit,
+während ubliche Unittests in der Regel nur Funktionen rufen. Man kann aber
+mittels eines Debuggers White Box Testing durchführen - ein Pythonskript
+erlaubt dies fur Python mit pdb wie auch für C/C++ - Programme mit gdb.
+
+Unittests sind ohne Frage unerlässlich, aber oft aufwändig zu programmieren
+und beschränkt aussagefähig, da in der Regel nur einzelne Funktionen oder
+Module als Black Box getestet werden können. Nicht selten ist sogar
+gesonderter Code notwendig, um sinnvolle Tests zu ermöglichen.
+
+Aussagekräftiger und naheliegender wären Tests auf Werte mitten im Code, doch
+solch eine Funktionalität bietet bisher nur die assert-Anweisung, die bei
+Fehlern mit einem wenig aussagekräftigen Abbruch endet.
+
+Die Idee des Python-Skripts "wbd" ("white box debugging") ist, aus Kommentaren
+im Quelltext Konfigurationsfiles für Debugger zu erzeugen, so dass an
+bedingten Breakpoints Tests stattfinden. Beim Fehler landet man gleich im
+Debugger und kann die Umgebung analysieren.
+
+Das funktioniert derzeit für Pythonskripte und C/C++-Programme und ist auch
+gut als Hilfsmittel beim Debuggen selbst einzusetzen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reinhard Wobst</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1437/white-box-debugging-debugger-f-r-unittests-nut</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_White_Box_Debugging_De.mp4?Signature=LgR%2Fs9%2F5Hgh37jNYY7RjN1YCORE%3D&amp;Expires=1351851790&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_White_Box_Debugging_De.mp4?Signature=LgR%2Fs9%2F5Hgh37jNYY7RjN1YCORE%3D&amp;Expires=1351851790&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=26tmYQk2vI8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/26tmYQk2vI8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

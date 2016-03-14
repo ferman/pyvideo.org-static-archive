@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Gouldin</title><link>http://www.pyvideo.org/speaker/730/david-gouldin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/730/david-gouldin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 27 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Painting on a Distributed Canvas: An Advanced Guide to Celery Workflows</title><link>http://www.pyvideo.org/video/2843/painting-on-a-distributed-canvas-an-advanced-gui</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Celery is great for asynchronously sending emails from your web app.  But what happens when you grow beyond simple "set it and forget it" tasks? This talk explores Celery's workflow primitives and how to create complex distributed applications. It assumes knowledge of Python and Celery. By the end, you will better understand how to structure distributed work that robustly scales.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Gouldin</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2843/painting-on-a-distributed-canvas-an-advanced-gui</guid><enclosure url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2843_Painting_on_a_Distributed_Canvas_An_Advanced_Guide.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2843_Painting_on_a_Distributed_Canvas_An_Advanced_Guide.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/XoMu8vhdc-A" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/XoMu8vhdc-A/hqdefault.jpg"></media:thumbnail></item><item><title>Using Celery with Social Networks</title><link>http://www.pyvideo.org/video/1382/using-celery-with-social-networks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Many web applications need to interface with social networks, and celery, a
+Python distributed task queue library, is a great tool for the job. However,
+achieving speed and stability can be difficult. This talk will cover task
+organization/distribution, rate limiting, failover, and other practices to aid
+in working with social networks at scale.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Twitter conditionally rate limits based on IP address rather than access token
+even when one is provided for some of its API calls. Facebook has at least 10
+unique error messages to indicate a bad or expired access token (that I've
+found so far). LinkedIn's pagination has an occasional off-by-one bug
+resulting in an endless list of 1-user pages. Let's face it: interfacing with
+social networks is tricky. Celery helps, but to provide stable, reliable, and
+fast social features for your website, you'll need an arsenal of strategies
+and tools to get you the rest of the way there.
+
+By the end of this talk, you'll understand how to set up tasks to quickly
+serve users with massive networks by employing intelligent distribution.
+You'll be able to design robust processes to handle inconsistencies or
+instabilities in 3rd party APIs. And you'll know how to have confidence that
+the work you intend to do gets done, regardless of external rate limits,
+pagination design, or API call dependency chains.
+
+This talk is intended for people who have basic familiarity with celery and
+would like to learn more about how to take advantage of it for large,
+distributed task loads.
+
+## Outline
+
+I. Intro
+
+A. 3rd party interfaces are hard
+
+    
+      * Speed
+    
+        * Much slower than local data
+        * Users may still expect near-immediate results
+    
+      * Rate limits
+    
+        * Different rules for every service
+        * Need to handle reactive &amp; proactive as some don't publish rates
+    
+      * Instability
+    
+        * Outages (yes, Facebook does go down)
+        * Random failures
+    
+
+B. Why Celery?
+
+    
+      * Asynchronous
+      * Distributed
+      * Fault tolerant
+    
+
+II. Task Organization
+
+    
+    A. Small, atomic tasks (1 API call per task)
+    B. Minimal message state
+    
+       * Primitive types only (no model instances!)
+       * Defer as much data access to the task itself as possible
+    
+    C. Create Task subclasses for common patterns
+    D. Whenever possible, make tasks idempotent
+    
+
+III. Task Distribution
+
+    
+     A. Managing pagination
+    
+        * For a known set size
+    
+          * Where limit/offset is supported, launch all page tasks simlutaneously
+          * Otherwise, 1 page launches the next as soon as the next cursor is obtained
+    
+        * For an unknown set size
+    
+          * Set max simultaneous pages
+          * Task is terminal if blank, otherwise launches page w/ offset + max pages
+    
+        * Setting page size is an art, not a science
+    
+          * Minimize the number of api calls when possible
+          * Avoid long-running tasks by setting a timeout ceiling
+          * Avoid the temptation to pass API data to dependent tasks
+    
+     B. Tracking task dependencies ("Done?" is difficult for distributed systems)
+    
+        * Use an external backend to store a dependency tree
+        * Subclass ResultSet to evaluate the task state of the tree
+        * Requires ignore_result=False
+    
+
+IV. Rate Limiting
+
+    
+    A. Problems
+    
+       * Celery's rate limiting doesn't do what you think it does
+       * 3rd party rate limits depend on many factors
+    
+    B. Solution
+    
+       * For services with known rate limits:
+    
+         * Use an external backend to store rate limit counters
+         * Increment counters based on rate limit factors per api call
+    
+       * For services with unknown rate limits:
+    
+         * Use an external backend to store rate limit backoff counters
+         * Ramp up / ratchet down call rate by power law as api calls fail/succeed
+    
+
+V. Failover
+
+A. Problems
+
+    
+      * Celery's countdown doesn't do what you think it does
+      * 3rd parties can fail in lots of "interesting" ways
+    
+
+B. Solution
+
+    
+      * Implement native RabbitMQ alternative to countdown
+      * Create task base classes per social network to handle error conditions
+    
+
+VI. Multiple queues
+
+    
+    A. Better control over task priority management &amp; resource distribution
+    B. Not all social accounts are created equal (handling whales &amp; spikes)
+    C. When you can't stream updates, use a trickle queue
+    
+
+VII. Celerybeat considered harmful
+
+    
+     A. Periodic task persistence gets out of sync with code
+     B. Just 1 more process to manage
+     C. Cron: it's just. not. that. hard.
+    
+
+VIII. Debugging
+
+    
+      A. Don't use "always eager"
+      B. Logging, logging, logging
+      C. Unit tests are good, but integration tests save lives
+    
+
+IV. Gotchas
+
+    
+    A. Open socket prevents Celery soft timeout
+    B. Celery soft timeout doesn't retry the task
+    C. If result state is not known, Celery reports "PENDING"
+    
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Gouldin</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1382/using-celery-with-social-networks</guid><enclosure url="http://www.youtube.com/watch?v=z751qhAzMb4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/z751qhAzMb4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

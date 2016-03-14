@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andy Dai</title><link>http://www.pyvideo.org/speaker/1613/andy-dai/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1613/andy-dai/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 07 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>用 Python 建立你自己的 Summly</title><link>http://www.pyvideo.org/video/3242/python-summly-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+在去年的時候 Yahoo 買了 Summly 這個新聞摘要的服務，不過其實透過 Python 要做個簡單的 Summly 是很容易的！在這個 Talk 當中，我們將透過幾個 Python Library 加上一些簡單的演算法，讓我們可以打造自己的 Summly。
+
+
+About the speaker
+
+目前在洞悉科技 (dorm7.com) 工作，平常開發工作以 Python、Django 為主，是 PyCon Taiwan、Taipei.py、Django Workshop 等 Python 社群的工作人員。
+
+Tagline
+python, summly  
+個人網頁連結
+
+&lt;http://krdai.info/&gt;  
+Twitter
+@daikeren  
+組織/公司  
+Dorm7 Software  
+頭銜  
+Co-Founder  </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Dai</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3242/python-summly-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=1eBOhyWkHgE" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/1eBOhyWkHgE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

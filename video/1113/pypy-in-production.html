@@ -1,0 +1,355 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - PyPy in production</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="cpython,ctypes,cython,extensions,pypy,stackless">
+  
+    <meta name="description" content="[EuroPython 2011] Antonio Cuni,Armin Rigo - 23 June 2011 in &quot;Track Lasagne&quot;
+
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="pypy-in-production.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="pypy-in-production.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=nTpte3_jNO0"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">PyPy in production</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/nTpte3_jNO0/hqdefault.jpg"/>
+      <link property="sameAs" href="pypy-in-production.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>[EuroPython 2011] Antonio Cuni,Armin Rigo - 23 June 2011 in "Track Lasagne"</p></div>
+        <meta property="caption" content="[EuroPython 2011] Antonio Cuni,Armin Rigo - 23 June 2011 in &quot;Track Lasagne&quot;"/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>The PyPy project has recently gathered a lot of attention for its progress in
+speeding up the Python language - it is the fastest Python interpreter, and
+the most compatible and most stable 'alternative´ one. No longer merely a
+research project, PyPy is now suitable for production use. We are working on
+improvements on calling into C libraries and generally integrating with the
+existing Python extensions ecosystem.</p>
+<p>We will give an overview on how the tracing Just-in-Time compiler works in
+PyPy. From there, we will then focus on what the PyPy project has achieved,
+particularly in the past two years:</p>
+<ul>
+<li>
+<p>most Python benchmarks run much faster than with CPython or Psyco</p>
+</li>
+<li>
+<p>the real-world PyPy compiler toolchain itself (200 KLocs) runs twice as fast</p>
+</li>
+<li>
+<p>already supports 32 and 64bit x86 and is in the process of supporting ARM</p>
+</li>
+<li>
+<p>full compatibility with CPython (more than Jython/IronPython)</p>
+</li>
+<li>
+<p>full (and JIT-ed) ctypes support to call C libraries from Python</p>
+</li>
+<li>
+<p>supports Stackless Python (in-progress)</p>
+</li>
+<li>
+<p>new "cpyext" layer which integrates existing CPython C extensions</p>
+</li>
+<li>
+<p>an experimental super-fast JIT-compilation of calls to C++ libraries</p>
+</li>
+</ul>
+<p>We want to reserve time for discussing potential future work like SWIG and/or
+Cython compatibility and other areas brought up by the audience. There are
+many interesting details that can be explored further; we will focus on the
+points the audience is most interested in.</p>
+<p>For more info:</p>
+<ul>
+<li>
+<p><a href="http://pypy.org/">http://pypy.org/</a></p>
+</li>
+<li>
+<p>Our blog: <a href="http://morepypy.blogspot.com/">http://morepypy.blogspot.com/</a></p>
+</li>
+<li>
+<p>Eureka program: <a href="http://www.eurostars-eureka.eu/">http://www.eurostars-eureka.eu/</a></p>
+</li>
+</ul>
+<p><em>Eurostars Eureka is our funding source since 2009. It is a cross-European
+funding collaboration that targets small firms which produce research.</em></p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/19/europython-2011.html">EuroPython 2011</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/497/antonio-cuni.html">Antonio Cuni</a></div>
+            <meta property="author" content="Antonio Cuni"/>
+          
+            <div><a href="../../speaker/334/armin-rigo.html">Armin Rigo</a></div>
+            <meta property="author" content="Armin Rigo"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 13, 2011
+            <meta property="dateCreated" content="2011-07-13"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.867251"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.867251"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=nTpte3_jNO0" property="embedUrl">http://www.youtube.com/watch?v=nTpte3_jNO0</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1113">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Standard YouTube License
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">cpython</span>
+          
+            <span property="keywords">ctypes</span>
+          
+            <span property="keywords">cython</span>
+          
+            <span property="keywords">extensions</span>
+          
+            <span property="keywords">pypy</span>
+          
+            <span property="keywords">stackless</span>
+          
+          <meta property="keywords" content="EuroPython 2011"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="pypy-in-production.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

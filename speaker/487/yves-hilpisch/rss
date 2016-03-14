@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Yves Hilpisch</title><link>http://www.pyvideo.org/speaker/487/yves-hilpisch/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/487/yves-hilpisch/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 26 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Interactive Analysis of (Large) Financial Data Sets</title><link>http://www.pyvideo.org/video/3074/interactive-analysis-of-large-financial-data-se</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Hilpisch</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3074/interactive-analysis-of-large-financial-data-se</guid><enclosure url="http://video.ep14.c3voc.de/20259.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://video.ep14.c3voc.de/20259.mp4" mime_type="video/mp4"></media:content><media:content url="http://www.youtube.com/watch?v=XyqlduIcc2g" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/XyqlduIcc2g/hqdefault.jpg"></media:thumbnail></item><item><title>Performance Python for Numerical Algorithms</title><link>http://www.pyvideo.org/video/3001/performance-python-for-numerical-algorithms</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk is about several approaches to implement high performing numerical algorithms and applications in Python. It introduces into approaches like vectorization, multi-threading, parallelization (CPU/GPU), dynamic compiling, high throughput IO operations. The approach is a practical one in that every approach is illustrated by specific Python examples.
+&lt;p&gt;Description&lt;/p&gt;
+This talk is about several approaches to implement high performing numerical algorithms and applications in Python. It introduces into approaches like multi-threading, parallelization (CPU/GPU), dynamic compiling, high throughput IO operations.
+
+The approach is a practical one in that every approach is illustrated by specific Python examples.
+
+The talk uses, among others, the following libraries:
+
+* NumPy
+* numexpr
+* IPython.Parallel
+* Numba
+* NumbaPro
+* PyTables</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Hilpisch</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3001/performance-python-for-numerical-algorithms</guid><enclosure url="http://www.youtube.com/watch?v=BkaIUvM5GXo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/BkaIUvM5GXo/hqdefault.jpg"></media:thumbnail></item><item><title>Derivatives Analytics with Python &amp; Numpy</title><link>http://www.pyvideo.org/video/1025/derivatives-analytics-with-python-numpy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Yves Hilpisch - 24 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In financial engineering and derivatives analytics, C/C++/Java/VBA and other
+languages are still dominating. Visixion has developed with
+[DEXISION](http://www.dexision.com) the first full fledged derivatives
+analytics suite with Python as core language.
+
+DEXISION is an On Demand application that is completely Open Source based
+(LAMP). For derivatives valuation, it uses Monte Carlo simulation - an
+approach known to be computationally demanding. However, Numpy provides the
+performance and functionality needed to implement financial simulation
+algorithms in a fast and compact manner.
+
+The talk illustrates the architecture of our analytics suite and demonstrates
+how to implement fast and compact simulation algorithms with Python and Numpy.
+The talk shows that the Python/Numpy combination reaches sufficient speed for
+productive financial applications - something still widely doubted.
+
+[No prerequisites.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Hilpisch</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1025/derivatives-analytics-with-python-numpy</guid><enclosure url="http://www.youtube.com/watch?v=c4WltP4-Xlk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/c4WltP4-Xlk/hqdefault.jpg"></media:thumbnail></item><item><title>Derivatives Analytics with Python &amp; Numpy</title><link>http://www.pyvideo.org/video/1154/derivatives-analytics-with-python-numpy-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Yves Hilpisch - 24 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In financial engineering and derivatives analytics, C/C++/Java/VBA and other
+languages are still dominating. Visixion has developed with
+[DEXISION](http://www.dexision.com) the first full fledged derivatives
+analytics suite with Python as core language.
+
+DEXISION is an On Demand application that is completely Open Source based
+(LAMP). For derivatives valuation, it uses Monte Carlo simulation - an
+approach known to be computationally demanding. However, Numpy provides the
+performance and functionality needed to implement financial simulation
+algorithms in a fast and compact manner.
+
+The talk illustrates the architecture of our analytics suite and demonstrates
+how to implement fast and compact simulation algorithms with Python and Numpy.
+The talk shows that the Python/Numpy combination reaches sufficient speed for
+productive financial applications - something still widely doubted.
+
+[No prerequisites.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yves Hilpisch</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1154/derivatives-analytics-with-python-numpy-0</guid><enclosure url="http://www.youtube.com/watch?v=NXcWrxzq5KI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/NXcWrxzq5KI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Vincent Noel</title><link>http://www.pyvideo.org/speaker/536/vincent-noel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/536/vincent-noel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python(x,y): diving into scientific Python</title><link>http://www.pyvideo.org/video/1106/pythonxy-diving-into-scientific-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Vincent Noel - 22 June 2011 in "Training Pizza Margherita "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This training session will introduce the Python scientific stack to beginner
+or intermediate-level Python programmers. The basics of scientific programming
+with Python will be presented:
+
+  * creation of arrays and structured arrays using numpy
+  * fast, loopless manipulation of numpy arrays through fancy indexing and vectorized functions
+  * convenient saving/loading of array variables using numpy
+  * improved interactive use through ipython
+  * data analysis using various scipy modules (signal analysis, image classification, etc)
+  * plotting large time series, histograms, scatterplots, images etc. using matplotlib
+  * saving/loading large datasets in structured scientific formats such as netCDF, HDF (depending on interest)
+
+These concepts will be used in coding exercises, in the programming
+environnement provided by the Python(x,y) distribution, which is freely
+downloadable and includes recent versions of Python, numpy and matplotlib. The
+Python(x,y) distribution runs on Windows, which will be the OS of choice for
+this session. You should still be able to follow the examples in other Python
+distributions, e.g. EPD.
+
+The entire talk (PDF), code samples and data files can be downloaded from the
+following [archive](http://www.lmd.polytechnique.fr/~noel/EP2011/DivingIntoSci
+entificPython.zip)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vincent Noel</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1106/pythonxy-diving-into-scientific-python</guid><enclosure url="http://www.youtube.com/watch?v=fVc1ruuixts" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/fVc1ruuixts/hqdefault.jpg"></media:thumbnail></item></channel></rss>

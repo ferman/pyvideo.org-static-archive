@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Wes McKinney</title><link>http://www.pyvideo.org/speaker/273/wes-mckinney/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/273/wes-mckinney/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 07 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyGotham 2011: Powerful Pythonic data analysis using pandas</title><link>http://www.pyvideo.org/video/487/pygotham-2011--powerful-pythonic-data-analysis-us</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I will give an overview on the pandas data analysis package for
+Python, its features, and plans for future development. I'll use various
+interesting data sets to illustrate the features and give motivation for how
+the tools can be applied in a diverse set of fields.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><guid>http://www.pyvideo.org/video/487/pygotham-2011--powerful-pythonic-data-analysis-us</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/487_pygotham-2011-powerful-pythonic-data-analysis-using-pandas.ogv" length="252280317" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/487_pygotham-2011-powerful-pythonic-data-analysis-using-pandas.ogv" fileSize="252280317" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/487_pygotham-2011-powerful-pythonic-data-analysis-using-pandas.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-PowerfulPythonicDataAnalysisUsingPandas687-843.jpg"></media:thumbnail></item><item><title>Python-powered Business Analytics</title><link>http://www.pyvideo.org/video/3275/python-powered-business-analytics-pycon-apac-201</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk, I'll discuss how the modern Python stack has enabled innovation in business analytics and general purpose small, medium, and big data workflows. I'll talk about how the architecture of pandas and related projects will need to adapt and grow to suit the needs of the next decade of data analysis. Lastly, I will also give an overview of how this all relates to my company: DataPad, an early-stage business intelligence company.
+
+About the speaker
+
+Wes McKinney is an open-source Python hacker, author, and entrepreneur. He's the creator of pandas and author of O'Reilly book Python for Data Analysis. Currently, he is the Founder and CEO of DataPad, a new analytics and business intelligence company based in San Francisco. He has also been an occasional contributor to statsmodels. He started building pandas at AQR Capital Management in response to the growing need for better data manipulation tools in Python for business analytics and data science use cases.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3275/python-powered-business-analytics-pycon-apac-201</guid><enclosure url="https://www.youtube.com/watch?v=i93jidckQ7A" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/i93jidckQ7A/hqdefault.jpg"></media:thumbnail></item><item><title>Time Series Manipulation with pandas</title><link>http://www.pyvideo.org/video/1206/time-series-manipulation-with-pandas</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk I'll discuss major developments in pandas over the last year
+related to time series handling and processing. This includes the integration
+of the new NumPy datetime64, implementation of rich and high performance
+resampling methods, better visualization, and a generally cleaner, more
+intuitive and productive API. I will also discuss how functionality from the
+defunct scikits.timeseries project has been integrated into pandas, thus
+providing a unified, cohesive set of time series tools for many different
+problem domains. Lastly, I'll give some details about the pandas development
+roadmap and opportunities for more people to get involved.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1206/time-series-manipulation-with-pandas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Manipulation_with_pandas.mp4?Signature=uouD0GXIhu8nr6a8Eaa5lldrkgc%3D&amp;Expires=1346381459&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Manipulation_with_pandas.mp4?Signature=uouD0GXIhu8nr6a8Eaa5lldrkgc%3D&amp;Expires=1346381459&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=bgfLrKpc4jA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/bgfLrKpc4jA/hqdefault.jpg"></media:thumbnail></item><item><title>Time Series Data Analysis with pandas</title><link>http://www.pyvideo.org/video/1198/time-series-data-analysis-with-pandas</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this tutorial, I'll give a brief overview of pandas basics for new users,
+then dive into the nuts of bolts of manipulating time series data in memory.
+This includes such common topics date arithmetic, alignment and join / merge
+methods, resampling and frequency conversion, time zone handling, moving
+window functions like moving mean and standard deviation. A strong focus will
+be placed on working with large time series efficiently using array
+manipulations. I'll also illustrate visualization tools for slicing and dicing
+time series to make informative plots. There will be several example data sets
+taken from finance, economics, ecology, web analytics, or other areas.
+
+The target audience for the tutorial includes individuals who already work
+regularly with time series data and are looking to acquire additional skills
+and knowledge as well as users with an interest in data analysis who are new
+to time series. You will be expected to be comfortable with general purpose
+Python programming and have a modest amount of experience using NumPy. Prior
+experience with the basics of pandas's data structures will also be helpful.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1198/time-series-data-analysis-with-pandas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Data_Analysis_with_pandas.mp4?Signature=kkRls%2BknoyZjRP5XV2lzO%2FB%2FuKE%3D&amp;Expires=1346381098&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Data_Analysis_with_pandas.mp4?Signature=kkRls%2BknoyZjRP5XV2lzO%2FB%2FuKE%3D&amp;Expires=1346381098&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=0unf-C-pBYE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0unf-C-pBYE/hqdefault.jpg"></media:thumbnail></item><item><title>PyData: Data Analysis in Python with  Pandas</title><link>http://www.pyvideo.org/video/970/pydata-data-analysis-in-python-with-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Coming from the 2012 PyData Workshop, Wes McKinney, CTO and cofounder of
+Lambda Foundry, gives us a tour of Pandas, a rich data manipulation tool built
+on top of NumPy. Frustrated with working in R, Wes started building Pandas in
+2008 with a focus on fast, intuitive data structures and data manipulation
+capabilities. The Pandas project has seen huge growth in the last few years,
+and aims to be the ultimate data tool for Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/970/pydata-data-analysis-in-python-with-pandas</guid><enclosure url="http://www.youtube.com/watch?v=MxRMXhjXZos" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i2.ytimg.com/vi/MxRMXhjXZos/hqdefault.jpg"></media:thumbnail></item><item><title>pandas: Powerful data analysis tools for Python</title><link>http://www.pyvideo.org/video/696/pandas-powerful-data-analysis-tools-for-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+pandas is a Python library providing fast, expressive data structures for
+working with structured or relational data sets. In addition to being used for
+general purpose data manipulation and data analysis, it has also been designed
+to enable Python to become a competitive statistical computing platform. In
+this talk, I will discuss the library's features and show a variety of topical
+examples.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/696/pandas-powerful-data-analysis-tools-for-python</guid><enclosure url="https://www.youtube.com/watch?v=qbYYamU42Sw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/qbYYamU42Sw/hqdefault.jpg"></media:thumbnail></item><item><title>Data analysis in Python with pandas </title><link>http://www.pyvideo.org/video/611/data-analysis-in-python-with-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The tutorial will give a hands-on introduction to manipulating and analyzing
+large and small structured data sets in Python using the pandas library. While
+the focus will be on learning the nuts and bolts of the library's features, I
+also aim to demonstrate a different way of thinking regarding structuring data
+in memory for manipulation and analysis.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/611/data-analysis-in-python-with-pandas</guid><enclosure url="https://www.youtube.com/watch?v=w26x-z-BdWQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/w26x-z-BdWQ/hqdefault.jpg"></media:thumbnail></item><item><title>Python in quantitative finance (#158)</title><link>http://www.pyvideo.org/video/305/python-in-quantitative-finance-158</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python in quantitative finance
+
+  
+Presented by Wes McKinney (AQR Capital Management, LLC)
+
+  
+This talk will show how Python and libraries such as NumPy were instrumental
+at AQR for building a robust research platform for prototyping and
+implementing quantitative trading models. We will discuss many different
+tools, including pandas, a new open source library designed for analyzing
+common financial and economic data sets.
+
+  
+A variety of examples will be presented to explore Python's current status as
+a replacement for other statistical computing environments (as compared with
+R, MATLAB, or other commercial and open-source statistical products).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/305/python-in-quantitative-finance-158</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.ogv" length="223064549" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.ogv" fileSize="223064549" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PythonInQuantitativeFinance158145.png"></media:thumbnail></item></channel></rss>

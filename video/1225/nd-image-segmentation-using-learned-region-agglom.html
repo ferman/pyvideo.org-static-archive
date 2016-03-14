@@ -1,0 +1,319 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - nD image segmentation using learned region agglomeration with the Ray Python lib...</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="General">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="nd-image-segmentation-using-learned-region-agglom.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="nd-image-segmentation-using-learned-region-agglom.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://youtube.com/watch?v=-cQpExBrh74"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">nD image segmentation using learned region agglomeration with the Ray Python library</h3>
+      <link property="thumbnailUrl" href="http://i2.ytimg.com/vi/-cQpExBrh74/hqdefault.jpg"/>
+      <link property="sameAs" href="nd-image-segmentation-using-learned-region-agglom.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>One of the principal goals of the Janelia Farm Research Campus is the
+reconstruction of complete neuronal circuits. This involves 3D electron-
+microscopy (EM) volumes many microns across with better than 10nm resolution,
+resulting in gigavoxel scale images. From these, individual neurons must be
+segmented out. Although image segmentation is a well-studied problem, these
+data present unique challenges in addition to scale: neurons have an
+elongated, irregular branching structure, with processes up to 50nm thin but
+hundreds of micrometers long); one neuron looks much like the next, with only
+a thin cellular boundary separating densely packed neurons; and internal
+neuronal structures can look similar to the cellular boundary. The first
+problem in particular means that small errors in segment boundary predictions
+can lead to large errors in neuron shape and neuronal network connectivity.</p>
+<p>Our segmentation workflow has three main steps: a voxelwise edge
+classification, a fine-grained segmentation into supervoxels (which can
+reasonably be assumed to be atomic groups of voxels), and hierarchical region
+agglomeration.</p>
+<p>For the first step, we use Ilastik, a pixel-level interactive learning
+program. Ilastik uses the output of various image filters as features to
+classify voxels as labeled by the user. We then use the watershed algorithm on
+the resulting edge probability map to obtain supervoxels. For the last step,
+we developed a new machine learning algorithm (Nunez-Iglesias et al, in
+preparation).</p>
+<p>Prior work has used the mean voxel-level edge-probability along the boundaries
+between regions to agglomerate them. This strategy works extremely well
+because boundaries get longer as agglomeration proceeds, resulting in ever-
+improving estimates of the mean probability. We hypothesized that we could
+improve agglomeration accuracy by using a classifier (which can use many more
+features than the mean). However, a classifier can perform poorly because
+throughout agglomeration we may visit a part of the feature space that has not
+yet been sampled. In our approach, we use active learning to ensure that we
+have examples from all parts of the space we are likely to encounter.</p>
+<p>We implemented our algorithm in arbitrary dimensions in an open-source, MIT-
+licensed Python library, Ray
+(<a href="https://github.com/jni/ray">https://github.com/jni/ray</a>). Ray combines
+leading scientific computing Python libraries, including NumPy, SciPy,
+NetworkX, and scikits-learn to deliver state of the art segmentation accuracy
+in Python.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/20/scipy_2012.html">SciPy 2012</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/614/juan-nunez-iglesias.html">Juan Nunez-Iglesias</a></div>
+            <meta property="author" content="Juan Nunez-Iglesias"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 19, 2012
+            <meta property="dateCreated" content="2012-07-19"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.110121"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.110121"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://youtube.com/watch?v=-cQpExBrh74" property="embedUrl">http://youtube.com/watch?v=-cQpExBrh74</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nD_image_segmentation_using_le.mp4?Signature=c9cvY2RhvdhwqRDhvE48%2BgY%2Ftp4%3D&amp;Expires=1346444687&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1225">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            CC BY-SA
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">General</span>
+          
+          <meta property="keywords" content="SciPy 2012"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="nd-image-segmentation-using-learned-region-agglom.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

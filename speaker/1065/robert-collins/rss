@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Robert Collins</title><link>http://www.pyvideo.org/speaker/1065/robert-collins/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1065/robert-collins/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Functionalish programming in Python with effect</title><link>http://www.pyvideo.org/video/3878/functionalish-programming-in-python-with-effect</link><description>&lt;p&gt;Description&lt;/p&gt;
+'everyone' knows that separating out IO and other side effects makes code easier to unit test. What if there were a Python library that helps do that systematically which you could use to make all your things better? There is. Come and find out more.
+
+Chris Armstrong's Effect library is the library in question. I found this while digging into all the varied implementations of monads for Python (a generic concept that encapsulates the principle of IO and side effects) - and I'd like to share its beauty with other folk. Effect (https://pypi.python.org/pypi/effect) allows consistent separation of side effect (e.g. IO or even just global state changes) from the code that depends on those effects. Testing and reasoning about code becomes easier. But it can often be hard to get into such a system. Allow me to take you on a tour through how to change regular code into super testable code using Effect.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3878/functionalish-programming-in-python-with-effect</guid><enclosure url="http://youtu.be/fM5d_2BS6FY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/fM5d_2BS6FY/hqdefault.jpg"></media:thumbnail></item><item><title>Adventures in pip land</title><link>http://www.pyvideo.org/video/4000/adventures-in-pip-land</link><description>&lt;p&gt;Description&lt;/p&gt;
+pip has become an immensely popular tool for installing packages in Python, so much so that a bootstrap mechanism for it is now included in the standard library. But it has a dark side. Come and learn about some of the horrors that lurk within pip. Examples will include the distribute -] setuptools fork and convergence, dealing packages which attempt to use not-yet-installed dependencies, and the oh-man issue of resolving dependencies which pip still entirely punts on.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4000/adventures-in-pip-land</guid><enclosure url="https://www.youtube.com/watch?v=tqVWzndh374" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/tqVWzndh374/hqdefault.jpg"></media:thumbnail></item><item><title>OpenStack Miniconf Opening</title><link>http://www.pyvideo.org/video/4038/openstack-miniconf-opening</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joshua Hesketh,Robert Collins</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4038/openstack-miniconf-opening</guid><enclosure url="https://www.youtube.com/watch?v=6aSKs4_WdkI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/6aSKs4_WdkI/hqdefault.jpg"></media:thumbnail></item><item><title>reliable testing with pip constraints</title><link>http://www.pyvideo.org/video/3988/reliable-testing-with-pip-constraints</link><description>&lt;p&gt;Description&lt;/p&gt;
+pip freeze files and similar techniques like buildout have been used for reliable testing and reliable deployments for some time. But they are not flexible enough to deal with situations like OpenStack where there are dozens of separate codebases, evolving independently, which still need the same rigour and reliability.
+
+Enter pip constraints, new in 7.1.0. I will cover their use, design, and how we're using them in devstack (and thus OpenStack CI) - and how you can (and should) use them in your local projects.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3988/reliable-testing-with-pip-constraints</guid><enclosure url="https://www.youtube.com/watch?v=aZ_y_U6rZRM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/aZ_y_U6rZRM/hqdefault.jpg"></media:thumbnail></item><item><title>Semver and Python with PBR</title><link>http://www.pyvideo.org/video/3235/semver-and-python-with-pbr</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Robert Collins:
+Semver and Python with PBR
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 1
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Novice
+
+**Description**
+
+PBR is a setuptools plugin which OpenStack developed to provide simple and consistent minimal-boilerplate build definitions for its projects. Semantic versioning provides simple and robust rules for deciding on version numbers, and PBR will soon be able to manage the entire process of version number assignment in a project... and more.
+
+**Abstract**
+
+PBR is a setuptools plugin which OpenStack developed to provide simple and consistent minimal-boilerplate build definitions for its projects. Now used by all the OpenStack projects, PBR provides integration glue for core features:
+
+ - testing
+ - binary package creation for Linux distributors
+ - inclusion of files in tarballs
+ - changelog and authors file creation
+ - pypi summary creation
+ - version number creation
+ - sphinx doc stub creation and manpage enablement
+ - unified requirements management
+ - for both easy-install and pip with single-file control
+
+The most interesting part is the version number creation, since coming up with the right version number can be a contentious discussion in some projects. Semver provides simple and robust rules for deciding on version numbers, and I'm in the middle of implementing automation for these in PBR itself, with integration glue to export them in PEP-440, dpkg and rpm format. The only dependencies PBR has are git + a recent pip, so this should be useful for many attendees - and while PBR is an OpenStack invention we're very interested in making sure its useful and reliable for anyone that wants to use it.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/robert-collins-semver-and-python-with-pbr</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3235/semver-and-python-with-pbr</guid><enclosure url="http://youtu.be/6hjg-Uia5AU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/6hjg-Uia5AU/hqdefault.jpg"></media:thumbnail></item><item><title>OpenStack MiniConf: Python Build Reasonableness and Semantic Versioning by Robert Collins (HP)</title><link>http://www.pyvideo.org/video/3093/openstack-miniconf-python-build-reasonableness-a</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3093/openstack-miniconf-python-build-reasonableness-a</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/90-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/90-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=RcwLcKhbVSk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/RcwLcKhbVSk/hqdefault.jpg"></media:thumbnail></item><item><title>Testing and OpenStack</title><link>http://www.pyvideo.org/video/2382/testing-and-openstack</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+OpenStack's infra team coordinates running ~500 test runs a day, across over 20 projects, most of which involve bringing up a test cloud... find out how to reuse this infrastructure yourself, in your own cloud or public clouds.
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Something about OpenStack - sorry it's brief, I will flesh it out more tomorrow, wanted to meet your deadline... and I'm happy to change the talk to meet your interests - I'm still relatively new in the OpenStack community, but driving a fascinating operations project (which isn't really PyCon material, sadly) - but which gets me in contact with most of the 'stackers projects. : More tomorrow ;)
+
+**Slides**
+
+https://speakerdeck.com/nzpug/robert-collins-testing-and-openstack</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2382/testing-and-openstack</guid><enclosure url="http://www.youtube.com/watch?v=eB5ZmU6KKoY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/eB5ZmU6KKoY/hqdefault.jpg"></media:thumbnail></item><item><title>Getting Started with OpenStack Development</title><link>http://www.pyvideo.org/video/2255/getting-started-with-openstack-development</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2255/getting-started-with-openstack-development</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Getting_Started_with_OpenStack.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Getting_Started_with_OpenStack.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=dIEnypwfEcg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/dIEnypwfEcg/hqdefault.jpg"></media:thumbnail></item><item><title>Testtools and Test Repository - the Python test frameworks OpenStack uses</title><link>http://www.pyvideo.org/video/2254/testtools-and-test-repository-the-python-test-f</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Collins</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2254/testtools-and-test-repository-the-python-test-f</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Testtools_and_Test_Repository_.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Testtools_and_Test_Repository_.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Oe_HhBBbqbw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/Oe_HhBBbqbw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,311 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Python is slow, make it faster with C</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="talk">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="python-is-slow-make-it-faster-with-c.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="python-is-slow-make-it-faster-with-c.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://youtu.be/tGLSKXfx0m0"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Python is slow, make it faster with C</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/tGLSKXfx0m0/hqdefault.jpg"/>
+      <link property="sameAs" href="python-is-slow-make-it-faster-with-c.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Ben Shaw:
+Python is slow, make it faster with C
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2 
+http://kiwi.pycon.org/</p>
+<p><strong>Audience level</strong></p>
+<p>Intermediate</p>
+<p><strong>Description</strong></p>
+<p>Most people have heard that it's possible to integrate Python with C to give performance boosts to computationally heavy code, but because it seems daunting they've never given it a try. It's actually not as hard as you think. This talk covers some of the different methods of speeding up your code with C, and compares the results to those you can get from other methods, like using PyPy.</p>
+<p><strong>Abstract</strong></p>
+<p>Introduction</p>
+<p>As developers, we like to work with Python because it's forgiving, quick to develop for and allows our code to be very dynamic. Unfortunately the trade-off for this magic is lower performance than compiled languages. Python can be sped up by offloading heavy algorithms to compiled C, using specially built C modules utilising the C Python API, or by integrating existing C libraries with using the python ctypes module. It is also possible to speed up Python using alternative interpreters, like PyPy, which uses a JIT compiler.</p>
+<p>Pure Python Implementation</p>
+<p>First we will take a look at a CPU bound algorithm written purely in Python, and see how it performs. The program reads data and prints results. The time it takes to run this will be considered the worst case scenario.</p>
+<p>Pure C Implementation</p>
+<p>The same program will be re-written in C, including the input and output logic, and we will compare the time it takes to run against the Python implementation. The results of the C implementation will be considered the best case scenario.</p>
+<p>Custom Python Module with C Implementation</p>
+<p>Python provides an API, C development headers and special C types, to allow the creation of a specially built bridges between Python and C code. In this example, the algorithm will be written in C, and bridged to Python with a custom Python/C module. Input and output takes place within Python, with C only performing the computation. With this method we can achieve near best-case speeds, at the cost of some additional (and sometimes complicated) C coding.</p>
+<p>Bridging To C with ctypes</p>
+<p>Introduced in Python 2.5, ctypes allows Python to integrate with pre-built C libraries without custom C code. This approach has the advantage over the custom Python/C Module of not needing to write a lot of boilerplate and bridging code in C. As with the Py/C implementation, C is used only to execute the algorithm, and Python takes care of input and output. Again, performance is close to best-case speeds, but the work to integrate with C is much less.</p>
+<p>Alternative Python Implementations</p>
+<p>PyPy uses a JIT compiler to offer impressive performance gains. The original Python code will be run through PyPy, and although the results might not be as quite as good as using compiled C, they come close, and the effort-to-gain ratio certainly makes it attractive option.</p>
+<p>Conclusion</p>
+<p>Each performance boosting option has its pros and cons, and when it's so easy to just use PyPy and get good results, why would you still use C? We'll look at some example use cases for each of the methods presented and why you would choose one over the others.</p>
+<p><strong>Slides</strong></p>
+<p>https://speakerdeck.com/nzpug/ben-shaw-python-is-slow-make-it-faster-with-c</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/57/kiwi-pycon-2014.html">Kiwi PyCon 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1175/ben-shaw.html">Ben Shaw</a></div>
+            <meta property="author" content="Ben Shaw"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+          <dt>Duration</dt>
+          <dd>30:00
+            <meta property="duration" content="PT00H30M00S"/>
+          </dd>
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Sept. 13, 2014
+            <meta property="dateCreated" content="2014-09-13"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>Oct. 16, 2014
+            <meta property="dateModified" content="2014-10-16T00:06:25.638219"/>
+            <meta property="datePublished" content="2014-10-16T00:06:25.638219"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://youtu.be/tGLSKXfx0m0" property="embedUrl">http://youtu.be/tGLSKXfx0m0</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/3226">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            CC
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">talk</span>
+          
+          <meta property="keywords" content="Kiwi PyCon 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="python-is-slow-make-it-faster-with-c.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('custom');
+      });
+
+      updateVideoOffset('custom');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of A Schereiber</title><link>http://www.pyvideo.org/speaker/657/a-schereiber/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/657/a-schereiber/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A laboratory Notebook System</title><link>http://www.pyvideo.org/video/1275/a-laboratory-notebook-system</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Many scientists are using a laboratory notebook when conducting experiments.
+The scientist documents each step, either taken in the experiment or
+afterwards when processing data. Due to computerized research systems,
+acquired data increases in volume and becomes more elaborate. This increases
+the need to migrate from originally paper-based to electronic notebooks with
+data storage, computational features and reliable electronic documentation.
+This talks describes a laboratory notebook based on the Python data management
+software DataFinder. It allows to manage data from experiments and
+simulations, to run analysis software and to create visualizations of results.
+The laboratory notebook assures that the complete history of all performed
+steps ("Provenance") is recorded, that results can be signed digitally, and
+that results can be archived in a secure archive to avoid and prevent legal
+issues.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Schereiber</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1275/a-laboratory-notebook-system</guid><enclosure url="http://www.youtube.com/watch?v=jrQT77qFN3o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/jrQT77qFN3o/hqdefault.jpg"></media:thumbnail></item></channel></rss>

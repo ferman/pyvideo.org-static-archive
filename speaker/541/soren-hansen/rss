@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Soren Hansen</title><link>http://www.pyvideo.org/speaker/541/soren-hansen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/541/soren-hansen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>OpenStack Compute's automated testing</title><link>http://www.pyvideo.org/video/1121/openstack-computes-automated-testing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Soren Hansen - 24 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+When a patch is propoed against OpenStack compute (a.k.a. Nova) and it makes
+it through our peer review process, our automated test system takes over:
+
+  * It finds the approved patch on Launchpad;
+
+  * An attempt to merge the patch is performed;
+
+  * The unit tests are run;
+
+  * A PEP-8 check is run;
+
+  * The merge is completed, applying the patch to our trunk;
+
+  * A tarball is built and published;
+
+  * An Ubuntu source package is built for several editions of Ubuntu;
+
+  * The source packages get uploaded to a PPA;
+
+  * Once built, the packages are installed on a test setup;
+
+  * A test battery is run against the installed "cloud".
+
+I'll explain the various steps, showing how it works and attempt to
+demonstrate it (Murphy's law permitting), and then I'll speak about the
+benefits we've gotten from PPA's and working closely with Ubuntu.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Soren Hansen</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1121/openstack-computes-automated-testing</guid><enclosure url="http://www.youtube.com/watch?v=MVo0qEKK0wo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/MVo0qEKK0wo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of andrea crotti</title><link>http://www.pyvideo.org/speaker/1397/andrea-crotti/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1397/andrea-crotti/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 24 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Metaprogramming, from decorators to macros</title><link>http://www.pyvideo.org/video/2975/metaprogramming-from-decorators-to-macros</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Starting off with the meaning of metaprogramming we quickly dive into the different ways Python allows this.
+
+First we talk about class and functions decorators, when decorators are not enough anymore we'll explore the wonders of metaclasses.
+
+In the last part of the talk we'll talk about macros, first in Lisp and then using the amazing [macropy library](https://github.com/lihaoyi/macropy).
+&lt;p&gt;Description&lt;/p&gt;
+This talk is a journey in the wonderful world of metaprogramming.
+We start off with the meaning of metaprogramming and what it can be used for.
+
+Then we look at what can be done in Python, introducing function and class decorators.
+When decorators are not enough anymore we move to the black magic of metaclasses, showing how we can implemement a simple Django-like model with them.
+
+In the bonus track we'll talk about macros, as the ultimate metaprogramming weapon, showing briefly how Lisp macros work and introducing the amazing [macropy library](https://github.com/lihaoyi/macropy).
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">andrea crotti</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2975/metaprogramming-from-decorators-to-macros</guid><enclosure url="http://www.youtube.com/watch?v=-i3UXrCNjPM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-i3UXrCNjPM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

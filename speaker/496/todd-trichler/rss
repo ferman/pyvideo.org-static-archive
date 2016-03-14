@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Todd Trichler</title><link>http://www.pyvideo.org/speaker/496/todd-trichler/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/496/todd-trichler/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 21 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python + Oracle = Prosperity &amp; Performance</title><link>http://www.pyvideo.org/video/1036/python-oracle-prosperity-performance</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Todd Trichler - 23 June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Have you ever wanted or perhaps needed to access data stored in a corporate
+Oracle database from within your Python environment?
+
+This session will help developers get up and running using Python with Oracle:
+- Learn the basics of working with cx_Oracle - Learn how to use VirtualBox to
+set up a Python &amp; Oracle test and developement environment. - Discover
+features within Oracle that you can use to build more performant python based
+applications. - Leave with all the resources you need to certify your python
+app to run against a production Oracle11gR2 database, or hone those skills for
+the next job. - Get a quick intro to Oracle Linux along the way.
+
+No prior experience with Oracle is required, some basic understanding of
+databases would be helpful.
+
+Look forward to meeting you @ EuroPython 2011 - Todd
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Todd Trichler</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1036/python-oracle-prosperity-performance</guid><enclosure url="http://www.youtube.com/watch?v=_ANajHy3ufk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/_ANajHy3ufk/hqdefault.jpg"></media:thumbnail></item><item><title>Python + Oracle = Prosperity &amp; Performance</title><link>http://www.pyvideo.org/video/1066/python-oracle-prosperity-performance-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Todd Trichler - 23 June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Have you ever wanted or perhaps needed to access data stored in a corporate
+Oracle database from within your Python environment?
+
+This session will help developers get up and running using Python with Oracle:
+- Learn the basics of working with cx_Oracle - Learn how to use VirtualBox to
+set up a Python &amp; Oracle test and developement environment. - Discover
+features within Oracle that you can use to build more performant python based
+applications. - Leave with all the resources you need to certify your python
+app to run against a production Oracle11gR2 database, or hone those skills for
+the next job. - Get a quick intro to Oracle Linux along the way.
+
+No prior experience with Oracle is required, some basic understanding of
+databases would be helpful.
+
+Look forward to meeting you @ EuroPython 2011 - Todd
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Todd Trichler</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1066/python-oracle-prosperity-performance-0</guid><enclosure url="http://www.youtube.com/watch?v=jUrgMpBkynI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/jUrgMpBkynI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

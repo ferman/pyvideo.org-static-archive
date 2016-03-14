@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andreas Klöckner</title><link>http://www.pyvideo.org/speaker/1610/andreas-klockner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1610/andreas-klockner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 07 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Bicycles for the Mind: Building High-Performance Tools with Python</title><link>http://www.pyvideo.org/video/3249/bicycles-for-the-mind-building-high-performance</link><description>&lt;p&gt;Description&lt;/p&gt;
+Andreas Klöckner is an assistant professor in the scientific computing group
+within the Department of Computer Science at the University of Illinois at
+Urbana-Champaign. He works on high-order numerical methods for the simulation
+of wave problems as well as issues in high-performance scientific computing
+that relate to bringing these methods to life on large-scale parallel
+computers. In support of his research, Dr. Klöckner has released numerous
+software packages for scientific computing in Python, including PyOpenCL,
+PyCUDA and the PuDB Python debugger. He obtained his PhD degree at the Division
+of Applied Mathematics at Brown University with Jan Hesthaven, working on
+large-scale finite element simulations of wave problems in the time domain.
+From Brown, Klöckner moved to the Courant Institute of Mathematical Sciences at
+New York University as a Courant Instructor, where he worked on integral
+equation methods and fast algorithms within Leslie Greengard's group.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Klöckner</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3249/bicycles-for-the-mind-building-high-performance</guid><enclosure url="https://www.youtube.com/watch?v=8ylmODAUmL4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/8ylmODAUmL4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

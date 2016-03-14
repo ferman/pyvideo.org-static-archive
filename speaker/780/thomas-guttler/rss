@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Thomas Güttler</title><link>http://www.pyvideo.org/speaker/780/thomas-guttler/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/780/thomas-guttler/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>dev --+ qual --+ prod</title><link>http://www.pyvideo.org/video/1461/dev-qual-prod</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Es wird das Konzept vorgestellt, wie man Projekte strukturieren kann um von
+der ersten Minute an eine mind. dreistufige Landschaft (Entwicklung,
+Qualitätssicherung, Produktiv) vorzusehen.
+
+Die zentrale Rolle spielen getrennte Systemnutzer um isolierte Umgebungen zu
+erstellen. Dieser Ansatz ist für Python-Server-Anwendungen wie z.B Django-
+Anwendungen sehr gut anwendbar.
+
+Seit einiger Zeit setzen wir getrennte Linux-Nutzer anstatt virtualenv ein.
+Das zentrale Merkmal, ist der Name des Systemnutzers:
+
+Namensschema des Linux-Nutzers: app_customer_stage
+
+* app ist die Anwendung (zB cms)  
+* customer ist ein Kürzel für den Kunden  
+* stage ist d, q, p (dev, qual, prod).
+
+Beispiel:
+
+* mycms_customer1_d Entwicklungssystem  
+* mycms_customer1_q Qualitätssicherung  
+* mycms_customer1_p Produktivsystem
+
+In einer zentralen Datei wird konfiguriert auf welchem Host welches System
+läuft. Jedes System kennt das nächste System (Bsp dev-&gt;qual), so dass ein
+Abgleich relativ einfach möglich ist.
+
+Das simple System hat viele Vorteile, die ich in dem Vortrag vorstellen
+möchte.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Güttler</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1461/dev-qual-prod</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/dev_qual_prod.mp4?Signature=8EQJ6QQ8BRflklrGTVxP5md1EBA%3D&amp;Expires=1352283643&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/dev_qual_prod.mp4?Signature=8EQJ6QQ8BRflklrGTVxP5md1EBA%3D&amp;Expires=1352283643&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=hOqwe3wY7Yw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/hOqwe3wY7Yw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Daniel Havlik</title><link>http://www.pyvideo.org/speaker/791/daniel-havlik/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/791/daniel-havlik/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Fanstatic zum Einbinden statischer Ressourcen - Was es kann und was es können sollte.</title><link>http://www.pyvideo.org/video/1488/fanstatic-zum-einbinden-statischer-ressourcen-w</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Fanstatic ist ein einfaches und doch mächtiges Werkzeug zum Einbinden
+statischer Ressourcen in Webanwendungen. In diesem Vortrag werden die Grenzen
+von Fanstatic aufgezeigt und Lösungen für diese vorgeschlagen.
+
+Die Autoren setzen Fanstatic in fast jedem Projekt ein. Doch immer wieder
+stolpern wir über Probleme wie das Einbinden von Stylesheets für spezielle IE-
+Versionen (Conditional Stylesheets) oder die fehlenden Möglichkeit,
+Stylesheets für den Druck zu spezifizieren. Auch wäre eine Integration mit
+z.B. CoffeeScript wünschenswert.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Havlik</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1488/fanstatic-zum-einbinden-statischer-ressourcen-w</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Fanstatic_zum_Einbinden_statis.mp4?Signature=qWwMnkqeZa9wiUZ%2Fyau3UJDPrGU%3D&amp;Expires=1352133719&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Fanstatic_zum_Einbinden_statis.mp4?Signature=qWwMnkqeZa9wiUZ%2Fyau3UJDPrGU%3D&amp;Expires=1352133719&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=fdM2PQSXlTc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/fdM2PQSXlTc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

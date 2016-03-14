@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Graeme Cross</title><link>http://www.pyvideo.org/speaker/264/dr--graeme-cross/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/264/dr--graeme-cross/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:38 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Need for Speed</title><link>http://www.pyvideo.org/video/475/pyconau-2010--need-for-speed</link><description>&lt;p&gt;Description&lt;/p&gt;
+Need for Speed
+
+Presented by Dr. Graeme Cross
+
+"Bottlenecks occur in surprising places, so don't try to second guess and put
+in a speed hack until you have proven that's where the bottleneck is." (Rob
+Pike)
+
+Python is a great balance of productivity, expressiveness and performance, but
+there are times when it would nice to have a Python application run faster.
+This is particularly true for large scale data processing, numerical work,
+controlling real world devices, and animation.
+
+Using some real-world examples, this talk covers tools and techniques that
+allow you to systematically understand where the bottlenecks are in your code
+and then how to effectively optimise your code, without having to resort to
+writing modules in C/C++.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Graeme Cross</dc:creator><guid>http://www.pyvideo.org/video/475/pyconau-2010--need-for-speed</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/475_pyconau-2010-need-for-speed.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-NeedForSpeed298.png"></media:thumbnail></item></channel></rss>

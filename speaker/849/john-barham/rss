@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of John Barham</title><link>http://www.pyvideo.org/speaker/849/john-barham/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/849/john-barham/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Aug 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Building a Cloud Service with Python</title><link>http://www.pyvideo.org/video/1639/building-a-cloud-service-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Presentation will go in-depth on the architecture of a web application service
+built on Amazon Web Services (AWS) cloud infrastructure, including: -
+developing a responsive, high-performance web application in Django -
+implementing
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Presentation will go in-depth on the architecture of a web application service
+built on Amazon Web Services (AWS) cloud infrastructure, including:
+
+  * developing a responsive, high-performance web application in Django
+  * implementing a REST API for automating the web application
+  * using Python's networking capabilities to monitor and aggregate log files from multiple remote servers in real time
+  * automating deployment in Python using fabric
+  * interacting with AWS using the boto library
+
+From a business point of view I will also talk about the opportunities that
+modern cloud computing platforms present to developers and how to best exploit
+them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Barham</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1639/building-a-cloud-service-with-python</guid><enclosure url="http://www.youtube.com/watch?v=R4feORh5MrU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/R4feORh5MrU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

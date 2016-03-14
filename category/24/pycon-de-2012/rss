@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of PyCon DE 2012</title><link>http://www.pyvideo.org/category/24/pycon-de-2012/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/24/pycon-de-2012/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Aus der Werkzeugkiste eines Python/Web-Entwicklers</title><link>http://www.pyvideo.org/video/1452/aus-der-werkzeugkiste-eines-py</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Werkzeuge erleichtern uns die Arbeit oder nehmen sie uns durch Automatisierung
+sogar ganz ab. In diesem Vortrag stelle ich einige Werkzeuge vor, die sich im
+Alltag bewährt haben, von der ersten Idee bis zur Live-Schaltung einer
+Webanwendung, von Testen über Debugging bis Deployment, für Python bis
+Javascript.
+
+Der Vortrag richtet sich an (Web-)Entwickler aller Arten. Er soll als
+Inspiration sowie als Anstoß zum Gedankenaustausch miteinander dienen: Was für
+Werkzeuge benutze ich andauernd? Welche davon möchte ich nie mehr missen? Über
+welche ärgere ich mich, welche könnten deutlich besser sein? Wie lösen andere
+die üblichen Probleme?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wolfgang Schnerring</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1452/aus-der-werkzeugkiste-eines-py</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Aus_der_Werkzeugkiste_.mp4?Signature=HDAnJMdb8CDkK6eBfAnTgxPaXtw%3D&amp;Expires=1351856331&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Aus_der_Werkzeugkiste_.mp4?Signature=HDAnJMdb8CDkK6eBfAnTgxPaXtw%3D&amp;Expires=1351856331&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=sJtPP2BO9BE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/sJtPP2BO9BE/hqdefault.jpg"></media:thumbnail></item><item><title>Beziehungen? Nein danke! - Agile Datenbankentwicklung mit schemafreien Datenbanken und Python</title><link>http://www.pyvideo.org/video/1451/beziehungen-nein-danke-agiledatenbankentwickl</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python-Projekte haben immer häufiger alternative Datenbanken aus der nosql
+/newsql-Familie in ihrem Stack, seien es Graphendatenbanken wie Neo4j, Key-
+Value-Stores wie Redis oder dokumentenorientierte Datenbanken wie MongoDB.
+
+So verschiedenartig diese Datenbanken auch sind, gemeinsam ist ihnen, dass sie
+nicht das relationale Datenmodell implementieren, Daten nicht in miteinander
+in Beziehung stehenden Entitäten ablegen. Während Nicht-Normalisirung bei
+relationalen Datenbanken meist als Anti-Pattern angesehen wird, ist es bei
+schemafreien Datenbanken Prinzip, das schnelles und agiles Entwickeln und
+Deployen fördert.
+
+Dieser Talk zeigt an Hand eines konkreten Use-Cases, welche Auswirkungen die
+Verwendung einer nicht-relationalen Datenbank auf den Entwicklungsprozess hat,
+zeigt wie Daten modelliert werden können und auch, wie Veränderungen am
+Datenbankmodell implementiert werden können, wenn es kein "Alter table" mehr
+gibt.
+
+Diskutiert werden sollen dabei auch die Pros und Kontras der verschiedenen
+Datenmodelle hinsichtlich ihrer Query-Möglichkeiten, der Query-Performance,
+Anforderungen an Plattenplatz und Auswirkungen auf die Client/Anwendungsseite.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin Schönert</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1451/beziehungen-nein-danke-agiledatenbankentwickl</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Beziehungen_Nein_danke.mp4?Signature=GwcLq3LbRvmkwcwlWe3K%2FBqDsnE%3D&amp;Expires=1351856279&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Beziehungen_Nein_danke.mp4?Signature=GwcLq3LbRvmkwcwlWe3K%2FBqDsnE%3D&amp;Expires=1351856279&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=0re7PgM9Duc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0re7PgM9Duc/hqdefault.jpg"></media:thumbnail></item><item><title>Building New Communities</title><link>http://www.pyvideo.org/video/1479/building-new-communities</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As commercial and governmental entities become more aware of the advantages of
+
+open source software, they are seeking to engage with the existing open source
+
+communities in a variety of ways. In this talk Steve examines some of the
+
+models that are being used, and takes a look at the possibilities for new ways
+
+of working in the open source world.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1479/building-new-communities</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Building_New_Communiti.mp4?Signature=U83FsMaCwCbbsl7vzk2gHgxd0HY%3D&amp;Expires=1352075062&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Building_New_Communiti.mp4?Signature=U83FsMaCwCbbsl7vzk2gHgxd0HY%3D&amp;Expires=1352075062&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Ecw9UIv1Czg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/Ecw9UIv1Czg/hqdefault.jpg"></media:thumbnail></item><item><title>dev --+ qual --+ prod</title><link>http://www.pyvideo.org/video/1461/dev-qual-prod</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Es wird das Konzept vorgestellt, wie man Projekte strukturieren kann um von
+der ersten Minute an eine mind. dreistufige Landschaft (Entwicklung,
+Qualitätssicherung, Produktiv) vorzusehen.
+
+Die zentrale Rolle spielen getrennte Systemnutzer um isolierte Umgebungen zu
+erstellen. Dieser Ansatz ist für Python-Server-Anwendungen wie z.B Django-
+Anwendungen sehr gut anwendbar.
+
+Seit einiger Zeit setzen wir getrennte Linux-Nutzer anstatt virtualenv ein.
+Das zentrale Merkmal, ist der Name des Systemnutzers:
+
+Namensschema des Linux-Nutzers: app_customer_stage
+
+* app ist die Anwendung (zB cms)  
+* customer ist ein Kürzel für den Kunden  
+* stage ist d, q, p (dev, qual, prod).
+
+Beispiel:
+
+* mycms_customer1_d Entwicklungssystem  
+* mycms_customer1_q Qualitätssicherung  
+* mycms_customer1_p Produktivsystem
+
+In einer zentralen Datei wird konfiguriert auf welchem Host welches System
+läuft. Jedes System kennt das nächste System (Bsp dev-&gt;qual), so dass ein
+Abgleich relativ einfach möglich ist.
+
+Das simple System hat viele Vorteile, die ich in dem Vortrag vorstellen
+möchte.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Güttler</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1461/dev-qual-prod</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/dev_qual_prod.mp4?Signature=8EQJ6QQ8BRflklrGTVxP5md1EBA%3D&amp;Expires=1352283643&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/dev_qual_prod.mp4?Signature=8EQJ6QQ8BRflklrGTVxP5md1EBA%3D&amp;Expires=1352283643&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=hOqwe3wY7Yw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/hOqwe3wY7Yw/hqdefault.jpg"></media:thumbnail></item><item><title>Didaktische Anforderung an die erste Programmsprache</title><link>http://www.pyvideo.org/video/1464/didaktische-anforderung-an-die-erste-programmspra</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In diesem Vortrag geht es darum, dass im Herbst am Zentrum für
+Hochschuldidaktik der bayerischen Hochschulen für Angewandte Wissenschaften
+ein Fachdidaktikarbeitskreis "didaktische Anforderungen an die erste
+Programmiersprache" eingerichtet wird, in dem herausgearbeitet werden soll,
+welche Anforderungen an eine Programmiersprache aus didaktischer Sicht für
+einen Einstieg in die Programmierung am besten geeignet ist. Die Erfahrungen
+der anwesenden Experten soll in einer Art Brainstorming genutzt werden, um
+"didaktische" Argumente für die Verwendung von Python als erste
+Programmiersprache zu sammeln und in diesen Arbeitskreis einfliessen zu
+lassen. Evtl. könnte dieser Vortrag / dieses Brainstorming auch als Start für
+eine Open Space Session innerhalb vom Barcamp zu diesem Thema sein. Die
+Zielgruppe für diesen Vortrag ist neben den Experten sicherlich auch für
+Neulinge geeignet.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nik Klever</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1464/didaktische-anforderung-an-die-erste-programmspra</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Didaktische_Anforderun.mp4?Signature=nfXiVIpZs3zOdhBE3yp1vb3IEEE%3D&amp;Expires=1352044054&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Didaktische_Anforderun.mp4?Signature=nfXiVIpZs3zOdhBE3yp1vb3IEEE%3D&amp;Expires=1352044054&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=2ulAnyyOps0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/2ulAnyyOps0/hqdefault.jpg"></media:thumbnail></item><item><title>Fanstatic zum Einbinden statischer Ressourcen - Was es kann und was es können sollte.</title><link>http://www.pyvideo.org/video/1488/fanstatic-zum-einbinden-statischer-ressourcen-w</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Fanstatic ist ein einfaches und doch mächtiges Werkzeug zum Einbinden
+statischer Ressourcen in Webanwendungen. In diesem Vortrag werden die Grenzen
+von Fanstatic aufgezeigt und Lösungen für diese vorgeschlagen.
+
+Die Autoren setzen Fanstatic in fast jedem Projekt ein. Doch immer wieder
+stolpern wir über Probleme wie das Einbinden von Stylesheets für spezielle IE-
+Versionen (Conditional Stylesheets) oder die fehlenden Möglichkeit,
+Stylesheets für den Druck zu spezifizieren. Auch wäre eine Integration mit
+z.B. CoffeeScript wünschenswert.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Havlik</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1488/fanstatic-zum-einbinden-statischer-ressourcen-w</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Fanstatic_zum_Einbinden_statis.mp4?Signature=qWwMnkqeZa9wiUZ%2Fyau3UJDPrGU%3D&amp;Expires=1352133719&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Fanstatic_zum_Einbinden_statis.mp4?Signature=qWwMnkqeZa9wiUZ%2Fyau3UJDPrGU%3D&amp;Expires=1352133719&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=fdM2PQSXlTc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/fdM2PQSXlTc/hqdefault.jpg"></media:thumbnail></item><item><title>Flugplanung, Datenverwaltung, Visualisierung mit einem Wiki zur Unterstützung von Meßkampagnen</title><link>http://www.pyvideo.org/video/1453/flugplanung-datenverwaltung-visualisierung-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag zeigt auf, wie man ein MoinMoin Wiki verwenden kann, um
+meteorologische Daten für Flugplanungen mit einem Forschungsflugzeug
+bereitzustellen. Die Werkzeuge, die bei einer Messkampagne eine Plattform für
+den Austausch von Daten sowie Beschreibungen bilden, werden vorgestellt.
+
+Im Vortrag werden einige Werkzeuge und deren API vorgestellt. Z.B. arnica, ein
+MoinMoin Wiki Plugin, das u.a. für die Darstellung von Vorhersage Modell Daten
+für die Flugplanung von Forschungsmissionen Verwendung findet.
+
+Andere Werkzeuge dienen dem Organisieren von Informationen auf Wiki Seiten und
+deren Darstellung. Es wird z.B. gezeigt wie Seiteninhalte in Tabellen
+abgebildet werden können.
+
+Die Beispiele können auch für die Entwicklung eigener Plugins herangezogen
+werden.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1453/flugplanung-datenverwaltung-visualisierung-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Flugplanung_Datenverwaltung_Vi.mp4?Signature=OWueLnjWxxnIg0X01mchkD20NBA%3D&amp;Expires=1351856764&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Flugplanung_Datenverwaltung_Vi.mp4?Signature=OWueLnjWxxnIg0X01mchkD20NBA%3D&amp;Expires=1351856764&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=5j7rPNU4VQE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/5j7rPNU4VQE/hqdefault.jpg"></media:thumbnail></item><item><title>Mercurial - ein verteiltes Versionskontrollsystem</title><link>http://www.pyvideo.org/video/1441/mercurial-ein-verteiltes-versionskontrollsystem</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag stellt Mercurial vor, zeigt aber auch optimale Vorgehensweisen
+für den Entwicklungsalltag sowie die Grundlagen der Entwicklung von Mercurial
+Extensions.
+
+Mercurial ist ein verteiltes Versionskontrollsystem. Die Befehle und
+Funktionen sind einfach zu lernen.
+
+Da es unabhängig vom einem Server arbeitet kann jeder lokal und auch ohne
+Internetverbindung Dokumente oder Quellcode damit verwalten. Trotzdem kann man
+mit Mercurial die Repositories untereinander austauschen und so auch über
+weite Entfernungen zusammen arbeiten.
+
+Mercurial ist komplett in Python geschrieben und lässt sich deshalb einfach
+erweitern.
+
+Viele bekannte Open Source Projekte und Firmen setzen Mercurial ein. So zum
+Beispiel Atlassian, Dovecot, Gajim, Google, Facebook, Mozilla, OpenOffice,
+OpenSolaris, Python, PyPy, RabbitMQ, Unity, Vim oder Xen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1441/mercurial-ein-verteiltes-versionskontrollsystem</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Mercurial_ein_verteilt.mp4?Signature=D5ey8CzIs%2BhUW9a1H5%2F8LygPSvM%3D&amp;Expires=1352069956&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Mercurial_ein_verteilt.mp4?Signature=D5ey8CzIs%2BhUW9a1H5%2F8LygPSvM%3D&amp;Expires=1352069956&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=yAHQvrFC94o" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/yAHQvrFC94o/hqdefault.jpg"></media:thumbnail></item><item><title>Pydica - eine Open-Source-Plattform zum Scannen und Validieren von Formularen in Python</title><link>http://www.pyvideo.org/video/1430/pydica-eine-open-source-plattform-zum-scannen-un</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Pydica steht für *Distributed Document Capture* und ist eine Plattform, mit
+der die verteilte Verarbeitung ausgefüllter Formulare vom Scannen über die OCR
+bis hin zur anschließenden Validierung möglich ist. Wir stellen die Plattform,
+unser Sicherheitskonzept und einen konkreten Anwendungsfall vor.
+
+Für das Problem der Erfassung, Validierung und Weiterverarbeitung großer
+Mengen ausgefüllter Formulare wie zum Beispiel Verträge, Umfragen,
+Krankenscheine, Rezepte, Überweisungen, Schecks o. ä. existiert keine Lösung.
+
+Ziele von Pydica sind:
+
+__Skalierbarkeit:__ Die verteilte Architektur sorgt dafür, daß mehrere
+Scanner- und Validierungsarbeitsplätze genutzt werden können. Auch die
+Serverkomponenten für OCR und automatische Validierung sind frei skalierbar.
+
+__Komplexe Validierungsregeln:__ Die Validierung beschränkt sich nicht nur auf
+einzelne Felder, sondern ist auch über mehrere Felder möglich, wie dies z. B.
+bei Prüfsummen der Fall ist.
+
+__Offene Toolchain:__ Pydica ist keine abgeschlossene Software, sondern darauf
+ausgelegt, die erfaßten Daten an Drittsoftware, wie zum Beispiel
+Abrechnungssysteme, zu übergeben.
+
+Ein konkretes Anwendungsbeispiel von Pydica, welches am Ende des Vortrags
+vorgestellt wird, ist die Verarbeitung von Rezepten im Rechenzentrum für
+Berliner Apotheken Stein &amp; Reichwald GmbH.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Szoska</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1430/pydica-eine-open-source-plattform-zum-scannen-un</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Pydica_eine_OpenSource.mp4?Signature=vBuzqEDIYDM5fPCIdnur0fUgOfo%3D&amp;Expires=1352280492&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Pydica_eine_OpenSource.mp4?Signature=vBuzqEDIYDM5fPCIdnur0fUgOfo%3D&amp;Expires=1352280492&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=2CsGqSNa4ag" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/2CsGqSNa4ag/hqdefault.jpg"></media:thumbnail></item><item><title>Python-Code für Debian paketieren</title><link>http://www.pyvideo.org/video/1475/python-code-fur-debian-paketieren</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Debian-Projekt ist mit mehr als 30000 Binärpaketen eine der größten
+Distributionen freier Software. Auch viele Python-Bibliotheken und Anwendungen
+wurden bereits für Debian paketiert. Es gibt aber viele Software die noch auf
+eine Paketierung oder bessere Pflege wartet.
+
+Im Vortrag wird gezeigt, wie man Python-Code für Debian paketiert. Dabei wird
+anhand eines Beispielpakets auf folgende Punkte näher eingegangen:
+
+* Wie erleichtert man als Upstream die Paketierung seiner Python-Software?  
+* Was sind die aktuellen Tools für das Python-Packaging?  
+* Wie baue ich Python2-, Python3- und (sphinx-)Dokumentations-Pakete?  
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jan Dittberner</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1475/python-code-fur-debian-paketieren</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/PythonCode_Debian_paketieren.mp4?Signature=Uwxj%2Fk%2B5GhoKUZsKg1nshfHb55I%3D&amp;Expires=1352065133&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/PythonCode_Debian_paketieren.mp4?Signature=Uwxj%2Fk%2B5GhoKUZsKg1nshfHb55I%3D&amp;Expires=1352065133&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=711n8hJ9Z1s" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/711n8hJ9Z1s/hqdefault.jpg"></media:thumbnail></item><item><title>Python-Web-Sprints</title><link>http://www.pyvideo.org/video/1480/python-web-sprints</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Seit April 2011 finden regelmäßig dreitägige Sprints zu verschiedenen Themen
+rund um Python-Web Anwendungen statt. Dabei geht es meist nicht um die
+schnelle Implementierung spezifischer Features sondern um grundlegende, von
+den Beteiligten mitgetragene Konzepte. Meist wird auch nicht an einzelnen
+Komponenten, sondern an einer Toolchain zur Lösung konkreter Probleme
+gearbeitet. Schließlich werden die Ergebnisse in einer Anwenderdokumentation
+festgehalten.
+
+Die Initiatoren des Sprints, Christian Theune und Veit Schiele, stellen das
+Konzept der Sprint-Reihe vor und gehen auch die Ergebnisse der bisherigen
+Sprints ein. Die Themen der bisherigen Sprints waren: PyPI-Mirroring und
+Performance-Optimierungen, Sicherheit und Datenschutz bei Web-Anwendungen
+sowie Betrieb und Deployment von Python-Webanwendungen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Theune,Veit Schiele</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1480/python-web-sprints</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_PythonWebSprints.mp4?Signature=kmgV9ltUeZT%2B4SIor4Lqna770PQ%3D&amp;Expires=1352081375&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_PythonWebSprints.mp4?Signature=kmgV9ltUeZT%2B4SIor4Lqna770PQ%3D&amp;Expires=1352081375&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=sX5zuqomc14" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/sX5zuqomc14/hqdefault.jpg"></media:thumbnail></item><item><title>Schneller ohne C++</title><link>http://www.pyvideo.org/video/1439/schneller-ohne-c</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Die Sichtbarkeit von C++ in der Software-Entwicklung ist auch in ihrem 33.
+Jahr noch enorm. In vielen Bereichen, z.B. im Ingenieursumfeld und im
+Embedded-Bereich wird schon aus Tradition mit C und C++ entwickelt, oft ohne
+den Blick auf Alternativen. Eingespielte Entwicklerteams und große, über lange
+Zeit gewachsene Code-Basen lassen einen Umstieg unmöglich erscheinen.
+
+In diesem Vortrag werde ich die Frage stellen, warum C und C++ so große
+Verbreitung besitzen, trotz der hohen Anforderungen an Entwicklererfahrung und
+der aufwändigen und fehleranfälligen Entwicklung mit diesen Sprachen. Dabei
+zeigt sich Python als ganz natürliche Ergänzungssprache, die sich leicht mit
+bestehenden Code integriert und in vielen Bereichen die Entwicklung dank des
+Paretoprinzips merklich beschleunigt.
+
+Python erlaubt sowohl eine schnelle prototypische Umsetzung neuer
+Anforderungen als auch die Integration anspruchsvoller Features durch die
+breite Funktionalität in der Standardbibliothek und den nahezu allumfassenden
+Fundus an Bibliotheken. Das Spektrum geht dabei von einfachen Skripten über
+Test-Unterstützung und Web-Frontends bis hin zu Finanzanwendungen,
+Bildverarbeitung und zur performancekritischen Analyse gigantischer
+Datenmengen aus Tiefseesensoren und Radioteleskopen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Behnel</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1439/schneller-ohne-c</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Schneller_ohne_C.mp4?Signature=k%2FC%2BHRmib3r4VMspiPrgL5oMYc4%3D&amp;Expires=1352279545&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Schneller_ohne_C.mp4?Signature=k%2FC%2BHRmib3r4VMspiPrgL5oMYc4%3D&amp;Expires=1352279545&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=zYg3lhwbm3s" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/zYg3lhwbm3s/hqdefault.jpg"></media:thumbnail></item><item><title>"The pythonic way" für IT Projekte</title><link>http://www.pyvideo.org/video/1457/the-pythonic-way-fur-it-projekte</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+"Potentially shippable increment of product in 30 days" -- dies ist die Vision
+von Scrum bzw. das grundsätzliche Ziel von agiler Softwareentwicklung bzw.
+Vorgehen in IT - Projekten.
+
+Dieses Ziel fordert, dass innerhalb eines Sprints , entworfen, implementiert,
+
+getestet, freigegeben und eine Distribution erstellt und installiert wird.
+
+Im Rahmen des Vortrags wird behandelt, wie durch den Einsatz einfacher Python
+-
+
+Macros innerhalb des Projekt- und Issue-Trackingsystems TRAC methodisch gute
+
+(für Entwickler und Kunden verständliche) Userstories, Usecases und Testcases
+
+entstehen. Es wird gezeigt, wie diese erzeugt, verwaltet, angewandt und
+durchgeführt
+
+werden und damit allen Projektbeteiligten ermöglicht wird, agile
+
+Paradigmen und Vorgehensweisen einfach und effizient anzuwenden.
+
+Die vorgestellten Vorgehensweisen wurden von den Autoren, mehrfach erfolgreich
+
+in großen Industrieprojekten als auch in kleinen internen Softwareprojekten
+
+angewendet.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lutz Mende</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1457/the-pythonic-way-fur-it-projekte</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Pythonic_way_Projekte.mp4?Signature=ylbnofmPNyzRhSJrbI%2Fx8elLKWY%3D&amp;Expires=1351858650&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Pythonic_way_Projekte.mp4?Signature=ylbnofmPNyzRhSJrbI%2Fx8elLKWY%3D&amp;Expires=1351858650&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ny10aTjTB_M" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ny10aTjTB_M/hqdefault.jpg"></media:thumbnail></item><item><title>Tiffany - Multipage-Tiff Lesen und Schreiben mit PIL ohne PIL </title><link>http://www.pyvideo.org/video/1445/tiffany-multipage-tiff-lesen-und-schreiben-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Tiffany steht für beliebiges Tiff. Das kleine Modul löst eine grosse Menge
+
+von Problemen, hat keine Abhängigkeiten, keine Binaries und läuft
+
+überall wo Python läuft.
+
+Bei der Entwicklung von Pydica (Distributed Document Capture) wurden wir
+
+mit dem Problem konfrontiert, mehrseitige Tiff-Dateien anzuzeigen. Das
+
+GUI-Toolkit PySide (Qt) unterstützt zwar Tiff, zeigt jedoch nur die erste
+Seite.
+
+Zudem behandeln wir Fax-komprimierte Dateien, was Qt aber unterstützt.
+
+PIL verfügt über eine Bereinigung der Tiff-Tags, kommt aber nicht mit der
+
+Fax-Kompression zurecht. Es gibt seit langem einen Patch dafür, jedoch ist
+
+der Build-Prozess erschwert und zieht mit libtiff eine Kette von
+Abhängigkeiten
+
+nach sich.
+
+Daher benutzt Tiffany einige wenige Dateien aus PIL ohne diese zu verändern
+und täuscht
+
+vor, die Tiff-Dateien zu entpacken, tut es aber nicht. Es werden lediglich die
+
+Tiff-Tags ordentlich aufbereitet. Die komprimierten Daten werden so übernommen
+
+wie sie sind. Beim Schreiben von Dateien werden daher lediglich die
+vorhandenen
+
+Daten in anderer Reihenfolge wieder zusammengesetzt.
+
+Im Vortrag werde ich die Implementierung vorstellen sowie weitere
+Alternativen,
+
+die Zukunft von PIL sowie auf weitere Tips und Kniffe in unserem Projekt
+eingehen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Tismer</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1445/tiffany-multipage-tiff-lesen-und-schreiben-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Tiffany_MultipageTiff_.mp4?Signature=LzhUSulO8gTQB6EW%2FAwKRe4t5Rs%3D&amp;Expires=1351854127&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Tiffany_MultipageTiff_.mp4?Signature=LzhUSulO8gTQB6EW%2FAwKRe4t5Rs%3D&amp;Expires=1351854127&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=qiZS1b_XFGs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/qiZS1b_XFGs/hqdefault.jpg"></media:thumbnail></item><item><title>Weiterentwicklung der PyCon DE Konferenzreihe</title><link>http://www.pyvideo.org/video/1456/weiterentwicklung-der-pycon-de-konferenzreihe</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Die PyCon DE Konferenzreihe wurde 2010 von einer Gruppe interessierter Python
+Nutzer angestoßen und dann über eine Community Abstimmung in den Jahren 2011
+und 2012 an die Python User Group Leipzig vergeben. In diesem Vortrag soll
+kurz auf die Entstehungsgeschichte eingegangen werden und dann in
+Zusammenarbeit mit den Zuhörern das Konzept der Reihe weiterentwickelt werden.
+
+Der Vortrag wird interaktiv gestaltet werden. Nach der kurzen Einführung steht
+die Diskussion mit der Community und ggf. auch Abstimmung über Vorschläge im
+Vordergrund. Die Resultate der Diskussionen sollen dann in die Konzeption für
+die PyCon DE 2013 und 2014 einfließen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marc-André Lemburg</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1456/weiterentwicklung-der-pycon-de-konferenzreihe</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Weiterentwicklung_der_.mp4?Signature=H9E%2FqjmicWXYSl9zepMA5AC94Iw%3D&amp;Expires=1352192706&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Weiterentwicklung_der_.mp4?Signature=H9E%2FqjmicWXYSl9zepMA5AC94Iw%3D&amp;Expires=1352192706&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=IaW9hM3bgGs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/IaW9hM3bgGs/hqdefault.jpg"></media:thumbnail></item><item><title>Agile testing in the large</title><link>http://www.pyvideo.org/video/1440/agile-testing-in-the-large</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Im Vortrag "Agile testing in the large" nutze ich wieder OpenSource Tools die
+leider nicht alle in Python implementiert sind, jedoch hervorragend geeignet
+sind, um u.a. Python Webapplikationen zu testen.
+
+Der Vortrag erläuterte das Testen moderner Web-Anwendungen und gliedert sich
+so:
+
+* Einleitung  
+* Continuous Integration  
+* kleine Entwickler-Tests  
+* mittlere und große Entwickler-Tests  
+* Acceptance Testing mit Selenium2
+
+Themen exploratory Testing und Performance Testing bleiben absichtlich
+unbehandelt.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Fink</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1440/agile-testing-in-the-large</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Agile_testing_in_the_l.mp4?Signature=CWYbwsaWbMOjxJK5080zIFhwqNI%3D&amp;Expires=1351853321&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Agile_testing_in_the_l.mp4?Signature=CWYbwsaWbMOjxJK5080zIFhwqNI%3D&amp;Expires=1351853321&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=0ZZOjS6HV54" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0ZZOjS6HV54/hqdefault.jpg"></media:thumbnail></item><item><title>batou - multi-(host component environment version platform) deployment </title><link>http://www.pyvideo.org/video/1463/batou-multi-host-component-environment-vers</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Batou ist ein Open-Source Werkzeug um mit Python das Deployment von komplexen
+Anwendungen zu beschreiben und zu automatisieren.
+
+Das Konzept besteht darin eine passende allgemeine Modellsprache in Form einer
+API zu definieren. Dabei stehen Wiederverwendung, Toleranz gegenüber
+unbekannten Zuständen und Ausdrucksstärke im Vordergrund.
+
+Der Vortrag zeigt den Werdegang und unsere Motivation zur Entwicklung von
+batou auf und zeigt die konzeptionellen Stärken anhand praktischer Beispiele.
+
+Wir haben in den letzten Jahren eine Reihe großer und kleiner Projekte beim
+Deployment betreut.
+
+Im Rahmen unserer Plattform "gocept.net" bereiten wir unsere Erfahrungen in
+Dokumentation und offenen Werkzeugen auf und haben daher batou entwickelt.
+
+batou ist sowohl in Python geschrieben und nutzt Python um Deployment-
+Strukturen zu beschreiben.
+
+Wir möchten Batou gerne vorstellen um unsere Erfahrungen weiterzugeben und
+(auch auf den Sprints) anzuregen sich mit dem Werkzeug auseinanderzusetzen,
+Feedback zu bekommen, und daran weiterzuarbeiten.
+
+Beispiel-Code des Werkzeugs:
+
+[https://code.gocept.com/hg/public/batou/file/920e606b2959](https://code.gocep
+t.com/hg/public/batou/file/920e606b2959)
+
+Beispiel einer Deployment-Beschreibung:
+
+[https://bitbucket.org/ctheune/sprintsite](https://bitbucket.org/ctheune/sprin
+tsite)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Theune</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1463/batou-multi-host-component-environment-vers</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_batou_multihost_compon.mp4?Signature=uLLnpLOES3L5mLY3PvAYPvlRSXQ%3D&amp;Expires=1352041445&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_batou_multihost_compon.mp4?Signature=uLLnpLOES3L5mLY3PvAYPvlRSXQ%3D&amp;Expires=1352041445&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-f8Ef0Y_ZYk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-f8Ef0Y_ZYk/hqdefault.jpg"></media:thumbnail></item><item><title>Debugging mit Python</title><link>http://www.pyvideo.org/video/1447/debugging-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Manche Fehler in Python-Programmen lassen sich mit Print-Anweisungen
+aufdecken, in komplizierteren Fällen ist aber ein Debugger gefragt.
+
+Der Vortrag behandelt Grundlagen für die Fehlersuche in Python-Programmen.
+Zunächst soll es - für die einfachen Fälle - um Print-Anweisungen gehen.
+Danach kommt die Verwendung des mit Python gelieferten Debuggers pdb. Dazu
+werden Grundbegriffe wie Programmzeiger und Breakpoint erklärt und gezeigt,
+wie man die Befehle des Debuggers für die Fehlersuche benutzt (zum Beispiel
+Setzen von Breakpoints, schrittweise Ausführung ohne und mit Funktionsaufrufen
+sowie natürlich die Untersuchung von Objekten).
+
+Ich kann den Vortrag wahlweise als 55- oder 25-Minuten-Version halten. Im
+ersten Fall würde ich auch noch auf andere Debugger wie pudb, pdb++ und WinPdb
+eingehen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Schwarzer</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1447/debugging-mit-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Debugging_mit_Python.mp4?Signature=fvYa5Y0wvtJj6mjA1JnXwJmdoto%3D&amp;Expires=1351854220&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Debugging_mit_Python.mp4?Signature=fvYa5Y0wvtJj6mjA1JnXwJmdoto%3D&amp;Expires=1351854220&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=9JFRWC2KI7k" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/9JFRWC2KI7k/hqdefault.jpg"></media:thumbnail></item><item><title>Der Django-Admin-Bereich im Überblick</title><link>http://www.pyvideo.org/video/1465/der-django-admin-bereich-im-uberblick</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Django-Webframework bringt mit einem automatisch generierten Admin-Bereich
+ein mächtiges Werkzeug zur Administration von Webapplikation mit.
+
+Der Vortrag stellt den Admin-Bereich des Django-Webframeworks in den
+Vordergrund und richtet sich an Django-Einsteiger und -Interessierte, aber
+auch an Entwickler, die sich bisher noch nicht sehr intensiv mit dem Admin-
+Bereich auseinander gesetzt haben.
+
+Dazu wird kurz das Berechtigungskonzept als Grundlage des Admin-Bereichs
+erläutert, die Erstkonfiguration beschrieben und die Funktionalität
+vorgestellt. Der zweite Teil des Vortrags beschäftigt sich dann mit den
+Erweiterungs- und Anpassungsmöglichkeiten, die die Django-API bereit stellt.
+
+Die abschließende Diskussionszeit kann für Fragen verwendet werden.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Albrecht</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1465/der-django-admin-bereich-im-uberblick</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Der_DjangoAdminBereich.mp4?Signature=XePYCt3VJwV%2FARB894BijUqxV7Q%3D&amp;Expires=1351867061&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Der_DjangoAdminBereich.mp4?Signature=XePYCt3VJwV%2FARB894BijUqxV7Q%3D&amp;Expires=1351867061&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=AkELl59QjoE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AkELl59QjoE/hqdefault.jpg"></media:thumbnail></item><item><title>Designing and Testing PyZMQ Applications</title><link>http://www.pyvideo.org/video/1484/designing-and-testing-pyzmq-applications</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PyZMQ ist eine mächtige aber dennoch einfach zu benutzende Netzwerkbibliothek.
+
+Neben ZeroMQ’s und PyZMQ’s ausführlicher Dokumentation existieren auch einige
+
+gute Tutorials. Über einfache Beispiele oder allgemeine System-Architekturen
+
+gehen sie jedoch oft nicht hinaus.
+
+In diesem Vortrag werden daher Wege gezeigt, wie größere PyZMQ-Anwendungen
+
+entworfen und getestet werden können. Behandelt werden dabei neben Unit-Tests
+
+auch Prozess- und System-Tests.
+
+Der Vortrag basiert auf den Erfahrungen, die der Autor bei der Entwicklung
+
+eines verteilten Simulations-Frameworks gemacht hat.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Scherfke</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1484/designing-and-testing-pyzmq-applications</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Designing_and_Testing_.mp4?Signature=aqZ7RgWpGW%2FEnDATNCs0v%2F%2BAve4%3D&amp;Expires=1352216752&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Designing_and_Testing_.mp4?Signature=aqZ7RgWpGW%2FEnDATNCs0v%2F%2BAve4%3D&amp;Expires=1352216752&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=TG6wY76hICg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/TG6wY76hICg/hqdefault.jpg"></media:thumbnail></item><item><title>Die Infrastruktur für Erweiterungen der Wiki-Software MoinMoin (moin2).</title><link>http://www.pyvideo.org/video/1485/die-infrastruktur-fur-erweiterungen-der-wiki-soft</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Die Wiki Software moin2 kann mehr als nur ein Wiki betreiben.
+
+U.a. kann man moin2 für einen Pastebin, Blog und ein Ticket-System verwenden.
+
+Der Vortrag gibt Einblick in Erweiterungen und den Stand der Entwicklung.
+
+moin2 ist ein Redesign der Wiki-Software von moin1.
+
+Es hat viele Merkmale mit einigen anderen Webanwendungen gemeinsam.
+
+Durch die offene Architektur und die vorhandenen Sicherheitsmechanismen gegen
+Spam ist es z.B. möglich einen pastebin analog zu lodgeit zu integrieren.
+
+Blog Posts unterscheiden sich auch nicht wesentlich von Wiki Items. Mit einem
+Ticket-System lassen sich Arbeitsabläufe optimieren.
+
+Der Vortrag zeigt, wie in moin2 solche Erweiterungen integriert werden und
+zeigt den Stand der aktuellen Entwicklung.
+
+Für Eigenentwicklungen wird ein Einblick
+
+auf das neue Plugin Konzept gegeben.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1485/die-infrastruktur-fur-erweiterungen-der-wiki-soft</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Infrastruktur.mp4?Signature=nbKxMZhao5WtFIEShE6lFBl2J64%3D&amp;Expires=1352126019&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Infrastruktur.mp4?Signature=nbKxMZhao5WtFIEShE6lFBl2J64%3D&amp;Expires=1352126019&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=rHrxNcYqBTw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/rHrxNcYqBTw/hqdefault.jpg"></media:thumbnail></item><item><title>Django, App-gehoben</title><link>http://www.pyvideo.org/video/1425/django-app-gehoben</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Webframework Django kommt ganz wie Python mit "Batteries included".
+Ähnlich wie sich in Python mit seiner umfangreichen Standardlib viele
+Alltagsaufgaben mit wenigen Zeilen Code erledigen lassen, so vereinfacht
+Django die Entwicklung von Webanwendungen. Und genau wie es im PyPI unzählige
+Packages für so gut wie jede Aufgabe gibt, so umkreist auch Django eine Fülle
+von sogenannten Pluggable Apps, also Zusatzmodulen für fast jeden
+Anwendungsfall.
+
+Der Vortrag stellt einige Highlights solcher Django-Packages vor, welche ohne
+viel Aufwand gewöhnlichen Djangoanwendungen erweiterte Funktionalität
+mitgeben.
+
+Es werden aus den Bereichen RESTful API, Formulare, Sicherheit, CSS/SCSS/JS
+Handling, Softwaretesting, Taskqueue, Ajax, Suche, Datenbankschemamigration
+und Authentifizierung jeweils ein populäres Beispielpackage kurz vorgestellt.
+Der Fokus liegt bewußt nicht auf Details. Gezeigt wird grob die
+Funktionsweise, Installation und ein paar Erfahrungen aus dem praktischen
+Einsatz.
+
+Der geneigte Zuhörer soll angeregt werden ähnliche Django-Packages in seinen
+eigenen Projekten zu verwenden. Der Benefit für den Einzelnen ist, schnell
+meist gut getestete Funktionalität für das eigene Projekt einzubauen. Die
+Gemeinschaft profitiert von gemeinschaftlich entwickelter Freier Software.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Frank Becker</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1425/django-app-gehoben</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Django_Appgehoben.mp4?Signature=0ggrvgiojPc0ZNDspiBh4TQClJM%3D&amp;Expires=1351778847&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Django_Appgehoben.mp4?Signature=0ggrvgiojPc0ZNDspiBh4TQClJM%3D&amp;Expires=1351778847&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=dOaJdo1km-o" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/dOaJdo1km-o/hqdefault.jpg"></media:thumbnail></item><item><title>Django class based generic views</title><link>http://www.pyvideo.org/video/1459/django-class-based-generic-views</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django class based generic views können zu einer strukturell einheitlichen
+View-Programmierung beitragen, was Programm-Entwicklungen erleichtern und
+mögliche Fehler verringern kann. Der Talk gibt eine Einführung in Struktur und
+Funktionsweise dieses Subframeworks.
+
+Mit den class based generic views bietet Django ein umfangreiches Subframework
+zum erstellen von class based views. Die Dokumentation ist recht rudimentär
+und erlaubt nur einen groben Überblick, erst die Studie des Quellcodes
+offenbart ein tieferes Verständnis der Klassenhierarchie und Funktionsweise.
+Ziel dieses Talks ist es, durch Vermitteln der Funktionsweise eine
+Einarbeitung zu erleichtern.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Klaus Bremer</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1459/django-class-based-generic-views</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Django_class_based_gen.mp4?Signature=oS5QVZiv4uhyS4aPsxgHkyEUCMs%3D&amp;Expires=1352284203&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Django_class_based_gen.mp4?Signature=oS5QVZiv4uhyS4aPsxgHkyEUCMs%3D&amp;Expires=1352284203&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=0hMR3jiRcPQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0hMR3jiRcPQ/hqdefault.jpg"></media:thumbnail></item><item><title>eGenix PyRun - Python Laufzeitumgebung in einer Datei</title><link>http://www.pyvideo.org/video/1435/egenix-pyrun-python-laufzeitumgebung-in-einer</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+eGenix PyRun kondensiert eine komplette Python Laufzeitumgebung mit
+Interpreter und Standardbibliothek in eine einzige sehr kompakte ausführbare
+pyrun Programmdatei.
+
+Da PyRun keine Installation benötigt und unabhängig von einer Python System
+Installation arbeitet, bietet es sich damit als portable Lösung für Skripte,
+Applikationen und in der Entwicklung als virtualenv Ersatz an.
+
+PyRun ist nur 12-13MB groß, enthält aber den größten Teil einer üblicherweise
+ca. 100MB großen Python Installation. Die Größe kann per gzexe oder upx auf
+unter 4MB reduziert werden.
+
+Es bietet damit eine ganze Reihe von Vorteilen gegenüber einer regulären
+Python Installation. Hier die wichtigsten Aspekte:
+
+* Sehr kompakt  
+* Keine Installation oder Root Rechte notwendig  
+* Kann unabhängig von einer System Python Installation verwendet werden  
+* Bessere Startzeit als reguläres Python  
+* Kompatibel mit distutils/setuptools/pip/etc.  
+* virtualenv Ersatz
+
+Derzeit unterstützte Systeme sind Linux, Mac OS X und FreeBSD. Es sollte aber
+auch auf anderen Unix Systemen verwendbar sein. PyRun wird von eGenix unter
+einer Open Source Lizenz verfügbar gemacht.
+
+Der Vortrag wird das Projekt vorstellen, eine Anwendungsdemo zeigen und je
+nach verfügbarer Zeit auch die Übersetzung demonstrieren.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marc-André Lemburg</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1435/egenix-pyrun-python-laufzeitumgebung-in-einer</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_eGenix_PyRun_Python_La.mp4?Signature=nrTdY7%2FxvODCJisoIjAN71oStdg%3D&amp;Expires=1352066603&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_eGenix_PyRun_Python_La.mp4?Signature=nrTdY7%2FxvODCJisoIjAN71oStdg%3D&amp;Expires=1352066603&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ZaCk9Gp8e-U" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/ZaCk9Gp8e-U/hqdefault.jpg"></media:thumbnail></item><item><title>GR - ein universelles Framework für Visualisierungsanwendungen</title><link>http://www.pyvideo.org/video/1449/gr-einuniverselles-framework-f-r-visualisierung</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Zur Erstellung von Visualisierungsprogrammen existiert eine Vielzahl freier
+und kommerzieller Tools und Bibliotheken. In einem heterogenen Rechnerumfeld
+zeigt sich aber, dass es keine durchgängig einsetzbare Lösung gibt, welche die
+speziellen Anforderungen in einem wissenschaftlichen Umfeld abdeckt.
+
+GR ist ein universell einsetzbares Framework für plattformübergreifende
+Visualisierungsanwendungen. Es bietet Entwicklern eine kompakte, portable und
+einheitliche Grafik-Bibliothek für ihre Anwendungen. Das Anwendungsspektrum
+reicht von der Erzeugung publikationsreifer 2D-Diagramme bis hin zur
+Darstellung komplexer 3D-Szenen.
+
+Der Vortrag beschreibt zunächst die Funktionalität des GR-Frameworks, welches
+im wesentlichen auf einer Implementierung des graphischen Kernsystems (GKS)
+sowie der Programmierschnittstelle OpenGL basiert. Es wird aufgezeigt, wie GR
+als geschlossenes System schnell und einfach in vorhandene Anwendungen – z.B.
+mit dem ctypes-Mechanismus in Python - integriert werden kann. Neben dem
+Einsatz in imperativ programmierten Systemen ist auch eine Integration in
+moderne objektorientierte Systeme, die auf GUI Toolkits aufbauen, vorgesehen.
+Darüber hinaus werden die Stärken des GR-Frameworks in Bezug auf die
+Interoperabilität mit aktuellen Web-Technologien und mobilen Geräten
+herausgestellt.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josef Heinen</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1449/gr-einuniverselles-framework-f-r-visualisierung</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/GR_ein_universelles_Framework_.mp4?Signature=F%2FTVlB6yIBeHaxr3Dr7b%2B2O19%2Fc%3D&amp;Expires=1351856085&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/GR_ein_universelles_Framework_.mp4?Signature=F%2FTVlB6yIBeHaxr3Dr7b%2B2O19%2Fc%3D&amp;Expires=1351856085&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=EhLPAEUI4l0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/EhLPAEUI4l0/hqdefault.jpg"></media:thumbnail></item><item><title>Hunting down the Universe - was alte Bugs mit neuer Physik zu tun haben</title><link>http://www.pyvideo.org/video/1490/hunting-down-the-universe-was-alte-bugs-mit-neu</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Zur Zeit findet am CERN in Genf wohl eins der größten wissenschaftlichen
+Experimente der Menschheit statt - der LHC. Aber was wird an diesem
+Teilchenbeschleuniger eigentlich gemacht? Warum fasziniert die Suche nach dem
+Higgs eine ganze Physikergeneration? Wieso ist der LHC nicht nur
+einphysikalisches, sondern auch ein soziologisches Experiment? Und was hat
+schlussendlich die Suche nach neuen Teilchen mit Python und der Suche nach
+Bugs zu tun? Diese Keynote wird versuchen, diese und andere Fragen zu
+beleuchten.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benedikt Hegner</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1490/hunting-down-the-universe-was-alte-bugs-mit-neu</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Hunting_down_the_Unive.mp4?Signature=19elyDzU4KE4X0kT9Hj7gI1NjSg%3D&amp;Expires=1352197809&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Hunting_down_the_Unive.mp4?Signature=19elyDzU4KE4X0kT9Hj7gI1NjSg%3D&amp;Expires=1352197809&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=jZaF61V6_ms" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/jZaF61V6_ms/hqdefault.jpg"></media:thumbnail></item><item><title>Konferenz-Organisation mit Plone</title><link>http://www.pyvideo.org/video/1487/konferenz-organisation-mit-plone</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Vortrag zeigt die Entwicklung eines Konferenz-Organisations-Add-ons für
+Plone mit dem Dexterity Framework. Dieses moderne Content-Type-Framework
+ermöglicht es, einfacher neue Artikel-/Contenttypen zu erstellen (sowohl
+selbst im Web als auch auf Dateisystemebene). Das Add-on ist in der
+Entwicklung für die diesjährige LibreOffice-Konferenz, die im Oktober in
+Berlin stattfinden wird. Es soll auch auf künftigen LibreOffice-Konferenzen
+eingesetzt werden und kann auch für andere Konferenzen verwendet werden. Das
+Add-on wird unter einer Open Source Lizenz entwickelt.
+
+Das Add-On wird zunächst dazu verwendet, Vortragsvorschläge einzureichen, zu
+reviewen und aus den akzeptierten Vorschlägen Tracks in einem Programm
+zusammenzustellen. Es verwaltet dabei auch Speaker und Konferenzräume. In
+einer weiteren Ausbaustufe ist vorgesehen, Teilnehmer einer Konferenz zu
+verwalten, einschließlich der Abwicklung des Ticketentgelts bzw. von
+Teilnehmerentgelten.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Mantke</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1487/konferenz-organisation-mit-plone</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_KonferenzOrganisation_.mp4?Signature=oOx4ac%2F855HrwYZ2YPnk6AjJNtg%3D&amp;Expires=1352129293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_KonferenzOrganisation_.mp4?Signature=oOx4ac%2F855HrwYZ2YPnk6AjJNtg%3D&amp;Expires=1352129293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=68WDcWMom7Q" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/68WDcWMom7Q/hqdefault.jpg"></media:thumbnail></item><item><title>LFS - Ein Online-Shop basierend auf Django</title><link>http://www.pyvideo.org/video/1466/lfs-ein-online-shop-basierend-auf-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+LFS ist ein Online-Shop basieren auf Python, Django und jQuery. Er erfreut
+sich zunehmender Aufmerksamkeit, sowohl bei Entwicklern als auch bei
+Anwendern. Laut [djangopackages.com](http://djangopackages.com) ist LFS der am
+häufigsten heruntergeladene Shop für Django. Änderungen am Source Code
+verfolgen über 200 Entwickler und die Google-Gruppe hat zur Zeit über 170
+Mitglieder.
+
+LFS ist praxiserprobt. Beispiele für große und erfolgreiche Shops sind:
+
+* [demmelhuber.net](http://demmelhuber.net)  
+* [holzimgarten.com](http://holzimgarten.com)  
+* [anwaltakademie.de](http://anwaltakademie.de)
+
+Kai Diefenbach, Gründer und einer der Kern-Entwickler, gibt in diesem Vortrag
+ein Überblick zu folgenden Themen:
+
+* Live-Shops. Vorstellung von einigen Live-Shops: Zahlen und Fakten.
+
+* Features. Vorstellung der wichtigsten Features, beispielsweise: Produktarten, Katalog, Zahlmethoden, Liefermethoden, Mehrwertsteuer, Checkout, etc.
+
+* Entwicklung. Alles rund um die Entwicklung: Wie geht diese vor sich? Wie kann ich teilnehmen? Wie können Erweiterungen entwickelt werden?
+
+* Ausblick. Die Zukunft von LFS: Releases, neue Features, etc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kai Diefenbach</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1466/lfs-ein-online-shop-basierend-auf-django</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_LFS_Ein_OnlineShop_bas.mp4?Signature=eZufn5aAG7FYN8ib4zd22fHUUl4%3D&amp;Expires=1351867420&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_LFS_Ein_OnlineShop_bas.mp4?Signature=eZufn5aAG7FYN8ib4zd22fHUUl4%3D&amp;Expires=1351867420&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-GptuADVU00" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-GptuADVU00/hqdefault.jpg"></media:thumbnail></item><item><title>Lightning Talks (Mittwoch)</title><link>http://www.pyvideo.org/video/1481/lightning-talks-mittwoch</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+
+
+</description><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1481/lightning-talks-mittwoch</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Lightning_Talks_Mittwoch.mp4?Signature=DVd75EjSAHjxH1Vz30wJaiwi4vU%3D&amp;Expires=1352209247&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Lightning_Talks_Mittwoch.mp4?Signature=DVd75EjSAHjxH1Vz30wJaiwi4vU%3D&amp;Expires=1352209247&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=HppU0x5V1Dg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/HppU0x5V1Dg/hqdefault.jpg"></media:thumbnail></item><item><title>Metro-Programmierung mit Python</title><link>http://www.pyvideo.org/video/1444/metro-programmierung-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Metro ist die Nutzerschnittstelle für Apps in Windows 8. Microsoft unterstützt
+App-Programmierung in C, C++, C#, VB und JavaScript. Im Vortrag wird das API
+WinRT vorgestellt und gezeigt, wie mit Python Apps entwickelt werden können.
+
+Themen sind:
+
+- Windows 8  
+- Metro-UI  
+- WinRT und COM  
+- Python als App  
+- Python-WinRT-API
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin v. Löwis</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1444/metro-programmierung-mit-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_MetroProgrammierung_mi.mp4?Signature=MlPoT25AkdPwDqrDnDeB5jGffDk%3D&amp;Expires=1351854093&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_MetroProgrammierung_mi.mp4?Signature=MlPoT25AkdPwDqrDnDeB5jGffDk%3D&amp;Expires=1351854093&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=RJ18uynXWto" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/RJ18uynXWto/hqdefault.jpg"></media:thumbnail></item><item><title>nagiosplugin - eine Python-Bibliothek für Monitoring-Plugins</title><link>http://www.pyvideo.org/video/1460/nagiosplugin-eine-python-bibliothek-fur-monitor</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Auch wenn in der letzten Zeit sehr viel Bewegung in die Monitoring-Szene
+gekommen ist (#monitoringsucks etc.), werden die Platzhirsche Nagios/Icinga
+und ihre Standards auf absehbare Zeit nicht verschwinden. Das Nagios-Plugin-
+API stellt eine sehr weit verbreitete Schnittstelle zur Anbindung einzelner
+Checks an Monitoring-Systeme dar. Obwohl das API in den Grundzügen sehr
+einfach ist, ist der Programmieraufwand für vollständig konforme Plugins
+erstaunlich hoch.
+
+Die [_nagiosplugin_-Bibliothek](http://pypi.python.org/pypi/nagiosplugin/)
+nimmt dem Entwickler viele Details ab, so dass er sich auf den Inhalt seiner
+Checks konzentrieren kann. Der Vortrag führt in das Schreiben von Nagios-
+kompatiblen Plugins ein, zeigt den typischen Aufbau von Nagios-Plugins und das
+Grundprinzip eigener Plugins. Die Konfiguration und der Betrieb von
+Monitoring-Systemen im Großen sollen nicht thematisiert werden.
+
+Eine Einführung stellt die notwendigen Elemente wie Klassengerüst,
+Messwerterhebung, Ranges, Statusausgabe und Performancedaten sukzessive in
+aufeinander aufbauenden Beispielen vor, so dass am Ende ein einfacher, aber
+praktisch einsetzbarer Check entsteht.
+
+Der Teil über fortgeschrittene Aspekte und Stolperfallen reißt Einzelbeispiele
+zu Themen wie mehrere Datenquellen, Timeouts, Auswertung wachsender Logfiles
+und Checks mit "Gedächtnis" an und zeigt typischen Fehlerquellen auf.
+
+Den Abschluss bildet ein kurzer Ausblick auf die weitere Entwicklung der
+_nagiosplugin_-Bibliothek.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Kauhaus</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1460/nagiosplugin-eine-python-bibliothek-fur-monitor</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/nagiosplugin_eine_PythonBiblio.mp4?Signature=47EyOQa7uZ51%2B%2BcPEVK2llY%2FrtI%3D&amp;Expires=1352037760&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/nagiosplugin_eine_PythonBiblio.mp4?Signature=47EyOQa7uZ51%2B%2BcPEVK2llY%2FrtI%3D&amp;Expires=1352037760&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=i6ah40KmwV8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/i6ah40KmwV8/hqdefault.jpg"></media:thumbnail></item><item><title>OpenOffice-Dokumente selbst modifizieren</title><link>http://www.pyvideo.org/video/1450/openoffice-dokumente-selbst-modifizieren</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Vortrag stellt eine Python-Klasse vor, die das fast beliebige Modifizieren
+von Open/LibreOffice-Dokumenten bequem ermöglicht. Es geht mehr um die
+Vorstellung einer Methode als um ein fertiges Werkzeug. So manche Aufgabe
+lässt sich damit erheblich einfacher bewerkstelligen als mit Makros oder über
+die pyUNO-Schnittstelle.
+
+Hat man eine größere Zahl von ODF-Files (also im Open Document Format) oder
+ein großes ODF-Dokument an vielen Stellen in gleicher Weise zu bearbeiten, ist
+das ermüdend, zeitaufwändig und fehleranfällig. Wozu gibt es Computer?
+Open/LibreOffice erlaubt zwar Makros, doch deren Leistung ist beschränkt, und
+die pyUNO-Schnittstelle ist kompliziert, schlecht dokumentiert und noch nicht
+ausgetestet.
+
+Es geht auch anders: ODF-Files sind Zip-Archive von XML-Files, und diese
+lassen sich mit Pythonskripten einfach bearbeiten. Das ODF-Format ist relativ
+leicht zu verstehen (der Standard ist gut lesbar), der Phantasie des Anwenders
+sind keine Grenzen gesetzt - sei es, um manuelle Formatierungen zu markieren,
+in bestimmte Tabellen Spalten einzufügen oder diese um Zeilen zu ergänzen,
+deren Berechnung partout nicht ins Konzept der Calc-Formeln passen will.
+
+Dabei sind allerdings einige kleine Stolpersteine zu beachten, auf die der
+Vortrag hinweist. Die hier vorgestellte Klasse ist eine mögliche Methode, um
+sich auf die "wesentlichen Dinge" konzentrieren zu können.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reinhard Wobst</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1450/openoffice-dokumente-selbst-modifizieren</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_OpenOfficeDokumente_se.mp4?Signature=4SSedVti6KVV9qsA3khVQvrmfYk%3D&amp;Expires=1352028522&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_OpenOfficeDokumente_se.mp4?Signature=4SSedVti6KVV9qsA3khVQvrmfYk%3D&amp;Expires=1352028522&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=u44L-l3RPy0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/u44L-l3RPy0/hqdefault.jpg"></media:thumbnail></item><item><title>Plone Theming, flexibel, schnell und einfach!</title><link>http://www.pyvideo.org/video/1454/plone-theming-flexibel-schnell-und-einfach</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Theming von komplexen Content Management Systemen ist häufige eine sehr
+arbeitsintensive Angelegenheit - Plone ist dabei keine Ausnahme. Dank Diazo
+ist kein Plone-Experten-Wissen mehr notwendig, um beliebige Designs in Plone
+umzusetzen. Der Vortrag stellt an einem Beispiel aus der Praxis den Einsatz
+von Diazo vor.
+
+Dank Diazo und plone.app.theming kann ein Designtemplate (aus html und css
+komplett unabhängig vom CMS gehalten werden. Ein einfaches Regelwerk verknüpft
+das Designtemplate mit dem CMS. Ein Theme kann als Zip-Datei verpackt, direkt
+in Plone importiert und aktiviert werden ohne das System neu starten zu
+müssen. Der Vortrag weist an Beispielen den Weg vom statischen Template zum
+dynamischem Plone-Theme. Schwerpunkt ist hierbei die Erzeugung der Regeln mit
+denen die Elemente des statischen Templates mit den Inhalten aus dem CMS
+verbunden werden.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maik Derstappen</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1454/plone-theming-flexibel-schnell-und-einfach</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Plone_Theming_flexibel.mp4?Signature=kseVohSbodVVrBuNeabAxCheZPw%3D&amp;Expires=1351856851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Plone_Theming_flexibel.mp4?Signature=kseVohSbodVVrBuNeabAxCheZPw%3D&amp;Expires=1351856851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=e1KKo11AB8c" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/e1KKo11AB8c/hqdefault.jpg"></media:thumbnail></item><item><title>Practical DevOps</title><link>http://www.pyvideo.org/video/1473/practical-devops</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht, ein
+Umdenken in den klassischen Lagern Entwicklung und Betrieb einzuleiten. Der
+Vortrag wirft einen Blick auf die noch junge Bewegung und zeigt mit
+Geschichten aus dem wahren Leben, wie sich die agile Denkweise fortschreiben
+lässt, die mit SCRUM ins allgemeine Bewusstsein getreten ist.
+
+Schlomo gibt einen Überblick über das Thema und berichtet über die DevOps
+Erfolge bei der [ImmobilienScout24](http://www.immobilienscout24.de). Nach 2
+Jahren agilem Umdenken in der Entwicklung zeigte sich, dass die klassische
+Gewaltenteilung Plan - Build - Run einfach nicht mehr gut funktioniert weil
+sich die Anforderungen und Erwartungen sowohl in der Entwicklung als auch im
+Betrieb ändern und daher auch eine neue Form der Zusammenarbeit nahe legen.
+
+Die Ideen aus der DevOps Bewegung lassen sich fast überall einsetzen, wo
+bisher ein "über den Zaun werfen" gespielt wird und haben das primäre Ziel,
+alle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit den Ideen und
+Erfahrungen aus dem Vortrag lassen sich sicher die ersten Schritte in die
+richtige Richtung einleiten.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Schlomo Schapiro</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1473/practical-devops</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Practical_DevOps.mp4?Signature=G1VhH2e4w1E5zROJSkC%2FbYgwGq8%3D&amp;Expires=1352048713&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Practical_DevOps.mp4?Signature=G1VhH2e4w1E5zROJSkC%2FbYgwGq8%3D&amp;Expires=1352048713&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=yOB8711AhiU" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/yOB8711AhiU/hqdefault.jpg"></media:thumbnail></item><item><title>Putting Technical Debt under Control</title><link>http://www.pyvideo.org/video/1433/putting-technical-debt-under-control</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+"You don't control what you cannot measure"
+
+Tom Peters paraphrasing Lord Kelvin
+
+Die aus den Fugen geratende Qualität des Source Codes und das
+
+excessive Akkumulieren des sogenannten Technical Debt ist eine häufige
+
+Ursache für das vorzeitige Ableben von Software Projekten. Das
+
+Kontrollieren dieser Aspekte ist essentiell für eine langfristige
+
+Gesundheit der Software. Die Kontrolle setzt jedoch Messung voraus;
+
+erst die Definition und systematische Erhebung einer Qualitätsmetrik
+
+versetzt den Entwickler (und seinen Manager) in die Lage, die Qualität
+
+dieser Software zu überwachen und ggf. kontinuierlich zu verbessern.
+
+Das Gespann "Sonar + Python AddOn" gibt eine State-Of-The-Art-Antwort
+
+auf die Frage "Was ist qualitativ hochwertiger Python Code?". Dieser
+
+Vortrag führt aus, wie die Qualität bzw. Technical Debt einer Python
+
+Code-Basis gemessen, zu einer Kennzahl 'verdichtet' und kontrolliert
+
+werden kann.
+
+Dieser auf Softwaremetriken basierende Ansatz wird auch Continuous
+
+Inspection genannt. Es ist abzusehen, dass diese Technologie einen
+
+ähnlich starken Einfluss auf die Entwicklung von Software haben wird
+
+wie die Continuous Integration / Continuous Deployment in der letzten
+
+Dekade.
+
+Mit Sonar und dem (noch jungen) Python Plugin steht die wesentliche
+
+Infrastruktur um Continuous Inspection in der Praxis für Python
+
+Projekte umzusetzen. Das Ziel dieses Vortrags ist es, die Python
+
+Community für diese Technologie zu begeistern.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Waleri Enns</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1433/putting-technical-debt-under-control</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Putting_Technical_Debt.mp4?Signature=%2BHhVyclIozKxTPkqcuk4zGbdI%2FU%3D&amp;Expires=1351795796&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Putting_Technical_Debt.mp4?Signature=%2BHhVyclIozKxTPkqcuk4zGbdI%2FU%3D&amp;Expires=1351795796&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=I15RkhqH6l0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/I15RkhqH6l0/hqdefault.jpg"></media:thumbnail></item><item><title>pytest - rapid and simple testing with pytest</title><link>http://www.pyvideo.org/video/1432/pytest-rapid-and-simple-testing-with-pytest</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Werkzeug py.test erlaubt es schnell und einfach Test für Python-Programme
+zu schreiben. Dieser Vortrag stellt die grundlegende Nutzung von py.test und
+wichtige Terminologie dazu vor. Zusätzlich zeigt die Präsentation wie py.test
+Unit- und funktionale Test mit besonderen Mechanismen wie "perfected
+assertions" und "dependency injection" unterstützt.
+
+Der Vortrag führt in die Prinzipien der Unit- und funktionalen Tests kurz ein
+und geht auf die Vorteile von py.test gegenüber dem in der Standardbibliothek
+enthalten Paket unittest ein. So kann py.test Tests, die über verschiedene
+Python-Versionen und- Implementierungen hinweggehen, ausführen. Der
+Schreibsstil der Tests ist "pythonic" und die Plugins lassen sich für
+verschiedene Projekte nutzen.
+
+Nach einem einfachen Test-Beispiel, das die Grundprinzipen umfasst, folgen
+Beispiel zu "dependency injection". Die Nutzung von py.test im Mozilla Projekt
+webqa und die Möglichkeiten des "mocking" und "monkeypatching" schließen den
+Vortrag ab.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1432/pytest-rapid-and-simple-testing-with-pytest</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_pytest_rapid_and_simpl.mp4?Signature=G5OFyKuCGc9cGkGkkeP5UebAivc%3D&amp;Expires=1351795620&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_pytest_rapid_and_simpl.mp4?Signature=G5OFyKuCGc9cGkGkkeP5UebAivc%3D&amp;Expires=1351795620&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=85Ybi0CncIg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/85Ybi0CncIg/hqdefault.jpg"></media:thumbnail></item><item><title>Python 3.3</title><link>http://www.pyvideo.org/video/1442/python-3-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Am 29.9.2012 wurde nach 19-monatiger Entwicklungszeit Python 3.3
+
+fertiggestellt. Es ist die größte Erweiterung von Python seit Version
+
+3.0; Änderungen gab es in allen Bereichen der Implementierung (Syntax,
+
+Standardbibliothek, Paketierung, interne Strukturen). In dem Vortrag
+
+werden die wesentlichen Änderungen umrissen, sowohl aus Anwendersicht
+
+wie auch aus Sicht eines core committers.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin v. Löwis</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1442/python-3-3</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Python_33.mp4?Signature=mB0ByskHs%2FFpDSTazZa33EDhXFM%3D&amp;Expires=1351853871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Python_33.mp4?Signature=mB0ByskHs%2FFpDSTazZa33EDhXFM%3D&amp;Expires=1351853871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=bXFLZqpWAPk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/bXFLZqpWAPk/hqdefault.jpg"></media:thumbnail></item><item><title>Python und OpenCV</title><link>http://www.pyvideo.org/video/1428/python-und-opencv</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python hat zu Unrecht den Ruf einer einfachen Skriptsprache, die für
+Grafikanwendungen ungeeignet sei. Gerade in Verbindung mit den starken Python-
+Bibliotheken und Modulen, die in C++ geschrieben sind, wird die Brillianz und
+Einfachheit von Python als vollwertige Programmiersprache auch für
+Grafikanwendungen sehr deutlich. Hier wird exemplarisch das Zusammenspiel der
+mächtigen Grafikbibliothek OpenCV mit Python demonstriert.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Bunkahle</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1428/python-und-opencv</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Python_und_OpenCV.mp4?Signature=cF7Ro2sb0YiOtl%2BHqApCkbMiFWA%3D&amp;Expires=1351792629&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Python_und_OpenCV.mp4?Signature=cF7Ro2sb0YiOtl%2BHqApCkbMiFWA%3D&amp;Expires=1351792629&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=LtPJTTa8Ryc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/LtPJTTa8Ryc/hqdefault.jpg"></media:thumbnail></item><item><title>Schnelle Schleifen mit Cython</title><link>http://www.pyvideo.org/video/1424/schnelle-schleifen-mit-cython</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Keine PyCon(-DE) ohne Cython, die de-facto Standarderweiterungssprache für
+Python. Diesmal geht es um ein paar neuere Spracherweiterungen zur Python-
+Syntax, die den Cython-Compiler besonders attraktiv für High-Performance-
+Computing machen: Parallele Schleifen mit OpenMP, effizientes Slicing mit
+Memory-Views und generische Funktionen.
+
+[Cython](http://cython.org "Web-Seite des Cython-Projekts") ist eine
+Programmiersprache, die die Sprache Python um zusätzliche Features ergänzt.
+Sie macht das Schreiben von schnellen Erweiterungsmodulen für CPython und das
+Anbinden von externen nativen Bibliotheken (C/C++/Fortran/...) so einfach wie
+Python selbst.
+
+Dieser Vortrag gibt einen kurzen Einblick in Cython und speziell in die
+Optimierung von schleifenbasierten Algorithmen über NumPy Arrays, mit denen
+große Datenmengen effizient verarbeitet werden können. Dazu werden Memory-
+Views verwendet, die mit Version 0.16 in Cython Einzug gehalten haben. Hinzu
+gesellen sich parallele Schleifen, sowie generische Funktionen, die es dem
+Compiler erlauben, einmal geschriebenen Code für verschiedene native
+Datentypen zu optimieren.
+
+Eine ausführliche Version dieses Vortrags mit entsprechenden Übungen wird
+zusätzlich als Tutorial angeboten.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Behnel</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1424/schnelle-schleifen-mit-cython</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Schnelle_Schleifen_mit_Cython.mp4?Signature=4KBss0tjqi1rJ45bnrKNK%2BmxZ68%3D&amp;Expires=1351779886&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Schnelle_Schleifen_mit_Cython.mp4?Signature=4KBss0tjqi1rJ45bnrKNK%2BmxZ68%3D&amp;Expires=1351779886&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ytgWM-WcJzs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/ytgWM-WcJzs/hqdefault.jpg"></media:thumbnail></item><item><title>Virtuelle Entwicklungsumgebungen mit Vagrant</title><link>http://www.pyvideo.org/video/1446/virtuelle-entwicklungsumgebungen-mit-vagrant</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Oft benötigt man für verschiedene Projekte ganz unterschiedliche Bibliotheken,
+Dienste und Werkzeuge. Alle Abhängigkeiten auf einer Maschine zu installieren
+kann schnell anstrengend bis unmöglich werden. Hier kommt Vagrant ins Spiel:
+Mit Hilfe von Vagrant kann man einfach und schnell Virtuelle Maschinen als
+Entwicklungsumgebungen erstellen, konfigurieren und benutzen.
+
+Durch die Nutzung von (vorhandenen) Provisioning Tools wie Chef oder Puppet
+kann man vorhandene Konfigurationen von Produktiv-System zum Setup der
+Virtuellen Maschinen nutzen. Außerdem lassen sich mit Vagrant auch komplexe
+Cluster-Setups auf dem eigenen Rechner aufbauen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1446/virtuelle-entwicklungsumgebungen-mit-vagrant</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Virtuelle_Entwicklungs.mp4?Signature=FWi08bDPAMbAjNRfLnk7LOVVG%2BY%3D&amp;Expires=1352070837&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Virtuelle_Entwicklungs.mp4?Signature=FWi08bDPAMbAjNRfLnk7LOVVG%2BY%3D&amp;Expires=1352070837&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=uvhoW5M4fK8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/uvhoW5M4fK8/hqdefault.jpg"></media:thumbnail></item><item><title>"White Box Debugging" - Debugger für Unittests nutzen</title><link>http://www.pyvideo.org/video/1437/white-box-debugging-debugger-f-r-unittests-nut</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+"White Box Testing" ist das Testen von internen Zuständen zur Laufzeit,
+während ubliche Unittests in der Regel nur Funktionen rufen. Man kann aber
+mittels eines Debuggers White Box Testing durchführen - ein Pythonskript
+erlaubt dies fur Python mit pdb wie auch für C/C++ - Programme mit gdb.
+
+Unittests sind ohne Frage unerlässlich, aber oft aufwändig zu programmieren
+und beschränkt aussagefähig, da in der Regel nur einzelne Funktionen oder
+Module als Black Box getestet werden können. Nicht selten ist sogar
+gesonderter Code notwendig, um sinnvolle Tests zu ermöglichen.
+
+Aussagekräftiger und naheliegender wären Tests auf Werte mitten im Code, doch
+solch eine Funktionalität bietet bisher nur die assert-Anweisung, die bei
+Fehlern mit einem wenig aussagekräftigen Abbruch endet.
+
+Die Idee des Python-Skripts "wbd" ("white box debugging") ist, aus Kommentaren
+im Quelltext Konfigurationsfiles für Debugger zu erzeugen, so dass an
+bedingten Breakpoints Tests stattfinden. Beim Fehler landet man gleich im
+Debugger und kann die Umgebung analysieren.
+
+Das funktioniert derzeit für Pythonskripte und C/C++-Programme und ist auch
+gut als Hilfsmittel beim Debuggen selbst einzusetzen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reinhard Wobst</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1437/white-box-debugging-debugger-f-r-unittests-nut</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_White_Box_Debugging_De.mp4?Signature=LgR%2Fs9%2F5Hgh37jNYY7RjN1YCORE%3D&amp;Expires=1351851790&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_White_Box_Debugging_De.mp4?Signature=LgR%2Fs9%2F5Hgh37jNYY7RjN1YCORE%3D&amp;Expires=1351851790&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=26tmYQk2vI8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/26tmYQk2vI8/hqdefault.jpg"></media:thumbnail></item><item><title>10 Jahre Python-Forum</title><link>http://www.pyvideo.org/video/1491/10-jahre-python-forum</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+2012 wurde das deutsche Python-Forum nun 10 Jahre alt. Zeit das Forum den
+Leuten vorzustellen, die das Forum noch nicht kennen oder eine Abneigung zu
+Webforen haben. 10 Jahre, das ist genug Zeit um in dessen Geschichte
+zurückzublicken wie es zum Forum kam und wie es sich entwickelt hat, was es so
+für Phasen gab und wie sich die Python-Community in dieser Zeit geändert hat.
+
+Ebenfalls kann man die Entwicklung anhand einiger Statistiken verdeutlichen
+und vielleicht daraus Trends für die Verbreitung von Python in Deutschland
+ableiten.
+
+Ein wichtiger Punkt ist natürlich die Community, welche Regeln im Forum gelten
+und warum wir finden dass sie funktionieren. Dabei muss man verstehen wie die
+Community "tickt" und wie der Job eines Moderators ausschaut. Die ein oder
+andere lustige Geschichte findet sich im Vortrag sicher auch, von den Foren-
+Memes, über Flamewars bishin zum gemeinschaflichen Codegolfen. Und wer
+Interesse hat, kann einfach so im Forum auf [python-forum.de](http://www
+.python-forum.de/) mitlesen oder sich anmelden und mitposten.
+
+Der Vortragende ist nun seit einigen Jahren Mitglied im Foren-Team und sowohl
+im Forum als auch auf der Newsgroup/Mailingliste und hat schon eine ganze
+Reihe Trends gesehen und Threads gelesen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marek Kubica</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1491/10-jahre-python-forum</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_10_Jahre_PythonForum.mp4?Signature=wZH0Xg8Qgp%2FGPRm5Gwof4ylmkms%3D&amp;Expires=1352218394&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_10_Jahre_PythonForum.mp4?Signature=wZH0Xg8Qgp%2FGPRm5Gwof4ylmkms%3D&amp;Expires=1352218394&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=cB7yPf8Iw9w" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/cB7yPf8Iw9w/hqdefault.jpg"></media:thumbnail></item><item><title>Cython mit PyPy - das Beste aus drei Welten</title><link>http://www.pyvideo.org/video/1431/cython-mit-pypy-das-beste-aus-drei-welten</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Die Programmiersprache Cython ([http://cython.org](http://cython.org) "Web-
+Seite des Cython-Projekts") ist das de-facto Standard-Tool um CPython um
+nativen Code zu erweitern. Die Python-ähnliche Sprache macht schon seit
+einigen Jahren das Schreiben von schnellen Erweiterungsmodulen für CPython und
+das Anbinden von externen nativen Bibliotheken (C/C++/Fortran/...) so einfach
+wie Python selbst und gleichzeitig so effizient wie C. Davon profitiert
+besonders das weite Feld des High-Performance-Computing in Python
+(NumPy/SciPy/Sage/...), aber auch zahllose andere Bereiche, die eine
+effiziente Verarbeitung großer Datenmengen und die Anbindung von nativen
+Bibliotheken an die Programmiersprache Python benötigen.
+
+Die neueste Version des Cython-Compilers bietet erstmals auch Unterstützung
+für PyPy an, eine alternative Python-Implementierung, die vor allem durch
+ihren schnellen JIT-Compiler von sich reden macht. Dadurch kann einmal mit
+Cython geschriebener und in C übersetzter Code sowohl in CPython als auch in
+PyPy verwendet werden. So wird es beispielsweise möglich, in einer einzigen
+Code-Basis effiziente Anbindungen externer Bibliotheken für beide
+Laufzeitumgebungen zu entwickeln.
+
+Dieser Vortrag von einem der Cython Core-Entwickler erklärt, welche
+Fallstricke dabei noch auf Benutzerseite zu erwarten sind und gibt
+Hilfestellungen beim Schreiben von Cython-Code, der sowohl in CPython als auch
+in PyPy funktioniert.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Behnel</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1431/cython-mit-pypy-das-beste-aus-drei-welten</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Cython_mit_PyPy_das_Be.mp4?Signature=JeqVDywROU3i4DxAbmNJDPZ%2FvVM%3D&amp;Expires=1351795204&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Cython_mit_PyPy_das_Be.mp4?Signature=JeqVDywROU3i4DxAbmNJDPZ%2FvVM%3D&amp;Expires=1351795204&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=IETT76NN6Z8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/IETT76NN6Z8/hqdefault.jpg"></media:thumbnail></item><item><title>DEXISION -- Moderne Finanztheorie und -praxis mit Python</title><link>http://www.pyvideo.org/video/1420/dexision-moderne-finanztheorie-und-praxis-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DEXISION ist eine kommerzielle Bewertungslösung für Finanzderivate. Sie wurde
+durch die Visixion GmbH im Wesentlichen auf Basis von Python entwickelt. Der
+Vortrag zeigt, wie moderne, Web-basierte Finanzlösungen mittels Python zu
+implementieren sind. Aspekte wie Effizienz in der Entwicklung, Performance,
+Erweiterbarkeit, Wartbarkeit und Sicherheit sind dabei von besonderer
+Bedeutung.
+
+Die Architektur von DEXISION fußt auf einem LAMP-Stack und es kommen dabei nur
+Open Source-Komponenten zum Einsatz. Unseres Wissens nach ist DEXISION nach
+wie vor die einzige kommerzielle Finanzlösung dieser Art, die in allen
+Bereichn -- auch bei rechenintensiven Simulationsaufgaben -- voll auf Python
+setzt.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1420/dexision-moderne-finanztheorie-und-praxis-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_DEXISION_Moderne_Finanztheorie_und_praxis_mit_Python.mp4?Signature=1XtL7WHSvOrn%2FeCrrwDl1HYoqa4%3D&amp;Expires=1351778243&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_DEXISION_Moderne_Finanztheorie_und_praxis_mit_Python.mp4?Signature=1XtL7WHSvOrn%2FeCrrwDl1HYoqa4%3D&amp;Expires=1351778243&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=gsxAmno6noo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/gsxAmno6noo/hqdefault.jpg"></media:thumbnail></item><item><title>Dokumentenmanagement mit Plone</title><link>http://www.pyvideo.org/video/1458/dokumentenmanagement-mit-plone</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plone ist weit mehr als nur ein CMS, es bietet mit seiner einfachen
+Rechteverwaltung, dem flexiblen Arbeitsabläufen (Workflows), der möglichen
+Anbindung an Dateisysteme per Web-Dav und der ausgereiften Suchfunktion, die
+mit Volltextindizierung und Livesearch aufwarten kann, gute Voraussetzungen
+für den Einsatz im Intra- und Extranet.
+
+Der Vortrag gibt aus Anwendersicht einen kurzen Einblick in die Möglichkeiten,
+Plone im Intranet oder Extranet zur Verwaltung von Dokumenten und
+Informationen einzusetzen. Es werden Themen wie Rechteverwaltung, globale und
+lokale Arbeitsabläufe, Regeln zur Ereignissteuerung, Möglichkeiten der
+eingebauten Suchfunktionen (Volltextsuche/Verschlagwortung), sowie der Einsatz
+von Kollektionen zur Aufbereitung von Inhalten behandelt.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maik Derstappen</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1458/dokumentenmanagement-mit-plone</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Dokumentenmanagement_m.mp4?Signature=Zd7CasG657AUSTY71DCVtoUBfoc%3D&amp;Expires=1351858887&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Dokumentenmanagement_m.mp4?Signature=Zd7CasG657AUSTY71DCVtoUBfoc%3D&amp;Expires=1351858887&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=P90sY2BaESI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/P90sY2BaESI/hqdefault.jpg"></media:thumbnail></item><item><title>Echtzeit Browsergames</title><link>http://www.pyvideo.org/video/1486/echtzeit-browsergames</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mit gevent und browserseitigem JavaScript können Mehrspieler Browsergames
+entwickelt werden, die Spielerinteraktionen in Echtzeit zulassen. Dieser
+Vortrag versucht Lust auf das Echtzeit Web zu machen und zeigt anhand eines
+konkreten Spieles (KODEX, [http://kodexgame.com/](http://kodexgame.com/))
+Lösungen für Entwicklung, Hosting und Vertrieb auf.
+
+Der Vortrag beleuchtet neben den Implikationen des Realtime Web wie Caching,
+Scaling, Same-Origin-Policy und Cross-Origin-Resource-Sharing auch Strategien
+zur horizontalen Skalierbarkeit, oder: Wie löst man das
+[C10K](http://www.kegel.com/c10k.html) Problem?
+
+Während NodeJS oft als *die* Lösung für Echtzeitanwendungen angepriesen wird,
+kommt hier auf der Serverseite gezielt Python mit gevent zum Einsatz.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael P. Jung</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1486/echtzeit-browsergames</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Echtzeit_Browsergames.mp4?Signature=Kb7LTvqb27yRaJPsIYeJdEsJBUY%3D&amp;Expires=1352128597&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Echtzeit_Browsergames.mp4?Signature=Kb7LTvqb27yRaJPsIYeJdEsJBUY%3D&amp;Expires=1352128597&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=X_RHPisbVgs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/X_RHPisbVgs/hqdefault.jpg"></media:thumbnail></item><item><title>Effiziente Datenanalyse mit pandas</title><link>http://www.pyvideo.org/video/1474/effiziente-datenanalyse-mit-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Datenanalyse ist eine der Kernaufgaben moderner Technologie. pandas (vgl.
+[http://pandas.pydata.org](http://pandas.pydata.org)) ist eine leistungsstarke
+Python-Bibliothek, die die Möglichkeiten zur Datenanalyse mit
+Python/NumPy/SciPy in viele Richtungen erweitert. Der Fokus liegt dabei auf
+Convenience und Performance.
+
+Python in Kombination mit pandas macht Datenanalyse im Unternehmens- und
+Forscheralltag effizient und kann z.T. sogar komplexe und kostenintensive
+Business Intelligence-Lösungen ersetzen. Besondere Stärken zeigen sich im
+Zeitreihenmanagement, was für viele Branchen und Unternehmen eine immer höhere
+Bedeutung erlangt (z.B. Finanzbranche, Energieversorger).
+
+Mit pandas werden die guten Datenanalysefähigkeiten von einer typischen
+Python-Installation mit NumPy, SciPy etc. in vielerlei Hinsicht erweitert,
+indem z.B. viele Eigenschaften und Features der statistischen Sprache R in die
+Python-Welt portiert werden. Es ist dabei kein Ersatz für Standard-
+Bibliotheken wie NumPy, sondern eine nützliche Erweiterung mit viel
+"eingebauter Intelligenz" für die Datenanalyse.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1474/effiziente-datenanalyse-mit-pandas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Effiziente_Datenanalys.mp4?Signature=Zg3VD9VlClCzRCPh7cMvfgBmZ4A%3D&amp;Expires=1352051718&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Effiziente_Datenanalys.mp4?Signature=Zg3VD9VlClCzRCPh7cMvfgBmZ4A%3D&amp;Expires=1352051718&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=8LVw2ktxjpA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/8LVw2ktxjpA/hqdefault.jpg"></media:thumbnail></item><item><title>EnArgus - ein ontologiebasiertes Forschungsinformationssystem</title><link>http://www.pyvideo.org/video/1429/enargus-ein-ontologiebasiertes-forschungsinforma</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Forschungsaktivitäten in vielen Disziplinen werden durch unterschiedliche
+politische Instrumente gefördert. Die Erfassung und Darstellung von
+betriebswirtschaftlichen Kennzahlen zu Forschungsaktivitäten ist bereits
+etablierte Praxis; darauf aufbauende Informationssysteme bieten jedoch oft nur
+unzureichende Auskunft über inhaltliche Zusammenhänge und Entwicklungen. Am
+Beispiel des Forschungsthemas Energietechnik wird im EnArgus-Projekt
+untersucht, wie sich die Transparenz staatlicher Förderpolitik durch
+Aufbereitung vorhandener Projektdatenbanken und inhaltliche Erschließung mit
+Unterstützung einer Fachontologie verbessern lässt und die Ergebnisse auch der
+interessierten Öffentlichkeit zugänglich gemacht werden können.
+
+Der Vortrag gibt eine Einführung in das Thema ontologiebasierte Suche und
+stellt das Forschungsprojekt EnArgus ([www.enargus.de](http://www.enargus.de))
+vor. Das Ziel von EnArgus ist die Konzeption, Entwicklung und Erprobung eines
+zentralen Informationssystems für Energieforschungsvorhaben aus dem Bereich
+der Förderung durch Bund und Länder. Das EnArgus-System soll Politik und
+Gesellschaft einen Zugang zu Informationen über die Energieforschung
+ermöglichen und so die Transparenz staatlicher Förderpolitik verbessern. Der
+Einsatz von Python spielt bei der Systementwicklung in EnArgus eine bedeutende
+Rolle.
+
+EnArgus ist ein gemeinsames Vorhaben aus Energieforschung und Informatik. Zur
+inhaltlichen Erschließung der Anwendungsdomäne werden von Energieexperten
+Texte in einem Wiki verfasst und bilden die Grundlage zum Aufbau der
+Energieforschungs-Ontologie. Dabei kommt u.a. die Wiki-Software MoinMoin zum
+Einsatz.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Koch</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1429/enargus-ein-ontologiebasiertes-forschungsinforma</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_EnArgus_ein_ontologiebasiertes_Forschungsinformationssystem.mp4?Signature=DSK04UkP4IqG5vyeWl5lxtRqFrs%3D&amp;Expires=1351793012&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_EnArgus_ein_ontologiebasiertes_Forschungsinformationssystem.mp4?Signature=DSK04UkP4IqG5vyeWl5lxtRqFrs%3D&amp;Expires=1351793012&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ULCz2GuMeVc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/ULCz2GuMeVc/hqdefault.jpg"></media:thumbnail></item><item><title>Erfahrungen mit Py4A sowohl mit SL4A als auch Kivy</title><link>http://www.pyvideo.org/video/1443/erfahrungen-mit-py4a-sowohl-mit-sl4a-als-auch</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Es werden die Erfahrungen mit der Scripting Layer for Android API (SL4A) aus
+einer Lehrveranstaltung vorgestellt, die Grundlage für das Python-for-Android
+(Py4A) Package ist. Die einfache SL4A API erlaubt Studierenden die Erstellung
+von einfachem und schnell entwickelten Python Code für mobile Anwendungen.
+Einige Eigenschaften der Android GUI und des darunterliegenden Linux werden
+mit einfachen Anwendungen,u.a. einer ortsbezogenen (GPS) Anwendung
+vorgestellt. Zudem wird auch der Unterschied zwischen der Device-orientierten
+und der Emulator-orientierten Entwicklung und die hierfür notwendigen Tools
+angesprochen. Im zweiten Teil wird auf den Ansatz Python-For-Android aus der
+Multitouch-Entwicklungsumgebung Kivy eingegangen, deren GUI
+plattformübergreifend ausgelegt ist und für alle Platformen (Windows, Mac,
+Linux, iOS, Android) auf OpenGL ES 2.0 aufgebaut ist. Der Vortrag wird weniger
+in die Details eingehen, als eher die Möglichkeiten aufzeigen, Python auch auf
+Smartphones zu nutzen und einzusetzen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nik Klever</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1443/erfahrungen-mit-py4a-sowohl-mit-sl4a-als-auch</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Erfahrungen_mit_Py4A_s.mp4?Signature=Me8qaAyKxB0sT%2BSgmFK5XjqSRJ0%3D&amp;Expires=1351853857&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Erfahrungen_mit_Py4A_s.mp4?Signature=Me8qaAyKxB0sT%2BSgmFK5XjqSRJ0%3D&amp;Expires=1351853857&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=3R2aNzYFH-Q" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/3R2aNzYFH-Q/hqdefault.jpg"></media:thumbnail></item><item><title>Funktionale Programmierung mit Python</title><link>http://www.pyvideo.org/video/1423/funktionale-programmierung-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In den letzten Jahren hat die funktionale Programmierung wieder mehr
+Aufmerksamkeit erhalten. Das Vorurteil nur für akademische Nutzer interessant
+zu sein hat sich stark abgeschwächt. Haskell, Erlang und F# sind funktionale
+Programmiersprachen, die verstärkt für praktische Zwecke zum Einsatz kommen.
+
+Python unterstütz mehrere Programmierparadigmen. Neben der prozeduralen und
+objektorientierten unterstütz es auch wichtige Konzepte der funktionalen
+Programmierung. Der Vortrag zeigt wie sich diese Merkmale wie Funktionen als
+Objekte erster Klasse, Funktionsabschlüsse (Closures), Funktionen ohne
+Seiteneffekte, Currying, verzögerte Auswertung, Vermeidung veränderlicher
+Datenstrukturen und Einsatz von Iteratoren, Generator und Comprehensions
+anstatt von Schleifen nutzen lassen. Beispiele verdeutlichen die Vor- und
+Nachteile des funktionellem Ansatzes für verschiedene Aufgaben.
+
+Der Aufbau eines Programms mit funktionalen Ansatz kann sich stark von dem
+eines objektorientierten unterscheiden. Beispiele zeigen wie mit Python Teile
+eines Programms die Vorteile der funktionalen Programmierung nutzen können und
+sich schrittweise funktionale Prinzipien in objektorientierte Programme
+einbeziehen lassen.
+
+Der Vortrag verdeutlicht wie das Modul itertools die verzögerte Auswertung
+unterstützt. Mit den Funktionen dieses Moduls lassen sich Algorithmen oft
+kurz, gut lesbar und effizient umsetzen. Auch hier ist eine Integration in
+sonst nicht-funktional geschriebene Programme einfach möglich.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1423/funktionale-programmierung-mit-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Funktionale_Programmierung_mit_Python.mp4?Signature=Dbnfql17863Wk8wpbrfxlcmvzuM%3D&amp;Expires=1351786192&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Funktionale_Programmierung_mit_Python.mp4?Signature=Dbnfql17863Wk8wpbrfxlcmvzuM%3D&amp;Expires=1351786192&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=2c0TTt48ir4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/2c0TTt48ir4/hqdefault.jpg"></media:thumbnail></item><item><title>"Getting things done" - Pragmatische Projekte mit Plone</title><link>http://www.pyvideo.org/video/1427/getting-things-done-pragmatische-projekte-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plone ist ein komplexes Web-Framework with vielen Modulen und vielschichtigen
+Abstraktionsebenen. Kundenprojekte im Bereich Web erfordern oft Anpassungen
+auf mehreren Ebenen: neue Inhaltstypen, Änderungen an Templates und
+existierenden Funktionalitäten etc. Es ist immer schwierig den richtigen Weg
+bei einer Anpassung zu finden insbesondere wenn die üblichen Projektressourcen
+wie Personal, Zeit und Budget begrenzt sind und nicht beliebig skalierbar
+sind.
+
+In dem Vortrag berichte ich wie wir in vergangenen großen Webprojekten mit
+diesem Spannungsfeld umgegangen sind und Plone-Anpassungen in einer
+pragmatischen Art und Weise durchgeführt haben - ohne dem Kunden einen Sack
+voller hässlicher Workarounds zu liefern aber auch nicht mit dem Anspruch die
+perfekteste Lösung gebaut zu haben.
+
+Ich behandle Techniken zur Anpassungen von existierenden Templates und Views,
+Strategien bei der Behebung von Fehlern in Plone oder Drittprodukten, die
+Verwendung von Site-Fixtures, um Kunden und Designer frühzeitig eine Site mit
+Fake-Inhalten (Text + Bilder) zu versorgen sowie Ansätze zum pragmatischen
+Testen in großen Web-Projekten.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Jung</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1427/getting-things-done-pragmatische-projekte-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Getting_things_done_Pragmatische_Projekte_mit_Plone.mp4?Signature=RxwhiYdvMWfUReKoWwuLIanXgeM%3D&amp;Expires=1351791406&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Getting_things_done_Pragmatische_Projekte_mit_Plone.mp4?Signature=RxwhiYdvMWfUReKoWwuLIanXgeM%3D&amp;Expires=1351791406&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=oqhOeFKiBVk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/oqhOeFKiBVk/hqdefault.jpg"></media:thumbnail></item><item><title>Grundlagen des Open-Source-Lizenzrechts</title><link>http://www.pyvideo.org/video/1426/grundlagen-des-open-source-lizenzrechts</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Ein kompakter Überblick über die rechtlichen Aspekte von Open-Source-Software.
+Neben den rechtlichen Grundlagen werden die wesentlichen Eigenschaften von
+Open-Source-Lizenzen vorgestellt. Außerdem werden einige verbreitete Lizenzen
+detaillierter erläutert.
+
+Inhalt:
+
+- Rechtliche Grundlagen: Urheberrecht und Lizenzrecht
+
+- Open-Source-Software: Lizenzarten von Software, Definition Open-Source-Software, Open-Source-Lizenzmodelle, Copyleft vs. Non-Copyleft
+
+- Ausgewählte Open-Source-Lizenzen: Apache License, GPL, AGPL, LGPL, BSD License, Eclipse Public License, ...
+
+- Praktische Nutzung von Open-Source-Software: Lizenzkompatibilität, Nutzung von Open-Source-Software in eigenen Programmen, Auswahl einer Open-Source-Lizenz für eigene Programme
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Schreiber</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1426/grundlagen-des-open-source-lizenzrechts</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Grundlagen_des_OpenSourceLizenzrechts.mp4?Signature=VQ2PgoX3gzgtMQSG3rvef%2BH4ujM%3D&amp;Expires=1351778443&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Grundlagen_des_OpenSourceLizenzrechts.mp4?Signature=VQ2PgoX3gzgtMQSG3rvef%2BH4ujM%3D&amp;Expires=1351778443&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=lzs7fc8Xe8U" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/lzs7fc8Xe8U/hqdefault.jpg"></media:thumbnail></item><item><title>Lightning Talks (Dienstag)</title><link>http://www.pyvideo.org/video/1434/lightning-talks-dienstag</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+
+
+</description><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1434/lightning-talks-dienstag</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Lightning_Talks_Dienstag.mp4?Signature=fuq4BMW%2FLrryxba9g0Ry%2BHy3TGg%3D&amp;Expires=1353015278&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Lightning_Talks_Dienstag.mp4?Signature=fuq4BMW%2FLrryxba9g0Ry%2BHy3TGg%3D&amp;Expires=1353015278&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=d8pGnZVONgI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/d8pGnZVONgI/hqdefault.jpg"></media:thumbnail></item><item><title>Machine Learning mit Scikit-Learn</title><link>http://www.pyvideo.org/video/1419/machine-learning-mit-scikit-learn</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Machine Learning und Data Mining beschaeftigen sich mit dem Lernen aus
+beobachteten Daten, dem erstellen von Vorhersagen und dem finden von
+interessanten Mustern in Daten. Diese Gebiete sind zwei schnell wachsende
+Forschungsbereiche mit einer staendig steigenden Anzahl an kommerziellen
+Anwendungen wie Produkt-Empfehlungen, Bildersuche und Spam-Filtering.
+
+Scikit-learn ist eine Python Library fuer Machine Learning die besonderen Wert
+auf einfache Benutzung, Skalierbarkeit und hohe Code-Qualitaet legt. Ziel ist
+es eine leicht anzuwendende, flexible Bibliothek fuer Forschung wie auch
+kommerzielle Anwendungen zu schaffen. Der Vortrag bietet eine kurze Einleitung
+in Grundlagen des maschinellen Lernens und die Anwendung von Scikit-Learn.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Müller</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1419/machine-learning-mit-scikit-learn</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Machine_Learning_mit_ScikitLearn.mp4?Signature=4kvh6MA%2B8TeLDuz7L77dc%2FPwPAs%3D&amp;Expires=1351777959&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Machine_Learning_mit_ScikitLearn.mp4?Signature=4kvh6MA%2B8TeLDuz7L77dc%2FPwPAs%3D&amp;Expires=1351777959&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=CJFirE-rblA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/CJFirE-rblA/hqdefault.jpg"></media:thumbnail></item><item><title>Metaprogrammierung, praktisch.</title><link>http://www.pyvideo.org/video/1455/metaprogrammierung-praktisch</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Metaprogrammierung ist eine fortgeschrittene Methode der
+
+Programmierung. Wie das "Meta" im Namen schon vermuten lässt, findet
+
+Metaprogrammierung auf einer abstrakteren Ebene statt - oder etwas
+
+einfacher: man programmiert, was man programmiert. Obwohl
+
+Metaprogrammierung in Python auf eine lange Historie zurückblicken
+
+kann, ist sie dennoch eine Technik, der oft mit einer gehörigen
+
+Portion Skepsis und fragenden Blicken begegnet wird. Der Vortrag will
+
+aufzeigen, ob diese Skepsis gerechtfertigt ist, wie Metaprogrammierung
+
+in Python funktioniert und wie man diese Technik sinnvoll einsetzen
+
+kann.
+
+Zu Beginn des Vortrags wird das allgemeine Konzept der
+
+Metaprogrammierung vorgestellt und in einem kurzen historischen
+
+Aufriss der Einzug dieser Technik in Python skizziert. Im Hauptteil
+
+des Vortrags werden gängige Muster der Metaprogrammierung in Python
+
+und deren Funktionsweise anhand von Beispielen
+
+präsentiert. Abschließend wird mit Beispielen aus der Praxis und aus
+
+OpenSource-Projekten auf konkrete Anwendungen hingewiesen, die Ideen
+
+zum Einsatz dieser Technik geben sollen - aber auch mögliche Probleme
+
+aufzeigen.
+
+Der Vortrag richtet an alle, die mehr über die Technik der
+
+Metaprogrammierung in Python erfahren wollen. Die Beispiele sind so
+
+gewählt, dass sie auch für weniger erfahrene Entwickler
+
+nachvollziehbar bleiben.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Albrecht</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1455/metaprogrammierung-praktisch</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Metaprogrammierung_pra.mp4?Signature=HveSs9KFpFRtP2heAhqhOzbAZfg%3D&amp;Expires=1352032057&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Metaprogrammierung_pra.mp4?Signature=HveSs9KFpFRtP2heAhqhOzbAZfg%3D&amp;Expires=1352032057&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=poBj2-2J5o8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/poBj2-2J5o8/hqdefault.jpg"></media:thumbnail></item><item><title>Nebenläufige Programme mit Python</title><link>http://www.pyvideo.org/video/1448/nebenlaufige-programme-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In diesem Vortrag soll es um Grundlagen nebenläufiger Programme gehen, wie sie
+mit den Modulen threading und multiprocessing möglich sind.
+
+Zuerst wird erklärt, in welchen Fällen Nebenläufigkeit sinnvoll ist. Danach
+wird auf die grundsätzlichen Probleme nebenläufiger Programme eingegangen,
+insbesondere Änderungen an gemeinsam genutzten Ressourcen (zum Beispiel
+Dateien oder auch "nur" Objekte im Speicher) durch mehrere Threads oder
+Prozesse. Schließlich wird gezeigt, wie man solche Ressourcen-Zugriffe durch
+Locks oder Queues entschärfen kann.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Schwarzer</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1448/nebenlaufige-programme-mit-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Nebenlaufige_Programme_mit_Pyt.mp4?Signature=hgj654cto48%2BRi1MuwistmFeXFw%3D&amp;Expires=1351855656&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Nebenlaufige_Programme_mit_Pyt.mp4?Signature=hgj654cto48%2BRi1MuwistmFeXFw%3D&amp;Expires=1351855656&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=6Tb8TdovzGM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/6Tb8TdovzGM/hqdefault.jpg"></media:thumbnail></item><item><title>Praktische Anwendung von Metaklassen</title><link>http://www.pyvideo.org/video/1436/praktische-anwendung-von-metaklassen</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Metaklassen (metaclasses) in Python werden oft als exotische Spracheigenschaft
+betrachtet. Der Vortrag zeigt anhand konkreter Beispiele, wie sich Metaklassen
+in realen Projekten zum Debuggen und zum Code vereinfachen einsetzen lassen.
+
+# Praktische Anwendungen von Metaklassen
+
+Python besitzt mit den Metaklassen ein sehr mächtiges Werkzeug, um orthogonale
+Eigenschaften eines Programms zu Implementieren. Das Stichwort dazu lautet
+"aspektorientiertes Programmieren". Leider werden Metaklassen aber oft als
+komplex und schwierig angesehen.
+
+Der Vortrag zeigt an einem konkreten Beispiel, wie sich durch die Verwendung
+von Metaklassen Programmentwicklung vereinfachen kann. Konkret wird die
+Implementation eines einfachen Debug- und Trace Frameworks vorgestellt.
+
+Dieses erlaubt das nachträgliche instrumentieren von Klassen-Methoden, um eine
+selektive Ablaufverfolgung von Methodenaufrufen auf Objekten ermöglicht. Dies
+wird erreicht, ohne das diese Debug Aufrufe im normalen Quellcode erscheinen
+oder bei nicht Benutzung Performance Auswirkungen haben.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mirko Dziadzka</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1436/praktische-anwendung-von-metaklassen</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Praktische_Anwendung_v.mp4?Signature=3JFs0BklwaXWVciMRq0u9cAbwew%3D&amp;Expires=1352042733&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Praktische_Anwendung_v.mp4?Signature=3JFs0BklwaXWVciMRq0u9cAbwew%3D&amp;Expires=1352042733&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-dU-O8ksYDM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-dU-O8ksYDM/hqdefault.jpg"></media:thumbnail></item><item><title>Programmieren als Kulturtechnik? Über Hobbyprogrammierer, Gelegenkeitsskripter und Python.</title><link>http://www.pyvideo.org/video/1489/programmieren-als-kulturtechnik-uber-hobbyprogra</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Nicht nur bei Berufsprogrammierern ist der sogenannte Quereinsteiger weit
+verbreitet. Auch in Wissenschaft und Technik gibt es Menschen, die »nebenher«
+programmieren, weil es für ihre eigene Arbeit nützlich ist. Nicht nur in den
+Natur-, sondern auch in den Sozial- und Geisteswissenschaften gibt es
+Wissenschaftler, die an neuen Methoden des Zugangs zu ihrem Forschungsmaterial
+arbeiten und dabei auf »selbstgestrickte« Programme zurückgreifen.
+
+Auch im Hobbybereich sind Programmierer anzutreffen. Hier sind sogar in der
+kurzen Geschichte der Programmierung regelrechte, zu bestimmten Ereignissen
+auftretende kreative Explosionen zu verzeichen, die auch Rückwirkungen auf die
+professionelle Programmierung hatten.
+
+In meinem Vortrag möchte ich kurz auf die Geschichte dieser anderen, mehr
+spielerischen Seite des Programmierens eingehen und dann die Frage
+beantworten, welche Bedeutung Python als lauffähiger Pseudocode
+
+speziell im Wissenschafts- und Hobbybereich hat. Python ist in diesem Bereich
+eine sehr populäre Programmiersprache. Aber ich möchte auch Entwicklungen
+benennen, die meiner Meinung nach dieser Popularität gefährlich werden könnten
+und auch anhand von anderen Umgebungen zeigen, was es eventuell zu integrieren
+gilt.
+
+Über all dem steht mein Kredo, daß jedefrau und jedermann wenigstens ein wenig
+programmieren können sollte, weil sie sonst programmiert werden. Und ich
+glaube, daß Python immer noch die beste Einstiegssprache dafür ist.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jörg Kantel</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1489/programmieren-als-kulturtechnik-uber-hobbyprogra</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Programmieren_als_Kult.mp4?Signature=d0xvoJfua6nZ9s2FOSZURm94dP8%3D&amp;Expires=1352127665&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Programmieren_als_Kult.mp4?Signature=d0xvoJfua6nZ9s2FOSZURm94dP8%3D&amp;Expires=1352127665&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=3gsKdEgA03w" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/3gsKdEgA03w/hqdefault.jpg"></media:thumbnail></item><item><title>Twitter Bootstrap – Schweizer Messer fur Webanwendungen?</title><link>http://www.pyvideo.org/video/1438/twitter-bootstrap-schweizer-messer-fur-webanwend</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Twitter Bootstrap –„Schweizer Messer“ für Webanwendungen?
+
+- Toolkit zur Gestaltung von (Python-)Webanwendungen am Beispiel von Plone -
+
+Twitter Bootstrap in Front-End, Diazo als XSL-Transformation-Server und
+Buildout bieten in ihrer Kombination eine ideale Möglichkeit, mit geringem
+Aufwand und nachhaltiger Wirkung Lösungen für Responsive Webdesign bei
+Verwendung von Plone, Django oder anderen Web-Anwendungen zu realisieren.
+
+Twitter Bootstrap als gut dokumentiertes, flexibles und in seiner Bedeutung
+wachsendes Werkzeug ermöglicht Designern und Entwicklern eine gute
+Zusammenarbeit. Die Macher von Twitter Bootstrab haben HTML 5, CSS, JS-
+Libraries, Less-Unterstützung und gute getestete Cross-Browser-Sicherheit u.a.
+auch für mobile Endgeräte in dem Toolkit mitgeliefert. Sein Erfolgsrezept sind
+die vielen vorgefertigen Oberflächenelemente, welche in Form von Widgets,
+Buttons, Dropdownmenus, Slides, Forms oder Tabs leicht zu integrieren sind.
+
+Aufgrund der zunehmenden Abhängigkeit von Designern und Entwicklern in
+Projekt-Teams bildet die Nutzung solider Frameworks die Basis des Erfolgs. Ob
+sich also Twitter Boostrap als „Schweizer Messer“ der Webentwickler erweisen
+kann, und in welcher Weise Designer und Entwickler vom Einsatz derartiger
+Toolkits profitieren können, zeigt dieser Vortrag vor dem Hintergrund der
+persönlichen Erfahrungen der Referentin mit Diazo und Plone.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefania Trabucchi</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1438/twitter-bootstrap-schweizer-messer-fur-webanwend</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Twitter_Bootstrap.mp4?Signature=oUVYWjyJVCPBwvKM2EOpW%2FIWfG8%3D&amp;Expires=1351852527&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Twitter_Bootstrap.mp4?Signature=oUVYWjyJVCPBwvKM2EOpW%2FIWfG8%3D&amp;Expires=1351852527&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=uhY70ZL2vj8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/uhY70ZL2vj8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

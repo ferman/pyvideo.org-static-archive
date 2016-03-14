@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Marco Nenciarini</title><link>http://www.pyvideo.org/speaker/533/marco-nenciarini/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/533/marco-nenciarini/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>HSTORE JSON e JSONB dati non strutturati ad alter performance</title><link>http://www.pyvideo.org/video/3580/hstore-json-e-jsonb-dati-non-strutturati-ad-alter</link><description>&lt;p&gt;Description&lt;/p&gt;
+Nelle ultime release di PostgreSQL è stato fatto un enorme lavoro sui
+dati non strutturati, culminato con l’aggiunta del tipo JSONB. Insieme a
+JSON, HSTORE e array fornisce una potenza mai vista per le proprie
+applicazione web e non solo. In questo talk si passeranno in rassegna
+alcuni dei possibili casi d’uso e si illustreranno i vantaggi delle
+varie possibilità.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marco Nenciarini</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3580/hstore-json-e-jsonb-dati-non-strutturati-ad-alter</guid><enclosure url="https://www.youtube.com/watch?v=FkNzGqLodWU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/FkNzGqLodWU/maxresdefault.jpg"></media:thumbnail></item><item><title>Getting ready for PostgreSQL 9.1</title><link>http://www.pyvideo.org/video/1145/getting-ready-for-postgresql-91</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Gabriele Bartolini,Harald Armin Massa,Marco Nenciarini - 22
+June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PostgreSQL is an advanced, versatile open-source database management system
+that integrates perfectly with Python. It is developed by a very active
+international community and is distributed under the BSD-like PostgreSQL
+License.
+
+Enterprise-class features (including SQL standard compliance, ACID
+transactions, disaster recovery, high availability, replication, partitioning
+and general extensibility) make PostgreSQL suitable for business critical
+environments seeking to reduce the TCO of their database solutions without
+altering their functional needs. PostgreSQL 9.0, released in September 2010,
+was the first version of PostgreSQL with Hot Standby, a built-in master/slave
+replication mechanism. Asynchronous replication through the standard and
+consolidated log shipping technique (previously used with Warm Standby for
+high availability) has been enhanced with streaming replication.
+
+Version 9.1, expected to be out later in 2011, will add synchronous
+replication to PostgreSQL, making it the first DBMS that allows developers and
+users to control the replication strategy at transactional granularity. Come
+to the talk and discover all the major new features of PostgreSQL 9.1,
+including extensions management, writable common table expressions (WCTE),
+etc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gabriele Bartolini,Harald Armin Massa,Marco Nenciarini</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1145/getting-ready-for-postgresql-91</guid><enclosure url="http://www.youtube.com/watch?v=71i5FlW30s0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/71i5FlW30s0/hqdefault.jpg"></media:thumbnail></item><item><title>Scrivere un tool parallelo e distribuito per backup multi-terabyte</title><link>http://www.pyvideo.org/video/1180/scrivere-un-tool-parallelo-e-distribuito-per-back</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Marco Nenciarini - 23 June 2011 in "Track Italiana Big Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Una trattazione sull'uso di Python per implementare un tool per il backup
+giornaliero di un data warehouse di oltre 50 terabyte, basato sulla tecnologia
+Greenplum Database.
+
+Questo intervento racconta la nostra esperienza, dalla raccolta dei requisiti
+utente alla prima release del tool, descrivendo i principali problemi
+incontrati e i moduli Python usati per risolverli, usando metodologie agili
+per lo sviluppo.
+
+Sebbene l'applicazione non sia disponibile come progetto open-source, questo
+intervento fornisce degli spunti di valore a proposito dello sviluppo di
+applicazioni distribuite e parallele usando Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marco Nenciarini</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1180/scrivere-un-tool-parallelo-e-distribuito-per-back</guid><enclosure url="http://www.youtube.com/watch?v=t4eycS8ayFA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/t4eycS8ayFA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

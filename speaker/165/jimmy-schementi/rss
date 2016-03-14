@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jimmy Schementi</title><link>http://www.pyvideo.org/speaker/165/jimmy-schementi/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/165/jimmy-schementi/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Python in the Browser (#71)</title><link>http://www.pyvideo.org/video/340/pycon-2010--python-in-the-browser---71</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python in the Browser
+
+  
+Presented by Jimmy Schementi
+
+  
+You write your server code in Python because you want to. You write your
+browser code in JavaScript because you have to. But with IronPython and
+Silverlight, you can write your browser code in Python and leave JavaScript
+behind. This talk provides an overview of Silverlight for Python developers,
+including out of browser applications as well as the new â€œjust textâ€ model
+where Python code is embedded directly in HTML pages. Even if you develop on
+Linux or Mac, you can still take advantage of Silverlight in the browser
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jimmy Schementi</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/340/pycon-2010--python-in-the-browser---71</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/340_python-in-the-browser-71.ogv" length="177817021" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/340_python-in-the-browser-71.ogv" fileSize="177817021" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/340_python-in-the-browser-71.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PythonInTheBrowser71716.png"></media:thumbnail></item></channel></rss>

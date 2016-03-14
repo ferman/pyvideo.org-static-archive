@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Bryan Veloso</title><link>http://www.pyvideo.org/speaker/734/bryan-veloso/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/734/bryan-veloso/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Designing Your Open Source Project</title><link>http://www.pyvideo.org/video/1392/designing-your-open-source-project</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There is an ever present rift between designers and developers and it is one
+that has existed since our paths started crossing. We'll talk about how to be
+mindful of design in your own open source project and how to attract designers
+to help your project become even more awesome.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+There is an ever present rift between designers and developers and it is one
+that has existed since our paths started crossing. While it has almost become
+a requirement for designers to be able to grok the code they work with on a
+daily basis, that has unfortunately had no effect on the willingness of
+designers to work on open source projects.
+
+Fortunately, if your project is in need of a designer, there are ways that you
+can make your project more appealing to our “special breed” of personality. In
+this quick talk, we’ll jump into the mind of your typical designer, show you
+just how many similarities we share and then apply that knowledge to make your
+project easy and appealing for designers to jump into.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bryan Veloso</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1392/designing-your-open-source-project</guid><enclosure url="http://www.youtube.com/watch?v=bdqLtx3K36k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/bdqLtx3K36k/hqdefault.jpg"></media:thumbnail></item></channel></rss>

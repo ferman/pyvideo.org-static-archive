@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Medhat Gayed</title><link>http://www.pyvideo.org/speaker/1139/medhat-gayed/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1139/medhat-gayed/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Concurrent Programming using multiprocessing</title><link>http://www.pyvideo.org/video/2376/concurrent-programming-using-multiprocessing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How to use python's built in multiprocessing module to speed up the processing of large amounts of data.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Will take a brief tour of Python's built in multiprocessing module and how it can be used to solve real life programming problems. Will present a demo on how to speed up processing of large amounts of data using multiprocessing.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/medhat-gayed-concurrent-programming-using-multiprocessing</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Medhat Gayed</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2376/concurrent-programming-using-multiprocessing</guid><enclosure url="http://www.youtube.com/watch?v=CObboy8XzaM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/CObboy8XzaM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

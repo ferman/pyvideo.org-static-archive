@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ryan Kelly</title><link>http://www.pyvideo.org/speaker/422/ryan-kelly/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/422/ryan-kelly/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyPy.js: What? How? Why?</title><link>http://www.pyvideo.org/video/3441/pypyjs-what-how-why-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyPy.js is an experiment in building a fast and compliant in-browser python interpreter, by compiling PyPy into javascript and retargeting its JIT to emit javascript code at runtime. This talk will demonstrate the combination of technologies that make such a thing possible, the results achieved so far, and the challenges that still remain when taking python onto javascript's home turf.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan Kelly</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3441/pypyjs-what-how-why-0</guid><enclosure url="https://www.youtube.com/watch?v=PiBfOFqDIAI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/PiBfOFqDIAI/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy.js: What? How? Why?</title><link>http://www.pyvideo.org/video/3218/pypyjs-what-how-why</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Ryan Kelly:
+PyPy.js: What? How? Why?
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 1
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+PyPy.js is an experiment in building a fast and compliant in-browser python interpreter, by compiling PyPy into javascript and retargeting its JIT to emit asmjs code at runtime. This talk will demonstrate the combination of technologies that make such a thing possible, the results achieved so far, and the challenges that still remain when taking python onto javascript's home turf.
+
+**Abstract**
+
+PyPy.js is an experiment in building a fast, compliant, in-browser python interpreter. By compiling the PyPy interpreter into javascript, and retargeting its JIT compiler to emit asmjs code at runtime, it is possible to run python code in the browser at speeds competitive with a native python environment. This talk will demonstrate the combination of technologies that make such a thing possible, the results that have been achieved so far, and the challenges that still remain when trying to take python onto javascript's home turf.
+
+We'll cover: an overview of PyPy and why it's a good fit for this type of project; an introduction to asmjs and the rise of javascript as a compile target; what it looks like when you smoosh these two technologies together; a comparison with other approaches such as brython; and some concrete suggestions for how the result might be useful in practice.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/ryan-kelly-pypy-dot-js-what-how-why</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan Kelly</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3218/pypyjs-what-how-why</guid><enclosure url="http://youtu.be/pt-e-X_q-dk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pt-e-X_q-dk/hqdefault.jpg"></media:thumbnail></item><item><title>Testing for Graceful Failure with Vaurien and Marteau</title><link>http://www.pyvideo.org/video/2378/testing-for-graceful-failure-with-vaurien-and-mar-</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk shows how the Mozilla Services team test failure scenarios in their web services with two python-based tools: Marteau, a web-based UI for easily running load tests, and Vaurien, a misbehaving TCP proxy that can simulate various backend failures. Used together, these tools help ensure a service will not only scale up to meet demand, but will fail gracefully if it reaches breaking point.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+So you've built an awesome webapp, put it through its paces, and assured yourself that it does what it's supposed to do. Great! Now how does it behave when things start to go wrong?
+
+This talk will demonstrate how the Mozilla Services team tests for failure scenarios in our web services, focusing on two key python-based tools: Marteau, a web-based frontend for easily running load-tests and analyzing the results, and Vaurien, a misbehaving TCP proxy that can simulate a variety of backend failure modes.
+
+Used together, these tools can help ensure that a web service will not only scale up to meet its expected demand, but will fail gracefully when it finally reaches breaking point.
+
+The talk will cover:
+
+ * Real-life examples of bugs that only show up when your app is under load; bugs that can turn a brief partial outage into a cascading whole-system failure.
+ * The basics of writing a load-testing suite for your app.
+ * How to set up Marteau for easy on-demand load testing.
+ * How to use Vaurien to simulate various kinds of backend failure, such as an overloaded database, misconfigured DNS, or a suddenly-disappearing job queue.
+ * Some tips for systematically applying these tools to your own setup.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/ryan-kelly-testing-for-graceful-failure-with-vaurien-and-marteau</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan Kelly</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2378/testing-for-graceful-failure-with-vaurien-and-mar-</guid><enclosure url="http://www.youtube.com/watch?v=WSdyU5s-SMI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/WSdyU5s-SMI/hqdefault.jpg"></media:thumbnail></item><item><title>Testing for Graceful Failure with Vaurien and Marteau</title><link>http://www.pyvideo.org/video/2229/testing-for-graceful-failure-with-vaurien-and-mar</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+So you've built an awesome webapp, put it through its paces, and assured yourself that it does what it's supposed to do.  Great!  Now how does it behave when things start to go wrong?
+
+This talk will demonstrate how the Mozilla Services team tests for failure scenarios in our web services, focusing on two key python-based tools:  Marteau, a web-based frontend for easily running load-tests and analyzing the results, and Vaurien, a misbehaving TCP proxy that can simulate a variety of backend failure modes.
+
+Used together, these tools can help ensure that a web service will not only scale up to meet its expected demand, but will fail gracefully when it finally reaches breaking point.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan Kelly</dc:creator><pubDate>Sat, 06 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2229/testing-for-graceful-failure-with-vaurien-and-mar</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Testing_for_Graceful_Failure_w.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Testing_for_Graceful_Failure_w.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=DH94wksQFPM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/DH94wksQFPM/hqdefault.jpg"></media:thumbnail></item><item><title>The Lazy Dev's Guide to Testing Your Web API</title><link>http://www.pyvideo.org/video/1646/the-lazy-devs-guide-to-testing-your-web-api</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Do you enjoy writing test cases for your web application? If so then this may
+not be the talk for you. I'm going to show you how to make a single test suite
+perform triple testing duty, so you can get on with writing the fun stuff.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Do you enjoy writing test cases for your web application? If so then this may
+not be the talk for you. I'm going to show you how to make a single test suite
+perform triple testing duty, so you can get on with writing the fun stuff.
+
+First, I'll show you how to use WebTest to construct a simple functional
+testsuite for your application. By running in-process against a WSGI callable,
+the tests can be fast and light enough to form part of your regularly-executed
+suite.
+
+Second, we'll use WSGIProxy to turn this into a deployment/acceptance test
+script that you can point at a real live server to verify its behaviour. Run
+this after every deployment to make sure you haven't broken something in the
+wild.
+
+Finally, we'll connect the suite to FunkLoad and pummel the server with a
+distributed barrage of tests, to see how it copes under pressure.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan Kelly</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1646/the-lazy-devs-guide-to-testing-your-web-api</guid><enclosure url="http://www.youtube.com/watch?v=8fB2qY8s2i4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/8fB2qY8s2i4/hqdefault.jpg"></media:thumbnail></item><item><title>Deep Freeze: building better stand-alone apps with Python</title><link>http://www.pyvideo.org/video/958/deep-freeze-building-better-stand-alone-apps-wit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There's more to shipping a stand-alone python app than just running py2exe
+over your code. Want to deploy automatic updates? Want to be sure it runs on
+legacy platforms? Want to add professional touches like code signing? And want
+to do this all in a cross-platform manner? This talk will show you the tools
+you can use to make your frozen apps better in a variety of small yet
+important ways.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan Kelly</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/958/deep-freeze-building-better-stand-alone-apps-wit</guid><enclosure url="https://www.youtube.com/watch?v=vP6j7VDpPrI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/vP6j7VDpPrI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

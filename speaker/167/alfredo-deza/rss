@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alfredo Deza</title><link>http://www.pyvideo.org/speaker/167/alfredo-deza/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/167/alfredo-deza/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Distributed Programming with Pyro (#7)</title><link>http://www.pyvideo.org/video/342/pycon-2010--distributed-programming-with-pyro---7</link><description>&lt;p&gt;Description&lt;/p&gt;
+Distributed Programming with Pyro
+
+  
+Presented by Alfredo Deza
+
+  
+Create distributed code that communicates trivially over the network with
+objects that answer as if they were local.
+
+  
+Send, receive and manage data with this powerful library. Presentation will
+include real life example for restarting a load balanced web instance running
+two Apache web servers and a MySQL database.
+
+  
+Although Python allows you to perform simple network operations, Pyro creates
+a nice layer between core networking essentials and your code, allowing you to
+concentrate more in developing your application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alfredo Deza</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/342/pycon-2010--distributed-programming-with-pyro---7</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010DistributedProgrammingWithPyro7718.png"></media:thumbnail></item></channel></rss>

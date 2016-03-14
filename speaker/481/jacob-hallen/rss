@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jacob Hallén</title><link>http://www.pyvideo.org/speaker/481/jacob-hallen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/481/jacob-hallen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Refactoring PyChart</title><link>http://www.pyvideo.org/video/1017/refactoring-pychart</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jacob Hallen - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PyChart is a very nice program for producing print quality graphs. However, it
+came equipped with a rather strange API, where every class was called T. It
+was also using the global namespace in strange and disturbing ways.
+Furthermore, it mixed multiple distinct tasks in some classes.
+
+I will show how I went about refactoring the package in order to make a nice
+and clean API. This talk is focused on teaching refactoring methodology to
+beginner and intermediate level programmers. It will also give a brief
+introduction to how to make beautiful graphs with PyChart.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Hallén</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1017/refactoring-pychart</guid><enclosure url="http://www.youtube.com/watch?v=Av6KcdWvWnU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Av6KcdWvWnU/hqdefault.jpg"></media:thumbnail></item><item><title>Refactoring PyChart</title><link>http://www.pyvideo.org/video/1105/refactoring-pychart-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jacob Hallen - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PyChart is a very nice program for producing print quality graphs. However, it
+came equipped with a rather strange API, where every class was called T. It
+was also using the global namespace in strange and disturbing ways.
+Furthermore, it mixed multiple distinct tasks in some classes.
+
+I will show how I went about refactoring the package in order to make a nice
+and clean API. This talk is focused on teaching refactoring methodology to
+beginner and intermediate level programmers. It will also give a brief
+introduction to how to make beautiful graphs with PyChart.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Hallén</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1105/refactoring-pychart-0</guid><enclosure url="http://www.youtube.com/watch?v=hdytprStoXc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/hdytprStoXc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

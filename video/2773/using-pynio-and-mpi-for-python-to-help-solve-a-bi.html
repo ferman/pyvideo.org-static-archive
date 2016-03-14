@@ -1,0 +1,313 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Using PyNIO and MPI for Python to help solve a big data problem for the CESM</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="The Community Earth System Model produces orders of magnitude more data than earlier models, and the old data handling methods are no longer adequate. We discuss how PyNIO together with MPI for Python has provided the most efficient solution yet tested for the task of converting the raw output of the model to NetCDF files suitable both for archiving and for convenient use by scientists.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="using-pynio-and-mpi-for-python-to-help-solve-a-bi.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="using-pynio-and-mpi-for-python-to-help-solve-a-bi.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=egqo6NfAEtw"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Using PyNIO and MPI for Python to help solve a big data problem for the CESM</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/egqo6NfAEtw/hqdefault.jpg"/>
+      <link property="sameAs" href="using-pynio-and-mpi-for-python-to-help-solve-a-bi.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>The Community Earth System Model produces orders of magnitude more data than earlier models, and the old data handling methods are no longer adequate. We discuss how PyNIO together with MPI for Python has provided the most efficient solution yet tested for the task of converting the raw output of the model to NetCDF files suitable both for archiving and for convenient use by scientists.</p></div>
+        <meta property="caption" content="The Community Earth System Model produces orders of magnitude more data than earlier models, and the old data handling methods are no longer adequate. We discuss how PyNIO together with MPI for Python has provided the most efficient solution yet tested for the task of converting the raw output of the model to NetCDF files suitable both for archiving and for convenient use by scientists."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Like most climate models, the CESM (Community Earth System Model)
+steps through time as a particular model scenario evolves and, at set
+intervals, outputs the state of all the important variables into
+single NetCDF files for each component of the model (atmosphere, ocean, land,
+and sea ice). Each file contains all the variables for a component at
+a single time step. Because the data volume is large, it is
+impractical to attempt to handle all the data for a complete model run
+as a single aggregation. Therefore, a consensus has evolved to mandate
+that the data be reorganized to contain single variables over some
+convenient time period. Finding a solution that can take advantage of
+multi-core architectures to do the job efficiently has not been
+easy. Recently, in an effort to determine the best solution,
+researchers at NCAR have conducted a set of benchmark tests to find
+the best tool for the job. Contenders included NCO (NetCDF Operators,
+the current incumbent for the task); an in-house Fortran code using
+the parallel I/O library PIO; a serial Python script using PyNIO; a
+version of the PyNIO script adapted to work with mpi4py in a very simple
+manner; CDO; NCL; and Pagoda. Surprisingly, PyNIO parallelized with
+mpi4py generally outperformed the other contenders by a large margin, 
+and will now be tested as a replacement for the existing NCO scripts. 
+This talk will look at the simple mpi4py and PyNIO code that achieves this result, 
+discuss the reasons why the performance gain varies from case to case, and 
+suggest ways to improve performance in challenging cases. Along the way, 
+PyNIO's capabilities and recent improvements will be explained. In addition, other
+possible contenders for this role, in particular NetCDF4-Python coupled
+with mpi4py in a similar fashion, will be benchmarked using the same test suite.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1285/david-brown.html">David Brown</a></div>
+            <meta property="author" content="David Brown"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 14, 2014
+            <meta property="dateCreated" content="2014-07-14"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 15, 2014
+            <meta property="dateModified" content="2014-07-15T23:25:46.667223"/>
+            <meta property="datePublished" content="2014-07-15T23:25:46.667223"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=egqo6NfAEtw" property="embedUrl">http://www.youtube.com/watch?v=egqo6NfAEtw</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2773">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="using-pynio-and-mpi-for-python-to-help-solve-a-bi.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

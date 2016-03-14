@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Katie Miller</title><link>http://www.pyvideo.org/speaker/1579/katie-miller/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1579/katie-miller/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 14 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Cloud Craft for Spatial Cadets</title><link>http://www.pyvideo.org/video/3216/cloud-craft-for-spatial-cadets</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Katie Miller:
+Cloud Craft for Spatial Cadets
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 1
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Novice
+
+**Description**
+
+This session will give you the necessary know-how to get started with your own cloud-based mapping app project. The talk will cover the basics of Platform as a Service and introduce the open source OpenShift PaaS. Katie will demonstrate how to fire up an auto-scaling spatial app on OpenShift using Python and MongoDB, before hitting the app with some load to test the scaling spatial goodness.
+
+**Abstract**
+
+All over the web people are doing amazing things with spatial; this session will give you the necessary know-how to get started with your own cloud-based mapping app project. The talk will cover the basics of Platform as a Service and introduce Red Hat's open source OpenShift PaaS. There will be a demonstration of how to fire up an auto-scaling spatial app with Python and MongoDB on OpenShift. We will then hit the app with some load to experiment with the scaling spatial goodness.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/katie-miller-cloud-craft-for-spatial-cadets
+
+http://cloudcraft.codemiller.com/</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie Miller</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3216/cloud-craft-for-spatial-cadets</guid><enclosure url="http://youtu.be/YI9VNrXYIQM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YI9VNrXYIQM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

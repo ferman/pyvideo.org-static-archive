@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Kurt Smith</title><link>http://www.pyvideo.org/speaker/709/kurt-smith/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/709/kurt-smith/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 17 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Efficient Parallel Python for High-Performance Computing</title><link>http://www.pyvideo.org/video/1345/efficient-parallel-python-for-high-performance-co</link><description>&lt;p&gt;Description&lt;/p&gt;
+This tutorial is targeted at the intermediate-to-advanced Python user who
+wants to extend Python into High-Performance Computing. The tutorial will
+provide hands-on examples and essential performance tips every developer
+should know for writing effective parallel Python. The result will be a clear
+sense of possibilities and best practices using Python in HPC environments.
+
+Many of the examples you often find on parallel Python focus on the mechanics
+of getting the parallel infrastructure working with your code, and not on
+actually building good portable parallel Python. This tutorial is intended to
+be a broad introduction to writing high-performance parallel Python that is
+well suited to both the beginner and the veteran developer.
+
+We will discuss best practices for building efficient high-performance Python
+through good software engineering. Parallel efficiency starts with the speed
+of the target code itself, so we will first look at how to evolve code from
+for-loops to list comprehensions and generator comprehensions to using Cython
+with NumPy. We will also discuss how to optimize your code for speed and
+memory performance by using profilers.
+
+The tutorial will cover some of the common parallel communication technologies
+(multiprocessing, MPI, and cloud computing) and introduce the use of parallel
+map and map-reduce.
+
+At the end of the tutorial, participants should be able to write simple
+parallel Python scripts, make use of effective parallel programming
+techniques, and have a framework in place to leverage the power of Python in
+High- Performance Computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kurt Smith</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1345/efficient-parallel-python-for-high-performance-co</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Efficient_Parallel_Python_for_HighPerformance_Computing.mp4?Signature=6wYCR88bOMRAXQ88pnHUo8kZCi4%3D&amp;Expires=1346914981&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Efficient_Parallel_Python_for_HighPerformance_Computing.mp4?Signature=6wYCR88bOMRAXQ88pnHUo8kZCi4%3D&amp;Expires=1346914981&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=AJU3EYvTNXc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AJU3EYvTNXc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lorenzo Mancini</title><link>http://www.pyvideo.org/speaker/511/lorenzo-mancini/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/511/lorenzo-mancini/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 20 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Developing cutting-edge applications with PyQt</title><link>http://www.pyvideo.org/video/1055/developing-cutting-edge-applications-with-pyqt</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Lorenzo Mancini,Matteo Bertozzi - 23 June 2011 in "Training
+Pizza Margherita "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+(Presented with Matteo Bertozzi)
+
+Python's high development speed and Qt's gargantuan feature set allow for
+comfortable development of complex desktop applications. Still, what does one
+need to do to best leverage this awesome combination? And more importantly,
+what crucial advantages exist to decide its adoption in favour of more
+traditional tecniques?
+
+During this training, we'll start from a white canvas and show how to develop
+a desktop application using the best tools Qt offers. You'll learn how to
+compose complex GUIs from basic building blocks, and how to use QPainter, one
+of the most advanced 2D painting systems in the open source world. Qt's Webkit
+integration will be discussed, along with the recent Qt Quick technology,
+which allows one to create smooth and fluid user interfaces. Qt's solution to
+common deployment problems, like handling a serious translation workflow, will
+be presented. At the end, we'll package our PyQt application so it's ready to
+be distributed for download.
+
+Walk away with a sound understanding of why you should choose PyQt for your
+next desktop project.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lorenzo Mancini,Matteo Bertozzi</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1055/developing-cutting-edge-applications-with-pyqt</guid><enclosure url="http://www.youtube.com/watch?v=vd2T_LNn3C0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vd2T_LNn3C0/hqdefault.jpg"></media:thumbnail></item><item><title>Developing cutting-edge applications with PyQt</title><link>http://www.pyvideo.org/video/1072/developing-cutting-edge-applications-with-pyqt-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Lorenzo Mancini,Matteo Bertozzi - 23 June 2011 in "Training
+Pizza Margherita "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+(Presented with Matteo Bertozzi)
+
+Python's high development speed and Qt's gargantuan feature set allow for
+comfortable development of complex desktop applications. Still, what does one
+need to do to best leverage this awesome combination? And more importantly,
+what crucial advantages exist to decide its adoption in favour of more
+traditional tecniques?
+
+During this training, we'll start from a white canvas and show how to develop
+a desktop application using the best tools Qt offers. You'll learn how to
+compose complex GUIs from basic building blocks, and how to use QPainter, one
+of the most advanced 2D painting systems in the open source world. Qt's Webkit
+integration will be discussed, along with the recent Qt Quick technology,
+which allows one to create smooth and fluid user interfaces. Qt's solution to
+common deployment problems, like handling a serious translation workflow, will
+be presented. At the end, we'll package our PyQt application so it's ready to
+be distributed for download.
+
+Walk away with a sound understanding of why you should choose PyQt for your
+next desktop project.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lorenzo Mancini,Matteo Bertozzi</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1072/developing-cutting-edge-applications-with-pyqt-0</guid><enclosure url="http://www.youtube.com/watch?v=6ko-tO-3bJ0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/6ko-tO-3bJ0/hqdefault.jpg"></media:thumbnail></item><item><title>Realizzare un emulatore di videogiochi</title><link>http://www.pyvideo.org/video/1182/realizzare-un-emulatore-di-videogiochi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Lorenzo Mancini - 22 June 2011 in "Track Italiana Big Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Lo sviluppo di un emulatore di videogiochi è tra le cose più divertenti che un
+programmatore può fare davanti ad un monitor.
+
+Durante questo talk mostrerò come emulare un sistema relativamente semplice,
+il Chip-8, realizzando tutto l'emulatore in Python ed appoggiandomi solo a
+pygame come libreria grafica.
+
+Al termine del talk avrete imparato quali sono i concetti base necessari per
+scrivere un emulatore, e non vedrete l'ora di realizzarne uno per il vostro
+sistema preferito.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lorenzo Mancini</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1182/realizzare-un-emulatore-di-videogiochi</guid><enclosure url="http://www.youtube.com/watch?v=XA80glyC9kE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/XA80glyC9kE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

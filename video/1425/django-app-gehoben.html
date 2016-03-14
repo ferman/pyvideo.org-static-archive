@@ -1,0 +1,361 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Django, App-gehoben</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="app, django, module, package, pluggable, reuseable app, web">
+  
+    <meta name="description" content="Das Webframework Django kommt ganz wie Python mit &quot;Batteries included&quot;.
+Ähnlich wie sich in Python mit seiner umfangreichen Standardlib viele
+Alltagsaufgaben mit wenigen Zeilen Code erledigen lassen, so vereinfacht
+Django die Entwicklung von Webanwendungen. Und genau wie es im PyPI unzählige
+Packages für so gut wie jede Aufgabe gibt, so umkreist auch Django eine Fülle
+von sogenannten Pluggable Apps, also Zusatzmodulen für fast jeden
+Anwendungsfall.
+
+Der Vortrag stellt einige Highlights solcher Django-Packages vor, welche ohne
+viel Aufwand gewöhnlichen Djangoanwendungen erweiterte Funktionalität
+mitgeben.
+
+Es werden aus den Bereichen RESTful API, Formulare, Sicherheit, CSS/SCSS/JS
+Handling, Softwaretesting, Taskqueue, Ajax, Suche, Datenbankschemamigration
+und Authentifizierung jeweils ein populäres Beispielpackage kurz vorgestellt.
+Der Fokus liegt bewußt nicht auf Details. Gezeigt wird grob die
+Funktionsweise, Installation und ein paar Erfahrungen aus dem praktischen
+Einsatz.
+
+Der geneigte Zuhörer soll angeregt werden ähnliche Django-Packages in seinen
+eigenen Projekten zu verwenden. Der Benefit für den Einzelnen ist, schnell
+meist gut getestete Funktionalität für das eigene Projekt einzubauen. Die
+Gemeinschaft profitiert von gemeinschaftlich entwickelter Freier Software.
+
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="django-app-gehoben.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="django-app-gehoben.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="https://www.youtube.com/watch?v=dOaJdo1km-o"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Django, App-gehoben</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/dOaJdo1km-o/hqdefault.jpg"/>
+      <link property="sameAs" href="django-app-gehoben.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Das Webframework Django kommt ganz wie Python mit "Batteries included".
+Ähnlich wie sich in Python mit seiner umfangreichen Standardlib viele
+Alltagsaufgaben mit wenigen Zeilen Code erledigen lassen, so vereinfacht
+Django die Entwicklung von Webanwendungen. Und genau wie es im PyPI unzählige
+Packages für so gut wie jede Aufgabe gibt, so umkreist auch Django eine Fülle
+von sogenannten Pluggable Apps, also Zusatzmodulen für fast jeden
+Anwendungsfall.</p>
+<p>Der Vortrag stellt einige Highlights solcher Django-Packages vor, welche ohne
+viel Aufwand gewöhnlichen Djangoanwendungen erweiterte Funktionalität
+mitgeben.</p>
+<p>Es werden aus den Bereichen RESTful API, Formulare, Sicherheit, CSS/SCSS/JS
+Handling, Softwaretesting, Taskqueue, Ajax, Suche, Datenbankschemamigration
+und Authentifizierung jeweils ein populäres Beispielpackage kurz vorgestellt.
+Der Fokus liegt bewußt nicht auf Details. Gezeigt wird grob die
+Funktionsweise, Installation und ein paar Erfahrungen aus dem praktischen
+Einsatz.</p>
+<p>Der geneigte Zuhörer soll angeregt werden ähnliche Django-Packages in seinen
+eigenen Projekten zu verwenden. Der Benefit für den Einzelnen ist, schnell
+meist gut getestete Funktionalität für das eigene Projekt einzubauen. Die
+Gemeinschaft profitiert von gemeinschaftlich entwickelter Freier Software.</p></div>
+        <meta property="caption" content="Das Webframework Django kommt ganz wie Python mit &quot;Batteries included&quot;.
+Ähnlich wie sich in Python mit seiner umfangreichen Standardlib viele
+Alltagsaufgaben mit wenigen Zeilen Code erledigen lassen, so vereinfacht
+Django die Entwicklung von Webanwendungen. Und genau wie es im PyPI unzählige
+Packages für so gut wie jede Aufgabe gibt, so umkreist auch Django eine Fülle
+von sogenannten Pluggable Apps, also Zusatzmodulen für fast jeden
+Anwendungsfall.
+Der Vortrag stellt einige Highlights solcher Django-Packages vor, welche ohne
+viel Aufwand gewöhnlichen Djangoanwendungen erweiterte Funktionalität
+mitgeben.
+Es werden aus den Bereichen RESTful API, Formulare, Sicherheit, CSS/SCSS/JS
+Handling, Softwaretesting, Taskqueue, Ajax, Suche, Datenbankschemamigration
+und Authentifizierung jeweils ein populäres Beispielpackage kurz vorgestellt.
+Der Fokus liegt bewußt nicht auf Details. Gezeigt wird grob die
+Funktionsweise, Installation und ein paar Erfahrungen aus dem praktischen
+Einsatz.
+Der geneigte Zuhörer soll angeregt werden ähnliche Django-Packages in seinen
+eigenen Projekten zu verwenden. Der Benefit für den Einzelnen ist, schnell
+meist gut getestete Funktionalität für das eigene Projekt einzubauen. Die
+Gemeinschaft profitiert von gemeinschaftlich entwickelter Freier Software."/>
+      </div>
+    
+
+    
+
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/24/pycon-de-2012.html">PyCon DE 2012</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/757/frank-becker.html">Frank Becker</a></div>
+            <meta property="author" content="Frank Becker"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>German
+            <meta property="inLanguage" content="de"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Oct. 31, 2012
+            <meta property="dateCreated" content="2012-10-31"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:26.901492"/>
+            <meta property="datePublished" content="2014-04-08T20:28:26.901492"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="https://www.youtube.com/watch?v=dOaJdo1km-o" property="embedUrl">https://www.youtube.com/watch?v=dOaJdo1km-o</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Django_Appgehoben.mp4?Signature=0ggrvgiojPc0ZNDspiBh4TQClJM%3D&amp;Expires=1351778847&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1425">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            See <a href="https://www.youtube.com/watch?v=dOaJdo1km-o">source</a> for copyright
+            information.
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">app</span>
+          
+            <span property="keywords"> django</span>
+          
+            <span property="keywords"> module</span>
+          
+            <span property="keywords"> package</span>
+          
+            <span property="keywords"> pluggable</span>
+          
+            <span property="keywords"> reuseable app</span>
+          
+            <span property="keywords"> web</span>
+          
+          <meta property="keywords" content="PyCon DE 2012"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="django-app-gehoben.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

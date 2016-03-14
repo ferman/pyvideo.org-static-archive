@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David P. Sanders</title><link>http://www.pyvideo.org/speaker/1271/david-p-sanders/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1271/david-p-sanders/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Introduction to Julia - Part 1</title><link>http://www.pyvideo.org/video/2754/introduction-to-julia-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An introduction to the new Julia language from scratch, emphasising similarities and differences with scientific Python.
+&lt;p&gt;Description&lt;/p&gt;
+Julia is a new, up-and-coming language that has many similarities to Python, but some differences.
+One of its main advantages is the speed gain obtained by automatically compiling all code (in a somewhat similar way to `PyPy`, `Cython`, `numba`, etc.), despite having an interactive interface very similar to that of Python. 
+
+This will be a tutorial on the basic features of Julia from scratch, given by a user (rather than a developer) of the language, emphasising those features which are similar to Python (and hence do not require much explanation) and those features which are rather different. 
+
+The idea of the tutorial is to give an idea of why there is suddenly such a buzz around Julia and why it can be useful for certain projects.
+
+This tutorial is aimed at people who are already familiar with the basic scientific Python packages; it is not aimed at beginners in scientific programming.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David P. Sanders</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2754/introduction-to-julia-part-1</guid><enclosure url="http://www.youtube.com/watch?v=vWkgEddb4-A" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/vWkgEddb4-A/hqdefault.jpg"></media:thumbnail></item><item><title>Introduction to Julia - Part 2</title><link>http://www.pyvideo.org/video/2753/introduction-to-julia-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An introduction to the new Julia language from scratch, emphasising similarities and differences with scientific Python.
+&lt;p&gt;Description&lt;/p&gt;
+Julia is a new, up-and-coming language that has many similarities to Python, but some differences.
+One of its main advantages is the speed gain obtained by automatically compiling all code (in a somewhat similar way to `PyPy`, `Cython`, `numba`, etc.), despite having an interactive interface very similar to that of Python. 
+
+This will be a tutorial on the basic features of Julia from scratch, given by a user (rather than a developer) of the language, emphasising those features which are similar to Python (and hence do not require much explanation) and those features which are rather different. 
+
+The idea of the tutorial is to give an idea of why there is suddenly such a buzz around Julia and why it can be useful for certain projects.
+
+This tutorial is aimed at people who are already familiar with the basic scientific Python packages; it is not aimed at beginners in scientific programming.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David P. Sanders</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2753/introduction-to-julia-part-2</guid><enclosure url="http://www.youtube.com/watch?v=I3JH5Bg46yU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/I3JH5Bg46yU/hqdefault.jpg"></media:thumbnail></item><item><title>The Wonderful World of Scientific Computing with Python</title><link>http://www.pyvideo.org/video/2744/the-wonderful-world-of-scientific-computing-with</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We will give an overview of the basics of the scientific computing ecosystem with Python: what does each of the fundamental packages (numpy, matplotlib, scipy, sympy and pandas) 
+do, and how does it work? We will use the IPython Notebook in our quest to enter this wonderful world.
+&lt;p&gt;Description&lt;/p&gt;
+Starting out with scientific computing in Python can be daunting: Where do I start? What are the basic packages, and what is the use case for each of them? What are the fundamental ideas I need to understand each package and how it works?
+
+In this tutorial, we will use examples of scientific questions and calculations which lead directly to the need for certain computational tools as a gateway to understand the basic structure of the scientific computing ecosystem. The specific packages we will touch on are `numpy`, `matplotlib`, `scipy`, `sympy` and `pandas`, all viewed through the wonderful lens of the IPython Notebook.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David P. Sanders</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2744/the-wonderful-world-of-scientific-computing-with</guid><enclosure url="http://www.youtube.com/watch?v=A9tv7WBIwyM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/A9tv7WBIwyM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

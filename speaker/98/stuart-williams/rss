@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stuart Williams</title><link>http://www.pyvideo.org/speaker/98/stuart-williams/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/98/stuart-williams/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python by Immersion</title><link>http://www.pyvideo.org/video/3446/python-by-immersion</link><description>&lt;p&gt;Description&lt;/p&gt;
+A very fast introduction to Python for software developers with experience in other languages.  Instead of a traditional top-down presentation of Python's features, syntax, and semantics, students are immersed in the language bottom-up with hundreds of small examples using the interactive interpreter to quickly gain familiarity with most of the core language features.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3446/python-by-immersion</guid><enclosure url="https://www.youtube.com/watch?v=RVNIdoepdzU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/RVNIdoepdzU/hqdefault.jpg"></media:thumbnail></item><item><title>Python Epiphanies</title><link>http://www.pyvideo.org/video/3453/python-epiphanies-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+This tutorial is for developers who've been using Python for a while and would consider themselves at an intermediate level, but are looking for a deeper understanding of the language.  It focuses on how Python differs from other languages in subtle but important ways that are often confusing, and it demystifies a number of language features that are sometimes misunderstood.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3453/python-epiphanies-2</guid><enclosure url="https://www.youtube.com/watch?v=Ug0iDjbMPVg" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/Ug0iDjbMPVg/hqdefault.jpg"></media:thumbnail></item><item><title>Python Epiphanies</title><link>http://www.pyvideo.org/video/2623/python-epiphanies-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial is for developers who've been using Python for a while and would consider themselves at an intermediate level, but are looking for a deeper understanding of the language. It focuses on how Python differs from other languages in subtle but important ways that are often confusing, and it demystifies a number of language features that are sometimes misunderstood.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Fri, 11 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2623/python-epiphanies-1</guid><enclosure url="http://www.youtube.com/watch?v=Uyj2UFTL_vg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Uyj2UFTL_vg/hqdefault.jpg"></media:thumbnail></item><item><title>Python Epiphanies</title><link>http://www.pyvideo.org/video/1659/python-epiphanies-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial is for software developers who've been using Python with
+success for a while but are looking for a deeper understanding of the
+language.  It focuses on how Python differs from other languages in
+subtle but important ways that often confuse folks, and it demystifies
+a number of language features that are sometimes misunderstood.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Thu, 14 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1659/python-epiphanies-0</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_Epiphanies.mp4?Signature=iyvXCZ98LWlxHHtIPNcO0guLa44%3D&amp;Expires=1363947844&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_Epiphanies.mp4?Signature=iyvXCZ98LWlxHHtIPNcO0guLa44%3D&amp;Expires=1363947844&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=9mgg45Wr8jY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/9mgg45Wr8jY/hqdefault.jpg"></media:thumbnail></item><item><title>Python Epiphanies</title><link>http://www.pyvideo.org/video/613/python-epiphanies</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial is for software developers who've been using Python with success
+for a while but are looking for a deeper understanding of the language. It
+demystifies a number of language features that are often misunderstood.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Thu, 08 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/613/python-epiphanies</guid><enclosure url="https://www.youtube.com/watch?v=Pi9NpxAvYSs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Pi9NpxAvYSs/hqdefault.jpg"></media:thumbnail></item><item><title>Python 101</title><link>http://www.pyvideo.org/video/287/pycon-2010--python-101</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 101
+
+Presented by Stuart Williams
+
+This half-day tutorial presents the basics of Python to beginning and
+intermediate programmers. It pairs well with ''Python 102'' which follows a
+similar outline but goes much deeper.
+
+Rather than starting with "Hello, world!", we use the interactive Python
+interpreter shell to get hands-on familiarity with much of core Python before
+covering blocks and scripts.
+
+The tutorial is divided into short sections, each with presentation and hands-
+on exercises, to quickly cover lots of ground.
+
+Advanced topics are introduced throughout and covered in "extra credit"
+exercises such that more advanced participants can learn at their own pace.
+
+Intended Audience
+
+Programmers with experience in other languages who want a fast hands-on
+introduction to Python. Content will target both Python 3.1 and 2.6.
+
+Requirements
+
+Bring a laptop computer with Python 2.6 or 3.1 installed. Try to get as much
+of an overview of Python before the tutorial as you have time to in order to
+get more out of the tutorial. Two angles on this are the Python Quick
+Reference and the Python website's tutorial.
+
+Class Outline
+
+  * Numbers and operators 
+  * Strings - immutability, operators, methods, functions, and formatting 
+  * Introspection/Discovery 
+  * Tuples and Lists 
+  * List Comprehensions 
+  * Objects and Names 
+  * Dictionaries 
+  * Loops and Blocks 
+  * Iterables 
+  * Generator Expressions 
+  * Functions 
+  * Generators 
+  * Namespaces 
+  * Simple Classes 
+  * Exceptions 
+
+The handouts at [http://swilliams.ca/python-tutorials](http://swilliams.ca
+/python-tutorials). If you're interested in the software I wrote to deliver
+the talk drop me a line. My address is in the handouts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/287/pycon-2010--python-101</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/287_python-101.ogv" length="732203665" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/287_python-101.ogv" fileSize="732203665" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/287_python-101.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010Python101314.png"></media:thumbnail></item><item><title>Python 102</title><link>http://www.pyvideo.org/video/257/pycon-2010--python-102</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 102
+
+Presented by Stuart Williams
+
+This half-day tutorial presents intermediate and some advanced features of
+Python to beginning and intermediate programmers. It pairs well with Python
+101 which follows a similar outline but at a more introductory level.
+
+Rather than starting with "Hello, world!", we use the interactive Python
+interpreter shell to get hands-on familiarity with much of core Python before
+covering blocks and scripts.
+
+The tutorial is divided into short sections, each with presentation and hands-
+on exercises, to quickly cover lots of ground.
+
+Advanced topics are introduced throughout and covered in "extra credit"
+exercises such that more advanced participants can learn at their own pace.
+
+Intended Audience
+
+Programmers with experience in other languages who want a fast hands-on
+introduction to intermediate and some advanced features of Python. Content
+will target both Python 3.1 and 2.6.
+
+Class Outline
+
+  * Numbers and Strings - operators, functions and methods 
+  * Introspection 
+  * Sequences - overview, concepts, and methods 
+  * Objects 
+  * Dictionaries 
+  * Files 
+  * Classes 
+  * Namespaces 
+  * Dynamic Classes 
+  * Iterators and Generators 
+  * Functions 
+  * Exceptions 
+  * Standard Library 
+
+Requirements
+
+Bring a laptop computer with Python 2.6 or 3.1 installed. Try to get as much
+of an overview of Python before the tutorial as you have time to in order to
+get more out of the tutorial. Two angles on this are the Python Quick
+Reference and the Python website's tutorial.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Williams</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/257/pycon-2010--python-102</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/257_python-102.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/257_python-102.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/257_python-102.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010Python102442.png"></media:thumbnail></item></channel></rss>

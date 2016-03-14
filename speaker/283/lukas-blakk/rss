@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lukas Blakk</title><link>http://www.pyvideo.org/speaker/283/lukas-blakk/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/283/lukas-blakk/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:17 -0000</lastBuildDate><ttl>500</ttl><item><title>PyGotham 2011: Boosting the numbers: Python for Women and Doing Distributed Organizing of Workshops</title><link>http://www.pyvideo.org/video/496/pygotham-2011--boosting-the-numbers--python-for-w</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The PyStar program is a workshop designed to teach all women (including trans
+women) and their friends who are looking to learn how to program in a friendly
+non-alpha-geek environment. The material on the
+[http://pystar.org](http://pystar.org/) site was originally developed by the
+Boston Python Workshop which was held March 4/5, 2011. Currently PyStar events
+use a mix of badges from the PyStar site and their own curriculum. As this
+project continues hopefully this site will be a hub of learning materials
+geared at all levels of Python learners, with a focus on teaching people in a
+safe and supportive manner.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Blakk</dc:creator><guid>http://www.pyvideo.org/video/496/pygotham-2011--boosting-the-numbers--python-for-w</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/496_pygotham-2011-boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops.ogv" length="187294684" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/496_pygotham-2011-boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops.ogv" fileSize="187294684" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/496_pygotham-2011-boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BoostingTheNumbersPythonForWomenAndDoingDistributedOrga216-163.jpg"></media:thumbnail></item></channel></rss>

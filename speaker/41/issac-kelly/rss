@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Issac Kelly</title><link>http://www.pyvideo.org/speaker/41/issac-kelly/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/41/issac-kelly/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 27 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: Consuming Web APIs with Python</title><link>http://www.pyvideo.org/video/531/pyohio-2011--consuming-web-apis-with-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Consuming Web APIs with Python
+
+Presented by Issac Kelly
+
+Issac will go over the basics of HTTP apis, what to look for, basic
+authorization methods, and how to interface with them in your python scripts.
+There will not be cake.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Issac Kelly</dc:creator><guid>http://www.pyvideo.org/video/531/pyohio-2011--consuming-web-apis-with-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/531_pyohio-2011-consuming-web-apis-with-python.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ConsumingWebAPIsWithPython247.png"></media:thumbnail></item><item><title>PyOhio 2011: Creating Web APIs that are a joy to use</title><link>http://www.pyvideo.org/video/529/pyohio-2011--creating-web-apis-that-are-a-joy-to-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Creating Web APIs that are a joy to use
+
+Presented by Issac Kelly
+
+Issac is an avid API consumer. He&amp;aposll cover how to make an API that is not
+terrible. This is apparently very difficult to do, and many anti-patterns will
+be shown. No care will be taken to protect the guilty. This talk is not as
+focused on Python, as it is on creating Web APIs, and an understanding of HTTP
+is assumed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Issac Kelly</dc:creator><guid>http://www.pyvideo.org/video/529/pyohio-2011--creating-web-apis-that-are-a-joy-to-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/529_pyohio-2011-creating-web-apis-that-are-a-joy-to-use.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-CreatingWebAPIsThatAreAJoyToUse449.png"></media:thumbnail></item><item><title>Teaching Django to Comrades</title><link>http://www.pyvideo.org/video/81/djangocon-2011--teaching-django-to-comrades</link><description>&lt;p&gt;Description&lt;/p&gt;
+Teaching Django to Comrades
+
+Presented by Issac Kelly
+
+Inevitably you're going to run into somebody who wants to learn Django, or
+maybe both Python and Django. This talk will help you make it less painful for
+them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Issac Kelly</dc:creator><guid>http://www.pyvideo.org/video/81/djangocon-2011--teaching-django-to-comrades</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/81_teaching-django-to-comrades.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TeachingDjangoToComrades893-851.jpg"></media:thumbnail></item><item><title>Python, Hardware, Networks and your toolbox for Interactive Art.</title><link>http://www.pyvideo.org/video/2839/python-hardware-networks-and-your-toolbox-for-i</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Issac builds art and tells stories professionally with hardware and software. With an extraordinary project come extraordinary challenges. Having the right toolkit keeps you nimble enough to forge into the unknown with confidence. In this talk we'll explore a contrived art project with hardware, software, and networks, built with Python. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Issac Kelly</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2839/python-hardware-networks-and-your-toolbox-for-i</guid><enclosure url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2839_Python_Hardware_Networks_and_your_toolbox_for_Inte.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2839_Python_Hardware_Networks_and_your_toolbox_for_Inte.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/MXO7YXvAGFk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/MXO7YXvAGFk/hqdefault.jpg"></media:thumbnail></item><item><title>Reverse Engineering the Internet of Things</title><link>http://www.pyvideo.org/video/1829/reverse-engineering-the-internet-of-things</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This year I've reverse engineered two HTTP/Web enabled devices and written python clients for them. The Belkin Wemo [1] and the Philips Hue [2]. My poster session will cover methods materials and work.
+
+[1] http://www.issackelly.com/blog/2012/08/04/wemo-api-hacking/
+[2] http://www.issackelly.com/blog/2012/11/10/philips-hue-api-hacking/
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Issac Kelly</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1829/reverse-engineering-the-internet-of-things</guid><enclosure url="https://www.youtube.com/watch?v=iXdqBEr-p-g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/iXdqBEr-p-g/hqdefault.jpg"></media:thumbnail></item></channel></rss>

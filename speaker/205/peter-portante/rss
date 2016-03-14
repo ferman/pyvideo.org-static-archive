@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Peter Portante</title><link>http://www.pyvideo.org/speaker/205/peter-portante/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/205/peter-portante/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 17 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>[Poster] The State of PyCscope</title><link>http://www.pyvideo.org/video/1824/the-state-of-pycscope</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PyCscope V1.0 has been released and we want to bring folks up to speed on the current state of its features and a bit about how it works.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Portante</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1824/the-state-of-pycscope</guid><enclosure url="https://www.youtube.com/watch?v=fbHBePJvqIQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/fbHBePJvqIQ/hqdefault.jpg"></media:thumbnail></item><item><title>39. Python under PyCScope</title><link>http://www.pyvideo.org/video/724/39-python-under-pycscope</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+CScope has been around for years, and is a very useful tool to get a handle on
+C source code. Pycscope is an attempt to bring those benefits to the world of
+Python. Unfortunately, the existing version is woefully out of date. We take a
+walk through an attempt to update it, correct some flaws and make it more
+generally useful to us, while giving us a view into the Python parser.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Portante</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/724/39-python-under-pycscope</guid><enclosure url="https://www.youtube.com/watch?v=Hx6VxszpvsY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/QCQ0EX6SLl4/hqdefault.jpg"></media:thumbnail></item><item><title>An outsider's look at co-routines.</title><link>http://www.pyvideo.org/video/396/pycon-2011--an-outsider--39-s-look-at-co-routines</link><description>&lt;p&gt;Description&lt;/p&gt;
+An outsider's look at co-routines.
+
+Presented by Peter Portante
+
+Let's take an outsiders look at coroutines, the underlying concept used by
+greenlets. First we'll define what they are conceptually, and show some
+typical use cases. Then we'll take a look at a sampling of the implementations
+out there to see what they are actually doing to implement the concept.
+Finally, we'll show their pluses and minuses, and highlight some features of
+packages that use them.
+
+Abstract
+
+Talk outline:
+
+  * Define what a coroutine is 
+    * Coroutine state not known to operating system 
+    * Difference between a thread or process 
+    * What state is required for tracking 
+  * Show how coroutines are used 
+    * gevent example 
+    * concurrence example 
+  * Review two implementations 
+    * Greenlets 
+    * Python based co-routines using generators 
+  * Advantages/Disadvantages 
+  * Differentiating features of packages that use them 
+    * Concurrence 
+    * Gevent 
+    * Eventlets 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Portante</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/396/pycon-2011--an-outsider--39-s-look-at-co-routines</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/396_an-outsider-s-look-at-co-routines.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011AnOutsidersLookAtCoroutines790-929.jpg"></media:thumbnail></item></channel></rss>

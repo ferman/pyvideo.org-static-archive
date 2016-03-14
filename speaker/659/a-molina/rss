@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of A Molina</title><link>http://www.pyvideo.org/speaker/659/a-molina/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/659/a-molina/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Building a full featured Python Web Application in 10 minutes with turbogears2 pluggable extensions part 2</title><link>http://www.pyvideo.org/video/1277/building-a-full-featured-python-web-application-i</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Building a full featured Python Web Application in 10 minutes with turbogears2
+pluggable extensions part 2 [EuroPython 2012] A Molina - 5 JULY 2012 in "Track
+Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The TurboGears 2.1 release series has deeply focused on speeding up the
+development process for rapidly prototyping full featured applications. This
+has lead to a many improvements to the CRUD extension and to the support to
+pluggable applications. Mastering those tools can make possible to build a
+complete application without much effort using the partials made available by
+the pluggable applications and exposing administrative interfaces in a bunch
+of lines of code using the CRUD extension both using SQLA and MongoDB.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Molina</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1277/building-a-full-featured-python-web-application-i</guid><enclosure url="http://www.youtube.com/watch?v=PcopX_ney0g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/PcopX_ney0g/hqdefault.jpg"></media:thumbnail></item></channel></rss>

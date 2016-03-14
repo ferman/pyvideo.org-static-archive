@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Indy Liu</title><link>http://www.pyvideo.org/speaker/57/indy-liu/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/57/indy-liu/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:53 -0000</lastBuildDate><ttl>500</ttl><item><title>Indy Liu - Building web animation application with Python-Ogre</title><link>http://www.pyvideo.org/video/110/indy-liu---building-web-animation-application-wit</link><description>&lt;p&gt;Description&lt;/p&gt;
+Building web animation application with Python-ogre
+
+Presented by Indy Liu
+
+Abstract
+
+In building our online user-customisable animation system, we needed a 3D
+engine that is powerful, stable and flexible. We are lucky to have made
+python-ogre our choice. Combined with FFMpeg and the boto library, we were
+able to build the whole solution in python with as little hassle as possible.
+
+Outline
+
+  * Open source python game engines; 
+  * What we need - Not just a game engine; 
+  * What you can do with python-ogre; 
+  * Combining with other libraries FFMpeg, boto; 
+  * Interfacing with the web - celery; 
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Indy Liu</dc:creator><guid>http://www.pyvideo.org/video/110/indy-liu---building-web-animation-application-wit</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/110_indy-liu-building-web-animation-application-with-python-ogre.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-IndyLiuBuildingWebAnimationApplicationWithPythonOgre541-29.jpg"></media:thumbnail></item></channel></rss>

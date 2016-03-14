@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard Tew</title><link>http://www.pyvideo.org/speaker/67/richard-tew/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/67/richard-tew/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:55 -0000</lastBuildDate><ttl>500</ttl><item><title>Richard Tew - Stackless Python 101</title><link>http://www.pyvideo.org/video/121/richard-tew---stackless-python-101</link><description>&lt;p&gt;Description&lt;/p&gt;
+Stackless Python 101
+
+Presented by Richard Tew
+
+Abstract
+
+An introduction to Stackless Python, showing what it is useful for and how to
+use it.
+
+Outline
+
+The talk would start by describing what Stackless Python is, and the reasons
+why you would use it. Next it would cover how to use Stackless Python. And
+finally, what the limitations of a green threading framework like this are and
+what needs to be done to cater for them.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Tew</dc:creator><guid>http://www.pyvideo.org/video/121/richard-tew---stackless-python-101</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/121_richard-tew-stackless-python-101.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-RichardTewStacklessPython101699-529.jpg"></media:thumbnail></item></channel></rss>

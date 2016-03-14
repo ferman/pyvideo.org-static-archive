@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Boag</title><link>http://www.pyvideo.org/speaker/256/andrew-boag/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/256/andrew-boag/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:25:02 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Virtualisation Used in Development</title><link>http://www.pyvideo.org/video/464/pyconau-2010--virtualisation-used-in-development</link><description>&lt;p&gt;Description&lt;/p&gt;
+Virtualisation Used in Development
+
+Presented by Andrew Boag (Catalyst IT)
+
+Some thoughts on why it makes sense to do your development inside some sort of
+virtual container. There are real pluses for the grass-level developement
+process, whether you have a large or small infrastructure.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Boag</dc:creator><guid>http://www.pyvideo.org/video/464/pyconau-2010--virtualisation-used-in-development</guid><media:thumbnail url="http://a.images.blip.tv/Pyconau-VirtualisationUsedInDevelopment614.png"></media:thumbnail></item></channel></rss>

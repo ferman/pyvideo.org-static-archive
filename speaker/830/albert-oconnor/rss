@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Albert O'Connor</title><link>http://www.pyvideo.org/speaker/830/albert-oconnor/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/830/albert-oconnor/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Nov 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Wilderness Labs</title><link>http://www.pyvideo.org/video/1603/wilderness-labs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Lessons learned and inspiration from developing Django applications
+
+quickly in isolated locations via Wilderness Labs and other zero
+
+budget projects.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Albert O'Connor</dc:creator><pubDate>Sun, 11 Nov 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1603/wilderness-labs</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Wilderness_Labs.mp4?Signature=qFH%2Fs1CJxV9fdYOjlxUqN2%2Flbhw%3D&amp;Expires=1352841101&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Wilderness_Labs.mp4?Signature=qFH%2Fs1CJxV9fdYOjlxUqN2%2Flbhw%3D&amp;Expires=1352841101&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=fkQgChJY7Xk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/fkQgChJY7Xk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

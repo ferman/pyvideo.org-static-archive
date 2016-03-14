@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Larry Hastings</title><link>http://www.pyvideo.org/speaker/212/larry-hastings/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/212/larry-hastings/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 09 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Try A Little Randomness by Larry Hastings</title><link>http://www.pyvideo.org/video/3119/try-a-little-randomness-by-larry-hastings</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk is all about random numbers--What are they? What different kinds are there?  What are they useful for?  And why are computers really bad at them?  Come learn all about random numbers, both the good and the bad.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3119/try-a-little-randomness-by-larry-hastings</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/48-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/48-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=PRbfdK2Xxh0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/PRbfdK2Xxh0/hqdefault.jpg"></media:thumbnail></item><item><title>All-Singing All-Dancing Python Bytecode</title><link>http://www.pyvideo.org/video/3919/all-singing-all-dancing-python-bytecode-0</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3919/all-singing-all-dancing-python-bytecode-0</guid><enclosure url="http://archive.org/download/pyconza2013-python-bytecode/pyconza2013-python-bytecode.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://archive.org/download/pyconza2013-python-bytecode/pyconza2013-python-bytecode.thumbs/pyconza2013-python-bytecode_002430.jpg"></media:thumbnail></item><item><title>All-Singing All-Dancing Python Bytecode</title><link>http://www.pyvideo.org/video/1777/all-singing-all-dancing-python-bytecode</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We all know Python is a bytecode interpreter, but what does that mean? Come find out! You'll learn what Python bytecodes are, what they do, and even how you can tinker with them. By the end of the talk you'll be an expert.  All code will be 100% Python 3--knowledge of C not required!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1777/all-singing-all-dancing-python-bytecode</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/AllSinging_AllDancing_Python_B.mp4?Signature=gkZS6EiSXUb3CASVBC1wHE4nkKU%3D&amp;Expires=1363669932&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/AllSinging_AllDancing_Python_B.mp4?Signature=gkZS6EiSXUb3CASVBC1wHE4nkKU%3D&amp;Expires=1363669932&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=CKu6d_v4Pqo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/CKu6d_v4Pqo/hqdefault.jpg"></media:thumbnail></item><item><title>PyConZA 2012: Stepping through CPython</title><link>http://www.pyvideo.org/video/3881/pyconza-2012-stepping-through-cpython</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Stepping through CPython: Larry Hastings' talk at PyConZA 2012</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Thu, 04 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3881/pyconza-2012-stepping-through-cpython</guid><enclosure url="http://archive.org/download/pyconza2012-cpython/pyconza2012-cpython.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://archive.org/download/pyconza2012-cpython/pyconza2012-cpython.thumbs/pyconza2012-cpython_000001.jpg"></media:thumbnail></item><item><title>Stepping Through CPython</title><link>http://www.pyvideo.org/video/635/stepping-through-cpython</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Ever wondered how CPython actually works internally? This talk will show you.
+We start with a simple Python program, then slowly step through CPython,
+showing in exhaustive detail what happens when it runs that program. Along the
+way we'll examine the design and implementation of various major CPython
+subsystems and see how they fit together. The audience should be conversant in
+C and Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/635/stepping-through-cpython</guid><enclosure url="https://www.youtube.com/watch?v=XGF3Qu4dUqk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/XGF3Qu4dUqk/hqdefault.jpg"></media:thumbnail></item><item><title>The Python That Wasn't</title><link>http://www.pyvideo.org/video/406/pycon-2011--the-python-that-wasn--39-t</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Python That Wasn't
+
+Presented by Larry Hastings
+
+One reason for Python's success is its restraint in adding new language
+features. Only the most essential changes make it--and for every change that
+gets accepted, many more are rejected. Come learn about proposed changes to
+the Python language that failed--what, how, and why.
+
+Abstract
+
+  * Quick overview of the process 
+    * First ten years: send GvR a patch 
+    * The modern approach: python-ideas, write a PEP, produce a reference implementation 
+  * Discuss the "prickly" Python community 
+    * This is a good thing! Only the best ideas survive the python-dev gauntlet! 
+    * They do this not because they're mean, but because they care so much. 
+    * We must have eternal vigilance to prevent unnecessary changes! 
+  * A survey of some changes that didn't make it 
+    * The switch/case statement (PEP 3103) 
+    * The "freeze protocol" (PEP 351) 
+    * The "dynamic attribute access" proposal from python-dev, 2007/02 
+    * Many more possibilities await in the rejected PEPs! 
+  * My message to the audience 
+    * Start with a post to python-ideas, please! 
+    * Don't be surprised if you get a negative reaction 
+    * Don't let your fear of a negative reaction stop you from trying, necessarily 
+    * Do your homework, and be your own worst critic 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/406/pycon-2011--the-python-that-wasn--39-t</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/406_the-python-that-wasn-t.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011ThePythonThatWasnt367.png"></media:thumbnail></item><item><title>Optimizations And Micro-Optimizations In CPython (#38)</title><link>http://www.pyvideo.org/video/322/pycon-2010--optimizations-and-micro-optimizations</link><description>&lt;p&gt;Description&lt;/p&gt;
+Optimizations and Micro-Optimizations in CPython
+
+  
+Presented by Mr. Larry Hastings
+
+  
+CPython mostly gets faster from one version to the next. And when CPython gets
+faster, your programs get faster. This talk is a survey of optimizations made
+to CPython, recent and historical, large and small. Audience doesn't need to
+be familiar with CPython internals, but should be familiar with Python and
+conversant in C.
+
+  
+[VIDEO HAS ISSUES: Audio interference]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/322/pycon-2010--optimizations-and-micro-optimizations</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/322_optimizations-and-micro-optimizations-in-cpython-38.ogv" length="125038120" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/322_optimizations-and-micro-optimizations-in-cpython-38.ogv" fileSize="125038120" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/322_optimizations-and-micro-optimizations-in-cpython-38.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010OptimizationsAndMicroOptimizationsInCPython38668.png"></media:thumbnail></item></channel></rss>

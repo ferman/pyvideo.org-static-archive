@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alan McCulloch</title><link>http://www.pyvideo.org/speaker/1594/alan-mcculloch/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1594/alan-mcculloch/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 13 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>tardis - an interpreter for command-line parallel execution </title><link>http://www.pyvideo.org/video/3239/tardis-an-interpreter-for-command-line-parallel</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Alan McCulloch:
+tardis - an interpreter for command-line parallel execution
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+This talk is about simplifying the command line interface to local or cluster based parallel computing.
+
+**Abstract**
+
+Ideally the user of a command shell would be unaware whether their commands were executed as a single process on the local machine, or as many concurrent processes on either their local machine or a remote cluster, apart from the reduced time taken to complete the command if executed as concurrent processes. We have developed an approach which we call “command conditioning” in which the user marks up a command with hints to the interpreter which are used to transform the marked-up command into “(re)conditioned” native shell commands which the interpreter then launches concurrently and monitors, collects and collates output and termination status. We have implemented an initial python based command-conditioning interpreter called tardis. We describe tardis, give examples of the class of compute tasks for which it is suited, and briefly outline key compute-cluster design characteristics which support this approach. We also touch on future work such as potential integration with Galaxy, a popular python based workflow system.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/alan-mcculloch-tardis-an-interpreter-for-command-line-parallel-execution</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alan McCulloch</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3239/tardis-an-interpreter-for-command-line-parallel</guid><enclosure url="http://youtu.be/Kf8Dy8Dt6YM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Kf8Dy8Dt6YM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

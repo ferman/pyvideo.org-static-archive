@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michael Carter</title><link>http://www.pyvideo.org/speaker/185/michael-carter/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/185/michael-carter/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Hookbox: All Python web-frameworks, now real-time. Batteries Included.</title><link>http://www.pyvideo.org/video/371/pycon-2011--hookbox--all-python-web-frameworks--n</link><description>&lt;p&gt;Description&lt;/p&gt;
+Hookbox: All Python web-frameworks, now real-time. Batteries Included.
+
+Presented by Michael Carter
+
+Learn how to supercharge your python web applications (Django, Pylons, TG,
+GAE, Werkzeug, WSGI, etc) with real-time features! Presenceful and moderated
+chat? About 10 minutes, seriously. A real-time graph to monitor the CPU? Less
+than five. If you pay attention for at least half of this talk, you'll leave
+confident and ready to take advantage of WebSocket, Comet, and the world,
+thanks to Hookbox.
+
+Abstract
+
+Hookbox ([http://hookbox.org](http://hookbox.org/)) is a Python and Eventlet-
+based Comet-server/message-queue which tightly integrates with existing web
+application infrastructure via web hooks and a REST interface; Hookbox’s
+purpose is to ease the development of real-time web applications, with an
+emphasis on tight integration with existing web technology. Put simply,
+Hookbox is a web-enabled message queue.
+
+Browers may directly connect to Hookbox, subscribe to named channels, and
+publish and receive messages on those channels in real-time. An external
+application (typically the web application itself) may also publish messages
+to channels by means of the Hookbox REST interface. All authentication and
+authorization is performed by an external web application via designated
+“webhook” callbacks.
+
+In this talk we cover the broad principles of Hookbox, then examine a few
+short examples in depth, including presenceful and moderated chat, real-time
+graphing, and, of course, a game. The code examples are very purposefully
+brief; the important parts of the talk deal with the interaction model between
+browser, web framework, and Hookbox -- everything else follows naturally and
+easily into place.
+
+The audience need not be familiar with a particular web framework over
+another, but they must be proficient with at least one.
+
+Though this talk is aimed at a novice level, we'll also spend some time
+talking about the more advanced features that Hookbox provides.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Carter</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/371/pycon-2011--hookbox--all-python-web-frameworks--n</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/371_hookbox-all-python-web-frameworks-now-real-time-batteries-included.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011HookboxAllPythonWebframeworksNowRealtimeBatteri858.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Fraser Tweedale</title><link>http://www.pyvideo.org/speaker/1506/fraser-tweedale/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1506/fraser-tweedale/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Integrating Python Apps with Centralised Identity Management Systems</title><link>http://www.pyvideo.org/video/3877/integrating-python-apps-with-centralised-identity</link><description>&lt;p&gt;Description&lt;/p&gt;
+Most Python web developers are familiar with authentication and
+authorisation on the open web, but the requirements and technologies
+used inside companies and large organisations are different:
+
+* Identities and groups are probably stored in an external identity
+management system's directory rather than in an application's
+database tables.
+
+* Authorisation decisions will be based on group membership and
+policies that are defined outside the application.
+
+* Users may be expected or required to use a *single sign-on*
+technology such as Kerberos or SAML to authenticate to
+applications.
+
+This talk will familiarise the audience with these technologies and
+demonstrate how Python web applications can be integrated with an
+identity management system to meet business requirements while
+providing a positive user experience.  Particular technologies
+covered will include:
+
+* [FreeIPA](https://www.freeipa.org): an open-source identity
+management solution, for defining users, groups and authorisation
+policies
+
+* [mod_auth_gssapi](https://github.com/modauthgssapi/mod_auth_gssapi) /
+mod_auth_kerb: Apache modules for Kerberos authentication
+
+* [mod_lookup_identity](http://www.adelton.com/apache/mod_lookup_identity/): Apache
+module to retrieve user information from a directory
+
+The talk will conclude with discussion about upcoming Kerberos
+features, techniques for dealing with multiple authentication
+methods, and progress in making identity management integration
+easier for Python (and in particular, Django) developers.
+
+People developing or deploying Python web applications in business
+environments or for large open source projects with centralised
+identity management will get the most out of this talk.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3877/integrating-python-apps-with-centralised-identity</guid><enclosure url="http://youtu.be/YwWC7DOC3tE" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/YwWC7DOC3tE/hqdefault.jpg"></media:thumbnail></item><item><title>Cooking with Cryptography</title><link>http://www.pyvideo.org/video/3989/cooking-with-cryptography</link><description>&lt;p&gt;Description&lt;/p&gt;
+The ``cryptography`` library emerged in 2014 with the goal of
+becoming Python's "cryptographic standard library".  It is designed
+to be easy to use but flexible, exposing a *recipes* layer for
+common use cases, and a *hazmat* layer that provides crypto
+primitives but demands users know what they're doing in order to use
+them properly.
+
+This talk will explain the motivations and goals of the
+``cryptography`` library, take a tour of its features and discuss
+its implementation.  ``cryptography`` will be compared to some other
+popular and emerging crypto libraries.  Finally, we will examine
+some real-world use of the library.
+
+Audience members should have a passing familiarity with cryptography
+(e.g. know the differences between hashing and encryption, or public
+key and private key crypto) to get the most out of this talk.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Mon, 17 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3989/cooking-with-cryptography</guid><enclosure url="https://www.youtube.com/watch?v=c16jwvOmKxM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/c16jwvOmKxM/hqdefault.jpg"></media:thumbnail></item><item><title>Integrating Django with Identity Management Systems</title><link>http://www.pyvideo.org/video/4042/integrating-django-with-identity-management-syste</link><description>&lt;p&gt;Description&lt;/p&gt;
+Most Django developers are familiar with authentication and
+authorisation on the open web, but the requirements and technologies
+used inside companies and large organisations are different:
+
+- Identities and groups are probably stored in an external identity
+  management system's directory rather than in an application's
+  database tables.
+
+- Authorisation decisions will be based on group membership and
+  policies that are defined outside the application.
+
+- Users may be expected or required to use a *single sign-on*
+  technology such as Kerberos or SAML to authenticate to applications.
+
+This talk will familiarise the audience with these technologies
+and demonstrate how Django applications can be integrated
+with an identity management system to meet business
+requirements while providing a positive user experience.  Particular
+technologies covered will include:
+
+- FreeIPA: an open-source identity management solution, for defining
+  users, groups and authorisation policies
+
+- mod_auth_gssapi / mod_auth_kerb: Apache modules for Kerberos
+  authentication
+
+- mod_lookup_identity: Apache module to retrieve user information
+  from a directory
+
+The talk will conclude with discussion about upcoming Kerberos
+features, techniques for dealing with multiple authentication
+methods, and progress in making identity management integration
+easier for Django developers.
+
+People developing or deploying Django applications in business
+environments or for large open source projects with centralised
+identity management will get the most out of this talk.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4042/integrating-django-with-identity-management-syste</guid><enclosure url="https://www.youtube.com/watch?v=HhcotmeioT8" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/HhcotmeioT8/hqdefault.jpg"></media:thumbnail></item><item><title>Descriptors: attribute access redefined by Fraser Tweedale</title><link>http://www.pyvideo.org/video/3123/descriptors-attribute-access-redefined-by-fraser</link><description>&lt;p&gt;Description&lt;/p&gt;
+Descriptors are a powerful feature of Python that can be used to augment or replace traditional attribute access with arbitrary behaviours.  Such versatility makes the descriptor protocol a valuable tool for any Python programmer, yet although most of us have used descriptors, fewer have implemented one.
+
+This presentation will explain the use cases that motivate descriptors and how other features in Python fall short.  We will then look at some of the descriptors that the audience may already have used (even if they didn't know they were using descriptors!)  This will be followed with an explanation of the descriptor protocol and some implementation and usage examples.
+
+I will discuss some of the finer details of descriptor implementation and will conclude with a look at Elk - a declarative object system authored by the presenter and inspired by Perl's Moose - and the descriptors that power it.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3123/descriptors-attribute-access-redefined-by-fraser</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/54-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/54-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=xYBVjVEJtEg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/xYBVjVEJtEg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

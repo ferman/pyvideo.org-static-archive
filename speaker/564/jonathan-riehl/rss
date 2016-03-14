@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jonathan Riehl</title><link>http://www.pyvideo.org/speaker/564/jonathan-riehl/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/564/jonathan-riehl/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>ROFL: a functional Python dialect for science</title><link>http://www.pyvideo.org/video/1191/rofl-a-functional-python-dialect-for-science</link><description>&lt;p&gt;Description&lt;/p&gt;
+Current parallel programming models leave a lot to be desired and fail to
+maintain pace with improvements in hardware architecture. For many scientific
+research groups these models only widen the gap between equations and scalable
+parallel code. The Resilient Optimizing Flow Language (ROFL) is a data-flow
+language designed with the purpose of solving the problems of both domain
+abstraction and efficient parallelism. Using a functional, declarative variant
+of the Python language, ROFL takes scientific equations and optimizes for both
+scalar and parallel execution.
+
+ROFL is closely tied to Python and the SciPy libraries. ROFL uses Python
+expression syntax, is implemented in Python, and emits optimized Python code.
+ROFL's implementation in Python allows ROFL to be embedded in Python. Using
+Python as a target language makes ROFL extensible and portable. By removing
+imperative loop constructs and focusing on integration with the NumPy and
+SciPy libraries, ROFL both supports and encourages data parallelism.
+
+In this presentation, we introduce the ROFL language, and demonstrate by
+example how ROFL enables scientists to focus more on the equations they are
+solving, and less on task and data parallelism.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Riehl</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1191/rofl-a-functional-python-dialect-for-science</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ROFL_a_functional_Python_dialect_for_science.mp4?Signature=s%2FDUCoB4OybZmEOzK2fg9hTBccw%3D&amp;Expires=1346445141&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ROFL_a_functional_Python_dialect_for_science.mp4?Signature=s%2FDUCoB4OybZmEOzK2fg9hTBccw%3D&amp;Expires=1346445141&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=OF3CYqj4H9U" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/OF3CYqj4H9U/hqdefault.jpg"></media:thumbnail></item></channel></rss>

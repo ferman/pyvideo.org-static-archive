@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rohit Sankaran</title><link>http://www.pyvideo.org/speaker/449/rohit-sankaran/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/449/rohit-sankaran/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 10 Feb 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Python/Django deployment</title><link>http://www.pyvideo.org/video/567/python-django-deployment</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+I'll introduce the WSGI ecosystem. We'll then setup a Django app and deploy it
+to a VM. I'll cover server setup/config and best practices and cover software
+used like Fabric, nginx etc. Sample nginx, WSGI and Apache configs will be
+provided. People can follow along and I'll provide download links after so
+they can try it at home. This will be the best meeting ever.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Sankaran</dc:creator><pubDate>Thu, 10 Feb 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/567/python-django-deployment</guid><enclosure url="http://blip.tv/file/get/CarlFK-PythonDjangoDeployment270.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-PythonDjangoDeployment775.png"></media:thumbnail></item></channel></rss>

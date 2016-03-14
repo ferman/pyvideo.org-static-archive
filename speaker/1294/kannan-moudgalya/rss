@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Kannan Moudgalya</title><link>http://www.pyvideo.org/speaker/1294/kannan-moudgalya/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1294/kannan-moudgalya/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Campaign for IT literacy through FOSS and Spoken Tutorials</title><link>http://www.pyvideo.org/video/2787/campaign-for-it-literacy-through-foss-and-spoken</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Textbook Companion (TBC) has code for solved problems of textbooks,
+coordinated by FOSSEE (http://fossee.in).
+We explain a collaborative method
+that helped create 500 Scilab TBCs (http://cloud.scilab.in) and over 100
+Python TBCs (http://tbc-python.fossee.in/). We also explain a self learning
+method that trained 250,000 students on FOSS systems using spoken
+tutorials (http://spoken-tutorial.org).
+
+&lt;p&gt;Description&lt;/p&gt;
+The FOSSEE team has been promoting the use of FOSS in educational
+institutions in India. It focuses on the following FOSS systems currently:
+Scilab, Python, Oscad, OpenFOAM, COIN-OR and OpenFormal
+([http://fossee.in](http://fossee.in)).  On each of these systems, the
+following three standardised help are provided:
+
+1. Support to conduct spoken tutorial based workshops, explained below
+2. Creation of Textbook Companion (TBC) 
+3. Support to Lab Migration.
+
+A TBC is a collection of code for solved examples of standard textbooks.  We
+have completed a large number of TBCs on Scilab and made them available for
+online use at [Scilab](http://cloud.scilab.in/) and offline use at
+[Completed Books](http://www.scilab.in/Completed_Books).  Similarly, one may
+access the Python TBC at [Python TBC](http://tbc-python.fossee.in/).  These
+TBCs are created by students and teachers from many colleges and each
+creator is paid an honorarium through a project funded by the Government of
+India.
+
+[Spoken Tutorial](http://spoken-tutorial.org) is a screencast of ten minute
+duration on a FOSS topic, created for self learning.  Using Spoken
+Tutorials, we conduct two hour long workshops on FOSS topics through
+volunteers, who need not be experts.  We conduct online tests and provide
+certificates for all who pass the tests.  All of these are done completely
+free of cost, thanks to the financial support from the Government of India.
+Using this method, we have trained more than 200K students in the last two
+years in India ([statistics](http://www.spoken-tutorial.org/statistics)).
+
+The students love this method, see some testimonials at
+[http://www.spoken-tutorial.org/testimonials](http://www.spoken-tutorial.org/testimonials).  It is being increasingly
+accepted by colleges and universities, officially.  We expect to
+conduct 5K to 10K workshops in 2014, training 200K to 500K students.
+As we dub the spoken part into all 22 languages of India, the FOSS
+topics are accessible also to students who are not fluent in English,
+thereby helping us reach out to many students.  Spoken Tutorial, which
+started as a documentation project for FOSS systems has transformed
+into a massive training programme.  Our methods are scalable and are
+available to the FOSS enthusiasts in the rest of the world.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kannan Moudgalya</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2787/campaign-for-it-literacy-through-foss-and-spoken</guid><enclosure url="http://www.youtube.com/watch?v=rCSoGLjqyyE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/rCSoGLjqyyE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

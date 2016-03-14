@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Franco Carbognani</title><link>http://www.pyvideo.org/speaker/1832/franco-carbognani/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1832/franco-carbognani/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 09 Jun 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>V-ERAS-14: Una missione di esplorazione marziana in realtà virtuale</title><link>http://www.pyvideo.org/video/3560/v-eras-14-una-missione-di-esplorazione-marziana</link><description>&lt;p&gt;Description&lt;/p&gt;
+European MaRs Analogue Station for Advanced Technologies Integration (ERAS) è un programma guidata dall’Italian Mars Society (IMS), il cui obiettivo principale è fornire un ambiente di test per studiare operazioni sul campo in preparazione a una missione su Marte.
+Prima della sua costruzione, IMS ha iniziato lo sviluppo di una simulazione immersiva in realtà virtuale (VR) della stazione ERAS (V-ERAS).
+Il setup iniziale di V-ERAS si basa sui seguenti elementi chiave:
+ - Simulazione della stazione ERAS usando un virtual reality headset
+ - Full body tracking
+ - Integrazione con un treadmill omnidirezionale
+ - Supporto per il monitoraggio della salute dei membri della crew
+ - Supporto per utenti multipli
+Fin dall’inizio, Python è stato una delle tecnologie chiave che ci ha permesso di sviluppare il sistema, grazie anche a un team internazionale di studenti che hanno partecipato con l’IMS a Google Summer of Code.
+Nel Dicembre 2014, quattro astronauti virtuali hanno condotto per una settimana un programma di simulazioni immersive in realtà virtuale durante la prima missione V-ERAS (V-ERAS-14).
+La presentazione mostrerà i risultati della missione V-ERAS-14, integrandoli con il ruolo che Python ha avuto nel supportare l’infrastruttura del progetto.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ezio Melotti,Franco Carbognani</dc:creator><pubDate>Tue, 09 Jun 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3560/v-eras-14-una-missione-di-esplorazione-marziana</guid><enclosure url="https://www.youtube.com/watch?v=tbOra5MjSgQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/tbOra5MjSgQ/hqdefault.jpg"></media:thumbnail></item><item><title>V-ERAS-14: A Virtual Reality Mars Exploration Mission (in English)</title><link>http://www.pyvideo.org/video/3626/v-eras-14-a-virtual-reality-mars-exploration-mis</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This presentation reports on the outcomes of the V-ERAS-14 Mission while focusing on the integral role played by the Python language in supporting the project infrastructure.
+&lt;p&gt;Description&lt;/p&gt;
+The European MaRs Analogue Station for Advanced Technologies Integration (ERAS) is a program spearheaded by the Italian Mars Society (IMS), whose main goal is to provide an effective test bed for field operation studies in preparation for human missions to Mars.
+Preliminarily to its construction, IMS has started the development of an immersive Virtual Reality (VR) simulation of the ERAS Station (V-ERAS).
+The initial V-ERAS setup has been based on the following key elements:
+ - ERAS Station simulation using an appropriate game engine supporting a virtual reality headset
+ - Full body tracking
+ - Integration of an omnidirectional treadmill
+ - Support for the crew members’ health monitoring
+ - Multiplayer Support
+Since the beginning, Python has been one of the key technologies that allowed us to develop the system, also thanks to a team of international students that participated with the IMS to Google Summer of Code.
+In December 2014, four virtual astronauts have conducted a sustained program of immersive virtual reality simulations during the first week-long V-ERAS Mission (V-ERAS-14).
+The presentation will report on the outcomes of the V-ERAS-14 Mission while fusing on the 
+transversal role played by the Python language in supporting the project infrastructure.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ezio Melotti,Franco Carbognani</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3626/v-eras-14-a-virtual-reality-mars-exploration-mis</guid><enclosure url="https://www.youtube.com/watch?v=I5e__EoRpnM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/I5e__EoRpnM/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

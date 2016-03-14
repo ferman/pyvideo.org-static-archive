@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adriano Di Luzio</title><link>http://www.pyvideo.org/speaker/1860/adriano-di-luzio/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1860/adriano-di-luzio/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 29 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Davvy - Django, WebDAV e (pessimo) stato dell'arte.</title><link>http://www.pyvideo.org/video/3609/davvy-django-webdav-e-pessimo-stato-dellart</link><description>&lt;p&gt;Description&lt;/p&gt;
+Davvy è un’applicazione Django che permette la gestione di servizi WebDAV.
+Gli obiettivi del talk comprendono: fornire un’overview del protocollo WebDAV e mostrarne la nostra implementazione; mostrare la costruzione di un’applicazione Django che gestisca servizi basati su protocolli di questo tipo, in modo che sia estendibile a piacimento e pienamente configurabile (e quindi anche qualche buona regola da seguire nello sviluppo Django). 
+Analizzare lo stato dell’arte e quindi, in particolare, come ogni client implementi, a proprio piacimento,  specifiche “personalizzate” del protocollo, risultando in una quasi impossibile interoperabilità e una scarsa compatibilità con i fornitori di servizi.
+I prerequisiti necessari richiedono soltanto una conoscenza poco approfondita di Django.
+Il talk includerà:
+
+Dettagli sul protocollo WebDAV: cos’è, a cosa serve, come lo utilizziamo, e le alternative odierne.
+Dettagli implementativi: come funziona WebDAV sotto il cofano, le estensioni che apporta ad HTTP, come utilizza l’XML e soprattutto, come utilizzare Django per gestirlo.
+Django e WebDAV: la struttura nello specifico della nostra implementazione, il model, le view e l’implementazione di un’applicazione Django sui generis.
+Scelte di implementazione, difficoltà tecniche e soluzioni: dove abbiamo utilizzato il database e dove invece abbiamo ritenuto più opportuno sfruttare le periferiche di archiviazione, i problemi che abbiamo incontrato durante lo sviluppo, e come li abbiamo risolti.
+Il pessimo stato dell’arte: come ogni client implementi una propria versione “personalizzata” di WebDAV e come Davvy si adatta in mdo implicito ed automatico alle diverse richieste dei client. Esempi sui più noti client: Apple’s Calendar, Mozilla Thunderbird, e così via.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adriano Di Luzio</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3609/davvy-django-webdav-e-pessimo-stato-dellart</guid><enclosure url="https://www.youtube.com/watch?v=YGwciTWE60A" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/YGwciTWE60A/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

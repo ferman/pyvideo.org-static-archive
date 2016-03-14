@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Bruno Renié</title><link>http://www.pyvideo.org/speaker/531/bruno-renie/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/531/bruno-renie/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Spatial data and GeoDjango</title><link>http://www.pyvideo.org/video/1098/spatial-data-and-geodjango</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Bruno Renie - 21 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+GeoDjango is the "world-class geographic web framework" everyone has probably
+heard of. The purpose of this talk, targeted at people familiar with Django
+itself, is to introduce in more details the capabilities of this framework.
+
+After learning the basics of Geographic Information Systems, we will see:
+
+  * how to get started with a GeoDjango installation,
+  * how to import, store and query spatial data,
+  * how to geo-enable your forms to allow user-generated spatial data,
+  * how to serialize and display your data using the different formats and mapping frameworks such as OpenLayers and Polymaps.
+
+During this talk we will be building a simple GeoDjango application to
+illustrate the different concepts introduced.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruno Renié</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1098/spatial-data-and-geodjango</guid><enclosure url="http://www.youtube.com/watch?v=wWzc-gn8IOU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/wWzc-gn8IOU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

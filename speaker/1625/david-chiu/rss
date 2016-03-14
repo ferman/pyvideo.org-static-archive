@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Chiu</title><link>http://www.pyvideo.org/speaker/1625/david-chiu/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1625/david-chiu/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 27 Jun 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Social Network Analysis with Python</title><link>http://www.pyvideo.org/video/3243/social-network-analysis-with-python-pycon-apac-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+As the rise of social network, the relationship between people can now be described as network graph. Through the analysis of social network, the complex people interaction can be characterized by mathematical model.
+
+Since the social network information can now being accessed by simple API call, this talk will introduce how to use python and install related package to build up simple script to access and analyze social network. In addition, this talk will introduce how to use a powerful network visualization tool, Gephi, to build up interactive figure.
+
+From this talk, the audience can follow up each provision steps to build up a powerful analysis program to analyze one's own social network.
+
+
+About the speaker
+
+David Chiu, 前趨勢科技工程師, NumerInfo 營運長, TW.R Officer 一位致力於提供Data as a Service 的創業者、資料科學家，熟悉巨量資料處理，暨長時間專注使用各式Data Mining 技術做資料分析；為台灣Python 及 R 社群的忠實聽眾，喜愛參與社團交流與分享，希望能多了解如何使用Python &amp; R 讓 資料分析更簡單上手。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Chiu</dc:creator><pubDate>Fri, 27 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3243/social-network-analysis-with-python-pycon-apac-2</guid><enclosure url="https://www.youtube.com/watch?v=259sgRMHso0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/259sgRMHso0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Carl Karsten</title><link>http://www.pyvideo.org/speaker/313/carl-karsten/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/313/carl-karsten/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Python.MiroCommunity.org + UniversalSubtitles.org</title><link>http://www.pyvideo.org/video/356/pycon-2011--python-mirocommunity-org---universals</link><description>&lt;p&gt;Description&lt;/p&gt;
+Will and Carl talk about Python Miro Community, where it's at now, the PSF
+grant, and what they're planning for it in the future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Karsten,Will Kahn-Greene</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/356/pycon-2011--python-mirocommunity-org---universals</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/356_python-mirocommunity-org-universalsubtitles-org.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4324/375x295.png"></media:thumbnail></item><item><title>Django Deployment for the Average Bloke</title><link>http://www.pyvideo.org/video/570/django-deployment-for-the-average-bloke</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Deploying a Django/Pinax site on the following stack: Linux Debian Lenny
+Apache mod_wsgi PostgreSQL.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This is the config you want to use if you don't know what you want to use. You
+don't need to make any choices, you don't have to do any research, and you
+don't even need to read the docs if you don't want to. And as an added bonus,
+I show how to wget a vm image to deploy into with network ports exposed. It is
+very much like working with a hosting provider like Slice Host, and it makes a
+great framework for testing server installs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Karsten</dc:creator><pubDate>Thu, 13 Jan 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/570/django-deployment-for-the-average-bloke</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/570_django-deployment-for-the-average-bloke.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/570_django-deployment-for-the-average-bloke.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/570_django-deployment-for-the-average-bloke.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/CarlFK-DjangoDeploymentForTheAverageBloke934.png"></media:thumbnail></item></channel></rss>

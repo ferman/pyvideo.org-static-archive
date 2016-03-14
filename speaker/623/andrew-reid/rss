@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Reid</title><link>http://www.pyvideo.org/speaker/623/andrew-reid/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/623/andrew-reid/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Plasticity in OOF</title><link>http://www.pyvideo.org/video/2802/plasticity-in-oof</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We discuss recent advances in the Object Oriented Finite-Element project at NIST, a Python and C++ tool designed to bring sophisticated numerical modeling capabilities to users in the field of Materials Science.
+&lt;p&gt;Description&lt;/p&gt;
+We discuss recent advances in the Object Oriented Finite-Element project at
+NIST (also called [OOF](http://www.ctcms.nist.gov/oof/oof2)), a Python and C++
+tool designed to bring sophisticated numerical modeling capabilities to users
+in the field of Materials Science.
+
+As part of the effort to expand the solid-mechanics capabilities of the code,
+the solver has been extended to include the ability to handle history-dependent
+properties, such as occur in viscoplastic systems, and inequality constraints,
+which are present in conventional isotropic plasticity, as well as surface
+interactions.
+
+This software provides numerous tools for constructing finite-element meshes from microstructural images, and for implementing material properties from a very broad class which includes elasticity, chemical and thermal diffusion, and electrostatics.
+
+The code is a hybrid of Python and C++ code, with the high level user interface and control code in Python, and the heavy numeric work being done in C++. Numerous tools are provided for constructing finite-element meshes from microstructural images, and for implementing material properties from a very broad class which includes elasticity, chemical and thermal diffusion, and electrostatics. The software can be operated either as an interactive, GUI-driven application, as a scripted command-line tool, or as a supporting library, providing useful access to users of varying levels of expertise. At every level, the user-interface objects are intended to be familiar to the materials-science user.
+
+The modular object-oriented design of the code, and the strategy of separating the finite-element infrastructure from the material constitutive rules proved itself in implementing the new solid-mechanics capabilities.
+
+Development on a fully-3D version of the code has also made significant progress, overcoming several challenges associated with user-interface issues. A nontrivial, solved 3D problem will be presented.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Reid</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2802/plasticity-in-oof</guid><enclosure url="http://www.youtube.com/watch?v=VzXiPmR_wQk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/VzXiPmR_wQk/hqdefault.jpg"></media:thumbnail></item><item><title>Object Oriented Finite Elements at NIST</title><link>http://www.pyvideo.org/video/1232/object-oriented-finite-elements-at-nist</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Object Oriented Finite-Element project at NIST
+&lt;[http://www.ctcms.nist.gov/oof](http://www.ctcms.nist.gov/oof)&gt; is a Python
+and C++ tool designed to bring sophisticated numerical modeling capabilities
+to users in the field of Materials Science. The software provides numerous
+tools for constructing finite-element meshes from microstructural images, and
+for implementing material properties from a very broad class which includes
+elasticity, chemical and thermal diffusion, and electrostatics. The current
+series of releases has a robust interface for defining new nonlinear
+properties, and provides both first and second order time-dependence in the
+equations of motion. The development team is currently working on a fully-3D
+version of the code, as well as expanding the scope of available properties to
+include surface interactions, such as surface tension and chemical reactions,
+and inequality constraints, such as arise in mechanical surface contact and
+plasticity. The software is a hybrid of Python and C++ code, with the high
+level user interface and control code in Python, and the heavy numeric work
+being done in C++. The software can be operated either as an interactive, GUI-
+driven application, as a scripted command-line tool, or as a supporting
+library, providing useful access to users of varying levels of expertise. At
+every level, the user-interface objects are intended to be familiar to the
+materials-science user. This presentation will focus on an interesting example
+of a nonlinear property, called Ramberg-Osgood elasticity, and the process for
+incorporating this feature into the OOF architecture.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Reid</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1232/object-oriented-finite-elements-at-nist</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Object_Oriented_Finite_Element.mp4?Signature=UwtvlUJXYHNDjR5nZs59Lt1Fp7Y%3D&amp;Expires=1346383004&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Object_Oriented_Finite_Element.mp4?Signature=UwtvlUJXYHNDjR5nZs59Lt1Fp7Y%3D&amp;Expires=1346383004&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=mSCo09arkY0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/mSCo09arkY0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

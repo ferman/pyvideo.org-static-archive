@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of James Tauber</title><link>http://www.pyvideo.org/speaker/16/james-tauber/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/16/james-tauber/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 17 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How to Contribute to Pinax</title><link>http://www.pyvideo.org/video/28/how-to-contribute-to-pinax</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to Contribute to Pinax
+
+  
+Presented by James Tauber
+
+  
+Talks about what Pinax is and how to contribute to the Pinax project.
+
+  
+[Pinax project](http://pinaxproject.com/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/28/how-to-contribute-to-pinax</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/28_how-to-contribute-to-pinax.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-HowToContributeToPinax109.png"></media:thumbnail></item><item><title>Introduction from the fake Jacob Kaplan-Moss</title><link>http://www.pyvideo.org/video/34/djangocon-2009--introduction-from-the-fake-jacob-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction from the fake Jacob Kaplan-Moss
+
+  
+Presented by James Tauber
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/34/djangocon-2009--introduction-from-the-fake-jacob-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/34_introduction-from-the-fake-jacob-kaplan-moss.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-IntroductionFromTheFakeJacobKaplanMoss840.png"></media:thumbnail></item><item><title>Introduction to Pinax</title><link>http://www.pyvideo.org/video/20/introduction-to-pinax</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introduction to Pinax
+
+  
+Presented by James Tauber and Daniel Greenfeld
+
+  
+Walks through what Pinax is, how it's useful to you, how to install it, and
+walks through building a simple site using Pinax.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Greenfeld,James Tauber</dc:creator><guid>http://www.pyvideo.org/video/20/introduction-to-pinax</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/20_introduction-to-pinax.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-IntroductionToPinax842.png"></media:thumbnail></item><item><title>Pinax after Three Years: Lessons Learnt and the Way Forward</title><link>http://www.pyvideo.org/video/72/djangocon-2011--pinax-after-three-years--lessons-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pinax after three years: Lessons learnt and the way forward
+
+Presented by James Tauber
+
+The Pinax platform has had its ups and downs since it was launched in 2008.
+People either love it or just don't get it. About the only thing everyone
+agrees on is that it doesn't seem to be progressing as fast as it once did.
+This talk will take a fresh look at the goals of Pinax, what we did well, what
+we didn't do so well and what we're (slowly) doing to fix it.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/72/djangocon-2011--pinax-after-three-years--lessons-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/72_pinax-after-three-years-lessons-learnt-and-the-way-forward.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-PinaxAfterThreeYearsLessonsLearntAndTheWayForward913-612.jpg"></media:thumbnail></item><item><title>Typewar: A Case Study</title><link>http://www.pyvideo.org/video/64/djangocon-2010--typewar--a-case-study</link><description>&lt;p&gt;Description&lt;/p&gt;
+Typewar: A Case Study
+
+Presented by James Tauber
+
+Typewar is a popular font-guessing game built with Django and Pinax. This talk
+will cover everything from game mechanics and statistics to development of an
+API for an iPhone client and from how we promoted and launched the site to the
+performance challenges we faced.
+
+Abstract
+
+Typewar was developed as a side project at Eldarion and went from concept to
+launch in a matter of weeks. The first day saw 5,000 visitors and since then,
+over 50,000 people have attempted to "guess the typeface" more than 5 million
+times.
+
+The talk will cover:
+
+  * how we went from concept to design mockup to prototype 
+  * game mechanics such as: 
+    * points 
+    * levels 
+    * badges 
+    * streaks 
+    * leader boards 
+    * stats (with lots of bayesian goodness) 
+  * generation of glyphs with PIL 
+  * mitigation against cheaters 
+  * twitter integration 
+  * migrating unauthenticated user data over on sign up / log in 
+  * activity streams 
+  * performance challenges 
+  * database optimizations 
+  * queuing of asynchronous tasks 
+  * development of an API for use in an iPhone client 
+  * deployment 
+  * how we promoted and launched the site 
+
+We will also discuss various open source Django apps that have been extracted
+from the project and used on subsequent sites by us and others.
+
+[http://typewar.com/](http://typewar.com/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/64/djangocon-2010--typewar--a-case-study</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/64_typewar-a-case-study.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TypewarACaseStudy770-135.jpg"></media:thumbnail></item><item><title>ApplePy: An Apple ][ emulator in Python</title><link>http://www.pyvideo.org/video/1710/applepy-an-apple-emulator-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+ApplePy is an Apple ][ emulator written in Python. It combines emulation of the 6502 microprocessor with emulation of the keyboard, display (including graphics mode), speaker, cassette and disk drive. This talk will provide a background to Apple ][ internals then dive into the Python code and the challenges of emulating hardware.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1710/applepy-an-apple-emulator-in-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/ApplePy_An_Apple_emulator_in_P.mp4?Signature=3nW%2BLF%2FBZ2eFzz3cKw9UfPeI%2B4k%3D&amp;Expires=1363824802&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/ApplePy_An_Apple_emulator_in_P.mp4?Signature=3nW%2BLF%2FBZ2eFzz3cKw9UfPeI%2B4k%3D&amp;Expires=1363824802&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=EhK5JNx0irA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/EhK5JNx0irA/hqdefault.jpg"></media:thumbnail></item><item><title>Music Theory and Performance Analysis with Sebastian and Czerny</title><link>http://www.pyvideo.org/video/1769/music-theory-and-performance-analysis-with-sebast</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will discuss two open source projects for using Python for music analysis. Sebastian focuses on music theory while Czerny focuses on performance (particularly keyboard playing).</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1769/music-theory-and-performance-analysis-with-sebast</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Music_Theory_and_Performance_A.mp4?Signature=8YMCCv77s2nNlbXWXCZ0%2BJyg1xw%3D&amp;Expires=1363666884&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Music_Theory_and_Performance_A.mp4?Signature=8YMCCv77s2nNlbXWXCZ0%2BJyg1xw%3D&amp;Expires=1363666884&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=06h21nBqwec" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/06h21nBqwec/hqdefault.jpg"></media:thumbnail></item><item><title>You Used Python for What?!</title><link>http://www.pyvideo.org/video/1353/you-used-python-for-what</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Taking a break from his usual web development, James will give an overview of
+some of the more unusual things he's done with Python: from implementing other
+programming languages to analyzing piano performances; from emulating an Apple
+][ to the beginnings of an operating system written in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><pubDate>Sat, 28 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1353/you-used-python-for-what</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/You_Used_Python_for_What.mp4?Signature=l3FyP2qi%2Bfphe76sBKPBXeU%2BTZU%3D&amp;Expires=1346552312&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/You_Used_Python_for_What.mp4?Signature=l3FyP2qi%2Bfphe76sBKPBXeU%2BTZU%3D&amp;Expires=1346552312&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=NLRWUQDaApw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/NLRWUQDaApw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

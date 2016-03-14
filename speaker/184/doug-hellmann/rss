@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Doug Hellmann</title><link>http://www.pyvideo.org/speaker/184/doug-hellmann/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/184/doug-hellmann/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How I built a power debugger out of the standard library and things I found on the internet</title><link>http://www.pyvideo.org/video/3679/how-i-built-a-power-debugger-out-of-the-standard</link><description>&lt;p&gt;Description&lt;/p&gt;
+Smiley spys on your application, recording everything it does, using Python's built-in tracing facility and a database to create a complete record of your program's runtime so you can study it. Most of the tools I used to create Smiley are in Python's standard library, and the history of Smiley's development serves as a framework to discuss those tools and how you can tap their power yourself.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Doug Hellmann</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3679/how-i-built-a-power-debugger-out-of-the-standard</guid><enclosure url="http://youtu.be/VDbiMXs9fgM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/VDbiMXs9fgM/hqdefault.jpg"></media:thumbnail></item><item><title>Dynamic Code Patterns: Extending Your Applications with Plugins</title><link>http://www.pyvideo.org/video/1789/dynamic-code-patterns-extending-your-application</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python makes loading code dynamically easy, allowing you to configure and extend your application by discovering and loading extensions at runtime. This presentation will discuss the techniques for dynamic code loading used in several well-known applications and weigh the pros and cons of each approach.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Doug Hellmann</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1789/dynamic-code-patterns-extending-your-application</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Dynamic_Code_Patterns_Extendin.mp4?Signature=fX7tgkDM6s3amTkcJbZx9ZkIhKA%3D&amp;Expires=1363811623&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Dynamic_Code_Patterns_Extendin.mp4?Signature=fX7tgkDM6s3amTkcJbZx9ZkIhKA%3D&amp;Expires=1363811623&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=7K72DPDOhWo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/7K72DPDOhWo/hqdefault.jpg"></media:thumbnail></item><item><title>Better Documentation Through Automation: Creating Sphinx Extensions</title><link>http://www.pyvideo.org/video/1703/better-documentation-through-automation-creating</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Sphinx is an incredibly useful tool for creating attractive documentation for your project, but if all you ever use it for is converting reStructuredText files to HTML you are barely scratching the surface of its power. This presentation shows how easy it is to extend Sphinx by defining new markup processors, allowing you to take your documentation to the next level.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Doug Hellmann</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1703/better-documentation-through-automation-creating</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Better_Documentation_Through_A.mp4?Signature=x%2BqakLDq5hs5pGUGagOA4JY8iJE%3D&amp;Expires=1363656251&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Better_Documentation_Through_A.mp4?Signature=x%2BqakLDq5hs5pGUGagOA4JY8iJE%3D&amp;Expires=1363656251&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=8vwtgMkqE9o" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/8vwtgMkqE9o/hqdefault.jpg"></media:thumbnail></item><item><title>Hidden Treasures in the Standard Library</title><link>http://www.pyvideo.org/video/370/pycon-2011--hidden-treasures-in-the-standard-libr</link><description>&lt;p&gt;Description&lt;/p&gt;
+Hidden Treasures in the Standard Library
+
+Presented by Doug Hellmann
+
+This presentation covers features of the standard library not widely known or
+used. Each feature is presented with a short demonstration program and
+explanation.
+
+Abstract
+
+The standard library contains many hidden gems that are not widely used,
+either because they are not publicized enough or because they are deep in a
+module that programmers haven't had cause to study or use. This presentation
+covers 8-10 selected topics of this nature in about 25 minutes (leaving time
+for a couple of questions). Demonstration code is included for every item.
+
+Possible tips include, in no particular order:
+
+  * Using hmac to verify pickled data before unpacking it. 
+  * Using uuid4 to generate session tokens. 
+  * Regular expression look-ahead/behind matches. 
+  * pdb startup files 
+  * Reading files with mmap 
+  * Using csv dialects 
+  * The robotparser module 
+  * The rlcompleter module 
+  * Using locale to format numbers and currency 
+  * The cgitb module 
+  * pkgutil.getdata 
+  * contextlib.contextmanager 
+  * The cmd module 
+  * The fileinput module 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Doug Hellmann</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/370/pycon-2011--hidden-treasures-in-the-standard-libr</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/370_hidden-treasures-in-the-standard-library.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011HiddenTreasuresInTheStandardLibrary179-925.jpg"></media:thumbnail></item></channel></rss>

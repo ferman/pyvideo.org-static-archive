@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Peter Lovett</title><link>http://www.pyvideo.org/speaker/851/peter-lovett/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/851/peter-lovett/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>On Being Pythonic</title><link>http://www.pyvideo.org/video/3973/on-being-pythonic</link><description>&lt;p&gt;Description&lt;/p&gt;
+Design Patterns, standard designs and idioms in Python
+
+Pythonic (Noun): Uses Python idioms well, that it is natural or shows fluency in the language.
+
+Even though you’re using Python syntax and keywords, your code still smells like C, Java or Perl. Or just feels like it's not the best way. This tour of Python is about changing the way you think, and to write Python that makes the best use of the language. As a result, your Python will be cleaner, simpler, nicer, and be more readable.
+
+Even though you know the syntax to make a class and inherit, you don't know when you should. Composition? IsA, HasA, IsLikeA? What about factories, singletons, iterators and adapters?
+
+Mashing together a long and painful background of C, C++, Perl and Java coding, a mind-expanding trip down the Elements of Reusable Object-Oriented Software rabbit hole, and over 30 years programming experience, Peter brings some clarity, reason and ideas on Pythonic idioms and OO design as implemented in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Lovett</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3973/on-being-pythonic</guid><enclosure url="https://www.youtube.com/watch?v=R4AeB85gEeU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/R4AeB85gEeU/hqdefault.jpg"></media:thumbnail></item><item><title>Python 102 - a recap and a bit more.</title><link>http://www.pyvideo.org/video/2219/python-102-a-recap-and-a-bit-more</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Self taught in Python? Think you missed a bit? This 90 minutes will fix everything. From a really quick recap of the bare-bones essentials, you'll get a good grasp and the core of Python. Want to know more about classes, objects and more? This is for you. Also suitable for beginners who need a quick start.
+* Recap of the essentials
+* Understanding the object model
+* Everything you've ever wanted to know about dictionaries
+* Building on types
+* Creating your own types - Object Oriented Programming
+* Important elements from the Standard Library
+And lots of time for questions.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Lovett</dc:creator><pubDate>Sat, 06 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2219/python-102-a-recap-and-a-bit-more</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Python_102_a_recap_and_a_bit_m.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Python_102_a_recap_and_a_bit_m.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=yyzX_7lR7Mk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/yyzX_7lR7Mk/hqdefault.jpg"></media:thumbnail></item><item><title>Python Dark Corners Revisited</title><link>http://www.pyvideo.org/video/1641/python-dark-corners-revisited</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python can be deceptive - it looks so simple.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python can be deceptive - it looks so simple. Surely it will take only 5 to 10
+minutes to learn.
+
+Self taught programmers often miss important fundamentals in Python -
+including:
+
+  * Everything is an Object. Yes everything. Integers, 'real' objects, functions, classes. Ooooh template metaprogramming.
+  * It's only a name. Whoops. True, False, no longer None.
+  * 'Objects can change their type'. Not.
+  * How the heck to a actually make a copy
+  * Which parts of tuples are constant?
+  * Deep and Shallow - weren't not talking philosophy here
+  * Accidental name creation - there's no easy solution
+  * Argument passing, Mutable arguments, default arguments, Mutable default arguments
+  * Questions
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Lovett</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1641/python-dark-corners-revisited</guid><enclosure url="http://www.youtube.com/watch?v=CD_Eh8GLCPA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/CD_Eh8GLCPA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

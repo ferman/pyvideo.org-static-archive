@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Sergio Rey</title><link>http://www.pyvideo.org/speaker/573/sergio-rey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/573/sergio-rey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>GIS Panel Discussion</title><link>http://www.pyvideo.org/video/1980/gis-panel-discussion-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Authors: Panel participants: Sergio Ray (Arizona State U), Shaun Walbridge (ESRI), Andrew Wilson (TWDB)
+
+Track: GIS - Geospatial Data Analysis</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Wilson,Sergio Rey,Shaun Walbridge</dc:creator><pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1980/gis-panel-discussion-0</guid><enclosure url="http://www.youtube.com/watch?v=Dn540ERYcxo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Dn540ERYcxo/hqdefault.jpg"></media:thumbnail></item><item><title>PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation</title><link>http://www.pyvideo.org/video/1199/pysal-a-python-library-for-exploratory-spatial-d</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk presents an overview and update of PySAL. PySAL is designed to
+support the development of high level applications in exploratory spatial data
+analysis and geocomputation. The library includes a comprehensive suite of
+modules that cover the entire spatial data analysis research stack from
+geospatial data processing and integration, to exploratory spatial data
+analysis, spatial dynamics, regionalization, and spatial econometrics. A
+selection of these modules are illustrated drawing on research in spatial
+criminology, epidemiology and urban inequality dynamics. A number of
+geovisualization packages that have been implemented using PySAL as an
+analytical core are also demonstrated. Future plans for additional modules and
+enhancements are also discussed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sergio Rey</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1199/pysal-a-python-library-for-exploratory-spatial-d</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PySAL_A_Python_Library_for_Exploratory_Spatial_Data_Analysis_and_Geocomputation.mp4?Signature=En8RJ3zgz2U0Ttqxe4RpueZ8yLY%3D&amp;Expires=1346381871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PySAL_A_Python_Library_for_Exploratory_Spatial_Data_Analysis_and_Geocomputation.mp4?Signature=En8RJ3zgz2U0Ttqxe4RpueZ8yLY%3D&amp;Expires=1346381871&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=FN1nH4Fkd_Y" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/FN1nH4Fkd_Y/hqdefault.jpg"></media:thumbnail></item></channel></rss>

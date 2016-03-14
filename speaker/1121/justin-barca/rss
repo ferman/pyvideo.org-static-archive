@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Justin Barca</title><link>http://www.pyvideo.org/speaker/1121/justin-barca/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1121/justin-barca/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Aug 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>playSVG: scripting vector graphics with geometry</title><link>http://www.pyvideo.org/video/2346/playsvg-scripting-vector-graphics-with-geometry</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+* Python and SVG: why is it relevant ?
+* pLAySVG structure
+* new constructs in geometric programming
+* gallery showing and Inkscape extension demo</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Justin Barca</dc:creator><pubDate>Sun, 11 Aug 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2346/playsvg-scripting-vector-graphics-with-geometry</guid><enclosure url="http://www.youtube.com/watch?v=efdnTl49Bgg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/efdnTl49Bgg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

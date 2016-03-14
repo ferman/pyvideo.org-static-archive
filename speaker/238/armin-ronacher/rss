@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Armin Ronacher</title><link>http://www.pyvideo.org/speaker/238/armin-ronacher/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/238/armin-ronacher/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 05 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyConZA 2012: Things you didn't know about Python</title><link>http://www.pyvideo.org/video/3898/pyconza-2012-things-you-didnt-know-about-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Things you didn't know about Python: Armin Ronacher's talk at PyConZA 2012</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 05 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3898/pyconza-2012-things-you-didnt-know-about-python</guid><enclosure url="http://archive.org/download/pyconza2012-things/pyconza2012-things.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://archive.org/download/pyconza2012-things/pyconza2012-things.thumbs/pyconza2012-things_000001.jpg"></media:thumbnail></item><item><title>Advanced Flask Pattern Q&amp;A session</title><link>http://www.pyvideo.org/video/1274/advanced-flask-pattern-qa-session</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1274/advanced-flask-pattern-qa-session</guid><enclosure url="http://www.youtube.com/watch?v=XAARbHEjZUQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/XAARbHEjZUQ/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced Flask Patterns</title><link>http://www.pyvideo.org/video/1269/advanced-flask-patterns</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Ronacher - 5 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk shows some interesting patterns for large scale Flask applications
+and how Flask extension should be structured. It also dives into some of the
+more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of
+this talk is to share some of the things that the documentation can’t explain
+well by itself. Required prerequisites: basic knowledge of how Flask operates.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1269/advanced-flask-patterns</guid><enclosure url="http://www.youtube.com/watch?v=KOvgfbBFZxk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/KOvgfbBFZxk/hqdefault.jpg"></media:thumbnail></item><item><title>Code Generation in Python: Dismantling Jinja</title><link>http://www.pyvideo.org/video/641/code-generation-in-python-dismantling-jinja</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+For many DSLs such as templating languages it's important to use code
+generation to achieve acceptable performance in Python. The current version of
+Jinja went through many different iterations to end up where it is currently.
+This talk walks through the design of Jinja2's compiler infrastructure and why
+it works the way it works and how one can use newer Python features for better
+results.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/641/code-generation-in-python-dismantling-jinja</guid><enclosure url="https://www.youtube.com/watch?v=jXlR0Icvvh8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/jXlR0Icvvh8/hqdefault.jpg"></media:thumbnail></item><item><title>5 Years of Bad Ideas</title><link>http://www.pyvideo.org/video/1060/5-years-of-bad-ideas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Armin Ronacher - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+What was my motivation for working with Python after two years of PHP? There
+is so much you can do. Functions are objects you can pass around, you can
+decompile functions to see how they work internally, you can alias a bound
+method to a global function and it will just work. You can change import
+semantics, override the method resolution order, you can write metaclasses,
+you can hook into the CPython interpreter API and much more.
+
+Five years later I came to the conclusion that this is really not what Python
+is about and that a lot of what I did was interesting but not necessarily a
+good idea. This talk is a 45 minute recompilation of things I really shouldn't
+have done in the first place. Expect a bunch of neat and interesting hacks
+that showcase the possibilities of the language.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1060/5-years-of-bad-ideas</guid><enclosure url="http://www.youtube.com/watch?v=8e0l_Dt28MQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/8e0l_Dt28MQ/hqdefault.jpg"></media:thumbnail></item><item><title>5 Years of Bad Ideas</title><link>http://www.pyvideo.org/video/1170/5-years-of-bad-ideas-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Armin Ronacher - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+What was my motivation for working with Python after two years of PHP? There
+is so much you can do. Functions are objects you can pass around, you can
+decompile functions to see how they work internally, you can alias a bound
+method to a global function and it will just work. You can change import
+semantics, override the method resolution order, you can write metaclasses,
+you can hook into the CPython interpreter API and much more.
+
+Five years later I came to the conclusion that this is really not what Python
+is about and that a lot of what I did was interesting but not necessarily a
+good idea. This talk is a 45 minute recompilation of things I really shouldn't
+have done in the first place. Expect a bunch of neat and interesting hacks
+that showcase the possibilities of the language.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1170/5-years-of-bad-ideas-0</guid><enclosure url="http://www.youtube.com/watch?v=bpjHa0G9X5w" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/bpjHa0G9X5w/hqdefault.jpg"></media:thumbnail></item><item><title>Opening the Flask</title><link>http://www.pyvideo.org/video/440/pycon-2011--opening-the-flask</link><description>&lt;p&gt;Description&lt;/p&gt;
+Opening the Flask
+
+Presented by Armin Ronacher
+
+After a year of the Flask microframework it's time to draw some conclusions,
+see things that went right and things that should be improved. The talk gives
+both an introduction into Flask itself as well as well as the ecosystem that
+evolved around it.
+
+Abstract
+
+Flask is a microframework that was born out of an April's fool joke that
+quickly became more than that. Based on the powerful foundation of Werkzeug
+and Jinja2 it's one of the most popular frameworks for Python now.
+
+The talk starts with a very quick introduction into Flask, where it all
+started and why I think people like it. We will look into the design of Flask
+and why it works the way it works.
+
+Furthermore we will look into the Flask ecosystem and how extensions work and
+have a brief look in what is planned for the future, especially regarding
+Python 3.
+
+The talk assumes basic knowledge of web applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/440/pycon-2011--opening-the-flask</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/440_opening-the-flask.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011OpeningTheFlask360.png"></media:thumbnail></item></channel></rss>

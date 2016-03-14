@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lynn Root</title><link>http://www.pyvideo.org/speaker/929/lynn-root/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/929/lynn-root/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 26 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How to Spy with Python</title><link>http://www.pyvideo.org/video/3069/how-to-spy-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will walk through what the US government has done in terms of spying on US citizens and foreigners with their PRISM program, then walk through how to do exactly that with Python.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lynn Root</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3069/how-to-spy-with-python</guid><enclosure url="http://video.ep14.c3voc.de/20274.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://video.ep14.c3voc.de/20274.mp4" mime_type="video/mp4"></media:content><media:content url="http://www.youtube.com/watch?v=8m3fFPCUPQg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/8m3fFPCUPQg/hqdefault.jpg"></media:thumbnail></item><item><title>For lack of a better name(server): DNS Explained</title><link>http://www.pyvideo.org/video/2985/for-lack-of-a-better-nameserver-dns-explained-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+You've deployed! But your friends can't see it - what's wrong? I'm betting DNS. Maybe you've fixed a couple of entries, point some records to hostnames, waited patiently for new domains to resolve only to notice your nameservers are incorrect. But what actually goes on with DNS? Come to this talk to find out how DNS works, and how to interact and create a DNS with Python.
+&lt;p&gt;Description&lt;/p&gt;
+Following instructions of what entries to create where is easy enough when using a PaaS.
+
+But DNS is hard – deployment issues always seem to come down to DNS.
+
+A solid understanding of DNS will not only help with deploying your applications, but will also give a greater understanding of how the internet works, and more generally, distributed systems.
+
+In this talk, you will learn what DNS is, how it works and how to communicate with it, and how Python can make both interacting and spinning up your own DNS server simple (I swear!).  
+
+Outline:
+
+* Intro (1-2m)
+* What DNS is (5 min)
+    * URL -&gt; IP addr, e.g. "phonebook" lookup (obligatory pun: Call me, Maybe?)
+    * hierarchical system &amp; resolution sequence (local DNS cache/resolver, ISP resolver, recursive DNS search)
+    * popular types (primary, secondary/slave, forwarding, authoritative only, etc)
+    * System components: what makes a DNS?
+* How to communicate with DNS (3 min)
+    * Protocol: UDP
+    * Operations: CRUD
+    * Resource records (A, AAAA, CNAME, SOA, SRV, etc)
+    * tools: dig/nsupdate/nslookup
+* Security overview (3min) (disclaimer: NOT a DNS security expert, not planning to get into the details here)
+    * Server-Server, DynDNS: TSIG/GSS-TSIG
+    * Server-Client: DNSSEC
+* Python + DNS (10 min)
+    * plain UDP query in Python (no 3rd-party libraries/no magic)
+    * Interacting with a DNS w/ Python (dnspython.py)
+    * Sample DNS server with Twisted
+    * "fake" demo (either local or pre-recorded screen cast) of querying/updating/etc of the Twisted DNS
+* Wrap up - resources page, github links, etc (1min)
+* Q&amp;A - ~5 min </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lynn Root</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2985/for-lack-of-a-better-nameserver-dns-explained-0</guid><enclosure url="http://www.youtube.com/watch?v=ZqKNDn56Aoo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ZqKNDn56Aoo/hqdefault.jpg"></media:thumbnail></item><item><title>For Lack of a Better Name(server): DNS Explained.</title><link>http://www.pyvideo.org/video/2600/for-lack-of-a-better-nameserver-dns-explained</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+You've deployed! But your friends can't see it - what's wrong? I'm betting DNS. Maybe you've fixed a couple of entries, point some records to hostnames, waited patiently for new domains to resolve only to notice your nameservers are incorrect. But what actually goes on with DNS? Come to this talk to find out how DNS works, and how to interact and create a DNS with Python.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lynn Root</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2600/for-lack-of-a-better-nameserver-dns-explained</guid><enclosure url="http://www.youtube.com/watch?v=Xdd7c8t6ySA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Xdd7c8t6ySA/hqdefault.jpg"></media:thumbnail></item><item><title>PRISM-AS-A-SERVICE: Not Subject to American Law</title><link>http://www.pyvideo.org/video/2319/prism-as-a-service-not-subject-to-american-law</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+X-as-a-Service products are integral in the U.S. tech industry with their ability to take the pain out of server configuration, maintenance, provisioning, data storage and other aspects of running a server. With the recent outing of PRISM, a clandestine national security electronic surveillance program, the next desirable IT feature is "not subject to American law." How can we leverage cloud-based software while maintaining privacy?
+
+This talk is a look at what exactly PRISM is, how PRISM affects cloud services, and how best to approach securing data and preserving privacy within the cloud.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lynn Root</dc:creator><pubDate>Sat, 10 Aug 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2319/prism-as-a-service-not-subject-to-american-law</guid><enclosure url="http://www.youtube.com/watch?v=Q31as1qpkvw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Q31as1qpkvw/hqdefault.jpg"></media:thumbnail></item><item><title>Sink or swim: 5 life jackets to throw to New Coders</title><link>http://www.pyvideo.org/video/1782/sink-or-swim-5-life-jackets-to-throw-to-new-code</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Many want to learn to code, and many choose Python as a first language. You direct them to Learn Python the Hard Way, or Dive into Python. Great!  But now what? I will present 5 digestible projects to gradually progress the Python learner from near drowning to a decent swimmer. The goal is to have new coders feeling accomplished and to continuing learning.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lynn Root</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1782/sink-or-swim-5-life-jackets-to-throw-to-new-code</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Sink_or_swim_5_life_jackets_to.mp4?Signature=FbIUDIAwgFHNPR1duGXvtsnuoMU%3D&amp;Expires=1363731974&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Sink_or_swim_5_life_jackets_to.mp4?Signature=FbIUDIAwgFHNPR1duGXvtsnuoMU%3D&amp;Expires=1363731974&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=5hBMlTFfOJg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/5hBMlTFfOJg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

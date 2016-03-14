@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Corey Oordt</title><link>http://www.pyvideo.org/speaker/194/corey-oordt/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/194/corey-oordt/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Documentation Driven Development</title><link>http://www.pyvideo.org/video/441/pycon-2011--documentation-driven-development</link><description>&lt;p&gt;Description&lt;/p&gt;
+Documentation Driven Development
+
+Presented by Corey Oordt
+
+Developers usually leave documentation as a final step; one that they will get
+to as soon as they are forced with threats of bodily harm. Writing the
+documentation before writing the code, can lead to better code, better
+implementation and, of course, actual documentation.
+
+Abstract
+
+"Documentation Driven Design" was coined by our team after noticing how
+documenting code dramatically changed how we approached problems. By writing
+the documentation first, you saw the problem from a different perspective: the
+end user or programmer. This talk will focus on a few items:
+
+Usable, not just functional. Many times developers write code that solves the
+problem, but is a real pain in the neck to use. Writing the documentation
+first demonstrates how easy or difficult it is to implement the solution right
+away.
+
+A guide to what to write. Many developers leave documentation undone because
+they don't know how to approach it. Having some idea of what needs writing can
+make the task seem less daunting.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Corey Oordt</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/441/pycon-2011--documentation-driven-development</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/441_documentation-driven-development.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011DocumentationDrivenDevelopment665.png"></media:thumbnail></item><item><title>Pluggable Django Patterns</title><link>http://www.pyvideo.org/video/379/pycon-2011--pluggable-django-patterns</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pluggable Django Patterns
+
+Presented by Corey Oordt
+
+Pluggable or reusable applications are a key feature of Django, but there is
+little guidance on writing them well. We'll dig into the different types of
+Django applications and coding patterns that make writing a reusable
+application easier. The talk also covers ways to avoid common implementation
+gotchas.
+
+Abstract
+
+Reusable, or pluggable, applications are a powerful feature of Django. Your
+code can do more if written with a few ideas and techniques in mind. We'll
+cover:
+
+  * The four qualities of a pluggable application 
+  * The three types of Django applications 
+  * Ten common situations in implementing reusable code and coding patterns to handle them 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Corey Oordt</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/379/pycon-2011--pluggable-django-patterns</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/379_pluggable-django-patterns.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PluggableDjangoPatterns674.png"></media:thumbnail></item></channel></rss>

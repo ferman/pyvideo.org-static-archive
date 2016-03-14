@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeremiah Jordan</title><link>http://www.pyvideo.org/speaker/351/jeremiah-jordan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/351/jeremiah-jordan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Apache Cassandra and Python</title><link>http://www.pyvideo.org/video/643/apache-cassandra-and-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Using Apache Cassandra from Python is easy to do. This talk will cover setting
+up and using a local development instance of Cassandra from Python. It will
+cover using the low level thrift interface, as well as using the higher level
+pycassa library.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeremiah Jordan</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/643/apache-cassandra-and-python</guid><enclosure url="https://www.youtube.com/watch?v=188mXjwdkak" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/188mXjwdkak/hqdefault.jpg"></media:thumbnail></item></channel></rss>

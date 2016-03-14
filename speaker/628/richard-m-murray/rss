@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard M. Murray</title><link>http://www.pyvideo.org/speaker/628/richard-m-murray/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/628/richard-m-murray/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>TuLiP: a toolbox for hybrid and reactive systems research</title><link>http://www.pyvideo.org/video/1235/tulip-a-toolbox-for-hybrid-and-reactive-systems</link><description>&lt;p&gt;Description&lt;/p&gt;
+We present a toolbox for the creation and study of controllers for hybrid
+systems. It contains modules for
+
+&gt;   * working with n-dimensional polytopes,
+
+&gt;   * refining continuous state space partitions to satisfy reachability
+properties,
+
+&gt;   * synthesizing, manipulating, and visualizing finite automata as winning
+strategies for a class of temporal logic-based games,
+
+&gt;   * simulating hybrid executions, and
+
+&gt;   * reading and writing problem solutions to an XML format.
+
+The toolbox is named TuLiP (for "Temporal Logic Planning") and written almost
+entirely in Python, making critical use of NumPy, SciPy, CVXOPT, and
+matplotlib. While software for hybrid systems research is commonly written in
+Matlab scripts or otherwise requires the end-user to build from source for her
+particular platform, TuLiP requires neither. For a standard scientific Python
+environment, the only additional library may be CVXOPT. Code (re)use and
+experimentation are easy, and because of this, TuLiP has provided a natural
+basis for further research and development.
+
+Source code and documentation are currently available at [http://tulip-
+control.sourceforge.net](http://tulip-control.sourceforge.net)
+
+In this talk we will describe the problem domain addressed by TuLiP, various
+use cases, and lessons learning in the Python implementation. We shall include
+a full example making use of all components and show ways that individual
+modules are useful more broadly. Major items of the talk will be
+
+&gt;   1. related work, and the paucity of Python use in hybrid control research,
+which we argue is a matter of inheritance rather than best practices;
+
+&gt;   2. overview of the type of hybrid systems represented in TuLiP and
+relevance to other fields;
+
+&gt;   3. summary of the major steps going from problem statement to solution;
+
+&gt;   4. using only the "polytope computations" module;
+
+&gt;   5. using only "discrete reactive synthesis" related modules, with a brief
+description about temporal logic synthesis to provide background for those not
+working on computer aided verification;
+
+&gt;   6. snippets about recent research using and building on TuLiP; and
+
+&gt;   7. discussion about the Python-based implementation and lessons learned.
+
+For the last item, we will describe challenges faced while developing TuLiP,
+given its role of "stitching together" several external tools, e.g., Gephi
+&lt;[http://gephi.org/](http://gephi.org/)&gt; for large graph visualization and
+gr1c &lt;[http://scottman.net/2012/gr1c](http://scottman.net/2012/gr1c)&gt; for game
+solving. We will also touch on liberation from a Matlab-only tool (Mult-
+Parametric Toolbox; see
+[http://control.ee.ethz.ch/~mpt/](http://control.ee.ethz.ch/~mpt/)), achieved
+by creating our own Python module for working with polytopes, using NumPy and
+CVXOPT for computations and matplotlib for visualization.
+
+A tool paper describing an earlier version of TuLiP was presented at the
+conference Hybrid Systems: Computation and Control (HSCC) in April 2011. There
+have since been substantial additions and improvements. Furthermore, a broader
+audience can be reached at SciPy 2012, with new opportunity to address designs
+issues likely shared by other scientific Python developers.
+
+Development of TuLiP has been supported in part by the AFOSR through the MURI
+program, the Multiscale Systems Center (MuSyC) and the Boeing Company.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard M. Murray,Scott C. Livingston</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1235/tulip-a-toolbox-for-hybrid-and-reactive-systems</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/TuLiP_a_toolbox_for_hybrid_and.mp4?Signature=jHwzNH0JYM75lVn8tBMA7WgqM%2FM%3D&amp;Expires=1346383122&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/TuLiP_a_toolbox_for_hybrid_and.mp4?Signature=jHwzNH0JYM75lVn8tBMA7WgqM%2FM%3D&amp;Expires=1346383122&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=AprLua-TIXs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/AprLua-TIXs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

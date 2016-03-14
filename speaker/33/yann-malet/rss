@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Yann Malet</title><link>http://www.pyvideo.org/speaker/33/yann-malet/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/33/yann-malet/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:26:28 -0000</lastBuildDate><ttl>500</ttl><item><title>Breaking down the process of building a custom CMS</title><link>http://www.pyvideo.org/video/61/djangocon-2010--breaking-down-the-process-of-buil</link><description>&lt;p&gt;Description&lt;/p&gt;
+Breaking down the process of building a custom CMS
+
+Presented by Yann Malet, Brian Luft
+
+The purpose of this talk is to share some of the important insights gained
+over a couple years of working on custom CMS-type projects serving large
+organizations. Acknowledging that approx. 30 minutes is a short time to cover
+a broad subject, the focus of the talk would be on outlining a basic strategy
+for managing large projects.
+
+Abstract
+
+Over the past couple of years, Brian and Yann's team have built and worked on
+several large Django projects for large organizations. They will discuss how
+to start and manage large CMS projects, with an emphasis on pointing people to
+the best reference information and breaking down the common operations.
+
+The primary discussion topics would cover:
+
+  * Breaking Down the Job: Over the course of the project you'll end up accounting for thousands of details; here's how to figure out the first few Centering Around a Prototype: Hedging your bets for the inevitable "give me a ballpark figure" 
+  * Dealing With Legacy Data Stores: Migrate legacy information early and often. 
+  * Selecting 3rd Party Components: Reuse exiting app, fork it early or Trailblaze 
+  * Bad News: Django Ain't Perfect - where it has weaknesses and how to compensate 
+
+At the end of this talk the audience will be able to:
+
+    * Break down this type of project into meaningful phases 
+    * Migrate large dataset to populate the django models that are still under development. 
+    * Have a rational and objective approach to select django reusable component and understand how to refine them during the different stages of the project lifecycle. 
+    * Find and evaluate quality information about the tradeoffs Django presents in these types of projects 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Luft,Yann Malet</dc:creator><guid>http://www.pyvideo.org/video/61/djangocon-2010--breaking-down-the-process-of-buil</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/61_breaking-down-the-process-of-building-a-custom-cms.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112-442.jpg"></media:thumbnail></item><item><title>Stop Tilting at Windmills - Spotting Bottlenecks</title><link>http://www.pyvideo.org/video/88/stop-tilting-at-windmills-spotting-bottlenecks</link><description>&lt;p&gt;Description&lt;/p&gt;
+Stop Tilting at Windmills--Spotting Bottlenecks
+
+Presented by Yann Malet and Brandon Konkle
+
+Learn the questions to ask and the tools to use to spot performance problems
+in your application. We won't tell you how to scale your site, but we will
+show you how to locate the bottlenecks as they pop up.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brandon Konkle,Yann Malet</dc:creator><guid>http://www.pyvideo.org/video/88/stop-tilting-at-windmills-spotting-bottlenecks</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/88_stop-tilting-at-windmills-spotting-bottlenecks.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-StopTiltingAtWindmillsSpottingBottlenecks272-78.jpg"></media:thumbnail></item></channel></rss>

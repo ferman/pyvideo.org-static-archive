@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Grig Gheorghiu</title><link>http://www.pyvideo.org/speaker/132/grig-gheorghiu/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/132/grig-gheorghiu/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Creating RESTful Web services with restish (#17)</title><link>http://www.pyvideo.org/video/301/pycon-2010--creating-restful-web-services-with-re</link><description>&lt;p&gt;Description&lt;/p&gt;
+Creating RESTful Web Services with restish
+
+  
+Presented by Grig Gheorghiu
+
+  
+Roy Fielding described REST in his Ph.D. dissertation in the year 2000. Almost
+ten years later, Web developers are still confused as to how to apply the REST
+principles in their applications. Examples of poorly designed 'REST' APIs
+abound, and I will make use of them in my talk.
+
+  
+In this presentation, I will give an overview of REST and its design
+principles, and I will show a concrete example of a RESTful Web service
+implemented in the restish framework. My examples will include CRUD
+operations, as well as transactions. I will also show how to consume this Web
+service using both httplib2 and curl. I would be remiss if I didn't describe
+ways to test the Web service with WebTest and twill.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grig Gheorghiu</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/301/pycon-2010--creating-restful-web-services-with-re</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/301_creating-restful-web-services-with-restish-17.ogv" length="506397358" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/301_creating-restful-web-services-with-restish-17.ogv" fileSize="506397358" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/301_creating-restful-web-services-with-restish-17.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010CreatingRESTfulWebServicesWithRestish17893.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Erik van Zijst</title><link>http://www.pyvideo.org/speaker/1047/erik-van-zijst/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1047/erik-van-zijst/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 24 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>The inner guts of Bitbucket</title><link>http://www.pyvideo.org/video/2964/the-inner-guts-of-bitbucket</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Today Bitbucket is more than 30 times bigger than at the time of acquisition almost 4 years ago and serves repositories to over a million developers.
+
+This talk lays out its current architecture in great detail, from Gunicorn and Django to Celery and HA-Proxy to NFS.
+&lt;p&gt;Description&lt;/p&gt;
+This talk is about Bitbucket's architecture. Leaving no stone unturned, I'll be covering the entire infrastructure. Every component, from web servers to message brokers and load balancing to managing hundreds of terabytes of data.
+
+Since its inception in 2008, Bitbucket has grown from a standard, modest Django app into a large, complex stack that while still based around Django, has expanded into many more components.
+
+Today Bitbucket is more than 30 times bigger than at the time of acquisition almost 4 years ago and serves Git and Mercurial repos to over a million users and growing faster now than ever before.
+
+Our current architecture and infrastructure was shaped by rapid growth and has resulted in a large, mostly horizontally scalable system. What has not changed is that it's still nearly all Python based and could serve as inspiration or validation for other community members responsible for rapidly scaling their apps.
+
+This talk will layout the entire architecture and motivate our technology choices. From our Gunicorn to Celery and HA-Proxy to NFS.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik van Zijst</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2964/the-inner-guts-of-bitbucket</guid><enclosure url="http://www.youtube.com/watch?v=2ll2ER3wpus" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/2ll2ER3wpus/hqdefault.jpg"></media:thumbnail></item><item><title>Limiting Execution Time Through Interrupt Driven Programming</title><link>http://www.pyvideo.org/video/2209/limiting-execution-time-through-interrupt-driven</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
+
+I'll be looking at interrupt-driven techniques to help bring the 95 percentile of the response times of your application closer to the (usually much lower) mean.
+
+In this talk, we'll go beyond traditional tricks like caching, sharding and data denormalization and instead look at tools that can interrupt execution of overly expensive code paths, such that you can guarantee an upper bound in response time.
+
+Interruptingcow and django-timelimit will be some of the tools that will be covered in this talk.
+
+The context for most of this is web applications, and I'll be drawing many examples from our ongoing experiences with running and scaling Bitbucket, which is entirely written in Python.
+
+Having said that though, many of the tools and techniques demonstrates will apply just as well to other types of applications and situations.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik van Zijst</dc:creator><pubDate>Sat, 06 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2209/limiting-execution-time-through-interrupt-driven</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Limiting_Execution_Time_Throug.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Limiting_Execution_Time_Throug.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Hv2pl7B1pZw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/Hv2pl7B1pZw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

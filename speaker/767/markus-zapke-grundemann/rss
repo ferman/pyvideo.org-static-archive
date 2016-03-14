@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Markus Zapke-Gründemann</title><link>http://www.pyvideo.org/speaker/767/markus-zapke-grundemann/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/767/markus-zapke-grundemann/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 23 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Writing multi-language documentation using Sphinx</title><link>http://www.pyvideo.org/video/3012/writing-multi-language-documentation-using-sphinx</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How to write multi-language documentation? What tools can you use? What mistakes should you avoid? This talk is based on the experiences I gathered while working on several multi-language documentation projects using [Sphinx](http://sphinx-doc.org/).
+&lt;p&gt;Description&lt;/p&gt;
+Internationalized documentation is a fairly new topic. And there are different approaches to do this. I will talk about how Sphinx internationalization support works, which tools and services I use and how to organize the translation workflow in an Open Source project. Finally I will have a look at what the future of internationalization in Sphinx might bring.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3012/writing-multi-language-documentation-using-sphinx</guid><enclosure url="http://www.youtube.com/watch?v=Nz8zutA55fI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Nz8zutA55fI/hqdefault.jpg"></media:thumbnail></item><item><title>Sphinx i18n</title><link>http://www.pyvideo.org/video/2410/sphinx-i18n</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Sphinx hat schon rudimentäre Unterstützung für die Internationalisierung von Dokumentationen mit Hilfe von gettext. Dieser Vortrag berichtet über die eigenen Erfahrungen und diskutiert weitergehende Lösungsansätze.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2410/sphinx-i18n</guid><enclosure url="https://www.youtube.com/watch?v=6ZT0ZUo-7tA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/6ZT0ZUo-7tA/hqdefault.jpg"></media:thumbnail></item><item><title>Mercurial - ein verteiltes Versionskontrollsystem</title><link>http://www.pyvideo.org/video/1441/mercurial-ein-verteiltes-versionskontrollsystem</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag stellt Mercurial vor, zeigt aber auch optimale Vorgehensweisen
+für den Entwicklungsalltag sowie die Grundlagen der Entwicklung von Mercurial
+Extensions.
+
+Mercurial ist ein verteiltes Versionskontrollsystem. Die Befehle und
+Funktionen sind einfach zu lernen.
+
+Da es unabhängig vom einem Server arbeitet kann jeder lokal und auch ohne
+Internetverbindung Dokumente oder Quellcode damit verwalten. Trotzdem kann man
+mit Mercurial die Repositories untereinander austauschen und so auch über
+weite Entfernungen zusammen arbeiten.
+
+Mercurial ist komplett in Python geschrieben und lässt sich deshalb einfach
+erweitern.
+
+Viele bekannte Open Source Projekte und Firmen setzen Mercurial ein. So zum
+Beispiel Atlassian, Dovecot, Gajim, Google, Facebook, Mozilla, OpenOffice,
+OpenSolaris, Python, PyPy, RabbitMQ, Unity, Vim oder Xen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1441/mercurial-ein-verteiltes-versionskontrollsystem</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Mercurial_ein_verteilt.mp4?Signature=D5ey8CzIs%2BhUW9a1H5%2F8LygPSvM%3D&amp;Expires=1352069956&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Mercurial_ein_verteilt.mp4?Signature=D5ey8CzIs%2BhUW9a1H5%2F8LygPSvM%3D&amp;Expires=1352069956&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=yAHQvrFC94o" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/yAHQvrFC94o/hqdefault.jpg"></media:thumbnail></item><item><title>Virtuelle Entwicklungsumgebungen mit Vagrant</title><link>http://www.pyvideo.org/video/1446/virtuelle-entwicklungsumgebungen-mit-vagrant</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Oft benötigt man für verschiedene Projekte ganz unterschiedliche Bibliotheken,
+Dienste und Werkzeuge. Alle Abhängigkeiten auf einer Maschine zu installieren
+kann schnell anstrengend bis unmöglich werden. Hier kommt Vagrant ins Spiel:
+Mit Hilfe von Vagrant kann man einfach und schnell Virtuelle Maschinen als
+Entwicklungsumgebungen erstellen, konfigurieren und benutzen.
+
+Durch die Nutzung von (vorhandenen) Provisioning Tools wie Chef oder Puppet
+kann man vorhandene Konfigurationen von Produktiv-System zum Setup der
+Virtuellen Maschinen nutzen. Außerdem lassen sich mit Vagrant auch komplexe
+Cluster-Setups auf dem eigenen Rechner aufbauen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1446/virtuelle-entwicklungsumgebungen-mit-vagrant</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Virtuelle_Entwicklungs.mp4?Signature=FWi08bDPAMbAjNRfLnk7LOVVG%2BY%3D&amp;Expires=1352070837&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Virtuelle_Entwicklungs.mp4?Signature=FWi08bDPAMbAjNRfLnk7LOVVG%2BY%3D&amp;Expires=1352070837&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=uvhoW5M4fK8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/uvhoW5M4fK8/hqdefault.jpg"></media:thumbnail></item><item><title>Mercurial Migration im großen Stil</title><link>http://www.pyvideo.org/video/2902/mercurial-migration-im-groen-stil</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Ein paar SVN-Repositories sind schnell nach Mercurial migriert. Und das Entwicklerteam hat sich nach einer kurzen Einarbeitungszeit auch an das neue Versionskontrollsystem (VCS) gewöhnt. So oder so ähnlich kennen viele den Wechsel zu Mercurial. Was aber, wenn das alles alles im großen Stil geschieht?</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Thu, 06 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2902/mercurial-migration-im-groen-stil</guid><enclosure url="http://www.youtube.com/watch?v=uvLFO3xp714" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/uvLFO3xp714/hqdefault.jpg"></media:thumbnail></item></channel></rss>

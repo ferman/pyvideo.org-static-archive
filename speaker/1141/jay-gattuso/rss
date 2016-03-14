@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jay Gattuso</title><link>http://www.pyvideo.org/speaker/1141/jay-gattuso/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1141/jay-gattuso/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>From nothing to daily use - How Python changed my work life</title><link>http://www.pyvideo.org/video/2381/from-nothing-to-daily-use-how-python-changed-my</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+What happens when you take a Digital Preservation Analyst, an introduction to Python, and 18 months of learning? The answer is... a glut of tool building, problem solving and all round reliance on Python as a primary resource.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1
+
+**Audience level**
+
+Novice
+
+**Abstract**
+
+I will share my experiences of writing small python tools to help me to solve the daily challenges of my job. I'm a very novice Python coder, and have only really been using
+
+The range of tools I've used/built include:-
+
+file format conversion, db building/analysing, XML wrangling, text data wrangling, object administration (inc. cleaning and audit), webscraping and basic workflow automation...
+
+I will share some (terribly coded) examples of how I solve analysis challenges, share some limitations I have found being a solo novice coder on the edge of a professional IT environment, and ask for your guidance in how to maintain the same rate of learning in the coding space.
+
+Title will change to be something more pithy.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/jay-gattuso-from-nothing-to-daily-use-how-python-changed-my-work-life</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jay Gattuso</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2381/from-nothing-to-daily-use-how-python-changed-my</guid><enclosure url="http://www.youtube.com/watch?v=fCSAOcTbe8g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/fCSAOcTbe8g/hqdefault.jpg"></media:thumbnail></item></channel></rss>

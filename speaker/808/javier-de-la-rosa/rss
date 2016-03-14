@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Javier de la Rosa</title><link>http://www.pyvideo.org/speaker/808/javier-de-la-rosa/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/808/javier-de-la-rosa/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Nov 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Graph Databases in Python</title><link>http://www.pyvideo.org/video/1575/graph-databases-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Since the irruption in the market of the NoSQL concept, graph databases have
+been traditionally designed to be used with Java or C. With some honorable
+exceptions, there isn't an easy way to manage graph databases from Python. In
+this talk, I will introduce you some of the tools that you can use today in
+order to work with those new challenging databases, from our favorite languge,
+Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Javier de la Rosa</dc:creator><pubDate>Sun, 11 Nov 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1575/graph-databases-in-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Graph_Databases_in_Python.mp4?Signature=YbsXvc8mBWkwFYCNd3j8Kh784V4%3D&amp;Expires=1352846962&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Graph_Databases_in_Python.mp4?Signature=YbsXvc8mBWkwFYCNd3j8Kh784V4%3D&amp;Expires=1352846962&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=nJEfq8qduKA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/nJEfq8qduKA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Justin Samuel</title><link>http://www.pyvideo.org/speaker/173/justin-samuel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/173/justin-samuel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Seattle: A Python-based Platform for Easy Development and Deployment of Networked Systems and Applications (#162)</title><link>http://www.pyvideo.org/video/348/pycon-2010--seattle--a-python-based-platform-for-</link><description>&lt;p&gt;Description&lt;/p&gt;
+A Python-based Platform for Easy Development and Deployment of Networked
+Systems and Applications
+
+  
+Presented by Ivan Beschastnikh, Justin Samuel, and Justin Cappos
+
+  
+Seattle is an open-source platform for developing and deploying networked
+applications. Core feature of Seattle is that it allows safe execution of
+untrusted code on end-user systems. In our talk we look at how we used Python
+to build a safe, restricted code execution environment for Seattle that not
+only provides execution safety but also enforces strict resource consumption
+limits. In addition, Seattle includes a high-level API to hide inconsistent
+OS-specific behaviors from developers. What results is a platform that
+welcomes the participation of end-user machines for general-purpose
+distributed programming and creates new possibilities for developers.
+
+  
+[http://seattle.cs.washington.edu/](http://seattle.cs.washington.edu/)
+
+  
+[VIDEO HAS ISSUES: Beginning of talk missing, due to technical problems.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan Beschastnikh,Justin Cappos,Justin Samuel</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/348/pycon-2010--seattle--a-python-based-platform-for-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/348_seattle-a-python-based-platform-for-easy-development-and-deployment-of-networked-systems-and-applications-162.ogv" length="177494848" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/348_seattle-a-python-based-platform-for-easy-development-and-deployment-of-networked-systems-and-applications-162.ogv" fileSize="177494848" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/348_seattle-a-python-based-platform-for-easy-development-and-deployment-of-networked-systems-and-applications-162.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010SeattleAPythonbasedPlatformForEasyDevelopmentAn600-243.jpg"></media:thumbnail></item></channel></rss>

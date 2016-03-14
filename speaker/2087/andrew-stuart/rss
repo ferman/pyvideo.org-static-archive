@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Stuart</title><link>http://www.pyvideo.org/speaker/2087/andrew-stuart/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2087/andrew-stuart/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Swagger driven REST API development with the Falcon web server</title><link>http://www.pyvideo.org/video/3953/swagger-driven-rest-api-development-with-the-falc</link><description>&lt;p&gt;Description&lt;/p&gt;
+Swagger is a JSON format for defining and documenting REST API's. Falcon is a lightweight Python web server designed specifically for building REST web services.
+
+This presentation shows you how to combine Swagger API specifications with the Falcon web server to make REST API development incredibly fast and easy.
+
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Stuart</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3953/swagger-driven-rest-api-development-with-the-falc</guid><enclosure url="https://www.youtube.com/watch?v=6oeXeX0NrFM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/6oeXeX0NrFM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

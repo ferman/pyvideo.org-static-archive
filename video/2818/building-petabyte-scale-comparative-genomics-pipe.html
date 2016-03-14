@@ -1,0 +1,290 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Building petabyte-scale comparative genomics pipelines</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="This talk will educate the audience about Python tools and best practices for creating reproducible petabyte-scale pipelines. This is done within the context of demonstrating a new grammar-based approach to comparative genomics. The genome grammars are produced using public data from the National Institutes of Health, streamed over a high-throughput Internet2 connection to Amazon Web Services.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="building-petabyte-scale-comparative-genomics-pipe.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="building-petabyte-scale-comparative-genomics-pipe.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=g_QVAp1YkRI"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Building petabyte-scale comparative genomics pipelines</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/g_QVAp1YkRI/hqdefault.jpg"/>
+      <link property="sameAs" href="building-petabyte-scale-comparative-genomics-pipe.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>This talk will educate the audience about Python tools and best practices for creating reproducible petabyte-scale pipelines. This is done within the context of demonstrating a new grammar-based approach to comparative genomics. The genome grammars are produced using public data from the National Institutes of Health, streamed over a high-throughput Internet2 connection to Amazon Web Services.</p></div>
+        <meta property="caption" content="This talk will educate the audience about Python tools and best practices for creating reproducible petabyte-scale pipelines. This is done within the context of demonstrating a new grammar-based approach to comparative genomics. The genome grammars are produced using public data from the National Institutes of Health, streamed over a high-throughput Internet2 connection to Amazon Web Services."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>We introduce a high-performance, open-source application written in Python that models genomic data with a context-free grammar (CFG), a construct from formal language theory. This approach is intended to advance fundamental science by delivering a more extensive model of the genetic interaction of diseases. Current comparative models treat genomic sequences as strings, and recent advances are little more than optimizations of the \"grep approach\". However a genome is a grammar: it is parsed, follows rules, and has an inherent hierarchical structure. Understanding the structure and rules of this implied grammar are essential for mapping loci to diseases when those loci are distributed across genomic regions.</p>
+<p>To produce the CFGs, we have implemented the Sequitur algorithm to run on the AWS Elastic MapReduce platform. This application is written in Python and uses the following packages: MRjob, boto, and pandas. This is a petascale computing pipeline that is successful because it uses inherently scalable services and is able to take advantage of the 100G Internet2 connection between Amazon Web Services and the National Institutes of Health (NIH). This architecture delivers unprecedented transfer speeds and relatively low latency.</p>
+<p>We discuss the advantages of this architecture, especially for groups without comparable local resources. In reviewing the results of our computation, we not only look at methods to measure the utility of our CFG models, but also the computational advantages of this approach. Just like the fastest alignment algorithms, this complex approach still operates  within linear-space. In addition, future pairwise comparisons are faster because our CFGs act as a compressed representation of the raw sequence data. Our hope is that this CFG approach is further tested as a replacement for raw sequence analysis. In addition, we hope that our  bioinformatics pipeline serves as an example for the SciPy community on how to perform large computations across the many petabytes made available by NIH.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1318/chris-cope.html">Chris Cope</a></div>
+            <meta property="author" content="Chris Cope"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 10, 2014
+            <meta property="dateCreated" content="2014-07-10"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 16, 2014
+            <meta property="dateModified" content="2014-07-16T14:35:46.155230"/>
+            <meta property="datePublished" content="2014-07-16T14:35:46.155230"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=g_QVAp1YkRI" property="embedUrl">http://www.youtube.com/watch?v=g_QVAp1YkRI</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2818">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="building-petabyte-scale-comparative-genomics-pipe.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

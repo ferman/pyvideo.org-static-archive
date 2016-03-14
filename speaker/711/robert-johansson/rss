@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Robert Johansson</title><link>http://www.pyvideo.org/speaker/711/robert-johansson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/711/robert-johansson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>QuTiP: An open-source Python framework for the dynamics of open quantum systems</title><link>http://www.pyvideo.org/video/1347/qutip-an-open-source-python-framework-for-the-dy</link><description>&lt;p&gt;Description&lt;/p&gt;
+We present QuTiP, an object-oriented open-source framework for solving the
+dynamics of open quantum systems. The QuTiP framework is written in a
+combination of Python and Cython, and using SciPy, NumPy and matplotlib to
+provide an environment for computational quantum mechanics that is easy and
+efficient to use. Arbitrary quantum systems, including time-dependent systems,
+may be built up from operators and states defined by a quantum object class,
+and then passed on to a choice of unitary and dissipative evolution solvers.
+We give an overview of the basic structure for the framework and the
+techniques used in its implementation. We also present a few selected examples
+from contemporary research on quantum mechanics that illustrate the strengths
+of the framework, and the types of calculation that can be performed. The
+framework described here is particularly well suited to the fields of quantum
+optics, superconducting circuit devices, nanomechanics, and trapped ions,
+while also being ideal as an educational tool.
+
+For more information see
+[http://qutip.googlecode.com](http://qutip.googlecode.com).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Nation,Robert Johansson</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1347/qutip-an-open-source-python-framework-for-the-dy</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QuTiP_An_opensource_Python_framework_for_the_dynamics_of_open_quantum_systems.mp4?Signature=ofqa37FpyivmhkcJ4Hmj4gmwblw%3D&amp;Expires=1346989222&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QuTiP_An_opensource_Python_framework_for_the_dynamics_of_open_quantum_systems.mp4?Signature=ofqa37FpyivmhkcJ4Hmj4gmwblw%3D&amp;Expires=1346989222&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=KxDFDYn-6Lc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/KxDFDYn-6Lc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

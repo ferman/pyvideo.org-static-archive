@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stephan Richter</title><link>http://www.pyvideo.org/speaker/319/stephan-richter/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/319/stephan-richter/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:25:45 -0000</lastBuildDate><ttl>500</ttl><item><title>Boston Python Meetup: How to test the hard stuff</title><link>http://www.pyvideo.org/video/591/boston-python-meetup--how-to-test-the-hard-stuff</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to Test the Hard Stuff
+
+Presented by Stephan Richter
+
+Stephan will cover testing network-driven components, RDB stubbing, test setup
+layering and stuff like that. Recently he used manuel to do this sort of
+testing by simulating CLIs and Shell access in a doctest-style test, so he may
+cover that as well.
+
+Bring your testing challenges and the impossible to automate projects that
+haunt you at night, we'll see what Stephan can do with them.
+
+Boston Python Meetup: May 2010
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stephan Richter</dc:creator><guid>http://www.pyvideo.org/video/591/boston-python-meetup--how-to-test-the-hard-stuff</guid><media:thumbnail url="/static/videos/img/no_thumbnail.png"></media:thumbnail></item></channel></rss>

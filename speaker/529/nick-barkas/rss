@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nick Barkas</title><link>http://www.pyvideo.org/speaker/529/nick-barkas/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/529/nick-barkas/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Spotify: Horizontal scalability for great success</title><link>http://www.pyvideo.org/video/1096/spotify-horizontal-scalability-for-great-success</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Nick Barkas - 22 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+If you run on CPython, it's not possible to get a single-process,
+multithreaded Python program to use more than one CPU core at a time because
+of the Global Interpreter Lock (GIL). A common way of dealing with this is to
+run one instance of a Python program for each core a machine has and spread
+the load amongst those processes. This forces developers to write simple,
+stateless programs that naturally scale out to many many servers when needed,
+while also not having to think about things like locking and thread
+scheduling.
+
+I'll discuss some tools and methods Spotify's backend uses for managing
+multiple identical server processes as well as load balancing with DNS, proxy
+servers, and using hashing to send repeated requests to the same process. I
+will also talk about the difficulties that arise when you really need to share
+data or state between processes, and how they can be dealt with.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Barkas</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1096/spotify-horizontal-scalability-for-great-success</guid><enclosure url="http://www.youtube.com/watch?v=BBAfIYpDMX4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/BBAfIYpDMX4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

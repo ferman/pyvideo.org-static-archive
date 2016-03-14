@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Abuobayda Shabat</title><link>http://www.pyvideo.org/speaker/2073/abuobayda-shabat/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2073/abuobayda-shabat/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>An Introduction to Image Classification</title><link>http://www.pyvideo.org/video/3929/an-introduction-to-machine-learning-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this tutorial, two main areas will be covered using Textural Images Dataset:
+&lt;ol&gt;
+&lt;li&gt;Textural Features Methods: (Grey Level Co-occurrence Matrix(GLCM), Local Binary Pattern(LBP) and Local Directional Pattern(LDP))&lt;/li&gt;
+&lt;li&gt;Classification using Support Vector Machine (SVM) and Naive Bayes(NB).&lt;/li&gt;
+&lt;/ol&gt;
+
+Both Features Extraction and Classification will be implemented using Python.
+
+Texture is a very important factor in computer vision; it represents the first level of spatial properties that can be extracted from digital image. Texture can be defined as relationship between gray level in neighboring pixels.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Abuobayda Shabat</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3929/an-introduction-to-machine-learning-in-python</guid><enclosure url="http://youtu.be/s041lMgOlgs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/s041lMgOlgs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

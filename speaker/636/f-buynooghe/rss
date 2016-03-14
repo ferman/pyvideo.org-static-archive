@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of F Buynooghe</title><link>http://www.pyvideo.org/speaker/636/f-buynooghe/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/636/f-buynooghe/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Using sockets in Python</title><link>http://www.pyvideo.org/video/1244/using-sockets-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] F Buynooghe - 5 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Sockets are a fundamental abstraction operating systems provide to expose
+networking operations. Initially they look like a fairly straight forward
+interface but they hide a surprising amount of complexity. Many protocol
+libraries hide sockets away from the developer but it can still be useful to
+know the sockets themselves. Other times directly using sockets is just a
+better or simpler option. This talk will cover practical socket programming in
+python, concentrating on TCP and UDP over IP (v4 &amp; v6) the basic APIs of
+address resolution and using sockets will be covered. Common patterns and
+pitfalls will be pointed out which should enable to you to write robust socket
+code with the help of tools like StringIO and memoryview. After the basics
+python’s higher level abstractions like create_connection(), .makefile() and
+the io module are covered, explaining when and how these can make life easier.
+Finally a quick look at how non-blocking sockets can be used and how libraries
+like asyncore/asynchat, twisted, eventlet and gevent all approach non-blocking
+I/O in their own way.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">F Buynooghe</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1244/using-sockets-in-python</guid><enclosure url="http://www.youtube.com/watch?v=cPZokpaA0Vw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/cPZokpaA0Vw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

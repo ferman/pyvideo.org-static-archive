@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rhydwyn Mcguire</title><link>http://www.pyvideo.org/speaker/839/rhydwyn-mcguire/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/839/rhydwyn-mcguire/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 09 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Record linkage: Join for real life by Rhydwyn Mcguire</title><link>http://www.pyvideo.org/video/3115/record-linkage-join-for-real-life-by-rhydwyn-mcg</link><description>&lt;p&gt;Description&lt;/p&gt;
+In an ideal world, you can join on candidate keys, names are never misspelt, people never move house, and I have a pony. I don’t have a pony. But we do have record linkage. 
+
+Record linkage (also known as data linkage or fuzzy record matching) is a naive Bayes algorithm which matches data about individuals across databases or within a single database, by constructing the probabilities that two records apply to the same individual or to different individuals.
+
+In this talk I will discuss the techniques of record linkage in Python, the usefulness and the limitations of linkage, and the effect that this technique is having on healthcare research in particular.
+
+Healthcare/epidemiology studies often require data from more than one source, and individuals frequently have multiple interactions with a data set without a unique identifier. The outcomes of these studies are only as good as the record linkage which underlies them, so the ways in which record linkage is done can have a direct impact on our ability to understand, prevent and treat serious medical conditions.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rhydwyn Mcguire</dc:creator><pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3115/record-linkage-join-for-real-life-by-rhydwyn-mcg</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/35-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/35-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=cEcVIjyHfiQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/cEcVIjyHfiQ/hqdefault.jpg"></media:thumbnail></item><item><title>RPy: Powerful Analytics within python</title><link>http://www.pyvideo.org/video/1622/rpy-powerful-analytics-within-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+R is an incredibly powerful statistical programming language. It is the choice
+for powerful set and forgets analytics. However it is a specialist language
+without strong functionality in other areas. In areas where significant
+preproc
+
+
+&lt;p&gt;Description&lt;/p&gt;
+R is an incredibly powerful statistical programming language. It is the choice
+for powerful set and forgets analytics. However it is a specialist language
+without strong functionality in other areas. In areas where significant
+preprocessing of data, or where the statistics produced are part of a larger
+system such as looking for patterns in the load behaviour of a web server, a
+match with a strong general language is an obvious solution. Because of its
+wide use and potential integration with R, python is that language.
+
+This talk will be targeted at python programmers who wish to integrate
+statistical and data analysis into their work, providing options for real time
+data monitoring and analysis. This talk is accessible for anyone with a basic
+understanding of python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rhydwyn Mcguire</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1622/rpy-powerful-analytics-within-python</guid><enclosure url="http://www.youtube.com/watch?v=puoIKCfgX1w" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/puoIKCfgX1w/hqdefault.jpg"></media:thumbnail></item></channel></rss>

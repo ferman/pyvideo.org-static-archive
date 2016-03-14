@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Eric Jeschke</title><link>http://www.pyvideo.org/speaker/1025/eric-jeschke/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1025/eric-jeschke/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 14 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Enhancements to Ginga: an Astronomical Image Viewer and Toolkit</title><link>http://www.pyvideo.org/video/2777/enhancements-to-ginga-an-astronomical-image-view</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We describe recent developments in the Ginga package, a open-source astronomical image viewer and toolkit written in python and hosted on Github.  The package was introduced to the scientific python community at SciPy 2013 and has received a number of enhancements since then based on user feedback.  The talk includes an image mosaicing demo of a wide-field camera exposure with 116 4Kx2K CCDs.
+&lt;p&gt;Description&lt;/p&gt;
+Ginga is an open-source astronomical image viewer and toolkit written in python and [hosted on Github](https://github.com/ejeschke/ginga).  It uses and inter-operates with several key scientific python packages: numpy, scipy, astropy and matplotlib.
+
+In this talk/poster we describe and illustrate recent enhancements to the package since the introductory talk at SciPy 2013, including:
+
+
+* modular/pluggable interfaces for world coordinate systems, image file I/O and star and image catalogs
+* support for rendering into matplotlib figures
+* support for image mosaicing
+* support for image overlays
+* customizable user-interface bindings
+* improved documentation
+* self contained Mac OS X packages
+
+During the talk we will demonstrate the mosaicing plugin that is being used with several instruments at Subaru Telescope in Hawaii, including the new Hyper Suprime-Cam wide-field camera with 116 separate 4Kx2K CCDs.
+
+The talk/poster may be of interest to anyone developing code in python needing to display scientific image (CCD or CMOS) data and astronomers interested in python-based quick look and analysis tools.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jeschke</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2777/enhancements-to-ginga-an-astronomical-image-view</guid><enclosure url="http://www.youtube.com/watch?v=wa_0SuVckGQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/wa_0SuVckGQ/hqdefault.jpg"></media:thumbnail></item><item><title>Ginga: an open-source astronomical image viewer and toolkit</title><link>http://www.pyvideo.org/video/1969/ginga-an-open-source-astronomical-image-viewer-a-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Ginga is a new astronomical image viewer written in python. It uses and inter-operates with several key scientific python packages: numpy, pyfits, and scipy.
+&lt;p&gt;Description&lt;/p&gt;
+Authors: Jeschke, Eric, Subaru Telescope, National Astronomical Observatory of Japan
+
+Track: Astronomy and Astrophysics
+
+Ginga is a new astronomical image viewer written in python. It uses and inter-operates with several key scientific python packages: numpy, pyfits, and scipy. A key differentiator for this image viewer, compared to older-generation FITS viewers, is that all the key components are written as python classes, allowing for the first time a powerful FITS image display widget to be directly embedded in, and tightly coupled with, python code.
+
+We call Ginga a toolkit for programming FITS viewers because it includes a choice of base classes for programming custom viewers for two different modern widget sets: Gtk and Qt, available on the three common desktop platforms. In addition, a reference viewer is included with the source code based on a plugin architecture in which the viewer can be extended with plugins scripted in python. The code is released under a BSD license similar to other major python packages and is available on github.
+
+Ginga has been introduced only recently as a tool to the astronomical community, but since SciPy has a developer focus this talk concentrates on programming with the Ginga toolkit. We cover two cases: using the bare image widget to build custom viewers and writing plugins for the existing full-featured Ginga viewer. The talk may be of interest to anyone developing code in python needing to display scientific image (CCD or CMOS) data and astronomers interested in python-based quick look and analysis tools.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jeschke</dc:creator><pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1969/ginga-an-open-source-astronomical-image-viewer-a-0</guid><enclosure url="http://www.youtube.com/watch?v=nZKy_nYUxCs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/nZKy_nYUxCs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

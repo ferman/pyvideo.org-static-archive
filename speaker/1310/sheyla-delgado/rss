@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Sheyla Delgado</title><link>http://www.pyvideo.org/speaker/1310/sheyla-delgado/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1310/sheyla-delgado/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Mapping Networks of Violence</title><link>http://www.pyvideo.org/video/2807/mapping-networks-of-violence</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A novel approach to both violence prevention and the measurement of propensity to violence is presented.  The work is part of the evaluation of Cure Violence's (Ransford, Kane and Slutkin 2009; Slutkin 2012) implementation in NYC. Python libraries such as IPython, PySAL, Numpy, Basemap, Fiona, Shapely, Matplotlib, bNetworkX, Pandas and scikit-learn feature prominently in the work.
+
+&lt;p&gt;Description&lt;/p&gt;
+Violence remains a significant problem in New York City's poor
+neighborhoods.  There were more than 9,000 gun homicides in 2008 (FBI,
+2009) and the CDC (2012) reports that there were more than 71K
+non-fatal wounds in the US. One novel approach to the problem of
+violence is the Cure Violence Model (Ransford, Kane and Slutkin 2009;
+Slutkin 2012).  Cure Violence treats violence as a disease passed
+between people in a social network.  The program tries to use the same
+network to change how people who are prone to and have been the
+victims of violence react to stress and conflict.  Cure Violence is
+viewed as having been successful in Chicago and shown promising in
+other cities (Skogin 2009, Wilson 2010, Webster 2009).  All of these
+studies have used reported incidents of violence before and after the
+program to assess the efficacy. The NYC Council and Robert Wood
+Johnson Foundation have commited significant resoures to this
+approach.  Both have retained the CUNY John Jay Research &amp; Evaluation
+center to evaluate the efficacy. Our research adds to the literature
+by being the first to attempt to measure the change in the propensity
+to violence of people in the community. Novel preliminary research is
+presented on network cliques of respondents and the demographic,
+education, victimization experiences that constitute greatest risk.
+All of the analysis was conducted in Python libraries including
+IPython, PySAL, Numpy, Basemap, Fiona, Shapely, Matplotlib, bNetworkX,
+Pandas and scikit-learn.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Evan Misshula,Sheyla Delgado</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2807/mapping-networks-of-violence</guid><enclosure url="http://www.youtube.com/watch?v=SDi4TNqaR2s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/SDi4TNqaR2s/hqdefault.jpg"></media:thumbnail></item></channel></rss>

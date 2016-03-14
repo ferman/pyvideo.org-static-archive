@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Dalke</title><link>http://www.pyvideo.org/speaker/103/andrew-dalke/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/103/andrew-dalke/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>concurrent.futures is here</title><link>http://www.pyvideo.org/video/1280/concurrentfutures-is-here</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Andrew Dalke - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The future is here! Or rather, concurrent.futures became part of the Python
+standard library with 3.2. This style of asynchronous programming, also known
+as promises, has been around for decades but is only recently becoming popular
+in a number of languages and libraries. My presentation is meant for a Python
+programmer who knows nothing about futures. I’ll structure it around
+processing web server logs, and show several ways to Python code can make more
+effective use of a multi-core machine. In some cases the multi-threaded
+executor is good enough, but in others the right solution is the multi-process
+executor. Because of the unified API, it’s a one line change to switch from
+one to the other. It isn’t hard to write your own executor for different
+compute models. I’ll show that by developing a new one which works on top of
+the PiCloud API. At the end I’ll describe some of the more experimental work
+I’m doing to use promises in a dependency graph, where certain computed
+properties are dependent on others. Even though concurrent.futures came in
+3.2, Python 2.x users can use the API through Alex Grönholm’s ‘futures’
+backport.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Dalke</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1280/concurrentfutures-is-here</guid><enclosure url="http://www.youtube.com/watch?v=2Ng-UIedZMY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/2Ng-UIedZMY/hqdefault.jpg"></media:thumbnail></item><item><title>Python's other collection types and algorithms</title><link>http://www.pyvideo.org/video/1064/pythons-other-collection-types-and-algorithms</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Andrew Dalke - 21 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+It's impossible to use Python without learning about lists, dictionaries and
+tuples, and most people have at least heard about sets. These four collection
+types are so important and useful that Python has special syntax for creating
+them.
+
+Fewer people know about Python's other built-in collection data types and
+algorithms. A deque supports fast appends and pops from both ends and is great
+for breath-first searches, the heapq module helps you construct a priority
+queue on top of lists, and the bisect module is handy for quick binary
+searches of an already sorted list.
+
+The defaultdict uses the dict **missing** hook as a better solution to
+setdefault, OrderedDict is a dictionary that preserves insertion order, and
+Counter is a dictionary specialized for counting hashable objects. A
+namedtuple is handy if you want to support both index and attribute lookups
+for the same item, and a frozenset is a hashable form of a set which can be
+used as keys in a dictionary or set.
+
+My talk will go over these 8 different classes and modules. I'll give concrete
+examples of how to use them and why they are useful. The target audience is
+intermediate programmers who are familiar with the Python's standard data
+types and with data types in general, but who don't know all of the
+functionality available in modern Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Dalke</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1064/pythons-other-collection-types-and-algorithms</guid><enclosure url="http://www.youtube.com/watch?v=7QiuxqEpq2o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/7QiuxqEpq2o/hqdefault.jpg"></media:thumbnail></item><item><title>PLY and PyParsing (#93)</title><link>http://www.pyvideo.org/video/265/pycon-2010--ply-and-pyparsing---93</link><description>&lt;p&gt;Description&lt;/p&gt;
+PLY and PyParsing
+
+  
+Presented by Andrew Dalke
+
+  
+Got a text parsing problem? In most cases using string manipulation and
+regular expressions will solve it for you. But when the input is complex, try
+reaching for a parsing system to help out.
+
+  
+The two most popular in Python are PLY and PyParsing. PLY follows the lex/yacc
+tradition with a domain specific language to describe the tokens and grammar.
+It was built with both error diagnostics and performance in mind. PyParsing is
+a recursive descent parser which expresses the format as a Python data
+structure. It make no distinction between lexer and grammar and has a uniform
+callback system which makes certain types of data extraction very easy.
+
+  
+In my talk I'll show the basics of how to use both systems for several
+different format parsing tasks, of different complexity. This will let you see
+how to use the parsers and understand more of the tradeoffs between
+complexity, readability, error handling, and performance.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Dalke</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/265/pycon-2010--ply-and-pyparsing---93</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/265_ply-and-pyparsing-93.ogv" length="163502409" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/265_ply-and-pyparsing-93.ogv" fileSize="163502409" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/265_ply-and-pyparsing-93.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PLYAndPyParsing93735-488.jpg"></media:thumbnail></item></channel></rss>

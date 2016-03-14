@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Geoffrey M. Poore</title><link>http://www.pyvideo.org/speaker/616/geoffrey-m-poore/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/616/geoffrey-m-poore/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PythonTeX: Fast Access to Python from within LaTeX</title><link>http://www.pyvideo.org/video/1227/pythontex-fast-access-to-python-from-within-late</link><description>&lt;p&gt;Description&lt;/p&gt;
+The LaTeX document preparation system is frequently used to create scientific
+documents and presentations. This process is often inefficient. The user must
+switch back and forth between the document and external scientific software
+that is used for performing calculations and creating figures.
+[PythonTeX](https://github.com/gpoore/pythontex) is a LaTeX package that
+allows Python code to be entered directly within a LaTeX document. The code is
+automatically executed and its output is included within the original
+document. The code may also be typeset within the document with syntax
+highlighting provided by Pygments.
+
+PythonTeX is fast and user-friendly. Python code is separated into user-
+defined sessions, and each session is only executed when its code is modified.
+When code is executed, sessions run in parallel. The contents of stdout and
+stderr are synchronized with the LaTeX document, so that printed content is
+easily accessible and error messages have meaningful line numbering.
+
+PythonTeX greatly simplifies scientific document creation with LaTeX. For
+example, SymPy can be used to automatically solve and typeset step-by-step
+mathematical derivations. It can also be used to automate the creation of
+mathematical tables. Plots can be created with matplotlib and then easily
+customized in place. Python code and its output can be typeset side by side.
+The full power of Python is conveniently available for programming LaTeX
+macros and customizing and automating LaTeX documents.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geoffrey M. Poore</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1227/pythontex-fast-access-to-python-from-within-late</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PythonTeX_Fast_Access_to_Pytho.mp4?Signature=WkwvorcGsMXORDJuJodc52xIzKc%3D&amp;Expires=1346382731&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PythonTeX_Fast_Access_to_Pytho.mp4?Signature=WkwvorcGsMXORDJuJodc52xIzKc%3D&amp;Expires=1346382731&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=yIO4l0zHGjw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/yIO4l0zHGjw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

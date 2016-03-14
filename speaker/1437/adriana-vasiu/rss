@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adriana Vasiu</title><link>http://www.pyvideo.org/speaker/1437/adriana-vasiu/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1437/adriana-vasiu/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Cutting-edge APIs using hypermedia at BSkyB</title><link>http://www.pyvideo.org/video/3042/cutting-edge-apis-using-hypermedia-at-bskyb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I will explain what hypermedia enabled API means, I will give an example of such an API and I will take you through the implementation details and the usage of flask, dougrain and HAL in this context. Also, I will present a brief comparison with an API that is not hypermedia enabled and take you through the advantages of using the hypermedia approach.
+&lt;p&gt;Description&lt;/p&gt;
+In the technology community at the moment there is a lot of talk about hypermedia enabled APIs and Web as an Architecture model.
+ 
+ More and more applications nowadays try to adopt the loosely coupled and distributed web like architecture by using hypermedia as an engine of the application state.
+ 
+In Sky we are successfully implementing this approach for some of our components, and we’ve learnt that the major benefit for us is the scalability that it offers: as an increasingly expanding business with a constantly growing product portfolio, scalability of all our systems is crucial.
+ 
+In this talk I will share some of the things we learnt, I will explain what hypermedia enabled API means, I will give an example of such an API and I will take you through the implementation details and the usage of flask, dougrain and HAL in this context.
+ 
+Also, I will present a brief comparison with an API that is not hypermedia enabled and take you through the advantages of using the hypermedia approach.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adriana Vasiu</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3042/cutting-edge-apis-using-hypermedia-at-bskyb</guid><enclosure url="http://www.youtube.com/watch?v=7rSLyLMaWXQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/7rSLyLMaWXQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

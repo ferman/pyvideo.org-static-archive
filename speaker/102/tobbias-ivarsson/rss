@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tobbias Ivarsson</title><link>http://www.pyvideo.org/speaker/102/tobbias-ivarsson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/102/tobbias-ivarsson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Persistent Graphs in Python with Neo4j (#140)</title><link>http://www.pyvideo.org/video/264/pycon-2010--persistent-graphs-in-python-with-neo4</link><description>&lt;p&gt;Description&lt;/p&gt;
+Persistent Graphs in Python with Neo4j
+
+  
+Presented by Tobbias Ivarsson
+
+  
+Databases that employ a data model other than the relational model are
+increasingly a hot topic. Neo4j is an open source database where the data
+model is a graph. Data in Neo4j is stored as Nodes and Relationships in
+between nodes. A lot of the data we model in applications every day is
+actually graph oriented, having a database that persists such data natively is
+a huge benefit. In this presentation we will see how to use Neo4j in Python,
+and demonstrate this with a web application in Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tobbias Ivarsson</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/264/pycon-2010--persistent-graphs-in-python-with-neo4</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.ogv" length="170064119" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.ogv" fileSize="170064119" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PersistentGraphsInPythonWithNeo4j140164-779.jpg"></media:thumbnail></item></channel></rss>

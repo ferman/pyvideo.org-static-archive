@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michael Foord</title><link>http://www.pyvideo.org/speaker/202/michael-foord/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/202/michael-foord/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>State of the Pythons (Keynote)</title><link>http://www.pyvideo.org/video/2377/state-of-the-pythons-keynote</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Keynote
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Keynote
+
+**Slides**
+
+https://speakerdeck.com/nzpug/michael-foord-state-of-the-pythons-keynote</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Foord</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2377/state-of-the-pythons-keynote</guid><enclosure url="http://www.youtube.com/watch?v=IWB_pQacuw4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/IWB_pQacuw4/hqdefault.jpg"></media:thumbnail></item><item><title>Testing with mock</title><link>http://www.pyvideo.org/video/392/pycon-2011--testing-with-mock</link><description>&lt;p&gt;Description&lt;/p&gt;
+Testing with mock
+
+Presented by Michael Foord
+
+mock is a Python testing library. It has the goal of making mocking in tests
+brain dead simple! mock provides the Mock class and the patch decorator for
+safely patching out the objects you are mocking in your tests. This talk will
+cover standard mocking patterns. We'll also look at some of the newer features
+in the latest release, including support for mocking magic methods.
+
+Abstract
+
+mock provides a core Mock class that removes the need to create a host of
+trivial stubs throughout your test suite. After performing an action, you can
+make assertions about which methods / attributes were used and arguments they
+were called with. You can also specify return values and set specific
+attributes in the normal way.
+
+  * [http://www.voidspace.org.uk/python/mock/](http://www.voidspace.org.uk/python/mock/)
+  * [http://pypi.python.org/pypi/mock/](http://pypi.python.org/pypi/mock/)
+
+The mock module also provides a patch() decorator that handles safely patching
+out the things you are mocking during your test.
+
+We'll cover standard mocking patterns, and how mock makes them easy. We'll
+also be looking at some of the newer features in the latest release, including
+the magic method support that can be used (for example) for mocking out
+objects used as context managers.
+
+mock is designed for "unit test style" testing, but is used with Python
+testing libraries like nose and py.test.
+
+There will be some emphasis on how *not* to use mocking in testing, and why
+'over mocking' is bad (and makes for brittle tests).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Foord</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/392/pycon-2011--testing-with-mock</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/392_testing-with-mock.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011TestingWithMock498.png"></media:thumbnail></item><item><title>New *and* Improved: Coming changes to unittest, the standard library test framework (#52)</title><link>http://www.pyvideo.org/video/296/pycon-2010--new--and--improved--coming-changes-to</link><description>&lt;p&gt;Description&lt;/p&gt;
+New *and* Improved: Coming changes to unittest, the standard library test
+framework
+
+  
+Presented by Michael J Foord
+
+  
+In Python 2.7 and 3.2 a whole bunch of improvements to unittest will arrive.
+unittest is the Python standard library testing framework and for several
+years it has languished whilst other Python testing frameworks have innovated.
+Some of the best innovations have made their way into unittest which has had
+quite a renovation.
+
+  
+This talk will go through the major changes, like the new assert methods, test
+discovery and the load_tests protocol, and also explain how they can be used
+with earlier versions of Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Foord</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/296/pycon-2010--new--and--improved--coming-changes-to</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/296_new-and-improved-coming-changes-to-unittest-the-standard-library-test-framework-52.ogv" length="152143505" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/296_new-and-improved-coming-changes-to-unittest-the-standard-library-test-framework-52.ogv" fileSize="152143505" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/296_new-and-improved-coming-changes-to-unittest-the-standard-library-test-framework-52.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010NewAndImprovedComingChangesToUnittestTheStanda472-63.jpg"></media:thumbnail></item></channel></rss>

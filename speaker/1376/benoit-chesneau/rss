@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Benoit Chesneau</title><link>http://www.pyvideo.org/speaker/1376/benoit-chesneau/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1376/benoit-chesneau/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>What Python can learn from Erlang</title><link>http://www.pyvideo.org/video/3414/what-python-can-learn-from-erlang</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benoit Chesneau</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3414/what-python-can-learn-from-erlang</guid><enclosure url="https://www.youtube.com/watch?v=EmICpC_QmhI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/EmICpC_QmhI/hqdefault.jpg"></media:thumbnail></item><item><title>Concurrent programming with Python and my little experiment</title><link>http://www.pyvideo.org/video/2941/concurrent-programming-with-python-and-my-little</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Concurrent programming in Python may be hard. A lot of solutions exists
+though. Most of them are based on an eventloop. This talk will present
+what I discovered and tested along the time and my little
+[experiment](http://github.com/benoitc/offset) in porting the Go
+concurrency model in Python.
+&lt;p&gt;Description&lt;/p&gt;
+Concurrent programming in Python may be hard. A lot of solutions exists
+though. Most of them are based on an eventloop. This talk will present
+what I discovered and tested along the time with code examples, from
+asyncore to asyncio, passing by gevent, eventlet, twisted and some new
+alternatives like evergreen or gruvi. It will also present my little
+experiment in porting the Go concurrency model in Python named [offset](http://github.com/benoitc/offset),
+how it progressed in 1 year and how it became a fully usable library .
+
+This presentation will be an update of the presentation I gave at the FOSDEM 2014. It will introduce to the concurrency concepts and how they are implemented in the different libraries. 
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benoit Chesneau</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2941/concurrent-programming-with-python-and-my-little</guid><enclosure url="http://www.youtube.com/watch?v=snIHnStehIo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/snIHnStehIo/hqdefault.jpg"></media:thumbnail></item><item><title>Porter le modèle de concurrence de GO en Python</title><link>http://www.pyvideo.org/video/3748/porter-le-modele-de-concurrence-de-go-en-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Beaucoup de gens tentent de porter le modèle d'acteur en Python, mais ce modèle n'est pas vraiment adapté à un tel langage. Au contraire le modèle de concurrence de Go a quelques points attractifs qui permettent de le porter facilement sous Python.
+
+Offset est une librairie compatible Python 2.7, 3.x et pypy. Cette présentation présentera de façon détaillée la librairie Offset et comment le modèle de concurrence de Go y est implementée. Je présenterais aussi comment utiliser Offset pour créer des programmes concurrents exploitant tous les CPUs de votre système.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benoit Chesneau</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3748/porter-le-modele-de-concurrence-de-go-en-python</guid><enclosure url="https://www.youtube.com/watch?v=BGRnVNs7A28" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/BGRnVNs7A28/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

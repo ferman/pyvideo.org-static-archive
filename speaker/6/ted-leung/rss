@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ted Leung</title><link>http://www.pyvideo.org/speaker/6/ted-leung/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/6/ted-leung/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:26:25 -0000</lastBuildDate><ttl>500</ttl><item><title>Now What</title><link>http://www.pyvideo.org/video/8/now-what</link><description>&lt;p&gt;Description&lt;/p&gt;
+Now What
+
+  
+Presented by Ted Leung
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ted Leung</dc:creator><guid>http://www.pyvideo.org/video/8/now-what</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/8_now-what.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-NowWhat155.png"></media:thumbnail></item></channel></rss>

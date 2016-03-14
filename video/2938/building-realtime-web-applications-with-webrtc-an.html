@@ -1,0 +1,344 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Building Realtime Web Applications with WebRTC and Python</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="WebRTC makes building peer to peer real time web applications easier. First, we&#39;ll discuss in short what WebRTC is, how it works. Then we will explore ways to build the signalling system of a WebRTC app using Python.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="building-realtime-web-applications-with-webrtc-an.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="building-realtime-web-applications-with-webrtc-an.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=uBV_KKGzNqQ"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Building Realtime Web Applications with WebRTC and Python</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/uBV_KKGzNqQ/hqdefault.jpg"/>
+      <link property="sameAs" href="building-realtime-web-applications-with-webrtc-an.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>WebRTC makes building peer to peer real time web applications easier. First, we'll discuss in short what WebRTC is, how it works. Then we will explore ways to build the signalling system of a WebRTC app using Python.</p></div>
+        <meta property="caption" content="WebRTC makes building peer to peer real time web applications easier. First, we&#39;ll discuss in short what WebRTC is, how it works. Then we will explore ways to build the signalling system of a WebRTC app using Python."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><h1>Introduction</h1>
+<p>This talk will first introduce the audience to WebRTC and then discuss about how to implement the server side logic of a WebRTC app using Python. </p>
+<p>WebRTC is a free, open project that enables web browsers with plugin-less Real-Time Communications (RTC) capabilities via simple JavaScript APIs. What makes WebRTC special is that the data travels from one client to another without going through the server. </p>
+<p>The main functions of WebRTC can be broadly categorized into three types. </p>
+<ul>
+<li>Access and acquire video and audio streams</li>
+<li>Establish a connection between peers and stream audio/video.</li>
+<li>Communicate arbitrary data.</li>
+</ul>
+<p>WebRTC uses three different JavaScript APIs to perform these three functions. These APIs are:</p>
+<ul>
+<li>MediaStream (aka getUserMedia)</li>
+<li>RTCPeerConnection</li>
+<li>RTCDataChannel</li>
+</ul>
+<p>MediaStream API performs the task of accessing the webcam and/or microphone of the device and acquire the video and/or audio stream from them. RTCPeerConnection API establishes connection between peers and streams audio and video data. This API also does all the encoding and decoding of audio/video data. The third API, RTCDataChannel helps to communicate arbitrary data from one client to the other.</p>
+<p>There will be short demos to demonstrate the functionalities of these APIs.</p>
+<h1>Signaling and Session Control</h1>
+<p>WebRTC uses RTCPeerConnection to communicate streaming data between browsers, but some sort of mechanism is needed to coordinate this communication and to send control messages. This process is known as signaling.</p>
+<p>Signaling is used to exchange three types of information.</p>
+<ul>
+<li>Session control messages: to initialize or close communication and report errors.</li>
+<li>Network configuration: to the outside world, what's my computer's IP address and port?</li>
+<li>Media capabilities: what codecs and resolutions can be handled by my browser and the browser it wants to communicate with?</li>
+</ul>
+<p>This can be implemented using any appropriate two way communication channel.</p>
+<h1>Implementing signaling in Python</h1>
+<p>Next, we will have a look at how to implement this signaling mechanism in Python. ( Demonstration with annotated code and live application.)</p>
+<h3>Google AppEngine and the Channel API</h3>
+<p>Google AppEngine has a channel API which offers persistent connections between your application and Google servers, allowing your application to send messages to JavaScript clients in real time without the use of polling. We'll use this Channel API to build the signaling system of our WebRTC app on top of webapp2 and flask framework. </p>
+<h3>Flask and gevent</h3>
+<p>We'll implement the same signaling system again, this time on top of Flask using gevent for the persistent connection between the browser and our application. </p>
+<h1>Outline of the talk</h1>
+<h3>Intro (5 min)</h3>
+<ul>
+<li>Who are we?</li>
+<li>What is WebRTC?</li>
+<li>Functions of WebRTC.</li>
+</ul>
+<h3>WebRTC APIs and Demos (3 min)</h3>
+<ul>
+<li>MediaStream (getUserMedia) API</li>
+<li>RTCPeerConnection API</li>
+<li>RTCDataChannel API</li>
+</ul>
+<h3>Signaling in WebRTC Applications (3 min)</h3>
+<ul>
+<li>What is signaling?</li>
+<li>Why is it needed?</li>
+<li>How to implement it?</li>
+</ul>
+<h3>Implementation of signaling (16 min)</h3>
+<ul>
+<li>Implementation using Google AppEngine and Channel API</li>
+<li>Implementation using Flask and gevent</li>
+</ul>
+<h3>Questions (3 min)</h3></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1373/tarashish-mishra.html">Tarashish Mishra</a></div>
+            <meta property="author" content="Tarashish Mishra"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 25, 2014
+            <meta property="dateCreated" content="2014-07-25"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 31, 2014
+            <meta property="dateModified" content="2014-07-31T00:53:52.833377"/>
+            <meta property="datePublished" content="2014-07-31T00:53:52.833377"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=uBV_KKGzNqQ" property="embedUrl">http://www.youtube.com/watch?v=uBV_KKGzNqQ</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2938">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="building-realtime-web-applications-with-webrtc-an.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

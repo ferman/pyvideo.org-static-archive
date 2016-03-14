@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Russell Keith-Magee</title><link>http://www.pyvideo.org/speaker/458/russell-keith-magee/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/458/russell-keith-magee/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Core Team Panel, featuring: Chris Beaven, Markus Holterman, Russell Keith-Magee, Curtis Maloney</title><link>http://www.pyvideo.org/video/3948/core-team-panel-featuring-chris-beaven-markus</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Beaven,Curtis Maloney,Markus Holterman,Russell Keith-Magee</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3948/core-team-panel-featuring-chris-beaven-markus</guid><enclosure url="https://www.youtube.com/watch?v=1SeO5ZCK19Q" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/1SeO5ZCK19Q/hqdefault.jpg"></media:thumbnail></item><item><title>Money, Money, Money - Writing software, in a rich (wo)man's world</title><link>http://www.pyvideo.org/video/3999/money-money-money-writing-software-in-a-rich</link><description>&lt;p&gt;Description&lt;/p&gt;
+Free software advocates talk about two types of "Free": Free as in freedom, and Free as in beer. While Free (as in freedom) software is unquestionably better for users and developers alike, Free (as in beer) software doesn't pay the bills. 
+
+Talk to any prominent open source developer, and amongst the success stories, you'll also hear some consistent troubles - that they've got great ideas and grand plans, but no time to execute; that they're about to burn out due to the pressues of maintaining their project; or that they've had yet another mailing list discussion with someone who doesn't understand they're a volunteer. All of these problems stem from a fundamental disconnect: the discrepancy between the clear demand for a software product, and the ability to convert that demand into time needed to service that demand - and that means money.
+
+So is there a way to pay the piper? Or is open source doomed to eek out an existence at the edges of "a real job"?
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3999/money-money-money-writing-software-in-a-rich</guid><enclosure url="https://www.youtube.com/watch?v=mY8B2lXIu6g" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mY8B2lXIu6g/hqdefault.jpg"></media:thumbnail></item><item><title>Python on the move: The state of mobile Python</title><link>http://www.pyvideo.org/video/3958/python-on-the-move-the-state-of-mobile-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Over the last 5-10 years, the "desktop/server" split that dominated computing in the 80s, 90s and early 2000s has been joined by a third player - mobile devices such as phones and tablets.
+
+So, what is the story for running Python on these devices? Although there hasn't been much to say in the past, the good news is that over the last year, there's been some signficant changes in the landscape, and Python on Mobile is now teetering on the brink of being a genuine reality.
+
+In this talk, Russell Keith-Magee will survey the current state of using Python on mobile devices, the work that is currently being done, areas where more work is requried, and the prospects for the future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3958/python-on-the-move-the-state-of-mobile-python</guid><enclosure url="https://www.youtube.com/watch?v=Cbkcr3ofBmk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/Cbkcr3ofBmk/hqdefault.jpg"></media:thumbnail></item><item><title>Grug make fire! Grug make wheel! by Russell Keith-Magee</title><link>http://www.pyvideo.org/video/3087/grug-make-fire-grug-make-wheel-by-russell-keith</link><description>&lt;p&gt;Description&lt;/p&gt;
+In prehistoric times, Python developers were faced with a confusing landscape of tools and conflicting advice when they wanted to package their Python modules for public release. As a result of all the distutils/distribute/setuptools changes over the last 5 years, there's lots of confusion about what you should do when preparing a package for distribution - and even some confusion about what the purpose of packaging is in the first place.
+
+After a mammoth effort from a number of volunteers in the community, over several years, this situation is changing. It's taken a while, but the Python community has invented the wheel!
+
+In this talk, we'll look at the process that has led to the development of the wheel format. But more importantly, we'll look at the steps you need to take when packaging a module of Python code for others to use, and get it on the Python Package Index (PyPI).</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3087/grug-make-fire-grug-make-wheel-by-russell-keith</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/49-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/49-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=UtFHIpNPMPA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/UtFHIpNPMPA/hqdefault.jpg"></media:thumbnail></item><item><title>Tinkering with Tkinter</title><link>http://www.pyvideo.org/video/2239/tinkering-with-tkinter</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Tkinter - the Python wrapper to the Tk graphics library - has been part of the Python standard library since very early on. However, that inclusion hasn't translated into extensive use.
+
+There was a very good reason for this. Tk's documentation was beyond awful. And if you managed to get over that hurdle, Tkinter apps looked awful - they had a woefully inadequate set of widgets, styled with the very best of mid 1990's open source graphic skill.
+
+And then, the world got obsessed with web frameworks, and the desktop was declared as dead.
+
+However, in the last few years, many of the reasons Tkinter was ignored have been quietly fixed. Tk 8.4 massively improved the visual appearance of Tk. tkdocs.com has emerged, addressing many of the problems with Tk documentation.
+
+In this talk, you'll get a re-introduction to an old friend, and an explanation of why, in a web and mobile world, you should care.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2239/tinkering-with-tkinter</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Tinkering_with_Tkinter.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Tinkering_with_Tkinter.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=yI7NYgP54sw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/yI7NYgP54sw/hqdefault.jpg"></media:thumbnail></item><item><title>Secrets of the testing masters</title><link>http://www.pyvideo.org/video/2244/secrets-of-the-testing-masters</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django ship with a wide range of tools to help you test your web application, but some of the best tools for testing Django don't come in the box.
+
+In this talk, you'll get a brief introduction to two of those tools - Mock and Factory Boy - showing when they should be used, and some practical examples of their usage in a Django test suite.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2244/secrets-of-the-testing-masters</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Secrets_of_the_testing_masters.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Secrets_of_the_testing_masters.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=a713rcagoYU" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/a713rcagoYU/hqdefault.jpg"></media:thumbnail></item><item><title>DjangoCon 2012 Keynote - Russell Keith-Magee</title><link>http://www.pyvideo.org/video/1400/djangocon-2012-keynote-russell-keith-magee</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 - Keynote - Russell Keith-Magee
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1400/djangocon-2012-keynote-russell-keith-magee</guid><enclosure url="http://www.youtube.com/watch?v=KSednnZNJ04" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/KSednnZNJ04/hqdefault.jpg"></media:thumbnail></item><item><title>Get off the bench: Making the leap from user to contributor</title><link>http://www.pyvideo.org/video/1409/get-off-the-bench-making-the-leap-from-user-to-c</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django -- like all Open Source projects -- is only as good as the community of
+people that contribute to it. We have a huge user community, but the vast
+majority of users never make the leap and become contributors. This talk will
+walk you through the process of making the transition from Django user, to
+Django Project contributor.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django needs you! No -- seriously -- Django is a volunteer project, and the
+ability of Django to continue to improve is entirely controlled by the time
+and dedication people like you are willing to put into making Django better.
+
+However, it's not just a matter of sitting down and writing code. If you don't
+have a plan for how you're going to engage with the rest of the community,
+it's very easy to put in a lot of effort, and then have that effort go
+entirely to waste. This talk will give you some tips on how to engage the
+community so that you can see your effort turn into progress, and not just be
+lost in a mailing list.
+
+Getting involved doesn't just mean contributing code, either. There are lots
+of other ways that you can be a valuable member of the community, and this
+talk will give you several suggestions for how your talents could be used to
+improve the entire Django ecosystem.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1409/get-off-the-bench-making-the-leap-from-user-to-c</guid><enclosure url="http://www.youtube.com/watch?v=grGIl9gP-iY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/grGIl9gP-iY/hqdefault.jpg"></media:thumbnail></item><item><title>No! Bad Pony!</title><link>http://www.pyvideo.org/video/1628/no-bad-pony</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The Django community is not short of ideas that could be added to the core
+repository. Some of these ideas are great, and are just waiting for the right
+implementation or the attention of a core developer. Other ideas are just not
+going to happen. However, it's not always obvious why an idea will be
+rejected. This talk will attempt explain the reasoning behind a couple of
+specific decisions. More broadly, this talk will aims to provide general
+guidance on the decision making process of the Django core. It will also
+address how you can get started contributing to Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russell Keith-Magee</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1628/no-bad-pony</guid><enclosure url="http://www.youtube.com/watch?v=xFh40R5KcV8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xFh40R5KcV8/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python in the webs</title><link>http://www.pyvideo.org/video/985/panel-python-in-the-webs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This will be a panel discussion wherein we wax philosophical about the state
+of web frameworks in Python - talking about invention, reinvention, multitudes
+of choice, how all of them suck, etc. Panelists will include Dylan Jay,
+Malcolm Tredinnick, Russell Keith-Magee and Richard Jones.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay,Malcolm Tredinnick,Richard Jones,Russell Keith-Magee</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/985/panel-python-in-the-webs</guid><enclosure url="http://www.youtube.com/watch?v=0aBCpu53z9Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/0aBCpu53z9Q/hqdefault.jpg"></media:thumbnail></item></channel></rss>

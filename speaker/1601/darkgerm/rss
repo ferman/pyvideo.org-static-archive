@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of 嘉駿 戴</title><link>http://www.pyvideo.org/speaker/1601/darkgerm/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1601/darkgerm/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python in VIM</title><link>http://www.pyvideo.org/video/3279/python-in-vim-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+VIM 是個功能強大的文字編輯器，不論在系統管理或是程式開發均有大量的使用者。在 VIM 內部有提供 Python Interface 可以直接執行 Python script，同時也有提供 vim module 讓 Python 可以操作 vim buffer。
+
+此次演講將介紹 vim module 以及 vim module 的實際應用範例
+
+
+About the speaker
+
+- 熱愛 Python 及資訊技術的大學生。
+- 常用 Python 寫小工具自娛。
+- VIM 重度使用者，即使在 Windows 上也要使用 VIM。
+
+Tagline
+vim</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">嘉駿 戴</dc:creator><pubDate>Wed, 13 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3279/python-in-vim-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=uX9Fb2yrqcQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/uX9Fb2yrqcQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

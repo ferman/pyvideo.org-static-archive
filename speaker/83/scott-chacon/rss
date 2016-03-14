@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Scott Chacon</title><link>http://www.pyvideo.org/speaker/83/scott-chacon/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/83/scott-chacon/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Hg and Git : Can't we all just get along? (#154)</title><link>http://www.pyvideo.org/video/239/pycon-2010--hg-and-git---can--39-t-we-all-just-ge</link><description>&lt;p&gt;Description&lt;/p&gt;
+Hg and Git: Can't we all just get along?
+
+Presented by Scott Chacon
+
+There is a fair amount of unnecessary animosity between developers about
+version control systems, especially between Mercurial and Git users. In
+reality, these two systems are very similar and can actually cooperate pretty
+well. In this talk we will show just how similar Git and Mercurial are, look
+at some of their technical differences, and see how they can work together by
+looking at hg-git, the bidirectional Git/Mercurial bridge, implemented in
+Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Scott Chacon</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/239/pycon-2010--hg-and-git---can--39-t-we-all-just-ge</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/239_hg-and-git-can-t-we-all-just-get-along-154.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010HgAndGitCantWeAllJustGetAlong154454-979.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Joel Burton</title><link>http://www.pyvideo.org/speaker/72/joel-burton/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/72/joel-burton/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:53 -0000</lastBuildDate><ttl>500</ttl><item><title>Joel Burton - A Smart Introduction to Plone</title><link>http://www.pyvideo.org/video/131/joel-burton---a-smart-introduction-to-plone</link><description>&lt;p&gt;Description&lt;/p&gt;
+A smart introduction to Plone
+
+Presented by Joel Burton
+
+Abstract
+
+The world of online content management systems has become so enormous that it
+can be difficult to weigh the advantages--and disadvantages--of the systems.
+The speaker, a noted Plone author and consultant, will demonstrate the
+featureset of Plone, and provide real-world hints on the customer value and
+challenges it provides.
+
+Outline
+
+Here, you can learn where Plone may serve your needs well, and where it might
+be overkill or inappropriately deployed. You'll also learn approximate
+budgets, in time and learning, you'd need to get up to speed on the system. In
+addition, a demonstration of the upcoming features of Plone 4 and a future-
+looking glance at the radically-redesigned Plone 5 will be given. Recommended
+for new and casual users of Plone, and for people interested in understanding
+its niche in the CMS/application development world.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joel Burton</dc:creator><guid>http://www.pyvideo.org/video/131/joel-burton---a-smart-introduction-to-plone</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/131_joel-burton-a-smart-introduction-to-plone.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-JoelBurtonASmartIntroductionToPlone158-814.jpg"></media:thumbnail></item><item><title>Joel Burton - Why Python Web Frameworks are Changing the Web</title><link>http://www.pyvideo.org/video/135/joel-burton---why-python-web-frameworks-are-chang</link><description>&lt;p&gt;Description&lt;/p&gt;
+Why Python web frameworks are changing the web
+
+Presented by Joel Burton
+
+Keynote.
+
+Slides from the keynote: http://www.slideshare.net/joelburton/why-python-web-
+frameworks-are-changing-the-web
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joel Burton</dc:creator><guid>http://www.pyvideo.org/video/135/joel-burton---why-python-web-frameworks-are-chang</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/135_joel-burton-why-python-web-frameworks-are-changing-the-web.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-JoelBurtonWhyPythonWebFrameworksAreChangingTheWeb374-745.jpg"></media:thumbnail></item></channel></rss>

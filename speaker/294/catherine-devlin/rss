@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Catherine Devlin</title><link>http://www.pyvideo.org/speaker/294/catherine-devlin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/294/catherine-devlin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Teach Me Python Bugfixing</title><link>http://www.pyvideo.org/video/513/pyohio-2010--teach-me-python-bugfixing</link><description>&lt;p&gt;Description&lt;/p&gt;
+Teach Me Python Bugfixing
+
+Presented by Catherine Devlin
+
+Python wants YOU to help maintain and extend the language we love so much...
+but maybe you don't know how to go about making your contribution. Catherine
+doesn't either. David Murray, an experienced Python contributor, will guide
+her - and you - through the process, live and unscripted. Come take part in
+learner-controlled instruction. No C programming required!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><guid>http://www.pyvideo.org/video/513/pyohio-2010--teach-me-python-bugfixing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/513_pyohio-2010-teach-me-python-bugfixing.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-TeachMePythonBugfixing702.png"></media:thumbnail></item><item><title>PyOhio 2011: Interactive command-line interpreters with cmd and cmd2</title><link>http://www.pyvideo.org/video/541/pyohio-2011--interactive-command-line-interpreter</link><description>&lt;p&gt;Description&lt;/p&gt;
+Interactive command-line interpreters with cmd and cmd2
+
+Presented by Catherine Devlin
+
+How should your Python program receive commands and deliver results? If an
+interactive command-line interpreter is right for you, you're in luck -
+Python's got some great batteries included for you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><guid>http://www.pyvideo.org/video/541/pyohio-2011--interactive-command-line-interpreter</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/541_pyohio-2011-interactive-command-line-interpreters-with-cmd-and-cmd2.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-InteractiveCommandlineInterpretersWithCmdAndCmd2782.png"></media:thumbnail></item><item><title>Open-Source Society (PyOhio 2015 keynote)</title><link>http://www.pyvideo.org/video/3671/keynote-by-catherine-devlin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Open-source developers don't just build software - we also build ways to work cooperatively.  We can serve as a laboratory of cooperation that develops and demonstrate cooperative tools, techniques, and attitudes that will have a huge benefit to the world outside software, helping human society scale more effectively than it ever has.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3671/keynote-by-catherine-devlin</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3671_Keynote_by_Catherine_Devlin.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3671_Keynote_by_Catherine_Devlin.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/fYDdq4sqi24" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/fYDdq4sqi24/hqdefault.jpg"></media:thumbnail></item><item><title>Panel Discussion: So You Wanna Run a Tech Conference.</title><link>http://www.pyvideo.org/video/2865/panel-discussion-so-you-wanna-run-a-tech-confere</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Costlow,Catherine Devlin,Eric Floehr,Jason Green,Jason Myers,Raymond Chandler</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2865/panel-discussion-so-you-wanna-run-a-tech-confere</guid><enclosure url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2865_Panel_Discussion_So_You_Wanna_Run_a_Tech_Conferenc.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2865_Panel_Discussion_So_You_Wanna_Run_a_Tech_Conferenc.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/xrTgI8H4MqM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/xrTgI8H4MqM/hqdefault.jpg"></media:thumbnail></item><item><title>See Docs Run. Run, Docs, Run!</title><link>http://www.pyvideo.org/video/2638/see-docs-run-run-docs-run</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Code executes. Docs just sit there looking pretty. Now it's time to blur that boundary! Tools like the IPython Notebook, Sphinx, dexy, and old-fashioned doctests blend code with docs, making package docs, educational materials, and system-level docs more engaging, relevant, and trustworthy.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2638/see-docs-run-run-docs-run</guid><enclosure url="http://www.youtube.com/watch?v=yc1CjhoQFNQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/yc1CjhoQFNQ/hqdefault.jpg"></media:thumbnail></item><item><title>The IPython Notebook Revolution</title><link>http://www.pyvideo.org/video/2286/the-ipython-notebook-revolution</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+If you think of IPython as simply an enhanced version of the live Python prompt, you are in need of re-education.  No matter what you do with Python, applying the IPython Notebook imaginatively will revolutionize the way you do it.  </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><pubDate>Sun, 28 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2286/the-ipython-notebook-revolution</guid><enclosure url="https://www.youtube.com/watch?v=t_TzRaK9kpU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/t_TzRaK9kpU/hqdefault.jpg"></media:thumbnail></item><item><title>46. HTSQL : a navigational query language for relational databases</title><link>http://www.pyvideo.org/video/728/46-htsql-a-navigational-query-language-for-rel</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This poster will cover a description of the HTSQL query language
+(http://htsql.org).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin,Clark C. Evans</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/728/46-htsql-a-navigational-query-language-for-rel</guid><enclosure url="https://www.youtube.com/watch?v=5jRLjGWWaHs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/5jRLjGWWaHs/hqdefault.jpg"></media:thumbnail></item><item><title>Easy command-line applications with cmd and cmd2 (#153)</title><link>http://www.pyvideo.org/video/306/pycon-2010--easy-command-line-applications-with-c</link><description>&lt;p&gt;Description&lt;/p&gt;
+Easy command-line applications with cmd and cmd2
+
+  
+Presented by Catherine Devlin (IntelliTech Systems)
+
+  
+The Python Standard Library's cmd module makes it absurdly simple to write
+command-line interpreters - non-graphical programs that communicate with users
+interactively through a simple text interface. The third-party cmd2 module
+adds high-powered "batteries" to applications written for cmd.
+
+  
+This presentation teaches attendees how to easily make their own powerful
+command-line interpreters with cmd and cmd2. It also describes the tricks cmd2
+uses for some of its more interesting functionality so that they can implement
+them in their own programs (even unrelated ones). It ends with a brief
+demonstration of sqlpython, a cmd2-based application that improves on existing
+ad-hoc SQL applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/306/pycon-2010--easy-command-line-applications-with-c</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.ogv" length="162264357" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.ogv" fileSize="162264357" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010EasyCommandlineApplicationsWithCmdAndCmd2153294.png"></media:thumbnail></item></channel></rss>

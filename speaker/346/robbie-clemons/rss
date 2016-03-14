@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Robbie Clemons</title><link>http://www.pyvideo.org/speaker/346/robbie-clemons/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/346/robbie-clemons/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>How to make your websites more accessible</title><link>http://www.pyvideo.org/video/633/how-to-make-your-websites-more-accessible</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Is your website accessible? Have you tested it? What does it even mean for a
+website to be accessible? In this talk we'll show some of the most common
+problems disabled users have and demonstrate how to fix them. I'll also
+introduce you to some tools that are written in Python to help you determine
+how accessible your site is.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robbie Clemons</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/633/how-to-make-your-websites-more-accessible</guid><enclosure url="https://www.youtube.com/watch?v=jOu0D9ttCFI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/jOu0D9ttCFI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

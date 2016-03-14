@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Aater Suleman</title><link>http://www.pyvideo.org/speaker/1539/aater-suleman/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1539/aater-suleman/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 03 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>3 hours to Docker fundamentals: Jumpstart your Docker knowledge</title><link>http://www.pyvideo.org/video/3154/3-hours-to-docker-fundamentals-jumpstart-your-do</link><description>&lt;p&gt;Description&lt;/p&gt;
+Docker, the new trending containerization technique, is gaining interest from organizations of all sizes with its lightweight, portable, “build once, configure once and run anywhere” functionalities. Docker skills are expected to be in high-demand because of its ability to streamline workflow and reduce the need for hardware investment. 
+
+This tutorial focuses on providing an in-depth understanding of Docker and how to containerize Python web applications. Docker provides a mechanism for low overhead virtualization and can be a key aspect of a DevOps architecture. Docker allows isolated environments to be created in a single machine without imposing a performance overhead. This leads to new possibilities for optimizing the developer flows and creating multi-tenant applications, saving time coding and improving quality. 
+
+This tutorial will highlight a list of best practices, pitfalls, and dos and dont’s from real-world case studies.  We’ll walk through:
+
+- Basic concepts and Docker terminology
+- Docker Commands
+- Must Know Docker Features
+- Docker in the real world using examples of projects implemented at Flux7
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aater Suleman</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3154/3-hours-to-docker-fundamentals-jumpstart-your-do</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3154_3_hours_to_Docker_fundamentals_Jumpstart_your_Dock.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3154_3_hours_to_Docker_fundamentals_Jumpstart_your_Dock.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/ddhU3NMrhX4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/ddhU3NMrhX4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of PyData</title><link>http://www.pyvideo.org/category/18/pydata/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/18/pydata/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 30 Mar 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Advanced matplotlib tutorial with library author John Hunter</title><link>http://www.pyvideo.org/video/971/advanced-matplotlib-tutorial-library-author-john-h</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this video tutorial from the 2012 PyData Workshop, John Hunter, author of
+matplotlib is going to give you some advanced insight into the plotting
+library.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+John's tutorial will focus on broader topics concerning a wide set of users,
+including:
+
+  * customization 
+  * configuration 
+  * event handling 
+  * interacting with figures 
+  * tips &amp; tricks 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Hunter</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/971/advanced-matplotlib-tutorial-library-author-john-h</guid><enclosure url="http://www.youtube.com/watch?v=DNRJwENqEUY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/DNRJwENqEUY/hqdefault.jpg"></media:thumbnail></item><item><title>PyData: Data Analysis in Python with  Pandas</title><link>http://www.pyvideo.org/video/970/pydata-data-analysis-in-python-with-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Coming from the 2012 PyData Workshop, Wes McKinney, CTO and cofounder of
+Lambda Foundry, gives us a tour of Pandas, a rich data manipulation tool built
+on top of NumPy. Frustrated with working in R, Wes started building Pandas in
+2008 with a focus on fast, intuitive data structures and data manipulation
+capabilities. The Pandas project has seen huge growth in the last few years,
+and aims to be the ultimate data tool for Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/970/pydata-data-analysis-in-python-with-pandas</guid><enclosure url="http://www.youtube.com/watch?v=MxRMXhjXZos" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i2.ytimg.com/vi/MxRMXhjXZos/hqdefault.jpg"></media:thumbnail></item><item><title>Tutorial: scikit-learn - Machine Learning in Python</title><link>http://www.pyvideo.org/video/972/tutorial-scikit-learn-machine-learning-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this video tutorial from PyData Workshop, scikit-learn contributer Jacob
+VanderPlas is going to give you an overview of machine learning in Python
+using scikit-learn.
+
+He'll talk about general machine learning concepts, as well as walk you
+through a few exercises that demonstrate how you can use machine learning
+technology.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob VanderPlas</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/972/tutorial-scikit-learn-machine-learning-python</guid><enclosure url="http://www.youtube.com/watch?v=cHZONQ2-x7I" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i4.ytimg.com/vi/cHZONQ2-x7I/hqdefault.jpg"></media:thumbnail></item><item><title>Boosting NumPy with Numexpr and Cython</title><link>http://www.pyvideo.org/video/962/boosting-numpy-with-numexpr-and-cython</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this video from the 2012 PyData Workshop Francesc Alted from Continuum
+Analytics is going to show you how you can boost NumPy with Numexpr and
+Cython.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Topics covered include:
+
+  * The era of Big Data 
+  * NumPy and its ecosystem 
+  * Numexpr 
+  * Cython 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesc Alted</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/962/boosting-numpy-with-numexpr-and-cython</guid><enclosure url="http://www.youtube.com/watch?v=J3-oN_TulTg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/J3-oN_TulTg/hqdefault.jpg"></media:thumbnail></item><item><title>Image Processing in Python with scikits-image</title><link>http://www.pyvideo.org/video/963/image-processing-in-python-with-scikits-image</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this video from the 2012 PyData Workshop, Stéfan van der Walt is going to
+give you an in-depth look at scikits-image, the image processing toolbox for
+Python.
+
+Stefan will talk about the wide application for image processing in industry,
+and demonstrate how you can use scikits-image to solve specific industry
+problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stéfan van der Walt</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/963/image-processing-in-python-with-scikits-image</guid><enclosure url="http://www.youtube.com/watch?v=Wvvxazwi2IY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Wvvxazwi2IY/hqdefault.jpg"></media:thumbnail></item><item><title>Python in Big Data with an overview of NumPy &amp; SciPy</title><link>http://www.pyvideo.org/video/960/python-in-big-data-with-an-overview-of-numpy-sc</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Travis Oliphant, CEO of Continuum Analytics, kicks off the PyData Workshop
+with a talk on Python in Big Data. Topics addressed include what Python has to
+offer the world of Big Data, specific use-cases, as well asking why Hadoop is
+considered the de-facto standard.
+
+Additionally, Travis gives an overview of NumPy and SciPy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/960/python-in-big-data-with-an-overview-of-numpy-sc</guid><enclosure url="http://www.youtube.com/watch?v=i0FCn889ucs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/i0FCn889ucs/hqdefault.jpg"></media:thumbnail></item><item><title>The Disco MapReduce Framework</title><link>http://www.pyvideo.org/video/961/the-disco-mapreduce-framework</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Chris Mueller from Life Technologies introduces us to Disco, a MapReduce
+framework built in Python and Erlang.
+
+Showing that Hadoop is not alone in the MapReduce world, Chris reviews the
+basic MapReduce paradigm, dataflow, file and job distribution, and goes on to
+explain the Disco Distributed Filesystem (DDFS) before going into some use-
+case scenarios in next generation genomic sequencing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Mueller</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/961/the-disco-mapreduce-framework</guid><enclosure url="http://www.youtube.com/watch?v=YuLBsdvCDo8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/YuLBsdvCDo8/hqdefault.jpg"></media:thumbnail></item><item><title>Workshop Panel with Guido van Rossum</title><link>http://www.pyvideo.org/video/959/workshop-panel-with-guido-van-rossum</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this presentation from the 2012 PyData Workshop hosted at Google on March
+2-3, Guido van Rossum, author of the Python programming language, engages in
+an open discussion on the intersection of the evolution of Python and the
+growth of the scientific community. Panelists include Fernando Perez, Travis
+Oliphant, and David Cournapeau.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido Van Rossum</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/959/workshop-panel-with-guido-van-rossum</guid><enclosure url="http://www.youtube.com/watch?v=QjXJLVINsSA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/QjXJLVINsSA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

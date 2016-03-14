@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Teijo Holzer</title><link>http://www.pyvideo.org/speaker/1592/teijo-holzer/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1592/teijo-holzer/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 13 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Fixing Python</title><link>http://www.pyvideo.org/video/3236/fixing-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Teijo Holzer:
+Fixing Python
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+Discover a bug in a standard Python library, provide a reproducible test case, log a bug report with the Python maintainers, prepare &amp; submit a patch. Get patch accepted into 2.x &amp; 3.x master.
+
+**Abstract**
+
+This talk will provide a real-world walk-through of how to discover a bug in Python, prepare a reproducible test case and log a bug report. It will then continue to show on how to provide a patch and get it accepted and deployed into Python 2.7.7 and 3.4.1
+
+**Slides**
+
+https://speakerdeck.com/nzpug/teijo-holzer-fixing-python</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Teijo Holzer</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3236/fixing-python</guid><enclosure url="http://youtu.be/i7EZAfhIvCs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/i7EZAfhIvCs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

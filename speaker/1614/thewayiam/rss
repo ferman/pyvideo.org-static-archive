@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of 勁成 駱</title><link>http://www.pyvideo.org/speaker/1614/thewayiam/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1614/thewayiam/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 07 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>立委投票指南 -- 從零開始</title><link>http://www.pyvideo.org/video/3274/-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+＊你的第一次投票經驗如何？ - 立委投票指南的建立動機 
+＊立委投票指南？ - 網站內容導覽（&lt;http://vote.ly.g0v.tw/&gt;） 
+＊如何從電機背景跨入資訊領域？ - 網站建置過程 &amp; 線上學習經驗分享 
+＊使用工具介紹（python, django, scrapy, pandas） 
+＊使用者回饋與下一步計畫 
+＊開放透明的力量 - 參與g0v開放協作的心得分享
+
+
+About the speaker
+
+* 電機控制背景，2013年線上自學Python、web applicationn，製作立委投票指南 &lt;http://vote.ly.g0v.tw/&gt;
+* 加入g0v零時政府貢獻與學習
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">勁成 駱</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3274/-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=hBKYx0u7-ZU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/hBKYx0u7-ZU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

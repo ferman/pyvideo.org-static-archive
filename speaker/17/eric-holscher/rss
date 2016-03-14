@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Eric Holscher</title><link>http://www.pyvideo.org/speaker/17/eric-holscher/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/17/eric-holscher/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Jul 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Large Problems in Django, Mostly Solved</title><link>http://www.pyvideo.org/video/52/djangocon-2010--large-problems-in-django--mostly-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Large Problems in Django, Mostly Solved
+
+Presented by Eric Holscher
+
+This talk is based on my popular series of blog posts highlighting
+applications from the community. I will highlight some of the best
+applications that the Django/Python community has put together, talk about
+places that are lacking, and talk about what these popular applications have
+in common.
+
+Part 1
+
+I have written a series of blog posts about "Large problems" in the community,
+and how they have been solved by members of our community with reusable apps.
+Previously I have covered:
+
+  * Delayed Execution 
+  * Search 
+  * APIs 
+  * Documentation 
+  * Database Migrations 
+
+I will update my thoughts on these issues, as well as talking about a couple
+of other new issues that I think that have been solved in a decent way. These
+include:
+
+  * Remote Command Execution 
+  * Debugging in Development 
+  * Continuous Integration 
+
+Part 2
+
+In this part I will highlight issues that are still headaches for the
+Community. These are places where there is a good chance for growth for third
+party apps, and places where I have personally found some friction in my
+development. A couple examples of this are:
+
+  * Deployment 
+  * Class Based Views / Thread Safety 
+  * Debugging Production Environments 
+
+Part 3
+
+From the above applications that are well done, what makes a popular reusable
+app? This won't be my thoughts, but more looking at apps that have been
+successful and trying to see what they have in common. A good app and a good
+reusable app are necessarily different, and I think it will be interesting to
+look at what traits make reusable apps popular.
+
+[Large problems posts](http://ericholscher.com/tag/largeproblems/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><guid>http://www.pyvideo.org/video/52/djangocon-2010--large-problems-in-django--mostly-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/52_large-problems-in-django-mostly-solved.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-LargeProblemsInDjangoMostlySolved109-212.jpg"></media:thumbnail></item><item><title>The story and tech of Read the Docs</title><link>http://www.pyvideo.org/video/101/djangocon-2011--the-story-and-tech-of-read-the-do</link><description>&lt;p&gt;Description&lt;/p&gt;
+The story and tech of Read the Docs
+
+Presented by Eric Holscher
+
+Hosting open source documentation was a mess. The best-of-class solution for
+the Python world as uploading a tarball of html to packages.python.org or
+doing similar to upload to github pages. We set out to solve this problem
+using the current best of class tools that Django has to offer.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><guid>http://www.pyvideo.org/video/101/djangocon-2011--the-story-and-tech-of-read-the-do</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/101_the-story-and-tech-of-read-the-docs.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TheStoryAndTechOfReadTheDocs338-916.jpg"></media:thumbnail></item><item><title>Token Testing Talk</title><link>http://www.pyvideo.org/video/29/djangocon-2009--token-testing-talk</link><description>&lt;p&gt;Description&lt;/p&gt;
+Token Testing Talk
+
+  
+Presented by Eric Holscher
+
+  
+Talks about testing in Django.
+
+  
+[VIDEO HAS ISSUES: audio in left channel only]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><guid>http://www.pyvideo.org/video/29/djangocon-2009--token-testing-talk</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/29_token-testing-talk.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TokenTestingTalk148.png"></media:thumbnail></item><item><title>Documentation as Empathy</title><link>http://www.pyvideo.org/video/3654/documentation-as-empathy</link><description>&lt;p&gt;Description&lt;/p&gt;
+This talk will cover my view of documentation within programming culture as it has grown over the years. As a primary person involved with Read the Docs, and Write the Docs, I have seen a lot of angles, and appreciate documentation more every year. I believe better documentation is a fundamental aspect of how we can improve programming culture, and an often misunderstood part of outreach and education. Read the Docs started in Lawrence, and has grown from there. This seems like the perfect venue to wax poetic about why documentation matters, and tell the story of Read the Docs along the way. The Django community is one where documentation has always been valued, and I think that understanding how it lead to its success and why it's an important virtue going forward is important. This talk will make you think more deeply about the social impact of documentation, and hopefully make you question if it should be a higher priority in your development. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3654/documentation-as-empathy</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/django-birthday/3654_Documentation_as_Empathy.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/django-birthday/3654_Documentation_as_Empathy.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/m6F5MQ9prgE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/m6F5MQ9prgE/hqdefault.jpg"></media:thumbnail></item><item><title>[Poster] Read the Docs</title><link>http://www.pyvideo.org/video/1816/read-the-docs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This poster will feature the site Read the Docs. It hosts documentation and other text related materials that are created with the Sphinx Documentation Generator. Come on by the poster to chat about Read the Docs, or talk about anything documentation related!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1816/read-the-docs</guid><enclosure url="https://www.youtube.com/watch?v=eon0B4k1-KA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/eon0B4k1-KA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

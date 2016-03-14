@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Kumar McMillan</title><link>http://www.pyvideo.org/speaker/234/kumar-mcmillan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/234/kumar-mcmillan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 14 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Playdoh</title><link>http://www.pyvideo.org/video/563/playdoh</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Playdoh is Mozilla's starter kit for new Django projects. It aims to be
+secure-by-default and set up all the same goodies we use to scale for high
+traffic, perform background tasks, localize our sites in many languages, and
+other cool things.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kumar McMillan</dc:creator><pubDate>Thu, 14 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/563/playdoh</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/563_playdoh.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/563_playdoh.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/563_playdoh.m4v" fileSize="167343844" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/CarlFK-Playdoh611.png"></media:thumbnail></item><item><title>Supporting All Versions of Python All The Time With Tox</title><link>http://www.pyvideo.org/video/435/pycon-2011--supporting-all-versions-of-python-all</link><description>&lt;p&gt;Description&lt;/p&gt;
+Supporting All Versions of Python All The Time With Tox
+
+Presented by Kumar McMillan
+
+This talk explains the modern techniques that every module maintainer needs to
+know in order to support all major versions of Python. You probably already
+have a massive test suite using a tool like nosetests, py.test, unittest, or a
+custom runner. Using the tox command line tool, you'll see how to run your
+tests in Python 2.x, 3.x, Jython, and whatever else in parallel.
+
+Abstract
+
+tox is a new tool that lets you set up isolated virtual environments to test
+your module's deployment and compatibility with all major versions of Python.
+It's easy to install and is flexible enough that it probably already supports
+your existing test suite. With one simple command you can execute your test
+suite in each version of Python, you can build its documentation with Sphinx,
+and get a nice printout of the results. It has also been designed from the
+ground up to integrate into continuous integration (CI) tools like Hudson.
+
+Using practical examples, this talk will show you how to toxify your existing
+test suite and trick it out with the tox.ini config file. You'll also see how
+to leverage Hudson's matrix build so that each code checkin will run tests in
+all versions of Python and report detailed failures.
+
+Your app supports Python 3, right? No? Tox is the best way to develop in
+parallel with 2.x and 3.x. We'll go over how to set up tox for that.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kumar McMillan</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/435/pycon-2011--supporting-all-versions-of-python-all</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/435_supporting-all-versions-of-python-all-the-time-with-tox.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011SupportingAllVersionsOfPythonAllTheTimeWithT333.png"></media:thumbnail></item><item><title>Tox</title><link>http://www.pyvideo.org/video/572/tox</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+It's a great new open source tool that helps you support all versions of
+python with your existing automated tests. It's not a test runner, it's a
+super test runner runner! Or something. There is no easy way to describe it
+which is why the front page of the website is sort of confusing, IMO. We use
+tox on the Nose project to make sure each code change doesn't break the tests
+in Python 2.4, 2.5, 2.6, 2.7, 3.0 or Jython. Not everybody targets so many
+environments but if you want to maintain a widely used module then you
+probably will want to use tox someday.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Here's our Hudson matrix setup w/ tox: [http://hudson.testrun.org/job/nose-
+unstable/](http://hudson.testrun.org/job/nose-unstable/) (we just set this up
+recently which is why most builds were broken in one or two envs) I can also
+spend some time going over how we are currently maintaining a test suite that
+runs in both 2.x and 3.x simultaneously.
+
+This will be our Best Meeting Ever!
+
+[http://codespeak.net/tox/](http://codespeak.net/tox/)
+
+[http://chipy.org/](http://chipy.org/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kumar McMillan</dc:creator><pubDate>Thu, 11 Nov 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/572/tox</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/572_tox.m4v" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/572_tox.m4v" mime_type="video/mp4"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/572_tox.flv" mime_type="video/x-flv"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/CarlFK-Tox172.png"></media:thumbnail></item></channel></rss>

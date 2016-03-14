@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Will Hughes</title><link>http://www.pyvideo.org/speaker/2028/will-hughes/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2028/will-hughes/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 06 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Mezzanine: a brief primer</title><link>http://www.pyvideo.org/video/3861/mezzanine-a-brief-primer</link><description>&lt;p&gt;Description&lt;/p&gt;
+Mezzanine is a CMS framework built on top of Django that provides a set of primitives for building rich sites that can be managed by non-technical users.
+
+Topics this talk will cover:
+
+ * Where Mezzanine sits in the broader ecosystem.
+     Mezzanine is not a stand-alone product like Drupal or Wordpress, but a set of tools. There are other tools associated with Mezzanine that provide functionality that Mezzanine itself doesn't provide
+ * Structure of a Mezzanine site
+ * Two techniques for managing content
+    Page-based vs object-based; example and use-cases
+ * Things Mezzanine does well
+    Advantages of using Mezzanine over other CMS systems
+ * Things Mezzanine does not do well
+    Reasons not to use Mezzanine</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Will Hughes</dc:creator><pubDate>Sun, 06 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3861/mezzanine-a-brief-primer</guid><enclosure url="http://youtu.be/TGLTaBDhXGI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/TGLTaBDhXGI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

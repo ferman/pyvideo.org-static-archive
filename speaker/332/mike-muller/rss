@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mike Müller</title><link>http://www.pyvideo.org/speaker/332/mike-muller/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/332/mike-muller/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 10 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Descriptors and Metaclasses</title><link>http://www.pyvideo.org/video/3508/descriptors-and-metaclasses</link><description>&lt;p&gt;Description&lt;/p&gt;
+Descriptors and metaclasses are advanced Python features. While it is
+possible to write Python programs without active knowledge of them,
+knowing more about them facilitates a deeper understanding of
+the language. With examples, you will learn how they work and how to
+write your own descriptors and metaclasses. Furthermore, you will understand
+when to use and when better not to use them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3508/descriptors-and-metaclasses</guid><enclosure url="https://www.youtube.com/watch?v=v2WTVCyTYMw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/v2WTVCyTYMw/hqdefault.jpg"></media:thumbnail></item><item><title>Developing Scientific Simulation Systems</title><link>http://www.pyvideo.org/video/3330/developing-scientific-simulation-systems</link><description>&lt;p&gt;Description&lt;/p&gt;
+Scientific simulation models often need to incorporate many aspects into a
+working software system. This talk gives an overview of
+[PITLAKQ](http://www.pitlakq.com/), a complex, coupled model for water
+quality predictions of pit lakes. The focus is on experiences gained that
+might be useful for similar projects from other domains. This includes
+wrapping of legacy code, creating flexible but simple to use model input
+approaches and simplifying automation by users.  Description
+
+The model PITLAKQ helps to predict the water quality of pit lakes. These
+lakes can form in voids created by mining and may pose considerable
+environmental challenges. PITLAKQ couples several existing numerical models
+and adds lots of new functionality to account for the complex interactions
+of hydrodynamics, geochemical processes and anthropogenic influences.
+
+Obviously, there is lots of scientific details. The talk only gives a very
+short overview of the functionality of the software. The main focus is on
+general principles that can be applied to other domains of scientific
+modeling. This includes:
+
+* wrapping legacy Fortran code
+* coupling models from different domains
+* creating a simple, yet flexible input system for model users
+* simplifying automation of simulation runs
+
+I think the lessons I learned over the last 15 years I've been working on
+this project can be useful for other scientists who need to solve simulation
+and modeling problems in other fields.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Wed, 22 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3330/developing-scientific-simulation-systems</guid><enclosure url="https://www.youtube.com/watch?v=Fo2aZGDgFCM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/Fo2aZGDgFCM/hqdefault.jpg"></media:thumbnail></item><item><title>Welcome to EuroPython 2014: Where the European Python Community Meets</title><link>http://www.pyvideo.org/video/3049/welcome-to-europython2104</link><description>&lt;p&gt;Description&lt;/p&gt;
+Welcome starts at [4:26 minutes](https://www.youtube.com/watch?v=6ugj7G9MUkI#t=266)
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabio Pliger,Mike Müller</dc:creator><pubDate>Mon, 21 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3049/welcome-to-europython2104</guid><enclosure url="http://www.youtube.com/watch?v=6ugj7G9MUkI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/6ugj7G9MUkI/hqdefault.jpg"></media:thumbnail></item><item><title>Faster Python Programs through Optimization</title><link>http://www.pyvideo.org/video/2609/faster-python-programs-through-optimization-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Although Python programs may be slow for certain types of tasks, there are many different ways to improve the performance. This tutorial will introduce optimization strategies and demonstrate techniques to implement them. Another objective of this course is to help the participants to gain the ability to decide what might be the optimal solution for a specific performance problem.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2609/faster-python-programs-through-optimization-1</guid><enclosure url="http://www.youtube.com/watch?v=wNBJDpyRm8w" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/wNBJDpyRm8w/hqdefault.jpg"></media:thumbnail></item><item><title>Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features</title><link>http://www.pyvideo.org/video/2560/descriptors-and-metaclasses-understanding-and-u</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Descriptors and metaclasses are advanced Python features. While it is possible to write Python programs without active of knowledge of them, knowing how they work provides a deeper understanding about the language. Using examples, you will learn how they work and when to use as well as when better not to use them. Use cases provide working code that can serve as a base for own solutions.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Fri, 11 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2560/descriptors-and-metaclasses-understanding-and-u</guid><enclosure url="http://www.youtube.com/watch?v=W0c5sjxajI4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/W0c5sjxajI4/hqdefault.jpg"></media:thumbnail></item><item><title>Python verbindet - Der Python Software Verband e.V. in 20 Minuten</title><link>http://www.pyvideo.org/video/2383/python-verbindet-der-python-software-verband-e</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Python Software Verband (PySV) ist als eingetragener Verein in Deutschland organisiert, und versteht sich als Support-Organ der gesamten deutschsprachigen Python-Community. 2011 hat sich der PySV langsam aber sicher organisatorisch aus dem früheren DZUG e.V.,  der bereits vollständig aus Python Enthusiasten bestand, emanzipiert und seine Neustrukturierung im letzten Jahr weitgehend abgeschlossen.
+
+Die wichtigsten Mittel zur Unterstützung der Community sind u. a. unsere aktiven Mitglieder und die PySV-Website als zentraler Anlaufpunkt und der neue Usergruppen-Hub. Der PySV unterstützte und organisierte bereits die Python-Konferenzen PyCon.DE 2011 und 2012 als verantwortlicher Partner mit. Auch die PyCon.DE 2013 wird er in enger Zusammenarbeit mit der Kölner PyCologne Usergroup und dem DLR ermöglichen. In den Jahren 2014 und 2015 wird der PySV sogar Mitausrichter der EuroPython – der größten europäsichen Python-Konferenz – sein. Die Berliner Usergroup mit dem PySV im Rücken konnte sich in der Bewerbung durchsetzen.
+
+Auch kleinere, aber deswegen nicht unwichtigere Events unterstützt der PySV. Neben dem mittlerweile schon traditionellen PythonCamp in Köln sind das verschiedene Python-Sprints und u.A. der World Plone Day an mehreren Orten. Auf Messen wie der CeBIT, der überregionalen FrOSCon Konferenz und den Berliner und Chemnitzer Linuxtagen und dem Linuxtag in Berlin sorgt der Verband dafür, dass Python regelmäßig präsent ist. 
+
+Der gemeinsam neu entwickelte Programmierwettbewerb nimmt Formen an. Studenten erhalten vom PySV Unterstützung für die Teilnahme an der EuroSciPy.  
+
+Wie der Verband der Community helfen kann, wird mit allen, die mithelfen wollen, gemeinsam erarbeitet. Er bietet organisatorische, finanzielle und technische Hilfe für Usergruppen, Sprints und Workshops mit Python-Bezug. Alle Python-Enthusiasten sind eingeladen im Verein aktiv mitzuarbeiten. Neue Ideen und Verbesserungsvorschläge sind immer gern gesehen. Unsere Grundregel lautet: “Soviel Unterstüzung wie möglich, so wenig Reglementierung wie möglich.”
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2383/python-verbindet-der-python-software-verband-e</guid><enclosure url="https://www.youtube.com/watch?v=dr8y6ECP8sM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/dr8y6ECP8sM/hqdefault.jpg"></media:thumbnail></item><item><title>Functional Programming with Python</title><link>http://www.pyvideo.org/video/1799/functional-programming-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python supports several functional programming concepts. The presentations shows how to use functional features such as functions as first-class objects, closures, side-effect-fee functions, currying, lazy evaluation, no mutable data structures and use of iterators instead of loops. The focus is on integration of these concepts in existing programs.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1799/functional-programming-with-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Functional_Programming_with_Py.mp4?Signature=NMmLYCjK7b%2BctX3RrUbJqbtERYg%3D&amp;Expires=1363842427&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Functional_Programming_with_Py.mp4?Signature=NMmLYCjK7b%2BctX3RrUbJqbtERYg%3D&amp;Expires=1363842427&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Ta1bAMOMFOI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/Ta1bAMOMFOI/hqdefault.jpg"></media:thumbnail></item><item><title>Faster Python Programs through Optimization</title><link>http://www.pyvideo.org/video/1849/faster-python-programs-through-optimization-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Although Python programs may be slow for certain types of tasks, there are many different ways to improve performance. This tutorial will introduce optimization strategies and demonstrate techniques to implement them. Another of the objectives of this course is to give participants the ability to decide what might be the optimal solution for a certain performance problem. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Wed, 13 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1849/faster-python-programs-through-optimization-0</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Faster_Python_Programs_through.mp4?Signature=qjGDJW3rNNZIf7PUr2eAVcCrwsY%3D&amp;Expires=1363943393&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Faster_Python_Programs_through.mp4?Signature=qjGDJW3rNNZIf7PUr2eAVcCrwsY%3D&amp;Expires=1363943393&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=PszBxlDQNWw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/PszBxlDQNWw/hqdefault.jpg"></media:thumbnail></item><item><title>Funktionale Programmierung mit Python</title><link>http://www.pyvideo.org/video/1423/funktionale-programmierung-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In den letzten Jahren hat die funktionale Programmierung wieder mehr
+Aufmerksamkeit erhalten. Das Vorurteil nur für akademische Nutzer interessant
+zu sein hat sich stark abgeschwächt. Haskell, Erlang und F# sind funktionale
+Programmiersprachen, die verstärkt für praktische Zwecke zum Einsatz kommen.
+
+Python unterstütz mehrere Programmierparadigmen. Neben der prozeduralen und
+objektorientierten unterstütz es auch wichtige Konzepte der funktionalen
+Programmierung. Der Vortrag zeigt wie sich diese Merkmale wie Funktionen als
+Objekte erster Klasse, Funktionsabschlüsse (Closures), Funktionen ohne
+Seiteneffekte, Currying, verzögerte Auswertung, Vermeidung veränderlicher
+Datenstrukturen und Einsatz von Iteratoren, Generator und Comprehensions
+anstatt von Schleifen nutzen lassen. Beispiele verdeutlichen die Vor- und
+Nachteile des funktionellem Ansatzes für verschiedene Aufgaben.
+
+Der Aufbau eines Programms mit funktionalen Ansatz kann sich stark von dem
+eines objektorientierten unterscheiden. Beispiele zeigen wie mit Python Teile
+eines Programms die Vorteile der funktionalen Programmierung nutzen können und
+sich schrittweise funktionale Prinzipien in objektorientierte Programme
+einbeziehen lassen.
+
+Der Vortrag verdeutlicht wie das Modul itertools die verzögerte Auswertung
+unterstützt. Mit den Funktionen dieses Moduls lassen sich Algorithmen oft
+kurz, gut lesbar und effizient umsetzen. Auch hier ist eine Integration in
+sonst nicht-funktional geschriebene Programme einfach möglich.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1423/funktionale-programmierung-mit-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Funktionale_Programmierung_mit_Python.mp4?Signature=Dbnfql17863Wk8wpbrfxlcmvzuM%3D&amp;Expires=1351786192&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Funktionale_Programmierung_mit_Python.mp4?Signature=Dbnfql17863Wk8wpbrfxlcmvzuM%3D&amp;Expires=1351786192&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=2c0TTt48ir4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/2c0TTt48ir4/hqdefault.jpg"></media:thumbnail></item><item><title>Python and HDF5 - Fast Storage for Large Data</title><link>http://www.pyvideo.org/video/670/python-and-hdf5-fast-storage-for-large-data</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The presentation introduces the possibilities to use HDF5 (Hierarchical Data
+Format) from Python. HDF5 is one of the fastest ways to store large amounts of
+numerical data. The talk is for scientist who would like to store their
+measured or calculated data as well as for programmers who are interested in
+non-relational data storage.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/670/python-and-hdf5-fast-storage-for-large-data</guid><enclosure url="https://www.youtube.com/watch?v=hnhN2_TpY8g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/hnhN2_TpY8g/hqdefault.jpg"></media:thumbnail></item><item><title>Plotting with matplotlib</title><link>http://www.pyvideo.org/video/617/plotting-with-matplotlib</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+When it comes to plotting with Python many people think about matplotlib. It
+is widely used and provides a simple interface for creating a wide variety of
+plots from very simple diagrams to sophisticated animations. This tutorial is
+a hands-on introduction that teaches the basics of matplotlib. Students will
+learn how to create publication-ready plots with just a few lines of Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Thu, 08 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/617/plotting-with-matplotlib</guid><enclosure url="https://www.youtube.com/watch?v=P7SVi0YTIuE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/P7SVi0YTIuE/hqdefault.jpg"></media:thumbnail></item><item><title>Faster Python Programs through Optimization</title><link>http://www.pyvideo.org/video/607/faster-python-programs-through-optimization</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial provides an overview of techniques to improve the performance of
+Python programs. The focus is on concepts such as profiling, difference of
+data structures and algorithms as well as a selection of tools and libraries
+that help to speed up Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/607/faster-python-programs-through-optimization</guid><enclosure url="https://www.youtube.com/watch?v=Bs6-sai1fKE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Bs6-sai1fKE/hqdefault.jpg"></media:thumbnail></item><item><title>Große Datenmengen schnell speichern mit Python und HDF5</title><link>http://www.pyvideo.org/video/2915/groe-datenmengen-schnell-speichern-mit-python-un</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Vortrag stellt die Möglichkeiten vor mit Python HDF5 (Hierarchical Data Format) zu nutzen. HDF5 ist eine der schnellsten Speichermöglichkeiten für numerische Daten. Der Vortag wendet sich sowohl an Wissenschaftler, die ihre Mess- oder  Berechnungsergebnisse so schnell wie möglich ablegen wollen, als auch an andere Anwender, die sich für nicht-relationale Datenspeicherung interessieren.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Müller</dc:creator><pubDate>Wed, 05 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2915/groe-datenmengen-schnell-speichern-mit-python-un</guid><enclosure url="http://www.youtube.com/watch?v=UcndKnX12RY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/UcndKnX12RY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

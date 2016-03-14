@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Francesco Crippa</title><link>http://www.pyvideo.org/speaker/549/francesco-crippa/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/549/francesco-crippa/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Implementing distributed applications using ZeroMQ, Python and other bad guys...</title><link>http://www.pyvideo.org/video/1138/implementing-distributed-applications-using-zerom</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Francesco Crippa - 24 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Cloud Computing and Large Scale environments require sometime applications
+based on complex and distributed architectures… and this usually means a huge
+overhead in the design and confusion out of control in the code (network wise
+race conditions, single points of failure and so on)
+
+Introducing elements like *MQ and IPC frameworks in this kind of applications
+is the only way to reduce the complexity and enable a fluid design (in other
+words: mess-under-control)
+
+The talk is focused on describing how to design a distributed application in
+different scenarios, using ZeroMQ (a modern broker-less MQ system) as core
+framework, with examples and demos.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Crippa</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1138/implementing-distributed-applications-using-zerom</guid><enclosure url="http://www.youtube.com/watch?v=pYlKLaqlFj8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pYlKLaqlFj8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

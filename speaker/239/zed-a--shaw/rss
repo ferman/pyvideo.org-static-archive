@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Zed A. Shaw</title><link>http://www.pyvideo.org/speaker/239/zed-a--shaw/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/239/zed-a--shaw/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Advanced Network Architectures With ZeroMQ</title><link>http://www.pyvideo.org/video/442/pycon-2011--advanced-network-architectures-with-z</link><description>&lt;p&gt;Description&lt;/p&gt;
+Advanced Network Architectures With ZeroMQ
+
+Presented by Zed A. Shaw
+
+In this talk I will demonstrate how to use ZeroMQ with Python (and others) to
+do really advanced or even weird network architectures. You'll see Python talk
+to other languages, handle HTTP, JSON, XML, WebSockets, encode videos, chat
+messaging, etc. All in a short talk with only code, no diagrams. You should
+know ZeroMQ already.
+
+Abstract
+
+This talk will demonstrate a series of progressively difficult problems that
+you can solve with ZeroMQ:
+
+  1. Basic messaging types (request/response, publish/subscribe). 
+  2. Mongrel2 and HTTP processing. 
+  3. Coroutine based web frameworks and why they suck (so quit making them). 
+  4. Distributed worker queues of various flavors. 
+  5. Asynchronous chat protocols with JSON and XML. 
+  6. Clusters of calculators considering and communicating. 
+  7. Talking to other languages and easily ditching Python if you need. 
+  8. Anything else I can think up and do in a single screen of Python. 
+
+This talk will assume you know ZeroMQ and Python, but if you don't know ZeroMQ
+you can probably still keep up.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zed A. Shaw</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/442/pycon-2011--advanced-network-architectures-with-z</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/442_advanced-network-architectures-with-zeromq.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011AdvancedNetworkArchitecturesWithZeroMQ366.png"></media:thumbnail></item></channel></rss>

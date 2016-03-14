@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jonathan Fine</title><link>http://www.pyvideo.org/speaker/471/jonathan-fine/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/471/jonathan-fine/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 27 Feb 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Browse and print problems and solutions</title><link>http://www.pyvideo.org/video/1006/browse-and-print-problems-and-solutions</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jonathan Fine - 21 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+With the growth of the web, how we publish is changing. Paper alone is not
+enough, web pages are also required. And for many web pages it is not enough
+to rely on the browser’s print capabilities. Sphinx, used since 2008 for
+Python’s documentation, is a creative response to this tension.
+
+This talk will take a broader view of the problem. For example, many browsers
+support web fonts for display but not for printing. Mathematics on web pages
+is still difficult, but SVG holds out much promise not only for mathematics
+but for tables and other complex typeset material. Achieving accessibility
+remains difficult.
+
+Based on over 15 year’s experience in print and electronic publishing, this
+talk will survey problems and emerging solutions. Software and sites covered
+include LaTeX, PDF, SVG, MathJax, web-fonts, PediaPress, Sphinx and arXiv.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Fine</dc:creator><pubDate>Mon, 27 Feb 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1006/browse-and-print-problems-and-solutions</guid><enclosure url="http://www.youtube.com/watch?v=ilwSRRLlOnE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ilwSRRLlOnE/hqdefault.jpg"></media:thumbnail></item><item><title>Objects and classes in Python (and JavaScript)</title><link>http://www.pyvideo.org/video/1041/objects-and-classes-in-python-and-javascript</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jonathan Fine - 23 June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python has a well-thought out system for classes. Beginners can use it without
+understanding it all. Experts can use it to produce code that is both elegant
+and powerful (such as models and class-based views in Django). Python classes
+can be used for many purposes.
+
+This tutorial arises from the author's experience in using classes to solve
+problems, such as:
+
+  * Add custom methods and attributes to objects that are, at root, just an integer
+  * Construct dictionaries whose values are functions
+  * Construct classes on-the-fly
+  * Implement JavaScript object semantics in Python (advanced topic)
+
+The outline syllabus is:
+
+  * Review of the class statement in Python (and decorators)
+  * Subclassing built-in types such as int and tuple
+  * How to define classes without using a class statement
+  * How to define a dispatch dictionary using a class statement
+  * Metaclasses as syntactic sugar for class construction
+  * Metaclasses to provide new class semantics
+  * Review of JavaScript object semantics
+  * Using Python classes to implement JavaScript object semantics
+
+For Guido on the history of Python classes see:
+
+  * [http://python-history.blogspot.com/2010/06/new-style-classes.html](http://python-history.blogspot.com/2010/06/new-style-classes.html)
+  * [http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html](http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html)
+  * [http://python-history.blogspot.com/2010/06/method-resolution-order.html](http://python-history.blogspot.com/2010/06/method-resolution-order.html)
+
+This tutorial is for Intermediate or Advanced Python programmers. (Beginners
+will find it very hard going.) The aim of the course is to explain exactly
+what happens when a class in constructed, and to learn ways of using this
+knowledge.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Fine</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1041/objects-and-classes-in-python-and-javascript</guid><enclosure url="http://www.youtube.com/watch?v=e0tK-Kawx3E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/e0tK-Kawx3E/hqdefault.jpg"></media:thumbnail></item><item><title>Objects and classes in Python (and JavaScript)</title><link>http://www.pyvideo.org/video/1123/objects-and-classes-in-python-and-javascript-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jonathan Fine - 23 June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python has a well-thought out system for classes. Beginners can use it without
+understanding it all. Experts can use it to produce code that is both elegant
+and powerful (such as models and class-based views in Django). Python classes
+can be used for many purposes.
+
+This tutorial arises from the author's experience in using classes to solve
+problems, such as:
+
+  * Add custom methods and attributes to objects that are, at root, just an integer
+  * Construct dictionaries whose values are functions
+  * Construct classes on-the-fly
+  * Implement JavaScript object semantics in Python (advanced topic)
+
+The outline syllabus is:
+
+  * Review of the class statement in Python (and decorators)
+  * Subclassing built-in types such as int and tuple
+  * How to define classes without using a class statement
+  * How to define a dispatch dictionary using a class statement
+  * Metaclasses as syntactic sugar for class construction
+  * Metaclasses to provide new class semantics
+  * Review of JavaScript object semantics
+  * Using Python classes to implement JavaScript object semantics
+
+For Guido on the history of Python classes see:
+
+  * [http://python-history.blogspot.com/2010/06/new-style-classes.html](http://python-history.blogspot.com/2010/06/new-style-classes.html)
+  * [http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html](http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html)
+  * [http://python-history.blogspot.com/2010/06/method-resolution-order.html](http://python-history.blogspot.com/2010/06/method-resolution-order.html)
+
+This tutorial is for Intermediate or Advanced Python programmers. (Beginners
+will find it very hard going.) The aim of the course is to explain exactly
+what happens when a class in constructed, and to learn ways of using this
+knowledge.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Fine</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1123/objects-and-classes-in-python-and-javascript-0</guid><enclosure url="http://www.youtube.com/watch?v=tIgRlaChOqU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tIgRlaChOqU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

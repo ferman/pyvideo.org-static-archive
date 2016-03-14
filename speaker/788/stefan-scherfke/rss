@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stefan Scherfke</title><link>http://www.pyvideo.org/speaker/788/stefan-scherfke/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/788/stefan-scherfke/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 16 Oct 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Ereignis-diskrete Simulation mit SimPy</title><link>http://www.pyvideo.org/video/2396/ereignis-diskrete-simulation-mit-simpy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Simulationen kommen immer dann zum Einsatz, wenn Experimente an realen Systemen
+mit hohen Risiken bzw. Kosten verbunden oder gar nicht erst möglich sind. Zudem
+erlauben Simulationen es, Vorgänge, die in der realität lange Zeiträume
+beanspruchen, in zumeist wesentlich kürzerer Zeit nachzuvollziehen. 
+
+Nach einer
+kurzen Einführung in das Thema zeigt dieser Vortrag anhand einfacher Beispiele,
+wie sich Ereignis-diskrete Simulationen mit SimPy umsetzen lassen und welche
+Funktionen SimPy zur Umsetzung komplexerer Simulationen bietet.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Scherfke</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2396/ereignis-diskrete-simulation-mit-simpy</guid><enclosure url="https://www.youtube.com/watch?v=W6x8IvQOtbo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/W6x8IvQOtbo/hqdefault.jpg"></media:thumbnail></item><item><title>Designing and Testing PyZMQ Applications</title><link>http://www.pyvideo.org/video/1484/designing-and-testing-pyzmq-applications</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PyZMQ ist eine mächtige aber dennoch einfach zu benutzende Netzwerkbibliothek.
+
+Neben ZeroMQ’s und PyZMQ’s ausführlicher Dokumentation existieren auch einige
+
+gute Tutorials. Über einfache Beispiele oder allgemeine System-Architekturen
+
+gehen sie jedoch oft nicht hinaus.
+
+In diesem Vortrag werden daher Wege gezeigt, wie größere PyZMQ-Anwendungen
+
+entworfen und getestet werden können. Behandelt werden dabei neben Unit-Tests
+
+auch Prozess- und System-Tests.
+
+Der Vortrag basiert auf den Erfahrungen, die der Autor bei der Entwicklung
+
+eines verteilten Simulations-Frameworks gemacht hat.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Scherfke</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1484/designing-and-testing-pyzmq-applications</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Designing_and_Testing_.mp4?Signature=aqZ7RgWpGW%2FEnDATNCs0v%2F%2BAve4%3D&amp;Expires=1352216752&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Designing_and_Testing_.mp4?Signature=aqZ7RgWpGW%2FEnDATNCs0v%2F%2BAve4%3D&amp;Expires=1352216752&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=TG6wY76hICg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/TG6wY76hICg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

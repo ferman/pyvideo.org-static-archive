@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mark J Rees</title><link>http://www.pyvideo.org/speaker/464/mark-j-rees/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/464/mark-j-rees/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 22 Aug 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A Python on the Couch</title><link>http://www.pyvideo.org/video/995/a-python-on-the-couch</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+CouchDB &amp;nbsp_place_holder;(http://couchdb.apache.org/) is an open source,
+document-oriented NoSQL Database Management Server.It supports queries via
+views using MapReduce, and replication. The talk will give an overview of
+CouchDB followed by how to access and manipulate using Python. There are a
+number of python libraries for accessing couchdb and these will be quickly
+discussed followed by &amp;nbsp_place_holder;how to use one of these libs with a
+Python web framework.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark J Rees</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/995/a-python-on-the-couch</guid><enclosure url="http://www.youtube.com/watch?v=RNXjflpOs88" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/RNXjflpOs88/hqdefault.jpg"></media:thumbnail></item></channel></rss>

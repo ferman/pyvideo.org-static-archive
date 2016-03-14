@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Randy Sargent</title><link>http://www.pyvideo.org/speaker/1284/randy-sargent/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1284/randy-sargent/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 14 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Real time Crunching of Petabytes of Geospatial Data with Google Earth Engine</title><link>http://www.pyvideo.org/video/2772/real-time-crunching-of-petabytes-of-geospatial-da</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Google Earth Engine is a platform designed to enable petabyte-scale scientific analysis and visualization of geospatial datasets.  Earth Engine provides a consolidated environment including a massive data catalog co-located with thousands of computers for analysis. This talk will discuss products that Earth Engine has produced, and how to access Earth Engine via its Python API.
+&lt;p&gt;Description&lt;/p&gt;
+Background
+==========
+
+* What is [Earth Engine](https://earthengine.google.org) at a high level?
+* Why did the Earth Engine (EE) project start? [To monitor global deforestation.](http://blog.google.org/2010/12/introducing-google-earth-engine.html)
+* What architecture design decisions were made, and why?
+    - Just-in-time computation model
+    - Lazy evaluation for real-time feedback
+
+The Earth Engine Python API
+===========================
+
+* PyPI package: [earthengine-api](https://pypi.python.org/pypi/earthengine-api)
+* OAuth authentication
+* Using IPython Notebooks for algorithm development
+    - Special display methods for interactive maps
+
+Philosophical goals and how they are manifested
+===============================================
+
+* Organize the world's (geospatial) information and make it universally accessible and useful
+* Facilitate open transparent science
+* Speed up science by reducing the effort required to test hypotheses
+* Enable collaborative algorithm development
+
+Selected Results
+================
+
+* Consumer-grade visualizations
+    - Time-lapse global scale interactive video - [blog post](http://googleblog.blogspot.com/2013/05/a-picture-of-earth-through-time.html), [interactive viewer (centered on Austin)](https://earthengine.google.org/#timelapse/v=30.27632,-97.74597,10.812,latLng&amp;t=1.67)
+* Science-grade Data Products
+    - High-Resolution Global Maps of 21st-Century Forest Cover Change - [Science journal publication](http://www.sciencemag.org/content/342/6160/850), [blog post](http://googleresearch.blogspot.com/2013/11/the-first-detailed-maps-of-global.html), [interactive viewer](http://earthenginepartners.appspot.com/science-2013-global-forest)
+
+The Future
+==========
+
+* Global-scale analysis challenges
+* An invitation for developers
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Randy Sargent</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2772/real-time-crunching-of-petabytes-of-geospatial-da</guid><enclosure url="http://www.youtube.com/watch?v=8LZGBL4U3F4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/8LZGBL4U3F4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

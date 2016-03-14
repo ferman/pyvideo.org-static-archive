@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Holger Krekel</title><link>http://www.pyvideo.org/speaker/87/holger-krekel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/87/holger-krekel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 12 Apr 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: PyPy status talk (#72)</title><link>http://www.pyvideo.org/video/232/pycon-2009-pypy-status-talk-72</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyPy Status Talk
+
+  
+Presented by Holger Krekel and Maciej Fijalkowski
+
+  
+PyPy has come a long way. It's gone from being purely a research project to
+providing a flexible and reasonably fast Python Interpreter, itself
+implemented in Python. Although PyPy is not yet a viable CPython replacement,
+PyPy is able to run sophisticated python applications like Django and Twisted.
+In this talk, we'll focus on improvements that happened during the last year
+in PyPy. This talk will also explain the motivations driving current PyPy
+development and its targets for the future.
+
+  
+[VIDEO HAS ISSUES: Audio humming, other misc audio issues]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel,Maciej Fijalkowski</dc:creator><guid>http://www.pyvideo.org/video/232/pycon-2009-pypy-status-talk-72</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/232_pycon-2009-pypy-status-talk-72.mp4" length="127771496" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyPyStatusTalk814-335.jpg"></media:thumbnail></item><item><title>Improving automated testing with py.test</title><link>http://www.pyvideo.org/video/2581/improving-automated-testing-with-pytest</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Many people learn testing through the JUnit/PYUnit paradigm. Lately, py.test's new fixture mechanisms have gained traction among many Pythonistas. This tutorial explores py.test discusses key strategies how to benefit from using py.test for your existing unittest/nose based code bases.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2581/improving-automated-testing-with-pytest</guid><enclosure url="http://www.youtube.com/watch?v=AiThU6JQbE8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/AiThU6JQbE8/hqdefault.jpg"></media:thumbnail></item><item><title>py.test - feature and new release highlights </title><link>http://www.pyvideo.org/video/2429/pytest-feature-and-new-release-highlights</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+py.test is a popular tool for writing tests in Python.  It offers unique features not found in other testing tools.  Apart from some basics, this talk introduces the modular fixture mechanism, the assert statement reporting and discusses the latest news of pytest-2.4 such as better doctest support and using contextmanagers in conjunction with fixtures.  We'll also quickly discuss the most popular from the many existing plugins.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2429/pytest-feature-and-new-release-highlights</guid><enclosure url="https://www.youtube.com/watch?v=0FSEzj7hl8E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0FSEzj7hl8E/hqdefault.jpg"></media:thumbnail></item><item><title>devpi: driving packaging and testing needs</title><link>http://www.pyvideo.org/video/2407/devpi-driving-packaging-and-testing-needs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+devpi provides both a private pypi server, a self-updating pypi.python.org package cache, and work flow commands for uploading, testing and installing packages.  This talk shows some example scenarios and discusses the unique feature of seemlessly "inheriting" the pypi.python.org packages into your private index.  We'll also look into how you can perform testing of a package before you push a release to the public index or your company-specific private index. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2407/devpi-driving-packaging-and-testing-needs</guid><enclosure url="https://www.youtube.com/watch?v=84oOMBUUywI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/84oOMBUUywI/hqdefault.jpg"></media:thumbnail></item><item><title>pytest - rapid and simple testing with pytest</title><link>http://www.pyvideo.org/video/1432/pytest-rapid-and-simple-testing-with-pytest</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Werkzeug py.test erlaubt es schnell und einfach Test für Python-Programme
+zu schreiben. Dieser Vortrag stellt die grundlegende Nutzung von py.test und
+wichtige Terminologie dazu vor. Zusätzlich zeigt die Präsentation wie py.test
+Unit- und funktionale Test mit besonderen Mechanismen wie "perfected
+assertions" und "dependency injection" unterstützt.
+
+Der Vortrag führt in die Prinzipien der Unit- und funktionalen Tests kurz ein
+und geht auf die Vorteile von py.test gegenüber dem in der Standardbibliothek
+enthalten Paket unittest ein. So kann py.test Tests, die über verschiedene
+Python-Versionen und- Implementierungen hinweggehen, ausführen. Der
+Schreibsstil der Tests ist "pythonic" und die Plugins lassen sich für
+verschiedene Projekte nutzen.
+
+Nach einem einfachen Test-Beispiel, das die Grundprinzipen umfasst, folgen
+Beispiel zu "dependency injection". Die Nutzung von py.test im Mozilla Projekt
+webqa und die Möglichkeiten des "mocking" und "monkeypatching" schließen den
+Vortrag ab.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1432/pytest-rapid-and-simple-testing-with-pytest</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_pytest_rapid_and_simpl.mp4?Signature=G5OFyKuCGc9cGkGkkeP5UebAivc%3D&amp;Expires=1351795620&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_pytest_rapid_and_simpl.mp4?Signature=G5OFyKuCGc9cGkGkkeP5UebAivc%3D&amp;Expires=1351795620&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=85Ybi0CncIg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/85Ybi0CncIg/hqdefault.jpg"></media:thumbnail></item><item><title>pytest - rapid and simple testing with Python</title><link>http://www.pyvideo.org/video/645/pytest-rapid-and-simple-testing-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The py.test tool presents a rapid and simple way to write tests. This talks
+introduces common testing terms, basic examples and unique pytest features for
+writing unit- or functional tests: assertions and dependency injection
+mechanisms. We also look at other features like distributing test load, new
+plugins and reasons why some Redhat and Mozilla people choose pytest over
+other approaches.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/645/pytest-rapid-and-simple-testing-with-python</guid><enclosure url="https://www.youtube.com/watch?v=9LVqBQcFmyw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/9LVqBQcFmyw/hqdefault.jpg"></media:thumbnail></item><item><title>py.test - Rapid Testing with Minimal Effort</title><link>http://www.pyvideo.org/video/259/pycon-2010--py-test---rapid-testing-with-minimal-</link><description>&lt;p&gt;Description&lt;/p&gt;
+py.test I - rapid testing with minimal effort
+
+Presented by Holger Krekel
+
+Want to learn writing tests in Python? This tutorial introduces basic
+practises using the popular py.test ([http://pytest.org](http://pytest.org))
+tool. We start with an overview on testing and tools in Python and then
+discuss and exercise basic idioms in a step-by-step manner. We cover the basic
+writing, organisation and running of tests and debugging options. In the
+second part we discuss setup and teardown of test state, usage and
+configuration of test functions arguments and introduce coverage testing. We
+will close with time to answer questions and discuss topics from the
+participants.
+
+Intended Audience
+
+beginner programmers
+
+Perequisites/knowledge: basic knowledge of python programming
+
+Requirements: Laptop with Python 2.4 or greater installed. Pairing welcome.
+outline
+
+  * why automated testing? 
+  * Developer oriented automated tests 
+  * The test tool question 
+  * py.test basics 
+  * py.test fundamental features 
+  * cross-project test tool 
+  * A Typical Python test layout 
+  * Another typical test layout 
+  * Choosing a test layout 
+  * automatic test discovery 
+  * mind the __init__.py files 
+  * no boilerplate python test code 
+  * assert introspection 
+  * asserting expected exceptions 
+  * print() debugging / output capturing 
+  * Getting Started, basic usage [0] 
+  * Failure / Traceback Demo [0] 
+  * Skipping tests 
+  * Dynamically skipping tests 
+  * Marking test functions 
+  * Marking a test for conditional skip 
+  * Marking a test as expected to fail 
+  * Conditional expected to fail 
+  * Marking / Skipping exercise [0] 
+  * Applying Marks to classes or modules 
+  * break 
+  * warm up: boilerplate test code 
+  * "myscan" Exercises of this tutorial 
+  * sketching our "myscan" project 
+  * Starting Exercise [1] 
+  * The example Solution [1] 
+  * The "test setup" and fixture Problem 
+  * test functions and funcargs 
+  * How do funcargs work? 
+  * funcarg factory notes 
+  * builtin funcargs 
+  * usage example: per-test temporary directory 
+  * next step: adding more tests [2] 
+  * observation on new tmpdir-using tests 
+  * The mysetup pattern 
+  * How the mysetup pattern works 
+  * next step: introducing "mysetup" pattern [3] 
+  * The new test function using "mysetup" 
+  * a simple hook: adding a command line opt 
+  * the py.test config object 
+  * exercise: implement a new command line option [4] 
+  * myscan example completed 
+  * py.test hooks and plugins 
+  * Installing "global" plugins 
+  * exercise: use the "figleaf" plugin 
+  * local plugins: conftest.py 
+  * a simple config: ignoring directories 
+  * a simple default option: verbose 
+  * quick discussion of advanced usages 
+  * Summary / questions and answers 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/259/pycon-2010--py-test---rapid-testing-with-minimal-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/259_py-test-rapid-testing-with-minimal-effort.ogv" length="981861155" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/259_py-test-rapid-testing-with-minimal-effort.ogv" fileSize="981861155" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/259_py-test-rapid-testing-with-minimal-effort.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010pytestRapidTestingWithMinimalEffort216-303.jpg"></media:thumbnail></item><item><title>Rapid multi-purpose testing (#81)</title><link>http://www.pyvideo.org/video/243/pycon-2010--rapid-multi-purpose-testing---81</link><description>&lt;p&gt;Description&lt;/p&gt;
+Rapid multi-purpose testing
+
+Presented by Holger Krekel
+
+Want to rapidly test code, javascript or documents on different Python
+Interpreters and versions? This talk gives an overview on new py.test features
+of the last year. I'll discuss the minimal-boilerplate testing and new plugin
+model and give an overview on which testing needs are covered so far, for
+example:
+
+  * run tests written for nose or unittest 
+  * ad-hoc distribute tests to local or remote Python environments 
+  * test compatibility with Python3 
+  * run javascript unit-tests in real browsers 
+  * coverage testing 
+  * django-specific testing 
+
+I'll conclude with upcoming features regarding testing-in-the-cloud and plans
+on more test tool convergence. (URL: [http://pytest.org](http://pytest.org/))
+
+[VIDEO HAS ISSUES: first 47 seconds or so are really quiet]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/243/pycon-2010--rapid-multi-purpose-testing---81</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/243_rapid-multi-purpose-testing-81.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010rapidMultipurposeTesting81761-297.jpg"></media:thumbnail></item><item><title>The Ring of Python (#189)</title><link>http://www.pyvideo.org/video/321/the-ring-of-python-189</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Ring of Python
+
+  
+Presented by holger krekel (merlinux gmbh)
+
+  
+CPython 2.5/2.6/3.1, Jython, IronPython, PyPy, StacklessPython,
+UnladenSwallow, Cython ... what do we make of all these cool interpreter
+projects and versions? Where does competition help and where does it hamper?
+
+  
+In this interactive talk I'll highlight the main strengths of each of the
+Python interpreters. Furthermore, I'll discuss ways to leverage Python
+interpreters in a co-operative way, discuss challenges, projects and issues
+ahead and also briefly highlight 'execnet', one my own projects for bridging
+(Any) Python to (Any) Python. This is also the first time i am going to try
+out a new and funvisual presentation technique after several years of having
+done mostly text-based ones
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/321/the-ring-of-python-189</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/321_the-ring-of-python-189.ogv" length="327612140" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/321_the-ring-of-python-189.ogv" fileSize="327612140" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/321_the-ring-of-python-189.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010TheRingOfPython189914.png"></media:thumbnail></item></channel></rss>

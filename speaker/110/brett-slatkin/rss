@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brett Slatkin</title><link>http://www.pyvideo.org/speaker/110/brett-slatkin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/110/brett-slatkin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How to Be More Effective with Functions</title><link>http://www.pyvideo.org/video/3457/how-to-be-more-effective-with-functions</link><description>&lt;p&gt;Description&lt;/p&gt;
+Functions improve readability, encourage reuse, and facilitate refactoring. Python has many unique features that make functions significantly more powerful. This talk will show you the best ways to use functions in Python: when *args is helpful and when it'll crash your programs; how to use generators for arguments and return values; the value of keyword vs. keyword-only arguments; and more!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Slatkin</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3457/how-to-be-more-effective-with-functions</guid><enclosure url="https://www.youtube.com/watch?v=WjJUPxKB164" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/WjJUPxKB164/hqdefault.jpg"></media:thumbnail></item><item><title>Fan-in and Fan-out: The crucial components of concurrency</title><link>http://www.pyvideo.org/video/2572/fan-in-and-fan-out-the-crucial-components-of-con</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The most important yet underappreciated parts of concurrent APIs are good constructs for fan-out (one thread spawns others) and fan-in (many threads join together). This talk will show examples of fan-in and fan-out. It will cover the successes and shortcomings of APIs that provide concurrency. Finally, we'll discuss how the async model of Tulip/PEP3156 is the ultimate API. The future is bright!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Slatkin</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2572/fan-in-and-fan-out-the-crucial-components-of-con</guid><enclosure url="http://www.youtube.com/watch?v=CWmq-jtkemY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/CWmq-jtkemY/hqdefault.jpg"></media:thumbnail></item><item><title>Powering the real-time web with Python: PubSubHubbub on App Engine (#173)</title><link>http://www.pyvideo.org/video/272/pycon-2010--powering-the-real-time-web-with-pytho</link><description>&lt;p&gt;Description&lt;/p&gt;
+Powering the real-time web with Python: PubSubHubbub on App Engine
+
+  
+Presented by Brett Slatkin
+
+  
+PubSubHubbub is an open protocol that turns Atom and RSS feeds into real-time
+streams. I built the reference Hub run by Google using Python and App Engine.
+In this talk you will learn how I made the real-time system work: An intro to
+the protocol, asynchronous processing on App Engine, fault-tolerance, and
+scalability.
+
+  
+For details on PubSubHubbub and the Hub's source code, see [http://code.google
+.com/p/pubsubhubbub/](http://code.google.com/p/pubsubhubbub/).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Slatkin</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/272/pycon-2010--powering-the-real-time-web-with-pytho</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/272_powering-the-real-time-web-with-python-pubsubhubbub-on-app-engine-173.ogv" length="149807635" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/272_powering-the-real-time-web-with-python-pubsubhubbub-on-app-engine-173.ogv" fileSize="149807635" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/272_powering-the-real-time-web-with-python-pubsubhubbub-on-app-engine-173.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PoweringTheRealtimeWebWithPythonPubSubHubbubOn236-232.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Julien Phalip</title><link>http://www.pyvideo.org/speaker/747/julien-phalip/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/747/julien-phalip/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Apr 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Advanced techniques for Web functional testing</title><link>http://www.pyvideo.org/video/2660/advanced-techniques-for-web-functional-testing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will present multiple advanced techniques for Web functional testing. You will learn how to test a wide range of Web front-end components, such as CSS, visuals, responsive designs and user interactions — all using Python. Various practical tips will also be presented to harness your functional tests in real project workflows.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julien Phalip</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2660/advanced-techniques-for-web-functional-testing</guid><enclosure url="http://www.youtube.com/watch?v=St9cL47_1GI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/St9cL47_1GI/hqdefault.jpg"></media:thumbnail></item><item><title>Boosting teamwork with Vagrant</title><link>http://www.pyvideo.org/video/1408/boosting-teamwork-with-vagrant</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I will present Vagrant, a free open-source tool facilitating the
+manipulation of virtualized environments, and how it may benefit the
+development of Django applications. This talk is aimed at Django developers of
+all levels who are interested in getting an overview of the great
+possibilities Vagrant offers to support teamwork and quality assurance.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this talk I will present Vagrant, a free open-source tool facilitating the
+manipulation of virtualized environments, and how it may benefit the
+development of Django applications. This talk is aimed at Django developers of
+all levels who are interested in getting an overview of the great
+possibilities Vagrant offers to support teamwork and quality assurance.
+
+One major benefit of using Vagrant is with on-boarding. Previously, when new
+developers joined a project, it could take hours or days for them to correctly
+set up their development environment and install all the projects'
+dependencies (the correct version of Python, the virtualenv, the database
+server, the caching engine, etc.). With Vagrant, combined with provisioning
+tools like Chef or Puppet, it is now possible to easily create a virtual
+machine with all the right dependencies properly pre-installed and pre-
+configured to allow anyone to be fully operational and ready to contribute to
+the project in a matter of minutes.
+
+Another major benefit of Vagrant is that it gives the opportunity to create a
+working environment for all developers that closely matches that of the
+production server. This in turn allows to anticipate potential issues when new
+code and resources eventually get deployed live.
+
+In this talk, I will present some key functionalities and workflows around the
+use of Vagrant: - installing Vagrant and Virtualbox. - creating a new virtual
+machine. - provisioning a virtual machine with basic requirements. - sharing
+virtual machine specifications with team members.
+
+This talk will include a brief introduction to Chef and Puppet. It will also
+include multiple practical tricks like accessing the VM's database server from
+the host's machine, setting up useful shell aliases or automatically
+activating the virtualenv when launching the VM.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julien Phalip</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1408/boosting-teamwork-with-vagrant</guid><enclosure url="http://www.youtube.com/watch?v=DsYVx-mh3NE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/DsYVx-mh3NE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

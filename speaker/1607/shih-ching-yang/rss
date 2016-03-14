@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Shih-Ching Yang</title><link>http://www.pyvideo.org/speaker/1607/shih-ching-yang/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1607/shih-ching-yang/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 10 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>OpenOffice Application with Python</title><link>http://www.pyvideo.org/video/3270/openoffice-application-with-python-pycon-apac-2</link><description>&lt;p&gt;Description&lt;/p&gt;
+OpenOffice 辦公室軟體的 API 稱為 UNO ， OpenOffice UNO API 可以廣泛連結各種不同的程式語言，包括 Python 。使用 PyUNO 撰寫辦公室軟體的應用，比想像中更簡單！這個講題將示範幾個簡單好用的辦公室軟體應用，說明其背後的觀念和原理。 The API of OpenOffice suite is called "UNO". OpenOffice UNO API can bind to different programming languages, including Python. It's even more easier to build office application with PyUNO. This talk will demonstrate several simple but fancy office applications, and the concepts behind them.
+
+
+About the speaker
+
+
+* Apache OpenOffice committer / Project Management Committee member
+* PyLadies Taiwan Oragnizer
+* 師大資訊教育研究所畢業
+
+Tagline  
+openoffice, pyuno, pyladies  
+個人網頁連結
+
+&lt;http://www.imacat.idv.tw/&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shih-Ching Yang</dc:creator><pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3270/openoffice-application-with-python-pycon-apac-2</guid><enclosure url="https://www.youtube.com/watch?v=dXjx5m6qHeQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/dXjx5m6qHeQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

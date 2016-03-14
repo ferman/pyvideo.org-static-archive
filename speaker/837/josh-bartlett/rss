@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Josh Bartlett</title><link>http://www.pyvideo.org/speaker/837/josh-bartlett/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/837/josh-bartlett/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 03 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Tales from Managing an Open Source Python Game</title><link>http://www.pyvideo.org/video/3974/tales-from-managing-an-open-source-python-game</link><description>&lt;p&gt;Description&lt;/p&gt;
+Ten years ago, a rag-tag bunch of computer camp leaders decided to create a game that would teach kids teamwork and strategy, and which the kids could feel a part of. In those days, the presenter was a young dreamer with time on his hands, and he chose to spearhead the project. Was this folly? You be the judge. The game was Trosnoth. It is developed in Python, using Pygame and Twisted.
+In this presentation, Josh will tell the story of Trosnoth, and share some of the many lessons, both social and technical, which he learnt while managing the project. Maybe you’ve considered writing a game in Python. Maybe you’re not sure how Open Source projects really work. Maybe you’re an experienced project manager who wants to laugh at some of the mistakes Josh made. Or maybe you just enjoy hearing Josh tell stories. Whoever you are, there’s bound to be something in this presentation for you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josh Bartlett</dc:creator><pubDate>Mon, 03 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3974/tales-from-managing-an-open-source-python-game</guid><enclosure url="https://www.youtube.com/watch?v=RgaDT3E5Esk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/RgaDT3E5Esk/hqdefault.jpg"></media:thumbnail></item><item><title>What in the World is Asyncio? by Josh Bartlett</title><link>http://www.pyvideo.org/video/3133/what-in-the-world-is-asyncio-by-josh-bartlett</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Python 3.4 standard library contains a new module called "asyncio" (formerly "tulip"), which allows you to write single-threaded asynchronous code based on PEP 3156. This presentation will begin with an outline of what asyncio provides and how to use it, highlighting the kinds of use cases that it was designed for. The presentation will then go through a number of example use cases and within the context of these use cases, will compare asyncio with Twisted, one of the existing libraries for asynchronous programming. Finally, the presentation will touch on the question of interoperability between asyncio and libraries like Twisted, Pyramid and gevent.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josh Bartlett</dc:creator><pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3133/what-in-the-world-is-asyncio-by-josh-bartlett</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/45-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/45-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=N4YjNKSQVAI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/N4YjNKSQVAI/hqdefault.jpg"></media:thumbnail></item><item><title>Neatly Twisted</title><link>http://www.pyvideo.org/video/1620/neatly-twisted</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In many Python circles, Twisted is the recommended framework for all
+networking and multitasking applications. Twisted provides a powerful,
+extensible event-driven framework with built-in support for many network
+protocols.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In many Python circles, Twisted is the recommended framework for all
+networking and multitasking applications. Twisted provides a powerful,
+extensible event-driven framework with built-in support for many network
+protocols. But without due care, Twisted’s event-driven features can result in
+code that’s a nightmare to read and maintain. In this presentation, I will
+review the basics of Twisted, and show some of the features which make Twisted
+such a popular framework. I’ll share my experiences debugging and maintaining
+mission-critical Twisted applications, discuss some of the pitfalls to avoid
+when coding with Twisted, and present tips and tricks for debugging Twisted
+code and writing Twisted code that’s a pleasure to read and maintain.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josh Bartlett</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1620/neatly-twisted</guid><enclosure url="http://www.youtube.com/watch?v=7Au2PDYD6Bk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/7Au2PDYD6Bk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

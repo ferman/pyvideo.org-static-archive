@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Godwin</title><link>http://www.pyvideo.org/speaker/19/andrew-godwin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/19/andrew-godwin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Jul 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Database Migrations, South, And You</title><link>http://www.pyvideo.org/video/31/database-migrations--south--and-you</link><description>&lt;p&gt;Description&lt;/p&gt;
+Database migrations, south and you
+
+  
+Presented by Andrew Godwin
+
+  
+Talks about south which makes it easier to do database migrations.
+
+  
+[VIDEO HAS ISSUES: audio tends towards left speaker]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><guid>http://www.pyvideo.org/video/31/database-migrations--south--and-you</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/31_database-migrations-south-and-you.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DatabaseMigrationsSouthAndYou968.png"></media:thumbnail></item><item><title>Deployment, Daemons and Datacenters</title><link>http://www.pyvideo.org/video/78/djangocon-2011--deployment--daemons-and-datacente</link><description>&lt;p&gt;Description&lt;/p&gt;
+Deployment, Daemons, and Datacenters
+
+Presented by Andrew Godwin
+
+A tour through the systems that power [ep.io](http://ep.io/), the Python
+hosting platform, from the array of daemons powering the system, to how
+redundancy is set up, and also covering general best practices for hosting
+Django sites yourself.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><guid>http://www.pyvideo.org/video/78/djangocon-2011--deployment--daemons-and-datacente</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/78_deployment-daemons-and-datacenters.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DeploymentDaemonsAndDatacenters670-810.jpg"></media:thumbnail></item><item><title>Step Away From That Database</title><link>http://www.pyvideo.org/video/67/djangocon-2010--step-away-from-that-database</link><description>&lt;p&gt;Description&lt;/p&gt;
+Step away from that database
+
+Presented by Andrew Godwin
+
+A look at the large array of database types now available: where each one
+excels, why NoSQL isn't always best, and the best ways to integrate them into
+your Django project.
+
+Abstract
+
+In the last few years we've seen an explosion in the number of production-
+ready databases available for web applications. From relational to document-
+oriented, key-value and more, there's a staggering array of choice.
+
+This talk covers the various basic types of database now available, and
+highlights their weaknesses, their strengths, and the features you just can't
+get from traditional databases.
+
+Then, after a short rant about the term "NoSQL", learn how to best integrate
+them into your Django projects, why being schemaless isn't as good as it looks
+at first, and how relational databases are keeping up with the times.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><guid>http://www.pyvideo.org/video/67/djangocon-2010--step-away-from-that-database</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/67_step-away-from-that-database.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-StepAwayFromThatDatabase838-974.jpg"></media:thumbnail></item><item><title>Django: The Conspiracy</title><link>http://www.pyvideo.org/video/3661/django-the-conspiracy</link><description>&lt;p&gt;Description&lt;/p&gt;
+Ten years after the project known as "Django" was released to the public, there are still unanswered questions. Why did one of the original authors flee the country? What happened to all the removed magic? And, more importantly, why are there secret messages hidden in the template parser's regular expressions? I'll be attempting to throw light on some of the dark secrets of Django and, perhaps, finally divine its true purpose, after almost a decade of searching.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3661/django-the-conspiracy</guid><enclosure url="http://youtu.be/s-OPhgYELv4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/s-OPhgYELv4/hqdefault.jpg"></media:thumbnail></item><item><title>What can programmers learn from pilots?</title><link>http://www.pyvideo.org/video/3510/what-can-programmers-learn-from-pilots</link><description>&lt;p&gt;Description&lt;/p&gt;
+What can Python-based software teams learn from aviation? Why should software always fail hard? What's wrong with too many error logs? And why are ops people already like pilots? Learn all this, and about planes, too.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3510/what-can-programmers-learn-from-pilots</guid><enclosure url="https://www.youtube.com/watch?v=we4G_X91e5w" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/we4G_X91e5w/hqdefault.jpg"></media:thumbnail></item><item><title>Designing Django's Migrations</title><link>http://www.pyvideo.org/video/2630/designing-djangos-migrations</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django finally has built-in migrations, and they're a long way from the designs of South or django-evolution. Learn the key design decisions we made, ideas we discarded, and the unique treatment we have to give each of our four official database backends.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2630/designing-djangos-migrations</guid><enclosure url="http://www.youtube.com/watch?v=a-_GAHfpk1Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/a-_GAHfpk1Y/hqdefault.jpg"></media:thumbnail></item><item><title>Models and Migrations and Schemas - oh my!</title><link>http://www.pyvideo.org/video/1412/models-and-migrations-and-schemas-oh-my</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A look at the past, current and future of schemas, migrations and Django, and
+what it means for both website developers and ops staff.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django has a long and varied history of dealing with changing schema
+requirements - from the early projects like django-evolution and the two
+aborted attempts to provide migrations in Django itself, through to projects
+like South and now looking ahead to a more integrated solution with Django
+itself once more.
+
+This talk will cover some of that history - helpful to get some kind of
+context when it comes to current developments - as well as exploring some of
+the common problems a migration system (and its users) encounter, and how
+those lessons and ideas are being used to help improve Django itself to better
+support schema migrations.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1412/models-and-migrations-and-schemas-oh-my</guid><enclosure url="http://www.youtube.com/watch?v=gwP7zLDDdPA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/gwP7zLDDdPA/hqdefault.jpg"></media:thumbnail></item><item><title>Building a hosting platform with Python</title><link>http://www.pyvideo.org/video/1058/building-a-hosting-platform-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Andrew Godwin - 20 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+At ep.io we built a Python hosting platform from the ground up, designed to
+run large numbers of web applications on a small number of physical machines
+both securely and in a reasonably scalable way. This talk will show you how we
+built our infrastructure - using Redis, eventlet, PostgreSQL and more - and
+what lessons we learnt from our first few thousand deploys.
+
+See how we split services into multiple processes and greenthreads; the pains
+of building a cooperatively-multitasking PTY module; how Redis isn't the
+answer to everything, but is still very useful; how to persuade third-party
+software to work securely in a shared environment; and how important it is to
+have good logging, especially when you have more than five servers.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1058/building-a-hosting-platform-with-python</guid><enclosure url="http://www.youtube.com/watch?v=Sg6RmIty9-w" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Sg6RmIty9-w/hqdefault.jpg"></media:thumbnail></item><item><title>Building a hosting platform with Python</title><link>http://www.pyvideo.org/video/1161/building-a-hosting-platform-with-python-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Andrew Godwin - 20 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+At ep.io we built a Python hosting platform from the ground up, designed to
+run large numbers of web applications on a small number of physical machines
+both securely and in a reasonably scalable way. This talk will show you how we
+built our infrastructure - using Redis, eventlet, PostgreSQL and more - and
+what lessons we learnt from our first few thousand deploys.
+
+See how we split services into multiple processes and greenthreads; the pains
+of building a cooperatively-multitasking PTY module; how Redis isn't the
+answer to everything, but is still very useful; how to persuade third-party
+software to work securely in a shared environment; and how important it is to
+have good logging, especially when you have more than five servers.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1161/building-a-hosting-platform-with-python-0</guid><enclosure url="http://www.youtube.com/watch?v=hAqtC_c2x1s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/hAqtC_c2x1s/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Karen Tracey</title><link>http://www.pyvideo.org/speaker/740/karen-tracey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/740/karen-tracey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>OpenBlock: Overview &amp; Initial Experience</title><link>http://www.pyvideo.org/video/1401/openblock-overview-initial-experience</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+OpenBlock is an open-source project aiming to provide a framework for "hyper-
+local" civic data. We've been using OpenBlock in a project focused on
+increasing access to public records in rural North Carolina communities. In
+this talk we provide an overview of OpenBlock and how to get started using it,
+we describe our experience using it, and discuss some extensions we have made
+to it.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+# Abstract
+
+What do you do if EveryBlock isn't available in your city? OpenBlock, released
+to the community from the Knight-funded project, EveryBlock.com, is a
+neighborhood news project aiming to provide a framework for "hyper-local"
+civic data. Over the past few years, the open source project has been
+maintained by the non-profit OpenPlans. Their goal was to simplify and
+accelerate adoption of OpenBlock by making it easier to use. Today, Caktus is
+working with Ryan Thornburg of the UNC School of Journalism and Mass
+Communication to bring OpenBlock to rural North Carolina newspapers. Open
+Rural aims to leverage OpenBlock to increase access to public records in small
+communities. This talk focuses on our experience with OpenBlock as we work to
+deploy OpenRural in North Carolina.
+
+# Outline
+
+## Introduction
+
+  * What is OpenBlock?
+  * How does it relate to/compare to EveryBock?
+  * When/why might you want to incorporate OpenBlock into a site?
+  * What have we (Caktus) be doing with OpenBlock?
+
+## Geocoding
+
+  * Geocoding is a hard problem to solve
+  * String parsing
+  * Places and locations
+  * Street/block data
+  * 3rd-party geocoder comparison
+
+## Getting Started: Choosing Source for Street/Block Data
+
+  * Pros and Cons of Census (Tiger) Data
+  * Pros and Cons of Other Data Sources
+  * Differences with county data and OpenBlocks preference for cities
+  * Our Experience with Columbus County, NC
+
+## Scrapers
+
+  * What are they?
+  * How do you write them?
+  * Our Experience with Some Scrapers for Columbus County, NC
+  * How we improve data accessibility with ScraperWiki
+
+## The Missing Piece: Data Review and Analysis
+
+  * OpenBlock handles scraping and public viewing, but is missing review and analysis
+  * How successful was the geocoder?
+  * How many news items were added this past week?
+  * Why is my scraper failing to run?
+  * Why did this address fail to geocode? How can I correct it?
+  * Data Dashboard
+
+## Adding OpenBlock to an Existing Site
+
+  * Out-of-the-box views/templates
+  * Our experience integrating with local online newspapers
+  * Our OpenRural deployment setup
+
+## Conclusion
+
+  * State of the OpenBlock community
+  * Our plans in North Carolina
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Colin Copeland,Karen Tracey</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1401/openblock-overview-initial-experience</guid><enclosure url="http://www.youtube.com/watch?v=nwr_G6Nln3s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nwr_G6Nln3s/hqdefault.jpg"></media:thumbnail></item></channel></rss>

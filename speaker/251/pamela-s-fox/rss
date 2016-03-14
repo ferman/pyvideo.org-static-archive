@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Pamela S Fox</title><link>http://www.pyvideo.org/speaker/251/pamela-s-fox/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/251/pamela-s-fox/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:32 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Building the Wave Robots API: Behind the Scenes</title><link>http://www.pyvideo.org/video/459/pyconau-2010--building-the-wave-robots-api--behin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Building the Wave Robots API: Behind the Scenes
+
+Presented by Pamela S Fox (Google)
+
+The Google Wave robots protocol involves JSON-RPC messages that are sent
+between the Wave server and the robot, communicating events to process and
+operations to perform. The Python Robots API abstracts on top of that JSON-RPC
+service, allowing developers to interact with waves using event callbacks,
+python classes, and chained functions. In this talk, we'll explain the JSON-
+RPC protocol, talk about how we designed the API to sit on top of that
+protocol, and show how developers can use the API.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pamela S Fox</dc:creator><guid>http://www.pyvideo.org/video/459/pyconau-2010--building-the-wave-robots-api--behin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/459_pyconau-2010-building-the-wave-robots-api-behind-the-scenes.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-BuildingTheWaveRobotsAPIBehindTheScenes216.png"></media:thumbnail></item></channel></rss>

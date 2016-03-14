@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of James Bennett</title><link>http://www.pyvideo.org/speaker/25/james-bennett/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/25/james-bennett/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 10 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>RTFM -- wRite The Friendly Manual</title><link>http://www.pyvideo.org/video/79/djangocon-2011--rtfm----write-the-friendly-manual</link><description>&lt;p&gt;Description&lt;/p&gt;
+RTFM - wRite The Friendly Manual
+
+Presented by James Bennett
+
+An introduction to writing great documentation. Not just in the "here's some
+tools and how to use them" sense, but in the "here's why you should care about
+documentation" sense and the "how to write things people will read" sense.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><guid>http://www.pyvideo.org/video/79/djangocon-2011--rtfm----write-the-friendly-manual</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/79_rtfm-write-the-friendly-manual.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RTFMWRiteTheFriendlyManual657-381.jpg"></media:thumbnail></item><item><title>Topics of Interest</title><link>http://www.pyvideo.org/video/45/djangocon-2010--topics-of-interest</link><description>&lt;p&gt;Description&lt;/p&gt;
+Topics of Interest
+
+Presented by James Bennett
+
+Inspired by Ian Bicking's session of the same name at PyCon 2009, this will be
+a somewhat eclectic talk covering various subjects near and dear to the
+speaker's heart, including Django's release process, best practices for
+application development and what the future holds for our favorite Python web
+framework.
+
+Abstract
+
+This talk will come in, roughly, four parts:
+
+  * The release process 
+    * How Django gets made 
+    * Things we've screwed up 
+    * Things (I think) we've gotten right 
+    * The unsung heroes who make Django happen 
+  * The state of Django applications 
+    * A summary of current best practices for development, documentation, packaging, collaboration, etc. 
+    * Common issues and ways to fix them 
+    * "There's an app for that" and its discontents 
+  * The future 
+    * Musings on Django 1.3 and 1.4 
+    * Python 3: when will we get there, and what will it mean for us? 
+    * The world is changing; how can we change with it? 
+  * General Q&amp;A;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><guid>http://www.pyvideo.org/video/45/djangocon-2010--topics-of-interest</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/45_topics-of-interest.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TopicsOfInterest641.png"></media:thumbnail></item><item><title>Django in Depth</title><link>http://www.pyvideo.org/video/3505/django-in-depth-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+This is a tutorial that goes beyond most tutorials; it's meant for developers who already know a bit about Django and want to really understand the inner guts of the framework. This tutorial will *not* involve writing code or apps; rather, it'll be a deep tour of the workings and APIs of Django itself, across all the bundled components and at all levels of the stack.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3505/django-in-depth-0</guid><enclosure url="https://www.youtube.com/watch?v=tkwZ1jG3XgA" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/tkwZ1jG3XgA/hqdefault.jpg"></media:thumbnail></item><item><title>Django: The good parts</title><link>http://www.pyvideo.org/video/2652/django-the-good-parts</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Lots of talks and tutorials try to cover Django exhaustively, going over every component and feature. But not so many take a look at the bits that let Django be Django. In this talk, we'll see exactly what those bits -- some old, some new -- are, in a way that shows why it's still a solid and popular choice for web developers nearly nine years after its initial public release.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2652/django-the-good-parts</guid><enclosure url="http://www.youtube.com/watch?v=9Vrk44sHIvw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/9Vrk44sHIvw/hqdefault.jpg"></media:thumbnail></item><item><title>Write the Docs</title><link>http://www.pyvideo.org/video/1795/write-the-docs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The greatest piece of software in the world is useless without great
+documentation, but unfortunately most of us just don't write great
+docs. This can be fixed, though. Documentation doesn't need to be an
+afterthought, and doesn't have to be bad, and you, too, can learn how
+to write good docs and make that an integrated part of your
+development process.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1795/write-the-docs</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Write_the_Docs.mp4?Signature=6Uo8RBACB75gJ4LtZKU0xbYOqRA%3D&amp;Expires=1363672380&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Write_the_Docs.mp4?Signature=6Uo8RBACB75gJ4LtZKU0xbYOqRA%3D&amp;Expires=1363672380&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=KEakc8r4r7M" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/KEakc8r4r7M/hqdefault.jpg"></media:thumbnail></item><item><title>Django in Depth</title><link>http://www.pyvideo.org/video/610/django-in-depth</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A tutorial that goes beyond all other Django tutorials; we'll dive deep into
+the guts of the framework, and learn how each commonly-used component -- ORM,
+templates, HTTP handling, views and the admin -- work from the bottom up,
+covering both public and internal APIs in excruciating detail.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/610/django-in-depth</guid><enclosure url="https://www.youtube.com/watch?v=t_ziKY1ayCo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/t_ziKY1ayCo/hqdefault.jpg"></media:thumbnail></item><item><title>Django in Depth</title><link>http://www.pyvideo.org/video/291/pycon-2010--django-in-depth</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django In Depth
+
+Presented by James Bennett
+
+Most books, tutorials and other documentation for Django take a high-level
+approach to its components and APIs, and so barely scratch the surface of the
+framework. In this tutorial, however, we'll take a detailed look under the
+hood, covering everything from the guts of the ORM to the innards of the
+template system to how the admin interface really works.
+
+Whether you're the newest of newbies or the most seasoned of application
+developers, you'll come away with a deeper knowledge of Django, and a plethora
+of new tips and tricks you can use in your own applications.
+
+Intended Audience
+
+Beginning to intermediate users of the Django web framework.
+
+Class Outline
+
+  * Introduction: going beyond Django's documentation 
+  * Under the hood of the ORM 
+  * Forms and validation 
+  * Inside the template system 
+  * How Django processes requests 
+  * Understanding the view layer 
+  * The admin interface, inside and out 
+  * Q&amp;A;
+
+[VIDEO HAS ISSUES: Cam frezz from time to time]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/291/pycon-2010--django-in-depth</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/291_django-in-depth.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/291_django-in-depth.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/291_django-in-depth.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010DjangoInDepth285-671.jpg"></media:thumbnail></item><item><title>Managing the world's oldest Django project (#80)</title><link>http://www.pyvideo.org/video/345/pycon-2010--managing-the-world--39-s-oldest-djang</link><description>&lt;p&gt;Description&lt;/p&gt;
+Managing the world's oldest Django project
+
+  
+Presented by James Bennett
+
+  
+Or, "how we cut 40,000 lines of code and learned to love unit testing."
+
+  
+This talk will cover some of the development history behind Ellington, the CMS
+which spawned the open-source Django web framework, and some of the issues
+involved in developing and maintaining a codebase of this age and size.
+Highlights include branch management, the advantages of open-sourcing non-
+critical functionality, the pain of porting and the joy that can only be found
+in a passing test suite.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/345/pycon-2010--managing-the-world--39-s-oldest-djang</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.ogv" length="303493475" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.ogv" fileSize="303493475" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ManagingTheWorldsOldestDjangoProject80830.png"></media:thumbnail></item></channel></rss>

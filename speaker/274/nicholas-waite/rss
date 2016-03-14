@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nicholas Waite</title><link>http://www.pyvideo.org/speaker/274/nicholas-waite/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/274/nicholas-waite/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:18 -0000</lastBuildDate><ttl>500</ttl><item><title>PyGotham 2011: Go Go Gadget Python</title><link>http://www.pyvideo.org/video/488/pygotham-2011--go-go-gadget-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+So you know that embedded devices are everywhere. Perhaps you've thought how
+nice it would be to make a Linux USB driver for some Windows-only device, or
+you've got something proprietary you would like to reverse-engineer and
+repurpose for your next big scheme. We know Python can do pretty much anything
+inside the computer--but how does a software person enter the world of
+circuits? And once you have some circuits, how can you bring the data back
+into your box? Bridging the worlds of hardware and software, I will show the
+power of PyUSB and Pyserial to pwn some sweet hardware and charm it over the
+USB port. From my own trials and tribulations building and hacking real
+devices, from a simple HID-class USB missile launcher to the custom protocol
+used in a complex biomedical data acquisition system, you will learn about USB
+packet sniffing, rapid-prototyping device drivers in python, and deciphering
+circuit boards and data sheets for fun &amp; profit. I aim to leave you armed and
+ready to take on hardware of your own.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Waite</dc:creator><guid>http://www.pyvideo.org/video/488/pygotham-2011--go-go-gadget-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/488_pygotham-2011-go-go-gadget-python.ogv" length="209351340" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/488_pygotham-2011-go-go-gadget-python.ogv" fileSize="209351340" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/488_pygotham-2011-go-go-gadget-python.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-GoGoGadgetPython896-758.jpg"></media:thumbnail></item></channel></rss>

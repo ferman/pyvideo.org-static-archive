@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jonathan Rocher</title><link>http://www.pyvideo.org/speaker/421/jonathan-rocher/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/421/jonathan-rocher/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Storing, manipulating and visualizing timeseries using open source packages in Python</title><link>http://www.pyvideo.org/video/947/storing-manipulating-and-visualizing-timeseries</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Analyzing, storing and visualizing time-series efficiently are recurring
+though difficult tasks in various aspects of scientific data analysis such as
+meteorological forecasting, financial modeling, ... In this talk we will
+explore the current Python ecosystem for doing this effectively, comparing
+options, using only open source packages that are mature yet still under
+active development.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Rocher</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/947/storing-manipulating-and-visualizing-timeseries</guid><enclosure url="https://www.youtube.com/watch?v=qTwvObrRGdY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/qTwvObrRGdY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

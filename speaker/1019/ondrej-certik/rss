@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ondrej Certik</title><link>http://www.pyvideo.org/speaker/1019/ondrej-certik/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1019/ondrej-certik/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Symbolic Computing with SymPy, SciPy2013 Tutorial, Part 1 of 6</title><link>http://www.pyvideo.org/video/1872/symbolic-computing-sympy-scipy2013-tutorial-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+&lt;p&gt;Description&lt;/p&gt;
+In this tutorial we will introduce attendees to SymPy. We will start by showing how to install and configure this Python module. Then we will proceed to the basics of constructing and manipulating mathematical expressions in SymPy. We will also discuss the most common issues and differences from other computer algebra systems, and how to deal with them. In the last part of this tutorial we will show how to solve simple, yet illustrative, mathematical problems with SymPy.
+
+This knowledge should be enough for attendees to start using SymPy for solving mathematical problems and hacking SymPy's internals (though hacking core modules may require additional expertise).
+
+We expect attendees of this tutorial to have basic knowledge of Python and mathematics. However, any more advanced topics will be explained during presentation.
+
+Outline
+
+* installing, configuring and running SymPy
+* basics of expressions in SymPy
+* traversal and manipulation of expressions
+* common issues and differences from other CAS
+* setting up and using printers
+* querying expression properties
+* not only symbolics: numerical computing (mpmath)
+* Mathematical problem solving with SymPy
+
+Required Packages
+
+Python 2.x or 3.x, SymPy (most recent version) Optional packages: IPython, matplotlib, NetworkX, GMPY, numpy, scipy</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer,Mateusz Paprocki,Ondrej Certik</dc:creator><guid>http://www.pyvideo.org/video/1872/symbolic-computing-sympy-scipy2013-tutorial-part-1</guid><enclosure url="http://youtu.be/dAgShwIx72c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/dAgShwIx72c/hqdefault.jpg"></media:thumbnail></item><item><title>Reproducible, Relocatable, Customizable Builds and Packaging with HashDist Part1</title><link>http://www.pyvideo.org/video/2724/reproducible-relocatable-customizable-builds-an</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk introduces HashDist, a critical component of the scientific software development workflow.  HashDist enables highly customizable, source-driven, and reproducible builds for scientific software stacks.  HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud and supercomputing platforms. 
+&lt;p&gt;Description&lt;/p&gt;
+Developing scientific software is a continuous balance between not reinventing the wheel and getting fragile codes to interoperate with one another.  Binary software distributions such as Anaconda provide a robust starting point for many scientific software packages, but this solution alone is insufficient for many scientific software developers.  HashDist provides a critical component of the development workflow, enabling highly customizable, source-driven, and reproducible builds for scientific software stacks, available from both the IPython Notebook and the command line.
+
+To address these issues, the Coastal and Hydraulics Laboratory at the US Army Engineer Research and Development Center has funded the development of HashDist in collaboration with Simula Research Laboratories and the University of Texas at Austin.  HashDist is motivated by a functional approach to package build management, and features intelligent caching of sources and builds, parametrized build specifications, and the ability to interoperate with system compilers and packages. HashDist enables the easy specification of "software stacks", which allow both the novice user to install a default environment and the advanced user to configure every aspect of their build in a modular fashion.  As an advanced feature, HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud, and supercomputing platforms.  As a final benefit, all HashDist builds are reproducible, with a build hash specifying exactly how each component of the software stack was installed.
+
+This talk will feature an introduction to the problem of packaging Python-based scientific software, a discussion of the basic tools available to scientific Python developers, and a detailed discussion and demonstration of the HashDist package build manager.
+
+The HashDist documentation is available from: http://hashdist.readthedocs.org/en/latest/
+HashDist is currently hosted at: https://github.com/hashdist/hashdist</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel,Aron Ahmadia,Chris Kees,Dag Sverre Seljebotn,Ondrej Certik</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2724/reproducible-relocatable-customizable-builds-an</guid><enclosure url="http://www.youtube.com/watch?v=wviHkzk0AkY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/wviHkzk0AkY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

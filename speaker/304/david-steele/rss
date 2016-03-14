@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Steele</title><link>http://www.pyvideo.org/speaker/304/david-steele/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/304/david-steele/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:58 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: Exchange Digital Money using Bitcoin</title><link>http://www.pyvideo.org/video/533/pyohio-2011--exchange-digital-money-using-bitcoin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Exchange Digital Money Using Bitcoin
+
+Presented by David Steele
+
+Bitcoin is described as the first decentralized digital currency. This talk
+describes how Bitcoin uses public key encryption, proof-of-work based logging,
+and peer-to-peer technology to create a type of money which can be transferred
+over the Internet. We'll cover how to use Python to manage your digital wallet
+and participate in this new P2P economy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Steele</dc:creator><guid>http://www.pyvideo.org/video/533/pyohio-2011--exchange-digital-money-using-bitcoin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/533_pyohio-2011-exchange-digital-money-using-bitcoin.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/notfound-episode.png"></media:thumbnail></item></channel></rss>

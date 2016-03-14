@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Frank H. Guenther</title><link>http://www.pyvideo.org/speaker/568/frank-h-guenther/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/568/frank-h-guenther/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Unlock: A Python-based framework for rapid development of practical brain-computer interface applications</title><link>http://www.pyvideo.org/video/1193/unlock-a-python-based-framework-for-rapid-develo</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Unlock Project aims to provide brain-computer interface (BCI) technologies
+to individuals suffering from locked-in syndrome, the complete or near-
+complete loss of voluntary motor function. While several BCI techniques have
+been demonstrated as feasible in a laboratory setting, limited effort has been
+devoted to translating that research into a system for viable home use. This
+is in large part due to the complexity of existing BCI software packages which
+are geared toward clinical use by domain experts. With Unlock, we have
+developed a Python-based modular framework that greatly simplifies the time
+and programming expertise needed to develop BCI applications and experiments.
+Furthermore, the entire Unlock system, including data acquisition, brain
+signal decoding, user interface display, and device actuation, can run on a
+single laptop, offering exceptional portability for this class of BCI.
+
+In this talk, I will present the Unlock framework, starting with a high-level
+overview of the system then touching on the acquisition, communication,
+decoding, and visualization components. Emphasis will be placed on the app
+developer API with several examples from our current work with steady-state
+visually evoked potentials (SSVEP).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Byron V. Galbraith,Frank H. Guenther,Jonathan S. Brumberg,Sean D. Lorenz</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1193/unlock-a-python-based-framework-for-rapid-develo</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Unlock_A_Pythonbased_framework.mp4?Signature=bLD7r1uAbL0HVyxX3BZUPBgGjiA%3D&amp;Expires=1346444446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Unlock_A_Pythonbased_framework.mp4?Signature=bLD7r1uAbL0HVyxX3BZUPBgGjiA%3D&amp;Expires=1346444446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=lIjdXLuuMlY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/lIjdXLuuMlY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

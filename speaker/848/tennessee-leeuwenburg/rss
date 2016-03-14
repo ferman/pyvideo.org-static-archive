@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tennessee Leeuwenburg</title><link>http://www.pyvideo.org/speaker/848/tennessee-leeuwenburg/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/848/tennessee-leeuwenburg/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Applied Data Science</title><link>http://www.pyvideo.org/video/3968/applied-data-science</link><description>&lt;p&gt;Description&lt;/p&gt;
+Ever tried to get into data science or machine learning, but struggled with getting your tech stack working, or found the maths off-putting? Curious about the limits of what your laptop or desktop really are when it comes to Big Data and predictive analytics? Ever wondered if these tools were really accessible to a general developer?
+
+Note: Attendees should consider visiting the project URL for instruction to get set up ahead of time. The will allow more time for coding, although setup assistance will also be available on the day.
+
+This tutorial will provide attendees with a walkthrough on getting set up for this work, and an overview of a good tech stack / software ecosystem for beginning work. We'll cover some of the standard data sets in machine learning, and how to apply interesting algorithms. Random Forests and neural networks will be included, but with a minimum of fuss and jargon. There will be a focus on the application of technology, with only the most relevant theoretical aspects included. This is about actually getting things done.
+
+This tutorial would be suitable for intermediate developers of any background, or experienced developers who would like an introduction to data science that gets to the point fast. Prerequisites: the ability to install Python modules on your laptop, the ability to set up a new virtual environment, and an interest in applying new techniques.
+
+The tutorial will include clear walkthroughs, as well as allowing adequate time for discussion and individual learning. Please contact Tennessee via email ahead of time if you would like to get a head start on setting up your environment -- this may help you get more out of the tutorial. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee Leeuwenburg</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3968/applied-data-science</guid><enclosure url="https://www.youtube.com/watch?v=LFy01OYCoEY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/LFy01OYCoEY/hqdefault.jpg"></media:thumbnail></item><item><title>Sprinting For Beginners</title><link>http://www.pyvideo.org/video/3952/sprinting-for-beginners</link><description>&lt;p&gt;Description&lt;/p&gt;
+What do sprinters eat before a race?
+Nothing, they fast.
+
+Sprinting at PyCon AU is not like that at all. Instead, it's a great chance to do something good for the community and get to know some fellow devs along the way. The sprints are an semi-formal two-day event following the close of the main track of the conference where people get together and code on whatever takes their fancy. Most of the time, it's a a chance to work on an open source package you're already involved with in some way, or to meet face-to-face with people you otherwise know only by email.
+
+However, there are also those brave souls who are joining in for the first time. It can be particularly intimidating if you don't know the others there or how to really get started. This presentation will talk about the sprint format, how to get in with a sprint group, and how to be productive in such a short time (especially if you're new to the concept).
+
+We'll cover off basics like getting your environment set up, checking out the code, and identifying appropriate projects and tasks to work on. Standard workflows and tips on how and when to approach people for assistance can also help to make things flow more smoothly.
+
+It will also include some tips for sprint leaders about how to make your project easy and enjoyable for others to hack on. There is a lot than can be done without a lot of effort, such as pre-classifying bugs or identifying appropriate tasks for newcomers, identifying "go-to" people in your project, and spending time on the day talking to people and getting them comfortable working on your code. Clearly documenting simple workflows (like how to submit a patch, what code standards are used, and how to validate results) can help tremendously.
+
+With any luck, this presentation can help both sprint leaders and attendees with a smoother experience which gets the difficulties out the way and leaves maximum opportunity for coding and enjoyment.
+
+Tennessee has gone through the meatgrinder of sprinting, from sitting down with a group of strangers trying to help them fix trivial bugs, to developing significant extensions, to leading sprints. With the scars to show and lessons learned, he is in a reasonable position to help suggest some simple things that can make sprinting easier and more enjoyable for the newcomer.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee Leeuwenburg</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3952/sprinting-for-beginners</guid><enclosure url="https://www.youtube.com/watch?v=6NUBO1DDQAY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/6NUBO1DDQAY/hqdefault.jpg"></media:thumbnail></item><item><title>Verification: Truth in Statistics by Tennessee Leeuwenburg</title><link>http://www.pyvideo.org/video/3114/verification-truth-in-statistics-by-tennessee-le</link><description>&lt;p&gt;Description&lt;/p&gt;
+Come to this talk if you want to learn a few basic techniques for putting numerical data in context. If you've ever predicted anything, or tried to work out whether some number was "good enough", you'll probably get something out of this presentation. All techniques and tools demonstrated using Python.
+
+Every day, decisions both big and small are made on the basis of the information published by the Bureau of Meteorology. These include simple decisions such as taking an umbrella or planning a barbecue. Our forecasts also inform Australia's emergency services on where extreme weather events may have occurred, to help with planning and preparation.
+ 
+Understanding and communicating our strengths and weaknesses is very important, both as an organisation and also internally within the Environment and Research division. This presentation will focus on the statistical methods and systems used to evaluate the objective, scientific performance of our forecast systems. The name for this area of study is "Verification". While the concepts have come from the research environment, they are widely applicable and can help anyone who is assessing the performance of any system.
+ 
+This presentation will include:
+  -- An overview of the major ideas of verification
+  -- How to create a 'skill score'
+  -- The application of these concepts to thunderstorm forecasting
+  -- How to use Python tools for verification analyses
+  -- Tips on how to apply these ideas easily in other contexts
+ 
+Obtaining relevant thunderstorm observational data can be particularly challenging, particularly pertaining to severe and damaging aspects: lightning, hail, heavy rain and very strong wind gusts. In order achieve a stronger footing, some new methods of analysis are under development. It is necessary to establish the scientific validity of the verification metrics at the same time as constructing the systems to support the data analysis.
+ 
+A prototype web-based tool written in Python (and under active development by the presenter) will be demonstrated. This tool can run locally to provide an enhanced lab environment for assessing case study data, or be set up as a server for continuous monitoring and reporting.
+ 
+No pre-existing knowledge of Python or statistics is assumed. The talk will include several technical aspects, such as working at different computing scales, usability and user experience, working with statistical algorithms, data visualisation for both web and journal publications, and the architectural challenges of a complex application.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee Leeuwenburg</dc:creator><pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3114/verification-truth-in-statistics-by-tennessee-le</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/27-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/27-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=c0DE_UfRiXE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/c0DE_UfRiXE/hqdefault.jpg"></media:thumbnail></item><item><title>Solving problems by sharing them... with Python!</title><link>http://www.pyvideo.org/video/2220/solving-problems-by-sharing-them-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+By using a variety of techniques and technologies, you can tap into the expert knowledge of others more effectively. Revision control and code reviews are great for software quality, but not everyone is going to work that way. Tools such as ipython notebook, sharing gists, demonstration sessions and screencasts are a great way to get others involved in problem solving. Knowing how to use these tools quickly and effectively can also be a great way to explain problems to management, or to walk them through a complex requirement.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee Leeuwenburg</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2220/solving-problems-by-sharing-them-with-python</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Solving_problems_by_sharing_th.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Solving_problems_by_sharing_th.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=KhldPpd3dWE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/KhldPpd3dWE/hqdefault.jpg"></media:thumbnail></item><item><title>Virtual robotic car racing with Python and TORCS</title><link>http://www.pyvideo.org/video/1638/virtual-robotic-car-racing-with-python-and-torcs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A highly visual (racing videos) presentation showing the TORCS racing
+simulator, a Python implementation of a virtual robot car, and a covering of
+the basic AI algorithms required to make the wheels go round. AI, math, Python
+an
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A highly visual (racing videos) presentation showing the TORCS racing
+simulator, a Python implementation of a virtual robot car, and a covering of
+the basic AI algorithms required to make the wheels go round. AI, math, Python
+and eye candy. What could possibly go wrong... what indeed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee Leeuwenburg</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1638/virtual-robotic-car-racing-with-python-and-torcs</guid><enclosure url="http://www.youtube.com/watch?v=BGOtqXA_y1E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/BGOtqXA_y1E/hqdefault.jpg"></media:thumbnail></item><item><title>Visualising architecture</title><link>http://www.pyvideo.org/video/1647/visualising-architecture</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Architecture. It's an oxymoron all by itself, and using Python is no silver
+bullet to the perennial problem of code rot and design complexity. How does
+complexity bite us in practise? What tools exist to simplify and explain arc
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Architecture. It's an oxymoron all by itself, and using Python is no silver
+bullet to the perennial problem of code rot and design complexity. How does
+complexity bite us in practise? What tools exist to simplify and explain
+architecture? Is anybody doing this right? This talk will cover some tools
+that exist for visualising Python codebases, examining architectures and how
+to deal with things in practise.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tennessee Leeuwenburg</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1647/visualising-architecture</guid><enclosure url="http://www.youtube.com/watch?v=vOyF_LDeXTc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vOyF_LDeXTc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Calvin Hendryx-Parker</title><link>http://www.pyvideo.org/speaker/291/calvin-hendryx-parker/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/291/calvin-hendryx-parker/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:51 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Controlling UNIX Processes using Supervisor</title><link>http://www.pyvideo.org/video/509/pyohio-2010--controlling-unix-processes-using-sup</link><description>&lt;p&gt;Description&lt;/p&gt;
+Controlling UNIX Processes using Supervisor
+
+Presented by Calvin Hendryx-Parker
+
+Supervisor is a Python daemon that can control arbitrary processes in a UNIX-
+like environment. It features a client/server model of control that can easily
+be extended. This talk will cover the configuration and setup of Supervisor.
+It will also cover how to extend Supervisor and take advantage of its XML-RPC
+interface and ability to react to events that it generates.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Calvin Hendryx-Parker</dc:creator><guid>http://www.pyvideo.org/video/509/pyohio-2010--controlling-unix-processes-using-sup</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/509_pyohio-2010-controlling-unix-processes-using-supervisor.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-ControllingUNIXProcessesUsingSupervisor446.png"></media:thumbnail></item></channel></rss>

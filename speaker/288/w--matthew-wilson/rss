@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of W. Matthew Wilson</title><link>http://www.pyvideo.org/speaker/288/w--matthew-wilson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/288/w--matthew-wilson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 28 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Building your own kind of dictionary</title><link>http://www.pyvideo.org/video/505/pyohio-2010--building-your-own-kind-of-dictionary</link><description>&lt;p&gt;Description&lt;/p&gt;
+Building your own kind of dictionary
+
+Presented by W. Matthew Wilson
+
+My talk is based on a project that seemed very simple at first. I wanted an
+object like the regular python dictionary, but with a few small tweaks:
+
+  * values for some keys should be restricted to elements of a set 
+  * values for some keys should be restricted to instances of a type 
+
+For example, pretend I want a dictionary called favorites, and I want the
+value for the "color" key to be any instance of my Color class. Meanwhile, for
+the "movie" key, I want to make sure that the value belongs to my set of
+movies.
+
+In the talk, I'll walk through how I used tests to validate my different
+implementations until I came up with a winner.
+
+Unlike my talk last year on metaclass tomfoolery, and the year before that on
+fun with decorators (and decorator factories) I'm hoping to make this talk
+straightforward and friendly to beginning programmers.
+
+You'll see:
+
+  * how I use tests to solve a real-world problem 
+  * a few little gotchas with the super keyword 
+  * a little about how python works under the hood. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">W. Matthew Wilson</dc:creator><guid>http://www.pyvideo.org/video/505/pyohio-2010--building-your-own-kind-of-dictionary</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/505_pyohio-2010-building-your-own-kind-of-dictionary.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-BuildingYourOwnKindOfDictionary566.png"></media:thumbnail></item><item><title>PyOhio 2010: Making it go faster</title><link>http://www.pyvideo.org/video/506/pyohio-2010--making-it-go-faster</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making it go faster
+
+Presented by W. Matthew Wilson
+
+An introduction to profiling python code.
+
+I'll use cProfile, pstats, and RunSnakeRun to find where code is getting
+bogged down in a real-world example. I'll measure the run-time cost with
+timeit, refactor, and measure it again.
+
+Finally, I'll talk about the limits of python optimization and show how to
+replace python code with C.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">W. Matthew Wilson</dc:creator><guid>http://www.pyvideo.org/video/506/pyohio-2010--making-it-go-faster</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/506_pyohio-2010-making-it-go-faster.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-MakingItGoFaster666.png"></media:thumbnail></item><item><title>Really good logging</title><link>http://www.pyvideo.org/video/1360/really-good-logging</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Really good logging means when something goes wrong in the middle of the
+night, you know about it, and you have enough information to fix it even if
+the problem never repeats. At the same time, really good logging doesn't raise
+false alarms and doesn't require finding needles in a haystack. Logging is
+important, but we usually do it wrong. Let's stop doing that.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">W. Matthew Wilson</dc:creator><pubDate>Sat, 28 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1360/really-good-logging</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Really_good_logging.mp4?Signature=YxkRHZWGxZvcZuAQudbnULbB2Dg%3D&amp;Expires=1346572937&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Really_good_logging.mp4?Signature=YxkRHZWGxZvcZuAQudbnULbB2Dg%3D&amp;Expires=1346572937&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=tJqA6FgqJXs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/tJqA6FgqJXs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

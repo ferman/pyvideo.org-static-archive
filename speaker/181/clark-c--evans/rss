@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Clark C. Evans</title><link>http://www.pyvideo.org/speaker/181/clark-c--evans/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/181/clark-c--evans/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: HTSQL is a WSGI reporting toolkit for Relational Databases</title><link>http://www.pyvideo.org/video/534/pyohio-2011--htsql-is-a-wsgi-reporting-toolkit-fo</link><description>&lt;p&gt;Description&lt;/p&gt;
+HTSQL is a WSGI reporting toolkit for Relational Databases
+
+Presented by Clark C. Evans
+
+HTSQL is a URI-based high-level query language for relational databases; it is
+written in the Python language. HTSQL is a wonderful complement existing WSGI-
+based applications, making it trivial to create interactive dashboards,
+complex reports. We use HTSQL as a REST query interface for data integration
+and ad-hoc reporting by technical users or ``accidental programmers``.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clark C. Evans</dc:creator><guid>http://www.pyvideo.org/video/534/pyohio-2011--htsql-is-a-wsgi-reporting-toolkit-fo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/534_pyohio-2011-htsql-is-a-wsgi-reporting-toolkit-for-relational-databases.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-HTSQLIsAWSGIReportingToolkitForRelationalDatabases585.png"></media:thumbnail></item><item><title>46. HTSQL : a navigational query language for relational databases</title><link>http://www.pyvideo.org/video/728/46-htsql-a-navigational-query-language-for-rel</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This poster will cover a description of the HTSQL query language
+(http://htsql.org).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Catherine Devlin,Clark C. Evans</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/728/46-htsql-a-navigational-query-language-for-rel</guid><enclosure url="https://www.youtube.com/watch?v=5jRLjGWWaHs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/5jRLjGWWaHs/hqdefault.jpg"></media:thumbnail></item><item><title>HTSQL - an insanely good WSGI / REST interface to your favorite database</title><link>http://www.pyvideo.org/video/365/pycon-2011--htsql---an-insanely-good-wsgi---rest-</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+HTSQL is a URI-based high-level query language for relational databases; it is
+written in the Python language. HTSQL is a wonderful complement existing WSGI-
+based applications, making it trivial to create interactive dashboards,
+complex reports. We use HTSQL as a REST query interface for data integration
+and ad-hoc reporting by technical users or ``accidental programmers``.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The HTSQL processor is a high-level URI-based query language for relational
+databases such as SQLite, PostgreSQL or MySQL. Since it's written in Python,
+it is easy to integrate and generates immediate value as the core of your
+application's custom reporting engine. HTSQL is like the Django or SQLAlchemy
+ORMs in that it generates SQL, but unlike an ORM in that its design center is
+completely different -- it was created for hard core reporting and not object
+to relational mapping. Hence, it is a wonderful complement to existing WSGI-
+based applications to easily create dashboards, complex reports. We use HTSQL
+as a REST reporting interface for data integration and ad-hoc queries.
+
+This talk will have two parts. In the first part we'll give a brief overview
+of the rationale and design of the query language. In the second part, we'll
+show how to hook the HTSQL processor into your WSGI application and how to
+make custom commands, such as a simple calendar output from a table containing
+a date column.
+
+The talk will be presented by Clark Evans, HTSQL was developed by Kyrylo
+Simonov. The main HTSQL site is [http://htsql.org](http://htsql.org) and the
+code is at [http://bitbucket.org/prometheus/htsql](http://bitbucket.org/promet
+heus/htsql). It'll be similar to previous talks, such as
+[http://htsql.org/talks/20101103.html](http://htsql.org/talks/20101103.html).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clark C. Evans</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/365/pycon-2011--htsql---an-insanely-good-wsgi---rest-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/365_htsql-an-insanely-good-wsgi-rest-interface-to-your-favorite-database.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011HTSQLAnInsanelyGoodWSGIRESTInterfaceToYour159.png"></media:thumbnail></item></channel></rss>

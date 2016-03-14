@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mark Ramm</title><link>http://www.pyvideo.org/speaker/122/mark-ramm/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/122/mark-ramm/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 21 Aug 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Keynote: What to build. How to build it.  Python can help!</title><link>http://www.pyvideo.org/video/1645/keynote-what-to-build-how-to-build-it-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There's been a lot of buzz about "Lean Startups," "Customer Development,"
+"Business Model Generation" and related topics lately. And there is a real
+transformation in the way we design and build products at work behind all that
+buzz.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+There’s been a lot of buzz about “Lean Startups,” “Customer Development,”
+“Business Model Generation” and related topics lately. And there is a real
+transformation in the way we design and build products at work behind all that
+buzz.
+
+But the fundamental principle behind all of them is applying scientific and
+experimental methodologies to product design decision making. The tools of
+Lean Startups are:
+
+  * Data collection and analysis
+  * Writing hypothesis and models
+  * Creating experiments to test those models
+  * Learning from those experiments, and refining/redesigning the model
+
+Fortunately Python is a great tool for those looking to apply data science to
+product design.
+
+Python can help with everything from statistical analysis, to rapid
+development of viable products, to the creation of complex models that can be
+used to tweak the levers of growth, and it’s easy to combine these with off
+the shelf tools that help you analyze traffic patterns and figure out what
+product changes actually make a difference.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Ramm</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1645/keynote-what-to-build-how-to-build-it-python</guid><enclosure url="http://www.youtube.com/watch?v=tzXWTrpCyCM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tzXWTrpCyCM/hqdefault.jpg"></media:thumbnail></item><item><title>An (biased) survey of the python web</title><link>http://www.pyvideo.org/video/434/pycon-2011--an--biased--survey-of-the-python-web</link><description>&lt;p&gt;Description&lt;/p&gt;
+An (biased) survey of the python web
+
+Presented by Mark Ramm
+
+I may be BDFL of one framework, but that's also why I pay attention to the
+whole ecosystem. From the release of Plone 4, TurboGears 2, Django 1.2 and
+Pylons 1 ,it's been an interesting year. And things like html5lib, an updated
+WSGI spec, and a contender for the next generation WSGI have all made things
+interesting. Come explore the wild and dynamic jungle that I call "the python
+web toolkit."
+
+Abstract
+
+This talk will not teach people to use python to make websites. It's to teach
+people who already use python, that there are lots of different tools out
+there, and to help us all get some perspective on the python web toolkit.
+
+In 2005 Pycon had the great PyWebOff, and while this talk won't be about
+throwing Twisted into a cage match with Zope3, or setting Flask up in a fight
+to the death against web.py, it will one again provide an attempt to survey
+the full landscape of the python web world, and to see how far we've come in
+the last 5 years.
+
+We've definitely come a long way. Django has brought over many converts to
+Python, google released app engine with python as the first supported
+language, and there are quite a few sites in the top 100 using python to serve
+up dynamic content to hundreds of millions of users.
+
+But it hasn't all been good either, there's more fragmentation than ever.
+We've also got more half finished libraries, and broken framework extensions,
+and abandoned projects littering up the landscape.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Ramm</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/434/pycon-2011--an--biased--survey-of-the-python-web</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/434_an-biased-survey-of-the-python-web.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011AnBiasedSurveyOfThePythonWeb847.png"></media:thumbnail></item><item><title>Scaling Python past 100</title><link>http://www.pyvideo.org/video/397/pycon-2011--scaling-python-past-100</link><description>&lt;p&gt;Description&lt;/p&gt;
+Scaling Python past 100
+
+Presented by Mark Ramm
+
+Sourceforge.net has been in the top 100 sites on the internet, and we
+discovered that python was easily able to scale up to handle that traffic. In
+fact Python is now the core language for all new features, and is taking over
+all of sourceforge.net.
+
+Abstract
+
+The path from legacy PHP to modern python tools has been long an bumpy, and
+this is the story of how we took Python from a single prototype site, to the
+core technology driving SourceForge.net. I will discuss the mistakes we made
+along the way, the benefits that sold python, and the real secret behind our
+python transformation.
+
+A few highlights include:
+
+  * How we abused libraries for fun and profit 
+  * How a major mistake made us look good 
+  * How the python community worked for us 
+  * How we couldn't have done it without Django AND TurboGears 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Ramm</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/397/pycon-2011--scaling-python-past-100</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/397_scaling-python-past-100.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011ScalingPythonPast100645-312.jpg"></media:thumbnail></item><item><title>State of Pylons/TurboGears 2/repoze.bfg</title><link>http://www.pyvideo.org/video/446/pycon-2011--state-of-pylons-turbogears-2-repoze-b</link><description>&lt;p&gt;Description&lt;/p&gt;
+State of Pylons/TurboGears 2/repoze.bfg
+
+Presented by Chris McDonough, Ben Bangert, and Mark Ramm
+
+A three-for-one talk by the main developers of three popular Python web
+frameworks! We'll (very) briefly cover the state of each of our individual
+frameworks and communities, and then we'll describe the results of our efforts
+to work together and share code.
+
+Abstract
+
+Pylons is a popular, lightweight Python web framework.
+
+TurboGears 2 is a full-stack framework built atop Pylons.
+
+repoze.bfg is a moderately popular, lightweight Python web framework.
+
+The main developers and community leaders of these frameworks have been
+working together and sharing as much as possible over the course of roughly
+the last year. We'll very briefly describe to the audience the states of our
+individual efforts, then we'll discuss how we intend to move forward and share
+more code and effort in the year to come. The talk will be more socially-
+oriented than technical.
+
+It's unusual for open source code and communities to bridge minor perceived
+differences in scope and style and to start sharing code and ideas openly. If
+you're a user of any of these frameworks, you'll want to be present for this
+talk.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ben Bangert,Chris McDonough,Mark Ramm</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/446/pycon-2011--state-of-pylons-turbogears-2-repoze-b</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/446_state-of-pylons-turbogears-2-repoze-bfg.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011StateOfPylonsTurboGears2repozebfg818.png"></media:thumbnail></item><item><title>To relate or not to relate, that is the question (#99)</title><link>http://www.pyvideo.org/video/285/pycon-2010--to-relate-or-not-to-relate--that-is-t</link><description>&lt;p&gt;Description&lt;/p&gt;
+To relate or not to relate, that is the question
+
+  
+Presented by Mark Ramm
+
+  
+There is a lot of buzz about Couch, Casandra, MongoDB, and other non
+relational databases, and at the same time there are decades of hard work
+that's gone into optimizing databases built around the relational model. This
+talk will focus on comparing relational DB's to their new friends in practice,
+and on providing practical tools for deciding what's right for your project.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Ramm</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/285/pycon-2010--to-relate-or-not-to-relate--that-is-t</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/285_to-relate-or-not-to-relate-that-is-the-question-99.ogv" length="167116682" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/285_to-relate-or-not-to-relate-that-is-the-question-99.ogv" fileSize="167116682" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/285_to-relate-or-not-to-relate-that-is-the-question-99.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ToRelateOrNotToRelateThatIsTheQuestion99229.png"></media:thumbnail></item></channel></rss>

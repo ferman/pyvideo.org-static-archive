@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of John F Burkhart</title><link>http://www.pyvideo.org/speaker/414/john-f-burkhart/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/414/john-f-burkhart/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>23. Round the world with a million objects</title><link>http://www.pyvideo.org/video/817/23-round-the-world-with-a-million-objects</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python has provided a suite of tools required for our Lagrangian Particle
+Modeling Framework that is used for simulation of atmospheric transport. The
+Python language is used for generating input files for our FORTRAN codebase,
+using f2py to control several aspects of running the model and reading output,
+and dynamically generating content with matplotlib for web-display using
+Plone.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John F Burkhart</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/817/23-round-the-world-with-a-million-objects</guid><enclosure url="https://www.youtube.com/watch?v=q_i3CHNITQ4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/q_i3CHNITQ4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

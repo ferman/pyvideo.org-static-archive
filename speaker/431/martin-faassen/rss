@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Martin Faassen</title><link>http://www.pyvideo.org/speaker/431/martin-faassen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/431/martin-faassen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:33:07 -0000</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: Plenary: Morning Lightning Talks</title><link>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plenary: Morning Lightning Talks covering GeoDjango, Zope, Launchpad, JSOT,
+AppEngine, StackOverflow, Miro, zc.buildout and RPM, ham radio, Plyne,
+GozerBot, picking tools, and stop watch.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * (00:20) GeoDjango - Justin Bronn 
+  * (05:50) What's up with Zope - Martijn Faassen 
+  * (10:55) Scripting Launchpad - Paul Hummer 
+  * (13:50) JSQT - ? 
+  * (16:10) Python, AppEngine, and Informatics - Charles Severance 
+  * (20:55) an online game called stackoverflow - John Mulder 
+  * (25:25) Miro - Chris Webber 
+  * (28:40) Deploying applications with zc.buildout and RPM - Jim Fulton 
+  * (34:10) Ham radio and Python - Adam Fast 
+  * (38:30) Plone + Pylons = Plyne - Roberto Allende 
+  * (41:35) GozerBot - John Hampton 
+  * (44:25) Software Engineering and the Pickling Tools - Rich Saunders 
+  * (48:45) Talks about the stop watch 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast,Charles Severance,Christopher Allan Webber,JIm Fulton,John Hampton,John Mulder,Justin Bronn,Martin Faassen,Paul Hummer,Richard T. Saunders,Roberto Allende</dc:creator><guid>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</guid><enclosure url="http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalks730.mp4" length="242768891" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalks730-226.jpg"></media:thumbnail></item></channel></rss>

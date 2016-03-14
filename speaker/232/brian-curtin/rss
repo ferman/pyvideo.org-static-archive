@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brian Curtin</title><link>http://www.pyvideo.org/speaker/232/brian-curtin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/232/brian-curtin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Set it, and forget it! Auto Scale on Rackspace</title><link>http://www.pyvideo.org/video/2356/set-it-and-forget-it-auto-scale-on-rackspace</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Rackspace is rolling out a new service to allow your cloud to scale on its own, called Auto Scale. Built on Monitoring, Auto Scale allows you to grow or shrink your fleet of resources as demand changes.
+
+pyrax, a Python package for working with OpenStack-based clouds like Rackspace's, just released Auto Scale and Monitoring support with version 1.5.0.
+
+I'll show how you can use pyrax to deploy servers and automatically add or remove them based on their usage.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2356/set-it-and-forget-it-auto-scale-on-rackspace</guid><enclosure url="http://s3.us.archive.org/ndvchipy/Set_it_and_forget_it_Auto_Scal.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvchipy/Set_it_and_forget_it_Auto_Scal.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-0P5EvYI0Rk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/-0P5EvYI0Rk/hqdefault.jpg"></media:thumbnail></item><item><title>What is the Python Software Foundation?</title><link>http://www.pyvideo.org/video/1791/what-is-the-python-software-foundation</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+To a lot of people, the Python Software Foundation is a black box. After years of being on the outside of the box, a few years on the inside have given a good look at what this foundation is and why it matters. Come see what the PSF is about, what it's doing, and what you can do to help.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1791/what-is-the-python-software-foundation</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/What_is_the_Python_Software_Fo.mp4?Signature=lACJjzIVupLhGOPMXHHT0wom9IY%3D&amp;Expires=1363732403&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/What_is_the_Python_Software_Fo.mp4?Signature=lACJjzIVupLhGOPMXHHT0wom9IY%3D&amp;Expires=1363732403&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=A7Uw0bW1IUY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/A7Uw0bW1IUY/hqdefault.jpg"></media:thumbnail></item><item><title>Python 3.3.0 Release</title><link>http://www.pyvideo.org/video/1417/python-330-release</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Brian will cover the September 29th release of Python 3 (3.3.0) including some
+highly technical details and importing information for the casual users. He
+will go over some of the particular Window's stuff while leaving the talk's
+focus on an assortment of cool stuff.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Thu, 11 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1417/python-330-release</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_oct_2012/Python_330_Release.mp4?Signature=aP9PMA7NbjPBqs64Z1zKiUUEfjo%3D&amp;Expires=1350073895&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_oct_2012/Python_330_Release.mp4?Signature=aP9PMA7NbjPBqs64Z1zKiUUEfjo%3D&amp;Expires=1350073895&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=fbQvWcrOwUw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/fbQvWcrOwUw/hqdefault.jpg"></media:thumbnail></item><item><title>1. PSF Sprints - Supporting the community one sprint at at time</title><link>http://www.pyvideo.org/video/691/1-psf-sprints-supporting-the-community-one-spr</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Formed in 2010, the PSF Sprints committee set out to support local communities
+getting together to make great software by funding their sprints with up to
+$300 USD. No matter the project, the PSF wants to help you contribute to the
+Python ecosystem. Come see what we're doing, how we're doing it, who we've
+supported, and see how you can take part as well.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The PSF Sprint committee offers up to $300 USD to groups that organize sprint
+efforts on open source projects in the Python world. From working on Python
+itself, to the vast array of projects in the community, we take great interest
+in keeping you interested. We're also interested in buying you dinner,
+providing a place to work at, and buying t-shirts or other goodies for sprint
+attendees.
+
+  * Committee Goals 
+    * Fund existing sprint groups 
+    * Get new groups interested in sprinting 
+    * Generate interest in contribution to Python projects 
+    * Advertise sprint events, including those at conferences 
+    * Have fun, learn, and contribute with other community members 
+  * How We Operate 
+    * Receive applications, vote, advertise, reimburse after event 
+  * Past Sponsorships 
+    * packaging, Genshi, matplotlib 
+  * Upcoming Sponsorships 
+    * PyCon (will update closer to conference) 
+  * How To Receive Funding 
+    * How to apply, how to be reimbursed 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/691/1-psf-sprints-supporting-the-community-one-spr</guid><enclosure url="https://www.youtube.com/watch?v=AeQxx4zXd5Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/AeQxx4zXd5Q/hqdefault.jpg"></media:thumbnail></item><item><title>What's New in Python on Windows</title><link>http://www.pyvideo.org/video/712/whats-new-in-python-on-windows</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+With nearly 1.5 million downloads per month, the CPython installers for
+Windows account for a huge amount of the traffic through python.org, and
+they're the most common way for Windows users to obtain Python. Take a look at
+what's going on with Python on Windows and see what the road ahead looks like
+for Python 3.3.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/712/whats-new-in-python-on-windows</guid><enclosure url="https://www.youtube.com/watch?v=lJL2asANiyM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/lJL2asANiyM/hqdefault.jpg"></media:thumbnail></item><item><title>The Development of Python and You</title><link>http://www.pyvideo.org/video/432/pycon-2011--the-development-of-python-and-you</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Development of Python and You
+
+Presented by Brian Curtin
+
+Have an inside look at what it takes to work on CPython, from getting setup
+with the source and navigating the bug tracker, to the best practices for
+having your work accepted. We'll find, categorize, and fix an issue in Python
+to get you started. This talk is ideal for those who are new to open source
+projects or are interested in the Python development process.
+
+Abstract
+
+People from all backgrounds, users of all platforms, and developers of all
+levels are necessary in the development of Python. From writing code to
+documentation, it takes all kinds of people to make an impact. If you've used
+Python, we need you, and what better place to get involved than at PyCon?
+
+2010 saw a rise in the number of contributors to CPython, and the PSF stepped
+in to support the efforts of those wanting to get involved. Are you up for the
+challenge? This talk dives right into what it takes to get involved, covering
+the who, what, where, when, and why of Python development, going through the
+whole process live.
+
+After the conference is over, stick around with the CPython crew and hack
+away!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/432/pycon-2011--the-development-of-python-and-you</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/432_the-development-of-python-and-you.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011TheDevelopmentOfPythonAndYou317.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Sandy Walsh</title><link>http://www.pyvideo.org/speaker/813/sandy-walsh/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/813/sandy-walsh/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Nov 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Introduction to OpenStack</title><link>http://www.pyvideo.org/video/1581/introduction-to-openstack</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+OpenStack is a large python application being developed collaboratively with
+Rackspace, Red Hat, Canonical, Dell, HP, Intel, IBM, Citrix and a host of
+other companies. This application is the software that Cloud Computing is
+built on. It is a controller for massive farms of hypervisors. In this talk,
+you'll learn about the architecture and implementation of OpenStack.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sandy Walsh</dc:creator><pubDate>Sun, 11 Nov 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1581/introduction-to-openstack</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Introduction_to_OpenStack.mp4?Signature=QTT3J%2BMfuyuBcmsfiieF9nzMwgw%3D&amp;Expires=1352837669&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Introduction_to_OpenStack.mp4?Signature=QTT3J%2BMfuyuBcmsfiieF9nzMwgw%3D&amp;Expires=1352837669&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=bCsw2kkIWyw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/bCsw2kkIWyw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

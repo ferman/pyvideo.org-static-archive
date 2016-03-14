@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Idan Gazit</title><link>http://www.pyvideo.org/speaker/45/idan-gazit/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/45/idan-gazit/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 15 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Benevolent Designer For Life's Keynote - Designers Make It Go to Eleven</title><link>http://www.pyvideo.org/video/84/djangocon-2011--benevolent-designer-for-life--39-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Benevolent Designer for Life's Keynote: Designers make it go to eleven
+
+Presented by Idan Gazit
+
+The open-source world is and always has been focused on code; attention and
+respect doled out in exchange for patches. As a result, many open-source
+projects want for design love but don't know how to secure it. We scare off
+potential contributors from the many fields beneath the aegis of "design":
+user experience, user interfaces, usability, interaction design, information
+architects, graphic design, typography, and other roles assumed by the authors
+of our markup and styling. Django can be a model citizen among open-source
+projects in changing these attitudes and coaxing contributors out of the
+woodwork -- not just for the benefit of the framework, but for the
+constellation of 3rd party apps which make Django great. Other FOSS
+communities have made efforts that we can learn from, and the fight to change
+perceptions is less uphill than you might think. This talk will cover: -
+Misconceptions of "Design." What is design, and what do designers do? - A
+brief trip down memory lane, and how Django came to be relatively designer-
+friendly. - "I don't get it: what is the BDesignFL role?" - Process and tools:
+How can Django better engage designers, for core's benefit and for the benefit
+of _your projects_. How can we help these contributors get over the "suck"
+threshold? - What parts of core are ripe for love from designers? What 3rd
+party projects?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Idan Gazit</dc:creator><guid>http://www.pyvideo.org/video/84/djangocon-2011--benevolent-designer-for-life--39-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/84_benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-BenevolentDesignerForLifesKeynoteDesignersMakeItGoToE975-385.jpg"></media:thumbnail></item><item><title>Visualizing Github, Part I: Data to Information</title><link>http://www.pyvideo.org/video/1759/visualizing-github-part-i-data-to-information</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A treasure trove of data is captured daily by Github. What stories can that data tell us about how we think, work, and interact? How would one go about finding and telling those stories? This two-part talk is a soup-to-nuts tour of practical data visualization with Python and web technologies, covering both the extraction and display of data in illumination of a familiar dataset.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dana Bauer,Idan Gazit</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1759/visualizing-github-part-i-data-to-information</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Visualizing_Github_Part_I_Data.mp4?Signature=OdsG%2Be2s%2FBzqWOdYBU21t0WG5LA%3D&amp;Expires=1363845766&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Visualizing_Github_Part_I_Data.mp4?Signature=OdsG%2Be2s%2FBzqWOdYBU21t0WG5LA%3D&amp;Expires=1363845766&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=VpTPAJ0rvq8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/VpTPAJ0rvq8/hqdefault.jpg"></media:thumbnail></item><item><title>Visualizing Github, Part II: Information to Meaning</title><link>http://www.pyvideo.org/video/1766/visualizing-github-part-ii-information-to-meani</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A treasure trove of data is captured daily by Github. What stories can that data tell us about how we think, work, and interact? How would one go about finding and telling those stories? This two-part talk is a soup-to-nuts tour of practical data visualization with Python and web technologies, covering both the extraction and display of data in illumination of a familiar dataset.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dana Bauer,Idan Gazit</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1766/visualizing-github-part-ii-information-to-meani</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Visualizing_Github_Part_II_Inf.mp4?Signature=%2FBv5a4lVKKV%2F6fIO%2BfAJhZ98mUw%3D&amp;Expires=1363839586&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Visualizing_Github_Part_II_Inf.mp4?Signature=%2FBv5a4lVKKV%2F6fIO%2BfAJhZ98mUw%3D&amp;Expires=1363839586&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=C_J4_n5eC8c" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/C_J4_n5eC8c/hqdefault.jpg"></media:thumbnail></item><item><title>Sketching a Better Product</title><link>http://www.pyvideo.org/video/957/sketching-a-better-product</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+If writing is a means for organizing your thoughts, then sketching is a means
+for organizing your thoughts visually. Just as good writing requires drafts,
+good design requires sketches: low-investment, low-resolution braindumps.
+Learn how to use ugly sketching to iterate your way to a better product.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Idan Gazit</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/957/sketching-a-better-product</guid><enclosure url="https://www.youtube.com/watch?v=Q0Q9K93bK-4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Q0Q9K93bK-4/hqdefault.jpg"></media:thumbnail></item><item><title>Data, Design, Meaning</title><link>http://www.pyvideo.org/video/637/data-design-meaning</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The ultimate goal of data visualization is to tell a story and supply meaning.
+There are tools and science that can inform your choice of data to present and
+how best to present it. We reflexively evaluate data and fit it into a
+narrative which aids decisionmaking; learn how to take advantage of this
+tendency in order to deliver meaning, not just numbers and charts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Idan Gazit</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/637/data-design-meaning</guid><enclosure url="https://www.youtube.com/watch?v=vfYul2E56fo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/vfYul2E56fo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ask Solem Hoel</title><link>http://www.pyvideo.org/speaker/389/ask-solem-hoel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/389/ask-solem-hoel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Advanced Celery</title><link>http://www.pyvideo.org/video/704/advanced-celery</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will delve deep into advanced aspects of the Celery task queue and
+ecosystem. Previous experience with task queues and message oriented
+middleware is beneficial.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ask Solem Hoel</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/704/advanced-celery</guid><enclosure url="https://www.youtube.com/watch?v=gpKMwPoldak" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/gpKMwPoldak/hqdefault.jpg"></media:thumbnail></item></channel></rss>

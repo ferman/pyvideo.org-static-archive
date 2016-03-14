@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tobias Brandt</title><link>http://www.pyvideo.org/speaker/2074/tobias-brandt/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2074/tobias-brandt/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 02 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Friday Lightning Talks</title><link>http://www.pyvideo.org/video/3943/friday-lightning-talks</link><description>&lt;p&gt;Description&lt;/p&gt;
+ * [(0:00:00)](http://youtu.be/MNyOPWT8ncw?t=0h0m0s) **Using Odo to load data** by Tobias Brandt
+* [(0:05:23)](http://youtu.be/MNyOPWT8ncw?t=0h5m23s) **Sh** by Adrianna Pińska
+* [(0:08:44)](http://youtu.be/MNyOPWT8ncw?t=0h8m44s) **Pygame Zero** by Neil Muller
+* [(0:11:57)](http://youtu.be/MNyOPWT8ncw?t=0h11m57s) **How not to hate Javascript** by Adam Jorgensen
+* [(0:16:28)](http://youtu.be/MNyOPWT8ncw?t=0h16m28s) **Testing code examples from your slides** by Jeremy Thurgood</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Jorgensen,Adrianna Pińska,Jeremy Thurgood,Neil Muller,Tobias Brandt</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3943/friday-lightning-talks</guid><enclosure url="http://youtu.be/MNyOPWT8ncw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/MNyOPWT8ncw/hqdefault.jpg"></media:thumbnail></item><item><title>The Split-Apply-Combine Pattern for Data Science in Python</title><link>http://www.pyvideo.org/video/3931/the-split-apply-combine-pattern-for-data-science</link><description>&lt;p&gt;Description&lt;/p&gt;
+Many data science problems involve the application of a split-apply-combine pattern, where you break up a big dataset into independent pieces, operate on each piece in isolation and then put all the pieces back together. This crops up in all stages of a data analysis:
+
+  * During data preparation, when performing group-wise ranking, standardisation, or normalisation.
+
+  * During modelling, when fitting separate models to each group.
+
+  * During communication, when creating summaries or visualisations for display or analysis.
+
+Python has many tools that make it easy to utilise this strategy when solving data science problems. These range from list and dictionary comprehensions in the language, the *map* and *reduce* functions and *itertools* and *functools* modules in the standard library to dedicated packages like *Pandas*, *PyToolz*, *Blaze* and *Dask*.
+
+Explicit recognition of the applicability of the pattern allows one to reuse standard components for the bookkeeping code that handles the splitting and combining of the independent pieces. This allows one to concentrate on the data analysis code that is unique to the problem at hand. Since implicit in the pattern is the independence of the pieces, its applicability immediately implies a strategy for parallelisation which allows one to easily scale one's solution from single core to out-of-core computation on multiple machines, often with only very few changes to the code required.
+
+This talk will introduce the pattern and how to recognise it by presenting some common code blocks. We will then look at some of the tools available, in particular *Pandas* and *PyToolz*, demonstrate their use, and discuss their strengths and weaknesses. Finally we'll show how to take a simple analysis and parallelise it to process a dataset that is too large to fit in memory.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tobias Brandt</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3931/the-split-apply-combine-pattern-for-data-science</guid><enclosure url="http://youtu.be/TjuRnguO62E" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/TjuRnguO62E/hqdefault.jpg"></media:thumbnail></item></channel></rss>

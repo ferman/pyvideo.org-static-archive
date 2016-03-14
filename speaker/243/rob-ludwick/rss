@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rob Ludwick</title><link>http://www.pyvideo.org/speaker/243/rob-ludwick/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/243/rob-ludwick/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Extreme Network Programming with Python and Linux</title><link>http://www.pyvideo.org/video/449/pycon-2011--extreme-network-programming-with-pyth</link><description>&lt;p&gt;Description&lt;/p&gt;
+Extreme Network Programming with Python and Linux
+
+Presented by Rob Ludwick
+
+Traditionally, C is the preferred language for low level network programming
+and works well for those who have the time and patience to work with it. As it
+turns out, Python is very capable for prototyping low level network code,
+collecting data, and testing ideas quickly without getting lost in the land of
+C.
+
+Abstract
+
+While not as robust as C, Python provides a simple and elegant solution for
+many cases to either prove a theory or gather data before developing a more
+robust solution. Obscure topics such as raw sockets, multicast, network
+bridging, rolling your own vpn, and disruption tolerant networking will be
+covered. Use of Python can enable building a custom protocols, debugging a
+network, fixing broken nets, custom logging and processing, and simulation of
+networks. The author will talk about his experiences using Python on Linux for
+extreme network programming and possibilities for future efforts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rob Ludwick</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/449/pycon-2011--extreme-network-programming-with-pyth</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/449_extreme-network-programming-with-python-and-linux.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011ExtremeNetworkProgrammingWithPythonAndLinux128.png"></media:thumbnail></item></channel></rss>

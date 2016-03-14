@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Pierre-Yves David</title><link>http://www.pyvideo.org/speaker/1935/pierre-yves-david/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1935/pierre-yves-david/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 Nov 2013 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Mercurial, avec des vrais morceaux de python</title><link>http://www.pyvideo.org/video/3732/mercurial-avec-des-vrais-morceaux-de-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mercurial, avec des vrais morceaux de python dedans
+
+En 2005 Matt Mackall choisissait Python pour écrire un gestionnaire de version. 8 ans plus tard Mercurial est un projet reussi. Grâce à Python ? Voyons ensemble ce que python apporte aux developeurs mais aussi, à travers son système d'extensions, aux utilisateurs.
+
+En 2005 Matt Mackall choisissait Python pour écrire un gestionnaire de version. 8 ans plus tard Mercurial est un projet reussi. Grâce à Python ? Dans cette présentation, nous aborderons d'abord les atouts de Python pour les developpeurs de Mercurial.
+
+Nous prendrons ensuite le point de vue de l'utilisateur en montrant comment le systéme d'extensions tire parti du language. Certaines limitations de l'interpréteur python posent parfois problème. Nous presenterons comment celles-cis peuvent être contournées grace à des extension écrites en C ou des algorithmes adaptés.
+
+Pour finir nous detaillerons des cas d'utilisation avancés que seul python à rendu possible.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexis Métaireau,Pierre-Yves David</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3732/mercurial-avec-des-vrais-morceaux-de-python</guid><enclosure url="https://www.youtube.com/watch?v=AWuomjXDsO0" length="None" type="video/flv"></enclosure><media:thumbnail url="/static/videos/img/no_thumbnail.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Y Hipisch</title><link>http://www.pyvideo.org/speaker/643/y-hipisch/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/643/y-hipisch/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Fast Data Mining with Pytables and pandas</title><link>http://www.pyvideo.org/video/1255/fast-data-mining-with-pytables-and-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Y Hipisch - 5 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In a number of industries, like financial services or utilities, it is
+important to analyze huge sets of data in an efficient and fast manner.
+Typical solutions that are based on SQL databases or follow some kind of data
+warehouse approach are generally quite expensive and demand for huge computing
+power. Using the Python libraries PyTables and pandas brings high performance
+data mining to your desktop computer or even notebook. The talk illustrates
+how to beneficially apply these libraries in the context of financial time
+series and other data sets. It is also illustrated how you can implement fast
+calculations on data sets which do not fit into the memory of your computer.
+In addition, the talk provides a number of examples for the visualization of
+your data mining efforts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Y Hipisch</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1255/fast-data-mining-with-pytables-and-pandas</guid><enclosure url="http://www.youtube.com/watch?v=_JrZUm9ZHIw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/_JrZUm9ZHIw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

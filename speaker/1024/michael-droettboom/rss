@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michael Droettboom</title><link>http://www.pyvideo.org/speaker/1024/michael-droettboom/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1024/michael-droettboom/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Airspeed Velocity: Tracking Performance of Python Projects Over Their Lifetime</title><link>http://www.pyvideo.org/video/2732/airspeed-velocity-tracking-performance-of-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Presenting "airspeed velocity", a new tool for benchmarking Python software projects over their lifetime.
+&lt;p&gt;Description&lt;/p&gt;
+As software projects mature and become more robust against bugs, they may also lose some of their runtime performance and memory efficiency.  Airspeed velocity (asv) is a new tool to help find those performance degradations before they get out to end users.  It automatically runs a benchmark suite over a range of commits in a project's repository, as well as in a matrix of configurations of Python versions and other dependencies.  The results, possibly from multiple machines, are then collated and published in a web-based report.
+
+While filling a similar role as projects such as "codespeed" and "vbench", airspeed velocity is designed to be easier to set up and deploy, since it uses only a DVCS repository as its database and the report is deployable to any static web server.
+
+Airspeed velocity provides an easy way to write benchmarks, inspired by "nosetests" and "py.test".  It is possible to benchmark runtime, memory usage, or any user-defined metric.
+
+Other features either implemented or in the planning stages include:
+
+1. tight integration with existing profiling tools, such as RunSnakeRun
+2. parameterized benchmarks to investigate how an algorithm scales with data size
+3. automatic search for degrading commits
+
+The presentation will provide a demo of airspeed velocity, and discuss its early usage for benchmarking the astropy project.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Droettboom</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2732/airspeed-velocity-tracking-performance-of-python</guid><enclosure url="http://www.youtube.com/watch?v=OsxJ5O6h8s0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/OsxJ5O6h8s0/hqdefault.jpg"></media:thumbnail></item><item><title>Astropy, growing a community-based software system for astronomy</title><link>http://www.pyvideo.org/video/1967/astropy-growing-a-community-based-software-syste-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference.
+&lt;p&gt;Description&lt;/p&gt;
+Authors: Droettboom, Michael, STScI; Robitaille, Thomas, Max Planck Institute; Tollerud, Erik, Yale Universit
+
+Track: Astronomy and Astrophysics
+
+Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference. The past year has seen much growth in the number and quality of the core libraries in astropy and a public release. We will highlight the new capabilities available, and outline the development plans for the upcoming year. Finally we discuss the strategies for advertising its capabilities and growing the documentation and tutorials available for users and developers.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Tollerud,Michael Droettboom,Thomas Robitaille</dc:creator><pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1967/astropy-growing-a-community-based-software-syste-0</guid><enclosure url="http://www.youtube.com/watch?v=0wfxxpM75vM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0wfxxpM75vM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

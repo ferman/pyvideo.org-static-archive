@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Geremy Condra</title><link>http://www.pyvideo.org/speaker/216/geremy-condra/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/216/geremy-condra/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Certainty in an Uncertain World: Gaining Confidence through Security Testing</title><link>http://www.pyvideo.org/video/653/certainty-in-an-uncertain-world-gaining-confiden</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Nobody thinks you have to be a performance expert to write performance tests-
+why assume that you have to be a security expert to write security tests?
+During this presentation I'll show you how to use fuzzers, attack tools, and
+other simple techniques to help protect your users, improve the strength of
+your existing tests, and gain confidence in the security of your code. There
+will be demos!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geremy Condra</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/653/certainty-in-an-uncertain-world-gaining-confiden</guid><enclosure url="https://www.youtube.com/watch?v=TmuEDxX1FDQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/TmuEDxX1FDQ/hqdefault.jpg"></media:thumbnail></item><item><title>Through the Side Channel: Timing and Implementation Attacks in Python</title><link>http://www.pyvideo.org/video/423/pycon-2011--through-the-side-channel--timing-and-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Through the Side Channel: Timing and Implementation Attacks in Python
+
+Presented by Geremy Condra
+
+Python's dynamic nature, large standard library, and concern for beauty over
+performance make it an elegant and uniquely easy to use language, but they
+also cause some unique problems. In this talk we'll explore how features
+ranging from dictionaries to duck typing can become security risks,
+demonstrate those attacks on real Python projects, and examine how you can
+protect yourself and your code.
+
+Abstract
+
+Over the last decade, an increasing body of evidence has accumulated
+indicating that even when a system is hardened enough to provide strong
+guarantees about its high-level behavior, implementation details and
+especially performance properties can still provide attackers with an easy way
+in. For Python, this is especially problematic: its generally high-level view
+and the emphasis placed on flexibility often mean that it can be difficult to
+stop attackers from gaining a foothold, while its comparatively low execution
+speed increases the efficacy of wide variety of implementation and timing
+attacks.
+
+To help Pythonistas understand and cope with these problems, we've divided
+this talk into two parts: in the first, we demonstrate the attacks against a
+series of widely-deployed Python projects with the goal of both improving
+awareness about the issue and demonstrating common weaknesses to be avoided.
+The second demonstrates effective countermeasures and alternative
+constructions with the goal of improving defenders' odds of spotting and
+correcting these flaws in their own code.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geremy Condra</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/423/pycon-2011--through-the-side-channel--timing-and-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/423_through-the-side-channel-timing-and-implementation-attacks-in-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011ThroughTheSideChannelTimingAndImplementationAt601.png"></media:thumbnail></item><item><title>TUF: Secure Software Updates in Python</title><link>http://www.pyvideo.org/video/412/pycon-2011--tuf--secure-software-updates-in-pytho</link><description>&lt;p&gt;Description&lt;/p&gt;
+TUF: Secure Software Updates in Python
+
+Presented by Geremy Condra
+
+From an attacker's point of view there are few entry points with as much to
+offer as a vulnerable software updater, yet history tells us that such
+vulnerabilities are common. In this talk we'll demonstrate a number of
+attacks, explain how common approaches fail to defend against them, and
+demonstrate a pure Python library (TUF) that provides both robust protection
+and extreme ease of use.
+
+Abstract
+
+Vulnerabilities in software update systems expose users to huge range of
+potential security risks, including:
+
+  * Freeze attacks, 
+  * Mix-and-match attacks, 
+  * Rollback attacks, and 
+  * Endless data attacks 
+
+In the first part of this talk, we'll demonstrate each of these against real-
+world software updaters and explain how commonly used countermeasures fail in
+application. We'll then move on to the second part of the talk, demonstrating
+TUF, its internals, and the mechanisms it uses to additionally defend against
+key compromise. Finally, we'll demonstrate how easy it is to integrate TUF
+into your application and its lifecycle.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geremy Condra</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/412/pycon-2011--tuf--secure-software-updates-in-pytho</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/412_tuf-secure-software-updates-in-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011TUFSecureSoftwareUpdatesInPython643-944.jpg"></media:thumbnail></item></channel></rss>

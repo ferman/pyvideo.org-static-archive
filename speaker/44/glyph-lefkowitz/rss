@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Glyph Lefkowitz</title><link>http://www.pyvideo.org/speaker/44/glyph-lefkowitz/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/44/glyph-lefkowitz/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Keynote - Glyph Lefkowitz</title><link>http://www.pyvideo.org/video/83/djangocon-2011--keynote---glyph-lefkowitz</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote
+
+Presented by Glyph Lefkowitz
+
+Talks about using Python for everything in a project and the difficulties of
+using different non-Python-based things in your deployment.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glyph Lefkowitz</dc:creator><guid>http://www.pyvideo.org/video/83/djangocon-2011--keynote---glyph-lefkowitz</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/83_keynote-glyph-lefkowitz.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-KeynoteGlyphLefkowitz810-708.jpg"></media:thumbnail></item><item><title>Through The Ether And Back Again: What Happens To A Packet When You Send It</title><link>http://www.pyvideo.org/video/885/through-the-ether-and-back-again-what-happens-to</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Many - perhaps even most - Python software involves a network, at least a
+little bit. You've probably written some yourself. But do you really know what
+happens - to your kernel, to your ethernet card, to Python - when you call
+socket.send()? Come to this talk and find out: if you dare.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glyph Lefkowitz</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/885/through-the-ether-and-back-again-what-happens-to</guid><enclosure url="https://www.youtube.com/watch?v=Xk6gQ6s2QjU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Xk6gQ6s2QjU/hqdefault.jpg"></media:thumbnail></item><item><title>Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations (#169)</title><link>http://www.pyvideo.org/video/325/pycon-2010--turtles-all-the-way-down--demystifyin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Turtles all the way down: Demystifying deferreds, decorators and declarations
+
+  
+Presented by Glyph Lefkowitz
+
+  
+Python's flexible object model allows library and framework authors to add
+very flexible declarations. Metaclasses, decorators, callable objects, and
+operator overloading practically allow libraries to re-define the language in
+order to provide a more concise, natural style for that library.
+Unfortunately, the library user's first experience of such conveniences is
+often confusing, because it's not clear what's going on.
+
+  
+In this talk, I will try to convince you that all of this wonderful magic
+isn't all that weird. This is not a typical how-to session on how to use a
+particular feature, either of Python or of Twisted, but will rather draw
+examples from Python, Twisted, and Zope to illustrate techniques you can use
+to read and understand "magical" Python code.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glyph Lefkowitz</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/325/pycon-2010--turtles-all-the-way-down--demystifyin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/325_turtles-all-the-way-down-demystifying-deferreds-decorators-and-declarations-169.ogv" length="190591580" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/325_turtles-all-the-way-down-demystifying-deferreds-decorators-and-declarations-169.ogv" fileSize="190591580" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/325_turtles-all-the-way-down-demystifying-deferreds-decorators-and-declarations-169.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010TurtlesAllTheWayDownDemystifyingDeferredsDecora171.png"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Francesco Bochicchio</title><link>http://www.pyvideo.org/speaker/552/francesco-bochicchio/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/552/francesco-bochicchio/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Generazione di codice in Python : dal documento al codice C++ passando per la modellizzazione UML.</title><link>http://www.pyvideo.org/video/1185/generazione-di-codice-in-python-dal-documento-a</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Francesco Bochicchio - 24 June 2011 in "Track Italiana Big
+Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Intendo presentare un programma di utilità che ho sviluppato per aiutare me e
+i miei colleghi nel nostro attuale progetto.Space Software Italia Questo
+programma esegue le seguenti attività: - Analizza un documento Microsoft Word
+- generato automaticamente - allo scopo di estrarne le informazioni relative
+alle strutture dati da usare per comunicare con dispositivi e/o programmi
+software. Tali informazioni sono memorizzate in un modello UML, generato
+interfacciandosi con il CASE tool usato in azienda (Rational Rose). - Utilizza
+i dati in un modello UML - di solito una versione migliorata a mano di quello
+generato automaticamente - per generare un set di classi C++, una per
+messaggio, che forniscono i metodi per serializzare/deserializzare i messaggi
+usando le API specifiche del progetto. Il programma è stato scritto in Python
+2.x ed utilizza i seguenti moduli esterni: - pywin32: per interfacciare sia MS
+Word che il tool CASE usando lo standard COM. - ply : per analizzare il file
+in cui il tool CASE memorizza il modello,
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Bochicchio</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1185/generazione-di-codice-in-python-dal-documento-a</guid><enclosure url="http://www.youtube.com/watch?v=jfBGt_g0Z4M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/jfBGt_g0Z4M/hqdefault.jpg"></media:thumbnail></item></channel></rss>

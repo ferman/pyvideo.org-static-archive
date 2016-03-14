@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Angel Ramboi</title><link>http://www.pyvideo.org/speaker/1423/angel-ramboi/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1423/angel-ramboi/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Gamers do REST</title><link>http://www.pyvideo.org/video/3020/gamers-do-rest</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard's successful franchises Call of Duty and Skylanders.
+
+Topics the presentation will touch: tech stack overview; API design; configuration handling; middleware usage for logging, metrics and error handling; authentication/authorization.
+&lt;p&gt;Description&lt;/p&gt;
+An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard’s successful franchises Call of Duty and Skylanders.
+
+Topics the presentation will touch:
+
+- tech stack overview
+- API design
+- configuration handling
+- middleware usage for logging, metrics and error handling
+- authentication/authorization
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Angel Ramboi</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3020/gamers-do-rest</guid><enclosure url="http://www.youtube.com/watch?v=l8itUalxsDY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/l8itUalxsDY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

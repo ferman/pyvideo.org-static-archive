@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeff B Edwards</title><link>http://www.pyvideo.org/speaker/268/jeff-b-edwards/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/268/jeff-b-edwards/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:34 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Genropy - a framework for creating complex applications deployed on the web</title><link>http://www.pyvideo.org/video/482/pyconau-2010--genropy---a-framework-for-creating-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Genropy - A framework for creating complex applications deployed on the web
+
+Presented by Jeff B Edwards (Goodsoftware)
+
+[Genropy](http://blog.genropy.org/) is the python implementation of Genro, and
+is an application framework quite different from the standard (django,
+cherrypy, turbogears), for building powerful database applications deployed
+from the browser. Many differences and advantages between this framework and
+traditional python application frameworks are explained. Genropy is a suitable
+for creating complex 'applications' as opposed to 'sites'. The differentiation
+is that an application is something an operator uses all day, has trained
+users, that have to 'squeeze' all the power from it available. Conversely, a
+'site' is basically public and not necessarily powerful as a user spends a
+relatively small amount of time on it. Genropy is the framework for creation
+applications. It is used for attendee registration and sales in pycon italy,
+the larger national conference in Europe (Florence, Italy).
+
+This session will demonstrate how to create a simple application (3 tables)
+and demonstrate the ease and power of using python for the model view and
+controller on the client. It demonstrates how one api- being the genro Bag -
+is used to create the model, to map the sql to objects, to create the GUI and
+communicate all data. So all of it can be done in python instead of having to
+use many different technologies and languages.
+
+Jeff Edwards from Goodsoftware is strategic partner of Sofwell who is the
+author of Genropy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff B Edwards</dc:creator><guid>http://www.pyvideo.org/video/482/pyconau-2010--genropy---a-framework-for-creating-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/482_pyconau-2010-genropy-a-framework-for-creating-complex-applications-deployed-on-the-web.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-GenropyAFrameworkForCreatingComplexApplicationsDeployed301.png"></media:thumbnail></item></channel></rss>

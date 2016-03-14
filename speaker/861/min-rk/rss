@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Min RK</title><link>http://www.pyvideo.org/speaker/861/min-rk/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/861/min-rk/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Interactive Parallel Computing with IPython Part 1</title><link>http://www.pyvideo.org/video/2738/interactive-parallel-computing-with-ipython-part</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn about interactive parallel computing in IPython.parallel, with examples including parallel image processing, machine learning, and physical simulations. IPython provides an easy way to interact with your multicore laptop or compute cluster.
+&lt;p&gt;Description&lt;/p&gt;
+IPython provides tools for interactive exploration of code and data. IPython.parallel is the part of IPython that enables an interactive model for parallel execution, and aims to make distributing your work on a multicore computer, local clusters or cloud services such as AWS or MS Azure simple and straightforward. The tutorial will cover how to do interactive and asynchronous parallel computing with IPython, and how to get the most out of your IPython cluster. Some of IPython’s novel interactive features will be demonstrated, such as automatically parallelizing code with magics in the IPython Notebook and interactive debugging of remote execution. Examples covered will include parallel image processing, machine learning, and physical simulations, with exercises to solve along the way.
+
+* Introduction to IPython.parallel
+   * Deploying IPython
+   * Using DirectViews and LoadBalancedViews
+   * The basic model for execution
+* Getting to know your IPython cluster:
+   * Working with remote namespaces
+   * AsyncResult: the API for asynchronous execution
+   * Interacting with incomplete results. Remember, it’s about interactivity
+   * Interactive parallel plotting
+* More advanced topics:
+   * Using IPython.parallel with traditional (MPI) parallel programs
+   * Debugging parallel code
+   * Minimizing data movement
+   * Task dependencies
+   * Caveats and tuning tips for IPython.parallel</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fernando Pérez,Min RK</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2738/interactive-parallel-computing-with-ipython-part</guid><enclosure url="http://www.youtube.com/watch?v=y4hgalfhc1Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/y4hgalfhc1Y/hqdefault.jpg"></media:thumbnail></item><item><title>Interactive Parallel Computing with IPython Part 2</title><link>http://www.pyvideo.org/video/2740/interactive-parallel-computing-with-ipython-part-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn about interactive parallel computing in IPython.parallel, with examples including parallel image processing, machine learning, and physical simulations. IPython provides an easy way to interact with your multicore laptop or compute cluster.
+&lt;p&gt;Description&lt;/p&gt;
+IPython provides tools for interactive exploration of code and data. IPython.parallel is the part of IPython that enables an interactive model for parallel execution, and aims to make distributing your work on a multicore computer, local clusters or cloud services such as AWS or MS Azure simple and straightforward. The tutorial will cover how to do interactive and asynchronous parallel computing with IPython, and how to get the most out of your IPython cluster. Some of IPython’s novel interactive features will be demonstrated, such as automatically parallelizing code with magics in the IPython Notebook and interactive debugging of remote execution. Examples covered will include parallel image processing, machine learning, and physical simulations, with exercises to solve along the way.
+
+* Introduction to IPython.parallel
+   * Deploying IPython
+   * Using DirectViews and LoadBalancedViews
+   * The basic model for execution
+* Getting to know your IPython cluster:
+   * Working with remote namespaces
+   * AsyncResult: the API for asynchronous execution
+   * Interacting with incomplete results. Remember, it’s about interactivity
+   * Interactive parallel plotting
+* More advanced topics:
+   * Using IPython.parallel with traditional (MPI) parallel programs
+   * Debugging parallel code
+   * Minimizing data movement
+   * Task dependencies
+   * Caveats and tuning tips for IPython.parallel</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fernando Pérez,Min RK</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2740/interactive-parallel-computing-with-ipython-part-0</guid><enclosure url="http://www.youtube.com/watch?v=-9ijnHPCYhY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/-9ijnHPCYhY/hqdefault.jpg"></media:thumbnail></item><item><title>Interactive Parallel Computing with IPython Part 3</title><link>http://www.pyvideo.org/video/2741/interactive-parallel-computing-with-ipython-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn about interactive parallel computing in IPython.parallel, with examples including parallel image processing, machine learning, and physical simulations. IPython provides an easy way to interact with your multicore laptop or compute cluster.
+&lt;p&gt;Description&lt;/p&gt;
+IPython provides tools for interactive exploration of code and data. IPython.parallel is the part of IPython that enables an interactive model for parallel execution, and aims to make distributing your work on a multicore computer, local clusters or cloud services such as AWS or MS Azure simple and straightforward. The tutorial will cover how to do interactive and asynchronous parallel computing with IPython, and how to get the most out of your IPython cluster. Some of IPython’s novel interactive features will be demonstrated, such as automatically parallelizing code with magics in the IPython Notebook and interactive debugging of remote execution. Examples covered will include parallel image processing, machine learning, and physical simulations, with exercises to solve along the way.
+
+* Introduction to IPython.parallel
+   * Deploying IPython
+   * Using DirectViews and LoadBalancedViews
+   * The basic model for execution
+* Getting to know your IPython cluster:
+   * Working with remote namespaces
+   * AsyncResult: the API for asynchronous execution
+   * Interacting with incomplete results. Remember, it’s about interactivity
+   * Interactive parallel plotting
+* More advanced topics:
+   * Using IPython.parallel with traditional (MPI) parallel programs
+   * Debugging parallel code
+   * Minimizing data movement
+   * Task dependencies
+   * Caveats and tuning tips for IPython.parallel</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fernando Pérez,Min RK</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2741/interactive-parallel-computing-with-ipython-part-1</guid><enclosure url="http://www.youtube.com/watch?v=U5mhpKkIx2Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/U5mhpKkIx2Y/hqdefault.jpg"></media:thumbnail></item><item><title>IPython in-depth: high-productivity interactive and parallel python</title><link>http://www.pyvideo.org/video/1652/ipython-in-depth-high-productivity-interactive-a-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.
+
+We will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.
+
+All materials for this tutorial can be found on our [github
+repository](https://github.com/ipython/ipython-in-depth)
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Granger,Fernando Pérez,Min RK</dc:creator><pubDate>Wed, 13 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1652/ipython-in-depth-high-productivity-interactive-a-0</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/IPython_indepth_highproductivi.mp4?Signature=6fLwDBJMmt65mqZPzjZlMpQhV2w%3D&amp;Expires=1364728655&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/IPython_indepth_highproductivi.mp4?Signature=6fLwDBJMmt65mqZPzjZlMpQhV2w%3D&amp;Expires=1364728655&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=bP8ydKBCZiY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/bP8ydKBCZiY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

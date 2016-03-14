@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stuart Mitchell</title><link>http://www.pyvideo.org/speaker/59/stuart-mitchell/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/59/stuart-mitchell/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:57 -0000</lastBuildDate><ttl>500</ttl><item><title>Stuart Mitchell - Operations research and Optimization in Python using Pulp</title><link>http://www.pyvideo.org/video/113/stuart-mitchell---operations-research-and-optimiz</link><description>&lt;p&gt;Description&lt;/p&gt;
+Operations research and optimization in Python using Pulp
+
+Presented by Stuart Mitchell
+
+Abstract
+
+Operations research has the catch phrase "The science of better". In this talk
+we will discuss what a linear programming problem is and how to solve one
+using the pulp-or package.
+
+Outline
+
+TBA hopefully to include a relevant example possibly a python implementation
+of graphviz.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Mitchell</dc:creator><guid>http://www.pyvideo.org/video/113/stuart-mitchell---operations-research-and-optimiz</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/113_stuart-mitchell-operations-research-and-optimization-in-python-using-pulp.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-StuartMitchellOperationsResearchAndOptimizationInPython689-252.jpg"></media:thumbnail></item></channel></rss>

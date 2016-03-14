@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Simon Willison</title><link>http://www.pyvideo.org/speaker/14/simon-willison/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/14/simon-willison/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Jul 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Cowboy Development with Django</title><link>http://www.pyvideo.org/video/24/cowboy-development-with-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+Cowboy development with Django
+
+  
+Presented by Simon Willison
+
+  
+Hard to describe this talk--it's very entertaining.
+
+  
+[VIDEO HAS ISSUES: Audio is mostly in left speaker; lost audio at 36:45]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><guid>http://www.pyvideo.org/video/24/cowboy-development-with-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/24_cowboy-development-with-django.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CowboyDevelopmentWithDjango354.png"></media:thumbnail></item><item><title>Django Origins (and some things I have built with Django)</title><link>http://www.pyvideo.org/video/3659/some-things-ive-made-with-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+How "The CMS" became Django and then what happened later.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3659/some-things-ive-made-with-django</guid><enclosure url="http://youtu.be/wqii_iX0RTs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/wqii_iX0RTs/hqdefault.jpg"></media:thumbnail></item><item><title>A new default web stack</title><link>http://www.pyvideo.org/video/2856/a-new-default-web-stack</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+When building a new web application, the default set of tools used to be a web framework such as Django and a relational database such as PostgreSQL. In 2014, these tools are no longer enough. In this talk, I'll present a new default stack to help build applications that are faster, more robust, easy to scale and still support rapid iteration and fast feature development.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2856/a-new-default-web-stack</guid><enclosure url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2856_A_new_default_web_stack.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2856_A_new_default_web_stack.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/P68zXJ_ACCE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/P68zXJ_ACCE/hqdefault.jpg"></media:thumbnail></item><item><title>Challenges in developing a large Django site</title><link>http://www.pyvideo.org/video/1057/challenges-in-developing-a-large-django-site</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Simon Willison - 22 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django makes it easy to build web sites and applications on tight deadlines -
+but how does it deal with sites that scale up in both traffic and complexity?
+Using Lanyrd.com as a case study, this talk will explore tricks and techniques
+for taking advantage of what Django has to offer while coping with the
+unexpected challenges raised by a highly dynamic social web application.
+
+Topics covered will include performance monitoring and optimisation, advanced
+caching tricks, denormalisation with Solr and Redis and finding the right
+balance between technical elegance and pragmatism.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1057/challenges-in-developing-a-large-django-site</guid><enclosure url="http://www.youtube.com/watch?v=4EmKiBCCZ3o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/4EmKiBCCZ3o/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced Aspects of the Django Ecosystem: Haystack, Celery &amp; Fabric</title><link>http://www.pyvideo.org/video/1078/advanced-aspects-of-the-django-ecosystem-haystac</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Simon Willison - 21 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django benefits from a thriving third-party ecosystem. This talk will take a
+deep look at three of the components I have found most useful in my own
+projects: Haystack for full-text search, Celery for offline processing and
+Fabric for automated eployments. I'll discuss how we use them for Lanyrd.com,
+and demonstrate why they deserve a permanent place in your toolbox.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1078/advanced-aspects-of-the-django-ecosystem-haystac</guid><enclosure url="http://www.youtube.com/watch?v=8SQbN5vhLto" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/8SQbN5vhLto/hqdefault.jpg"></media:thumbnail></item><item><title>Challenges in developing a large Django site</title><link>http://www.pyvideo.org/video/1074/challenges-in-developing-a-large-django-site-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Simon Willison - 22 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django makes it easy to build web sites and applications on tight deadlines -
+but how does it deal with sites that scale up in both traffic and complexity?
+Using Lanyrd.com as a case study, this talk will explore tricks and techniques
+for taking advantage of what Django has to offer while coping with the
+unexpected challenges raised by a highly dynamic social web application.
+
+Topics covered will include performance monitoring and optimisation, advanced
+caching tricks, denormalisation with Solr and Redis and finding the right
+balance between technical elegance and pragmatism.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1074/challenges-in-developing-a-large-django-site-0</guid><enclosure url="http://www.youtube.com/watch?v=GyC7ilNTNiY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/GyC7ilNTNiY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

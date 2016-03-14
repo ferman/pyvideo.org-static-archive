@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nicola Tarocci</title><link>http://www.pyvideo.org/speaker/693/nicola-tarocci/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/693/nicola-tarocci/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 04 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Sviluppare una Restful web API con Python, Flask e MongoDB</title><link>http://www.pyvideo.org/video/1318/sviluppare-una-restful-web-api-con-python-flask</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nicola Tarocci - 3 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Nel corso dell’ultimo anno abbiamo lavorato all’implementazione Python di una
+RESTful Web API completa. Abbiamo imparato un bel po’ di cose sui best pattern
+REST e, naturalmente, abbiamo messo alla prova le ben note
+capacitÃ&amp;nbsp_place_holder; web di Python, rilasciando nel frattempo un paio
+di progetti Open Source. Nel corso del mio intervento condividerÃ² quel che
+abbiamo imparato. Prenderemo in considerazione il problematico design di una
+REST API ‘pura’. Vedremo che cosa offre Python in questo campo e scenderemo
+infine nel dettaglio, dando una occhiata al codice che abbiamo scritto. Alcune
+tecnologie/stack che tratteremo sono (in nessun ordine particolare): Flask,
+PyMongo, MongoDB, REST, JSON, XML, Heroku. Lo sapevi? Che ti piaccia o no,
+c’Ã¨ una REST API nel tuo futuro.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicola Tarocci</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1318/sviluppare-una-restful-web-api-con-python-flask</guid><enclosure url="http://www.youtube.com/watch?v=Q6EKaBd7jmY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Q6EKaBd7jmY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

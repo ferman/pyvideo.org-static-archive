@@ -1,0 +1,321 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - The History and Design Behind the Python Geophysical Modelling and Interpretatio...</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="The development of geophysical software by individual scientists is achievable through languages such as Python. All goals behind developing a geophysical potential field interpretation and modelling software have been achieved to date. The implication of this is that innovation can be a driving force in projects, rather than waiting for commercial vendors to provide appropriate scientific tools.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="the-history-and-design-behind-the-python-geophysi.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="the-history-and-design-behind-the-python-geophysi.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=5kM3tKkjoSw"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">The History and Design Behind the Python Geophysical Modelling and Interpretation (PyGMI) Package</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/5kM3tKkjoSw/hqdefault.jpg"/>
+      <link property="sameAs" href="the-history-and-design-behind-the-python-geophysi.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>The development of geophysical software by individual scientists is achievable through languages such as Python. All goals behind developing a geophysical potential field interpretation and modelling software have been achieved to date. The implication of this is that innovation can be a driving force in projects, rather than waiting for commercial vendors to provide appropriate scientific tools.</p></div>
+        <meta property="caption" content="The development of geophysical software by individual scientists is achievable through languages such as Python. All goals behind developing a geophysical potential field interpretation and modelling software have been achieved to date. The implication of this is that innovation can be a driving force in projects, rather than waiting for commercial vendors to provide appropriate scientific tools."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>The Council for Geoscience (CGS) is the so called "Geological Survey"
+of South Africa. Like many similar institutions around the world, financial
+restrictions play a significant role in limiting what tools are available to
+scientists. It was from this need to stay scientifically current, while keeping
+the software inexpensive, that the examination of Python first started and
+ultimately ended up in the PyGMI project.</p>
+<p>The origins of PyGMI started with two separate projects. The first was a joint
+project where the CGS was responsible for the creation of a software interface
+for cluster analysis code, developed by the University of Potsdam (Paasche et
+al 2009). The resulting project was done entirely in Python. Data could be
+imported, filtered, analyzed and displayed in graph form using Matplotlib.</p>
+<p>The second project stemmed from the need to perform 3D modelling on geophysical
+data. The creation of 3D models can be extremely time-consuming. Packages
+available tend to follow either the modelling of individual 2.5D profiles,
+which are then joined up into 3D sections, or modelling fully in
+three dimensions using polygonal based models. The initial idea was to use the
+VTK library as the means to create, display and interrogate the model, while
+using the Scipy and Numpy libraries to perform the actual potential field
+calculations. It soon became apparent that editing the resulting mesh quickly
+became complex and time consuming. The ability to easily create and change a
+model is the very basis of forward modelling and for this reason a new approach
+was adopted. The newer 3D modelling package was designed to allow the user to
+model simply by drawing the model, in the same way one would draw views of a
+house using a paint program. This implies the need to have a front view, as
+well as a top view. The model is therefore voxel based rather than polygonal.
+The final model can be displayed either within the PyGMI software, or exported
+to Google Earth for examination.</p>
+<p>Ultimately these two projects formed the basis of what is now the actual PyGMI
+package -- which is a modular collection of various techniques, including
+multivariate statistical analysis and potential field modelling. The interface
+follows a flow diagram approach and the individual modules are independent
+enough to ensure that they do not interfere with code which has preceded them
+in previous modules.</p>
+<p>The PyGMI software is available for free download at: <a href="https://code.google.com/p/pygmi/">https://code.google.com/p/pygmi/</a></p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1290/patrick-cole.html">Patrick Cole</a></div>
+            <meta property="author" content="Patrick Cole"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 14, 2014
+            <meta property="dateCreated" content="2014-07-14"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 15, 2014
+            <meta property="dateModified" content="2014-07-15T23:22:17.583024"/>
+            <meta property="datePublished" content="2014-07-15T23:22:17.583024"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=5kM3tKkjoSw" property="embedUrl">http://www.youtube.com/watch?v=5kM3tKkjoSw</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2780">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="the-history-and-design-behind-the-python-geophysi.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

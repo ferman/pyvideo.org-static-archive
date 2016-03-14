@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Wisely Chen</title><link>http://www.pyvideo.org/speaker/1628/wisely-chen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1628/wisely-chen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 24 Jun 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PySpark: next generation cluster computing engine</title><link>http://www.pyvideo.org/video/3273/pyspark-next-generation-cluster-computing-engine</link><description>&lt;p&gt;Description&lt;/p&gt;
+Apache Spark™ is a lightning fast engine for large-scale data processing. It is an in-memory cluster computing framework, originally developed in UC Berkeley. Base on it's project page's evaluation, machine learning programming can run program 100x faster than Hadoop MapReduce. And Spark can run on Hadoop 2's YARN cluster manager, and can read any existing Hadoop data. Currently, it supports Scala, Java and Python for writing spark programs. 
+
+In this talk, I will introduce the General concept of Spark's infrastructure, What is RDD (Resilient Distributed Datasets) in Spark, Introduction on PySpark, Demo of PySpark's speed and power, Head-to-head comparison between two programs doing same work - one written in Hadoop MapReduce and the other written using PySpark.
+
+I will also conclude about the companies currently using Spark's use cases.
+
+
+About the speaker
+
+Sr. Software Engineer for the Yahoo! (Taiwan) Data Team. He has been responsible for data infrastructure, data solution, software release and continuous integration management. He is a lifelong student of software development/testing/deployment/CI processes and best practices and an avid coding puzzle competition fanatic as well as Open Source evangelist</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wisely Chen</dc:creator><pubDate>Tue, 24 Jun 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3273/pyspark-next-generation-cluster-computing-engine</guid><enclosure url="https://www.youtube.com/watch?v=gaR7svYX8pw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/gaR7svYX8pw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

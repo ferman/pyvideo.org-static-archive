@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Erik Tollerud</title><link>http://www.pyvideo.org/speaker/599/erik-tollerud/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/599/erik-tollerud/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Astropy, growing a community-based software system for astronomy</title><link>http://www.pyvideo.org/video/1967/astropy-growing-a-community-based-software-syste-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference.
+&lt;p&gt;Description&lt;/p&gt;
+Authors: Droettboom, Michael, STScI; Robitaille, Thomas, Max Planck Institute; Tollerud, Erik, Yale Universit
+
+Track: Astronomy and Astrophysics
+
+Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference. The past year has seen much growth in the number and quality of the core libraries in astropy and a public release. We will highlight the new capabilities available, and outline the development plans for the upcoming year. Finally we discuss the strategies for advertising its capabilities and growing the documentation and tutorials available for users and developers.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Tollerud,Michael Droettboom,Thomas Robitaille</dc:creator><pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1967/astropy-growing-a-community-based-software-syste-0</guid><enclosure url="http://www.youtube.com/watch?v=0wfxxpM75vM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0wfxxpM75vM/hqdefault.jpg"></media:thumbnail></item><item><title>Astropy - Herding Snakes or Astronomers: which is more difficult?</title><link>http://www.pyvideo.org/video/1214/astropy-herding-snakes-or-astronomers-which-is</link><description>&lt;p&gt;Description&lt;/p&gt;
+Developers and users of astronomical software have long bemoaned the absence
+of shared efforts in the field. While there are well known, free software
+tools available for astronomy, most have been developed by large institutions,
+and the past few decades have seen comparatively little progress in fostering
+a community-based set of software tools. There is hope that is changing now.
+The continuing growth of Python in astronomy has led to an increasing
+awareness of needless duplication of efforts within the community and the need
+to make existing packages work better with each other; such discussions came
+to a head on the astropy email list in the spring of 2011 leading to formation
+of the astropy project. The first coordination meeting was held in the fall of
+2011, and significant progress has been made in setting up a community
+repository of core astronomical packages. We will describe the general goals
+of astropy and the progress that has been made to date.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Tollerud,Perry Greenfield,Thomas Robitaille</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1214/astropy-herding-snakes-or-astronomers-which-is</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Astropy_Herding_Snakes_or_Astronomers_which_is_more_difficult.mp4?Signature=mzIR%2FouPTEnbyJod6u03IF5%2B9Nk%3D&amp;Expires=1346381801&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Astropy_Herding_Snakes_or_Astronomers_which_is_more_difficult.mp4?Signature=mzIR%2FouPTEnbyJod6u03IF5%2B9Nk%3D&amp;Expires=1346381801&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=VmxthPjCFXo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VmxthPjCFXo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

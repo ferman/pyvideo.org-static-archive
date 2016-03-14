@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard Hattersley</title><link>http://www.pyvideo.org/speaker/1291/richard-hattersley/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1291/richard-hattersley/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 14 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Cartopy</title><link>http://www.pyvideo.org/video/2782/cartopy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cartopy is a Python package which builds on Proj.4 to define coordinate reference systems for the transformation and visualisation of geospatial data. It has a simple matplotlib interface for publication quality visualisation. This talk will outline some of cartopy's functionality and demonstrate some practical applications within the realm of scientific presentation of geospatial data.
+&lt;p&gt;Description&lt;/p&gt;
+The practice of representing geospatial data upon a flat surface is known as
+cartography, and the topological implications of projecting fundamentally 3D
+data onto a 2 dimensional surface has been the challenge of map-makers since
+time immemorial. Geospatial visualisation software is often implemented without
+consideration for the 3rd dimension and this commonly results in problems
+around the dateline or at the poles. For small areas these problems are often
+not apparent and mostly surmountable, but at a global scale, such as when
+visualising output from GCMs (General circulation models), the underlying
+representation must be addressed head-on in order to visualise the data
+"impact free".
+
+Cartopy is a Python package which builds on top of
+Proj.4 to define coordinate reference systems for the transformation and
+visualisation of geospatial data. As well as the fundamental transformations
+there is also a matplotlib interface allowing easy generation of maps with the
+same publication quiality expected of matplotlib. Cartopy employs several
+techniques to handle geospatial data correctly, including true spherical
+interpolation for raster data, and Shapely geometry interpolate-and-cut
+transformations for geospatial vector data.
+
+This talk will outline some
+of the capabilities of cartopy, and continue onto its practical application
+within the realm of scientific presentation of geospatial data.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Hattersley</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2782/cartopy</guid><enclosure url="http://www.youtube.com/watch?v=Ax75kA4_kRo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Ax75kA4_kRo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

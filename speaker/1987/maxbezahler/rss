@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Max Bezahler</title><link>http://www.pyvideo.org/speaker/1987/maxbezahler/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1987/maxbezahler/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 16 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Using Networkx to Explore Pathfinding </title><link>http://www.pyvideo.org/video/3810/using-networkx-to-explore-pathfinding</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk we're going to cover using networkx to build a graph and then use various networkx algorithms to find characteristics about that path. We will cover:
+- Introduction to Graphing and Pathfinding 
+- Where to find other materials including Pycon 2015 conference materials and websites with simulations 
+- Creating a graph, creating static layout, displaying nodes and edge value 
+- Using networkx for pathfinding specifically:  dijkstra_path and astar_path 
+- We'll go thru the algorithm used for dijkstra and astar (A*)
+- Quick discussion of new trends in path Finding: IDA*, theta* and phi* and Ant Colony Optimization algorithm
+Slides and code *will* be available on Github 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Max Bezahler</dc:creator><pubDate>Sun, 16 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3810/using-networkx-to-explore-pathfinding</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3810_Using_Networkx_to_Explore_Pathfinding.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3810_Using_Networkx_to_Explore_Pathfinding.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/lgDCp5hJiFY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/lgDCp5hJiFY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

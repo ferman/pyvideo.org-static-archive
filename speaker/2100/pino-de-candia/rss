@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Pino de Candia</title><link>http://www.pyvideo.org/speaker/2100/pino-de-candia/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2100/pino-de-candia/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>MidoNet: networking made easy</title><link>http://www.pyvideo.org/video/3982/midonet-networking-made-easy</link><description>&lt;p&gt;Description&lt;/p&gt;
+MidoNet is a Software Defined Networking solution that's currently integrated with OpenStack, Eucalyptus and Docker. We open sourced in November last year and we’re working hard to build a strong community around it.
+
+This presentation will cover MidoNet's core concepts, what distinguishes it from other SDN solutions, its core design and why you would choose it for your project/business. Or not. I'll also discuss some of the cool features that we're currently working on, especially around Multi-site Federation.
+
+You’ll be introduced to concepts like Topology Aware Switches and JIT Datapath flow computation as well as our distributed agent model. You’ll learn why we strongly believe in having intelligent switches and how this impacts the overlay topology definition as well as the Network Function Virtualization implementation.
+
+Most importantly, we hope you'll head over to midonet.org and take it for a spin.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pino de Candia</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3982/midonet-networking-made-easy</guid><enclosure url="https://www.youtube.com/watch?v=YienqSky-c0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/YienqSky-c0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

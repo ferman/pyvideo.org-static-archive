@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nicolas Venegas</title><link>http://www.pyvideo.org/speaker/681/nicolas-venegas/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/681/nicolas-venegas/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 05 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Healthy webapps through continuous introspection</title><link>http://www.pyvideo.org/video/1304/healthy-webapps-through-continuous-introspection</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nicolas Venegas - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Every application has its hotspots – small portions of code that consume
+considerably more resources than all of the other code combined. Django apps
+are no different. Some pages, invoked with the just the right, or wrong input,
+can bring a server to its knees, hogging the CPU and taking many seconds, or
+in extreme cases even minutes to render. By keeping workers tied up, the whole
+system can then become slow to respond, or collapse altogether. Many
+webservers have a crude built-in failsafe to prevent this. They automatically
+kill workers that fail to complete their requests in time. As a result, you
+may not fully appreciate, or indeed realize at all that you are routinely
+serving 500 pages, denying users access to your service, or leaving
+uncommitted database transactions – possibly even slowly corrupting data.
+Workers killed by force leave virtually no forensic traces and so even when
+issues are suspected, it’s hard to pin them down. The cause behind these
+hotspots can be poorly generated SQL queries from the ORM, an algorithm with
+non-linear complexity, excessive disk or network IO, or lock contention in the
+database – to name just a few. Oftentimes these problems escape a developer’s
+attention, as dev and test environments simply don’t have the dataset, level
+of concurrency or sheer size of the real thing. In this talk we’ll address the
+challenges of tuning your Django app with continuous automatic runtime
+inspection tools, including homegrown Dogslow. We’ll uncover the pages that
+consume disproportionate amounts of time and cycles to complete and the pages
+that get killed altogether. We’ll discuss several ways to help you identify
+and eliminate the hotspots, both passively through monitoring exclusively, as
+well as actively by selectively interrupting workers before they get killed
+and examine how to effectively interpret the automatically collected forensic
+evidence.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Venegas</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1304/healthy-webapps-through-continuous-introspection</guid><enclosure url="http://www.youtube.com/watch?v=yxALwwDyWoA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/yxALwwDyWoA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Julia Elman</title><link>http://www.pyvideo.org/speaker/750/julia-elman/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/750/julia-elman/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Designers + Developers: Collaborating on your Python project</title><link>http://www.pyvideo.org/video/1732/designers-developers-collaborating-on-your-pyt</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Working in teams is an important part of what we do as developers &amp; designers. Whether it's desktop applications or mobile sites, we work together to create successful end products. But how do we work together in different environments? What is the best work-flow for a mix of skill sets?
+
+We'll be talking about our various methods &amp; work-flows that we found successful in working collaboratively.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Elman,Mark Lavin</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1732/designers-developers-collaborating-on-your-pyt</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Designers_Developers_Collabora.mp4?Signature=Fbe%2BpefqxiiSxqBH8hcBTLdr6CY%3D&amp;Expires=1363659044&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Designers_Developers_Collabora.mp4?Signature=Fbe%2BpefqxiiSxqBH8hcBTLdr6CY%3D&amp;Expires=1363659044&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=VVvqLrSMtxI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VVvqLrSMtxI/hqdefault.jpg"></media:thumbnail></item><item><title>Is Django for Designers?</title><link>http://www.pyvideo.org/video/1414/is-django-for-designers</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+How designer friendly is Django? This talk reviews the history of Django and
+how it came to be one of the most designer friendly frameworks around. We will
+review the Django design methodology and how simple it is for designers to get
+started creating and publishing their own projects.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+From the beginning, Django has been built to be designer friendly. This talk
+is meant for those who are looking to learn more about how Django empowers
+designers to create websites intelligently. Here is a brief outline of what
+will be covered:
+
+  * Overview of Django's designer roots
+    * Personal background as a designer learning Django
+    * How did Django start out with designers in mind?
+    * Design methodologies
+  * How is Django designer friendly?
+
+    * Documentation overview
+    * Code examples
+      * Template inheritance and why it's awesome
+      * Overview of the built-in template tags and filters
+      * What's new in Django 1.4?
+  * Django needs designers
+
+    * How to contribute
+    * Why designers are an important part of the community
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Elman</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1414/is-django-for-designers</guid><enclosure url="http://www.youtube.com/watch?v=nGqQC4_UV-A" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nGqQC4_UV-A/hqdefault.jpg"></media:thumbnail></item></channel></rss>

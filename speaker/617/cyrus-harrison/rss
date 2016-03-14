@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Cyrus Harrison</title><link>http://www.pyvideo.org/speaker/617/cyrus-harrison/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/617/cyrus-harrison/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python's role in VisIt</title><link>http://www.pyvideo.org/video/1228/pythons-role-in-visit</link><description>&lt;p&gt;Description&lt;/p&gt;
+VisIt is an open source, turnkey application for scientific data analysis and
+visualization that runs on a wide variety of platforms from desktops to
+petascale class supercomputers. This talk will provide an overview of Python’s
+role in VisIt with a focus on use cases of scripted rendering, data analysis,
+and custom application development.
+
+Python is the foundation of VisIt’s primary scripting interface, which is
+available from both a standard python interpreter and a custom command line
+client. The interface provides access to all features available through
+VisIt’s GUI. It also includes support for macro recording of GUI actions to
+python snippets and full control of windowless batch processing.
+
+While Python has always played an important scripting role in VisIt, two
+recent development efforts have greatly expanded VisIt’s python capabilities:
+
+  1. We recently enhanced VisIt by embedding python interpreters into our data flow network pipelines. This provides fine grained access, allowing users to write custom algorithms in python that manipulate mesh data via VTK’s python wrappers and leverage packages such as numpy and scipy. Current support includes the ability to create derived mesh quantities and execute data summarization operations.
+  2. We now support custom GUI development using Qt via PySide. This allows users to embed VisIt’s visualization windows into their own python applications. This provides a path to extend VisIt’s existing GUI and for rapid development of streamlined GUIs for specific use cases.
+
+The ultimate goal of this work is to evolve Python into a true peer to our
+core C++ plugin infrastructure.
+
+This work performed under the auspices of the U.S. Department of Energy by
+Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 (LLNL-
+ABS-552316).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cyrus Harrison,Harinarayan Krishnan</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1228/pythons-role-in-visit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Pythonu2019s_role_in_VisIt.mp4?Signature=syBSoJjkdBb1x58V850wn21fP04%3D&amp;Expires=1346382780&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Pythonu2019s_role_in_VisIt.mp4?Signature=syBSoJjkdBb1x58V850wn21fP04%3D&amp;Expires=1346382780&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=0e4TTcswqLg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0e4TTcswqLg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

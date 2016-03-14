@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Lee Begg</title><link>http://www.pyvideo.org/speaker/2030/lee-begg/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2030/lee-begg/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 05 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>My own Platform as a Service in Python, which you can do too</title><link>http://www.pyvideo.org/video/3864/my-own-platform-as-a-service-in-python-which-you</link><description>&lt;p&gt;Description&lt;/p&gt;
+Over the last couple of years I have evolved my own Platform as a Service (PaaS) for hosting Django apps, and you can run it too.
+
+I use Nginx, Circus, Chaussette, and Django, with some support from Django-environ and deployment automation using Fabric. All of that except Nginx are written in Python. Systemd is a new init process coming.
+
+* Circus is a process and socket manager, and gives a nice way to scale processes. 
+* Chaussette WSGI server works well with Circus, as Circus can pass the socket to it.
+* Django-environ it's a library that parses environment variables or files with key-value pairs. Environment variables are used on some PaaS, but the file support I find very useful.
+* Fabric is a framework for writing system commands to be run on remote hosts, and is great for automating system administration.
+* Systemd is a new "init" process for Linux and offers some interesting possibilities for hosting Python webapps.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lee Begg</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3864/my-own-platform-as-a-service-in-python-which-you</guid><enclosure url="http://youtu.be/AxTeVemFBkQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/AxTeVemFBkQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

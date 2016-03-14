@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chris Lambacher</title><link>http://www.pyvideo.org/speaker/371/chris-lambacher/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/371/chris-lambacher/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Cross-Compiling Python &amp; C Extensions for Embedded Systems</title><link>http://www.pyvideo.org/video/682/cross-compiling-python-c-extensions-for-embedde</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cross-compiling is not a use case directly supported by the Python build and
+extension system. This talk will discuss the process of building python for
+your embedded platform, and the basics of getting C extensions compiled and
+running. It will focus on Linux so that the build host and the build target
+are the same.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Lambacher</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/682/cross-compiling-python-c-extensions-for-embedde</guid><enclosure url="https://www.youtube.com/watch?v=nhr-YErfW8k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/nhr-YErfW8k/hqdefault.jpg"></media:thumbnail></item></channel></rss>

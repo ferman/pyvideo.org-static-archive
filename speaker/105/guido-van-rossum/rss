@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Guido van Rossum</title><link>http://www.pyvideo.org/speaker/105/guido-van-rossum/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/105/guido-van-rossum/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 16 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Keynote - Guido van Rossum</title><link>http://www.pyvideo.org/video/3417/keynote-guido-van-rossum-1</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Thu, 16 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3417/keynote-guido-van-rossum-1</guid><enclosure url="https://www.youtube.com/watch?v=G-uKNd5TSBw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/G-uKNd5TSBw/hqdefault.jpg"></media:thumbnail></item><item><title>Gradual Typing for Python 3</title><link>http://www.pyvideo.org/video/3389/guido-van-rossum</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3389/guido-van-rossum</guid><enclosure url="https://www.youtube.com/watch?v=2wDvzy6Hgxg" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/2wDvzy6Hgxg/hqdefault.jpg"></media:thumbnail></item><item><title>Keynote</title><link>http://www.pyvideo.org/video/1667/keynote-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Guido van Rossum is the author of the Python programming language. He continues to serve as the "Benevolent Dictator For Life" (BDFL), meaning that he continues to oversee the Python development process, making decisions where necessary. He is currently employed by Dropbox.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1667/keynote-1</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Keynote-1.mp4?Signature=BrUAnajsZ4FiiyAnymHnBa3uwV0%3D&amp;Expires=1364284367&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Keynote-1.mp4?Signature=BrUAnajsZ4FiiyAnymHnBa3uwV0%3D&amp;Expires=1364284367&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=n6dUWXRdt48" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/n6dUWXRdt48/hqdefault.jpg"></media:thumbnail></item><item><title>NDB: the new data store library for Google App Engine</title><link>http://www.pyvideo.org/video/1266/ndb-the-new-data-store-library-for-google-app-en</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+
+&lt;p&gt;Description&lt;/p&gt;
+NDB is a new Python client library for the Google App Engine Datastore. NDB
+has an integrated multi-level cache, supports synchronous and asynchronous
+calls, automatically batches requests, and several ways of storing structured
+data. The thrust for developing NDB was the realization that the original
+Python datastore client library, “db”, had some architectural and design flaws
+which were hard to fix due to strict backward compatibility requirements. But
+in the process, NDB became much more than an improved db library. NDB offers a
+new paradigm for asynchronous APIs, based on coroutines implemented using
+Python’s “yield” expression (and a simple event loop). It also supports a
+flexible way to create new Property classes by subclassing existing Property
+classes.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1266/ndb-the-new-data-store-library-for-google-app-en</guid><enclosure url="http://www.youtube.com/watch?v=HiOp8KQLcgM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/HiOp8KQLcgM/hqdefault.jpg"></media:thumbnail></item><item><title>Ask your BDFL</title><link>http://www.pyvideo.org/video/1336/ask-your-bdfl</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Guido van Rossum - 2 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+An open session where the BDFL will answer questions from attendees. Questions
+must be submitted (and voted) through Google Moderator ; we will ask the most
+popular questions to Guido during this session. Submit your question now!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1336/ask-your-bdfl</guid><enclosure url="http://www.youtube.com/watch?v=YdxXqc2Npls" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YdxXqc2Npls/hqdefault.jpg"></media:thumbnail></item><item><title>Not the state of the Python union</title><link>http://www.pyvideo.org/video/1335/not-the-state-of-the-python-union</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] G. van Rossum - 2 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Worried about the future of Python 3? Wondering when lambda will be fixed?
+Angry about the GIL? Eager to get your package into the standard library? In
+this keynote, Python’s BDFL will address these issues and many others from his
+unique, personal perspective. Learn how not to be a troll!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1335/not-the-state-of-the-python-union</guid><enclosure url="http://www.youtube.com/watch?v=RwbEEzl3bL4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/RwbEEzl3bL4/hqdefault.jpg"></media:thumbnail></item><item><title>Keynote: Guido Van Rossum</title><link>http://www.pyvideo.org/video/956/keynote-guido-van-rossum</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/956/keynote-guido-van-rossum</guid><enclosure url="https://www.youtube.com/watch?v=EBRMq2Ioxsc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/EBRMq2Ioxsc/hqdefault.jpg"></media:thumbnail></item><item><title>Keynote: State of CPython</title><link>http://www.pyvideo.org/video/267/keynote-state-of-cpython</link><description>&lt;p&gt;Description&lt;/p&gt;
+Uses the Twitter feed for PyCon and a floor mic for a Q&amp;A; session covering
+the state of CPython and what's in the future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum,Steve Holden</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/267/keynote-state-of-cpython</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/267_keynote-state-of-cpython.ogv" length="222198009" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/267_keynote-state-of-cpython.ogv" fileSize="222198009" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/267_keynote-state-of-cpython.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010KeynoteStateOfCPython844-859.jpg"></media:thumbnail></item></channel></rss>

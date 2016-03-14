@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dougal Matthews</title><link>http://www.pyvideo.org/speaker/1377/dougal-matthews/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1377/dougal-matthews/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 25 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Using asyncio (aka Tulip) for home automation</title><link>http://www.pyvideo.org/video/2942/using-asyncio-aka-tulip-for-home-automation</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will cover the new asyncio library in Python 3.4 (also known as Tulip) and will use the area of home automation as a case study to explore its features. This talk will be based on code using Python 3.3+.
+
+Home automation is a growing area and the number of devices and potential applications is huge. From monitoring electricity usage to the temperature inside or outside your house to remote control of lights and other appliances the options are almost endless. However, managing and monitoring these devices is typically a problem that works best with event driven applications.
+
+This is where asnycio comes in, it was originally proposed in PEP 3156 by our BDFL, Guido van Rossum. Asyncio aims to bring a clear approach to the python ecosystem and borrows from a number of existing solutions to come up with something clean and modern for the Python stdlib.
+&lt;p&gt;Description&lt;/p&gt;
+This talk will cover the new asyncio library in Python 3.4 (also known as Tulip) and will use the area of home automation as a case study to explore its features. This talk will be based on code using Python 3.3+.
+
+Home automation is a growing area and the number of devices and potential applications is huge. From monitoring electricity usage to the temperature inside or outside your house to remote control of lights and other appliances the options are almost endless. However, managing and monitoring these devices is typically a problem that works best with event driven applications.
+
+This is where asnycio comes in, it was originally proposed in PEP 3156 by our BDFL, Guido van Rossum. Asyncio aims to bring a clear approach to the python ecosystem and borrows from a number of existing solutions to come up with something clean and modern for the Python stdlib.
+
+This talk will introduce asyncio and use it within the context of home automation and dealing with multiple event driven devices. Therefore we will cover asyncio and the lessions learned from using different devices in this context.
+
+Some of the devices that will be used include:
+
+ - Raspberry Pi
+ - RFXCom's RFXtrx, USB serial tranciever.
+ - Owl CM160 electricity tracker.
+ - Oregon scientific thermometers.
+ - Foscam IP cameras.
+
+This talk will also briefly cover the previous solution I used which was developed with Twisted and compare it briefly with my new code using asyncio.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dougal Matthews</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2942/using-asyncio-aka-tulip-for-home-automation</guid><enclosure url="http://www.youtube.com/watch?v=0flbR0HNWBA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/0flbR0HNWBA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

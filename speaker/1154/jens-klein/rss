@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jens Klein</title><link>http://www.pyvideo.org/speaker/1154/jens-klein/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1154/jens-klein/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 16 Oct 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Schlangenhochzeit in der Wolke</title><link>http://www.pyvideo.org/video/2406/schlangenhochzeit-in-der-wolke</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Googles Appengine steht für hochskalierbare Anwendungen in der Cloud. Locandy ist unser Startup für mobile Location based Games.
+
+Auf der Cloud-Platform mit ihrer sehr restriktiven Python-Umgebung haben wir das Portal für Spieler, Autoren und Business Kunden umgesetzt. Browser, Mobile-App und PDF-Server werden damit bedient.
+
+Dabei ist nicht alles so rund gelaufen, wie wir es gerne gehabt hätten. Die Probleme wurden gelöst - dank Python mit seinem starken Werkzeugkasten. 
+
+Der Vortrag geht kurz auf die Anforderungen ein, zeigt auf welche Probleme es gab und wie wir sie gelöst haben. In einem Github Repository stelle ich ein Buildout inkl. kleiner Beispielapplikation mit den meisten dieser Lösungen zur Verfügung.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jens Klein</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2406/schlangenhochzeit-in-der-wolke</guid><enclosure url="https://www.youtube.com/watch?v=0zqpoC0f3-c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0zqpoC0f3-c/hqdefault.jpg"></media:thumbnail></item></channel></rss>

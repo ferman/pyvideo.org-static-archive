@@ -1,0 +1,344 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Best Practices for Impossible Deadlines</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="beeswithmachineguns,bestpractices,casestudy,pycon,pycon2011">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="pycon-2011--best-practices-for-impossible-deadlin.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="pycon-2011--best-practices-for-impossible-deadlin.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/391_best-practices-for-impossible-deadlines.mp4"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Best Practices for Impossible Deadlines</h3>
+      <link property="thumbnailUrl" href="http://a.images.blip.tv/Pycon-PyCon2011BestPracticesForImpossibleDeadlines540-981.jpg"/>
+      <link property="sameAs" href="pycon-2011--best-practices-for-impossible-deadlin.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Best Practices for Impossible Deadlines</p>
+<p>Presented by Christopher Groskopf</p>
+<p>At the Chicago Tribune we develop, test, and deploy production web
+applications on schedules that range from two hours to two months. This talk
+will discuss the tools and techniques that allow us to make our deadlines,
+including automated deployments, frameworks, just-in-time testing, and more.
+Attention will be paid to <a href="pycon-2011--best-practices-for-impossible-deadlin.html">http://github.com/newsapps/beeswithmachineguns</a> and the problems they solve.</p>
+<p>Abstract</p>
+<p>On my first day at the Chicago Tribune I was given a CSV of data about
+defoliant spraying in Vietnam and told to build this: Agent Orange. What
+followed was one of the most stressful and difficult weeks of my life, during
+which I learned an incredible amount about web development. I had to stop
+thinking about databases and start thinking about serialized JSON structures
+stashed on S3; stop thinking about building tools and start thinking about
+mashing up tech that was never designed to be married (in this case Simile
+Timeline and Google Maps); stop thinking about idealistic development
+practices and start thinking about getting a working product out the door. In
+short: I had to rewire my brain for news.</p>
+<p>This talk will go in-depth on deadline-oriented strategies that I've learned
+in a year of building news applications. Some of these revolve around specific
+technologies, like fabric for single-keystroke deployments or Varnish for
+caching, but most will be matters of practice, like what to test when you have
+no time for testing or how to avoid (yes, avoid!) database migrations.</p>
+<p>They say Django is "the web framework for perfectionists with deadlines." This
+is their Art of War.</p>
+<p>Talk outline:</p>
+<ul>
+<li>An anecdote: Agent Orange </li>
+<li>We can't have nice things (or best practices) </li>
+<li>Low-hanging fruit: staging environment, git branches, PEP8. </li>
+<li>Only build it once: Iterations, interviews and stakeholders </li>
+<li>Salvage, share and steal [code] </li>
+<li>Keeping track: Be a ticketing warrior </li>
+<li>Tools improve faster than you do: iterate your stack </li>
+<li>Single-keystroke deployment (fabric) </li>
+<li>Migrations are hard: Building read-only apps </li>
+<li>Don't serve that: Using S3 for hosting </li>
+<li>Caching &gt; optimization (varnish) </li>
+<li>Know your load limits (beeswithmachineguns) </li>
+<li>Configuration-as-application: application frameworks (maps, tables) </li>
+<li>Pair programming &gt; functional testing &gt; unit testing </li>
+<li>except UseWordpress, e: print "No, really" </li>
+</ul>
+<p>Sites that will be used as examples:</p>
+<ul>
+<li>Agent Orange </li>
+<li>Burr Oak Memorial </li>
+<li>Census 2010: Cook county participation rates map </li>
+<li>Area judges and supervision rates of speeders table </li>
+<li>RedEye Homicide Tracker </li>
+<li>Chicago Tribune Elections Center </li>
+<li>2010 Illinois School Report Cards </li>
+<li>TribLocal </li>
+</ul></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/7/pycon-us-2011.html">PyCon US 2011</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/201/christopher-groskopf.html">Christopher Groskopf</a></div>
+            <meta property="author" content="Christopher Groskopf"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>March 11, 2011
+            <meta property="dateCreated" content="2011-03-11"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.951170"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.951170"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            Unknown
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/391_best-practices-for-impossible-deadlines.mp4" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/391">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">beeswithmachineguns</span>
+          
+            <span property="keywords">bestpractices</span>
+          
+            <span property="keywords">casestudy</span>
+          
+            <span property="keywords">pycon</span>
+          
+            <span property="keywords">pycon2011</span>
+          
+          <meta property="keywords" content="PyCon US 2011"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="pycon-2011--best-practices-for-impossible-deadlin.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('html5');
+      });
+
+      updateVideoOffset('html5');
+    });
+  </script>
+
+</body>
+</html>

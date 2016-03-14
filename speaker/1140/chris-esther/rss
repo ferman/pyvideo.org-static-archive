@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chris Esther</title><link>http://www.pyvideo.org/speaker/1140/chris-esther/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1140/chris-esther/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 13 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>OSINT, Maltego &amp; Python</title><link>http://www.pyvideo.org/video/2380/osint-maltego-and-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is an introduction to OSINT, the Maltego OSINT visualisation tool and Canari a Python framework for creating custom transforms for Maltego.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Open source intelligence
+
+What is it? Who uses it and why?
+
+OSINT Tools
+
+An overview of the commercial products and Python tools available.
+
+Maltego
+
+An overview of the capabilties of commercial yet freely available tool. Including the ability to extend its functionality with scripting and custom transforms.
+
+Canari
+
+An introduction to the Python powered framework for creating and managing transforms for Maltego.
+
+Example and Experience
+
+My experiences in writing a custom transform written in Python using the Canari framework.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/chris-esther-osint-maltego-and-python</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Esther</dc:creator><pubDate>Fri, 13 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2380/osint-maltego-and-python</guid><enclosure url="http://www.youtube.com/watch?v=HkRuVNRbieU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/HkRuVNRbieU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

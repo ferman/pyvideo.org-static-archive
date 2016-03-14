@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Victor Palma</title><link>http://www.pyvideo.org/speaker/2110/victor-palma/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2110/victor-palma/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Journey to becoming a Developer: an Administrators story</title><link>http://www.pyvideo.org/video/3950/journey-to-becoming-a-developer-an-administrator</link><description>&lt;p&gt;Description&lt;/p&gt;
+As a system operator we sometimes have to create scripts to maintain our infrastructure.  However because of DevOps some of us have taken a path to move more towards a developer role.  That journey can be a bit tough specially if you don’t have the proper support in place.  Fortunately for me I had some help along the way and they gave me some direction that has improved my development.  Here is a list of small things to help you on that journey:
+• Changing the way we think (mindset of a developer)
+• Idiomatic python
+• Zen of Python by example
+• Testing
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Victor Palma</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3950/journey-to-becoming-a-developer-an-administrator</guid><enclosure url="https://www.youtube.com/watch?v=3pphvUMy4Fs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/3pphvUMy4Fs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

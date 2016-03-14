@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Deepak Thukral</title><link>http://www.pyvideo.org/speaker/504/deepak-thukral/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/504/deepak-thukral/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 21 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How to make intelligent web-apps</title><link>http://www.pyvideo.org/video/1046/how-to-make-intelligent-web-apps</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Deepak Thukral - 22 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The primary goal of this talk is twofold: to evaluate the need of data mining
+and introduce some very cool, simple yet powerful machine learning techniques
+to audience such as classification, clustering, collaborative filtering,
+recommendation etc in your Python web applications. This talk will conclude
+with some explanation and limitations of machine learning algorithms.
+
+Basic knowledge of Python is sufficient. However some experience with Django,
+meshups, machine learning or data hunger is encouraged. All talk material and
+django apps will be available after talk under MIT license.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Deepak Thukral</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1046/how-to-make-intelligent-web-apps</guid><enclosure url="http://www.youtube.com/watch?v=u3oVf_Z4kmI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/u3oVf_Z4kmI/hqdefault.jpg"></media:thumbnail></item><item><title>How to make intelligent web-apps</title><link>http://www.pyvideo.org/video/1139/how-to-make-intelligent-web-apps-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Deepak Thukral - 22 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The primary goal of this talk is twofold: to evaluate the need of data mining
+and introduce some very cool, simple yet powerful machine learning techniques
+to audience such as classification, clustering, collaborative filtering,
+recommendation etc in your Python web applications. This talk will conclude
+with some explanation and limitations of machine learning algorithms.
+
+Basic knowledge of Python is sufficient. However some experience with Django,
+meshups, machine learning or data hunger is encouraged. All talk material and
+django apps will be available after talk under MIT license.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Deepak Thukral</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1139/how-to-make-intelligent-web-apps-0</guid><enclosure url="http://www.youtube.com/watch?v=N7monH2jXNI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/N7monH2jXNI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

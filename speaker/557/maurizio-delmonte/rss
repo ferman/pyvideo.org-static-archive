@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Maurizio Delmonte</title><link>http://www.pyvideo.org/speaker/557/maurizio-delmonte/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/557/maurizio-delmonte/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Content Management professionale con Python nel 2012</title><link>http://www.pyvideo.org/video/1260/content-management-professionale-con-python-nel-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Maurizio Delmonte - 5 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django o Pyramid, rapidi da apprendere e mettere a frutto, sono potenti
+strumenti di lavoro, utili a costruire siti gestiti da un solo autore o
+applicazioni web di servizio. Ma se avete bisogno di far collaborare un vera
+redazione alla pubblicazione di un portale ricco di
+contenuti,&amp;nbsp_place_holder;non troverete stoffa pythonica migliore di Plone!
+Come costruire un servizio di Content e Document Management potente e
+professionale nel 2012? Facciamo il punto su cosa offre il mondo Python di
+oggi.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maurizio Delmonte</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1260/content-management-professionale-con-python-nel-2</guid><enclosure url="http://www.youtube.com/watch?v=vUwSWtWJrnY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vUwSWtWJrnY/hqdefault.jpg"></media:thumbnail></item><item><title>Non solo Django MVC orientato ai contenuti con Plone e Zope Toolkit</title><link>http://www.pyvideo.org/video/1253/non-solo-django-mvc-orientato-ai-contenuti-con-pl</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maurizio Delmonte</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1253/non-solo-django-mvc-orientato-ai-contenuti-con-pl</guid><enclosure url="http://www.youtube.com/watch?v=8q2ROzfX8E0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/8q2ROzfX8E0/hqdefault.jpg"></media:thumbnail></item><item><title>Come costruire un'azienda distribuita con Python</title><link>http://www.pyvideo.org/video/1188/come-costruire-unazienda-distribuita-con-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Maurizio Delmonte - 22 June 2011 in "Track Italiana Big Mac
+"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Il nostro gruppo di lavoro, composto da varie figure professionali, da anni
+lavora su più progetti in parallelo, e con team di persone che si incontrano
+solo virtualmente.
+
+Non è sufficiente dire: facciamolo!
+
+Per non perdere la testa, gestire in modo agile i progetti e vivere felici
+affiniamo continuamente le nostre tecniche di gestione e gli strumenti che ci
+permettono di tenere sotto controllo la situazione: Extreme Management tool,
+Poi Tracker, Buildout sono solo alcuni degli strumenti che rendono il nostro
+lavoro fluido ed efficace.
+
+Presenterò le nostre modalità operative, dimostrando che lavorare con un team
+composto da persone contemporaneamente a Milano, Napoli, Torino e Ancona è
+possibile. Non solo: è il futuro!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maurizio Delmonte</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1188/come-costruire-unazienda-distribuita-con-python</guid><enclosure url="http://www.youtube.com/watch?v=3A7z75PSIuY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3A7z75PSIuY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Reimar Bauer</title><link>http://www.pyvideo.org/speaker/774/reimar-bauer/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/774/reimar-bauer/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>pymove3D - Python moves the world - Attractive programming for young people</title><link>http://www.pyvideo.org/video/3017/pymove3d-python-moves-the-world-attractive-pr</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The second time a [contest](  http://pymove3d.pysv.org/)  for schoolar students is organized by the Python Software Verband e.V.. It is about to write a Python program that is executable in Blender using its 3D capabilities.
+The talk overall gives an overview what experience we got by these ideas and how we want to continue.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3017/pymove3d-python-moves-the-world-attractive-pr</guid><enclosure url="http://www.youtube.com/watch?v=0iivx1P1iWg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/0iivx1P1iWg/hqdefault.jpg"></media:thumbnail></item><item><title>pymove3D Winner Announcement</title><link>http://www.pyvideo.org/video/3048/pymove3d-winner-announcement</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The winner of the pymove3D competition is announced. The pymove3D competition  ran until May 1st, 2014. The goal was to write a Python program that uses the 3D capabilities of Blender.
+&lt;p&gt;Description&lt;/p&gt;
+Mika Greif, a 13 year old school student gets the first price at the pymove3D contest 2014 by his application Eiszapfenhöhle (icicle cave).</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mika Greif,Peter Koppatz,Reimar Bauer</dc:creator><pubDate>Mon, 21 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3048/pymove3d-winner-announcement</guid><enclosure url="http://www.youtube.com/watch?v=CJZhdLXw8cI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/CJZhdLXw8cI/hqdefault.jpg"></media:thumbnail></item><item><title>Wiki-Restauration aus dem Web Cache</title><link>http://www.pyvideo.org/video/2386/wiki-restauration-aus-dem-web-cache</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Nach einem Totalschaden ist bei Webanwendungen nicht unbedingt alles verloren. Die Inhalte sind in der Regel auf eine begrenzte Zeit in Suchmaschinen wieder zu finden.
+
+Der Vortrag beschreibt ein Verfahren das Anfang des Jahres zum Einsatz kam um Wiki-Seiten aus dem HTML Webcache zurück in Wiki-Seiten Markup zu übersetzen.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2386/wiki-restauration-aus-dem-web-cache</guid><enclosure url="https://www.youtube.com/watch?v=JPqK8MjMDDg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/JPqK8MjMDDg/hqdefault.jpg"></media:thumbnail></item><item><title>Python Einsteiger-Programmierwettbewerb</title><link>http://www.pyvideo.org/video/2384/python-einsteiger-programmierwettbewerb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Im Planungsprozess der diesjährigen PyCon DE ist ein Programmierwettbewerb für SchülerInnen im Alter von 13 bis zum vollendetetem 21 Lebensjahr enthalten.
+
+Die Techniken, die zur Vorbereitung eingesetzt wurden, sowie die Medien und die Python Software des Portals pymove3d.pysv.org werden dargestellt. 
+
+Das Ergebnis des Wettbewerbs und der Ausblick auf 2014 mit der Zielvorgabe diesen Wettbewerb zur Europython fortzusetzen bedarf großer Aufmerksamkeit. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2384/python-einsteiger-programmierwettbewerb</guid><enclosure url="https://www.youtube.com/watch?v=BfEcIAzdv9M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/BfEcIAzdv9M/hqdefault.jpg"></media:thumbnail></item><item><title>Flugplanung, Datenverwaltung, Visualisierung mit einem Wiki zur Unterstützung von Meßkampagnen</title><link>http://www.pyvideo.org/video/1453/flugplanung-datenverwaltung-visualisierung-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag zeigt auf, wie man ein MoinMoin Wiki verwenden kann, um
+meteorologische Daten für Flugplanungen mit einem Forschungsflugzeug
+bereitzustellen. Die Werkzeuge, die bei einer Messkampagne eine Plattform für
+den Austausch von Daten sowie Beschreibungen bilden, werden vorgestellt.
+
+Im Vortrag werden einige Werkzeuge und deren API vorgestellt. Z.B. arnica, ein
+MoinMoin Wiki Plugin, das u.a. für die Darstellung von Vorhersage Modell Daten
+für die Flugplanung von Forschungsmissionen Verwendung findet.
+
+Andere Werkzeuge dienen dem Organisieren von Informationen auf Wiki Seiten und
+deren Darstellung. Es wird z.B. gezeigt wie Seiteninhalte in Tabellen
+abgebildet werden können.
+
+Die Beispiele können auch für die Entwicklung eigener Plugins herangezogen
+werden.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1453/flugplanung-datenverwaltung-visualisierung-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Flugplanung_Datenverwaltung_Vi.mp4?Signature=OWueLnjWxxnIg0X01mchkD20NBA%3D&amp;Expires=1351856764&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Flugplanung_Datenverwaltung_Vi.mp4?Signature=OWueLnjWxxnIg0X01mchkD20NBA%3D&amp;Expires=1351856764&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=5j7rPNU4VQE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/5j7rPNU4VQE/hqdefault.jpg"></media:thumbnail></item><item><title>Die Infrastruktur für Erweiterungen der Wiki-Software MoinMoin (moin2).</title><link>http://www.pyvideo.org/video/1485/die-infrastruktur-fur-erweiterungen-der-wiki-soft</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Die Wiki Software moin2 kann mehr als nur ein Wiki betreiben.
+
+U.a. kann man moin2 für einen Pastebin, Blog und ein Ticket-System verwenden.
+
+Der Vortrag gibt Einblick in Erweiterungen und den Stand der Entwicklung.
+
+moin2 ist ein Redesign der Wiki-Software von moin1.
+
+Es hat viele Merkmale mit einigen anderen Webanwendungen gemeinsam.
+
+Durch die offene Architektur und die vorhandenen Sicherheitsmechanismen gegen
+Spam ist es z.B. möglich einen pastebin analog zu lodgeit zu integrieren.
+
+Blog Posts unterscheiden sich auch nicht wesentlich von Wiki Items. Mit einem
+Ticket-System lassen sich Arbeitsabläufe optimieren.
+
+Der Vortrag zeigt, wie in moin2 solche Erweiterungen integriert werden und
+zeigt den Stand der aktuellen Entwicklung.
+
+Für Eigenentwicklungen wird ein Einblick
+
+auf das neue Plugin Konzept gegeben.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1485/die-infrastruktur-fur-erweiterungen-der-wiki-soft</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Infrastruktur.mp4?Signature=nbKxMZhao5WtFIEShE6lFBl2J64%3D&amp;Expires=1352126019&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Infrastruktur.mp4?Signature=nbKxMZhao5WtFIEShE6lFBl2J64%3D&amp;Expires=1352126019&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=rHrxNcYqBTw" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/rHrxNcYqBTw/hqdefault.jpg"></media:thumbnail></item><item><title>Anwendung von Wiki zur Unterstützung kooperativer Forschungsarbeiten</title><link>http://www.pyvideo.org/video/2926/anwendung-von-wiki-zur-unterstutzung-kooperativer</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag behandelt einige praktische Elemente zur Unterstützung kollaborativer python Umgebungen und konzentriert sich hauptsächlich auf die Wiki Software MoinMoin und deren Verwendung im wissenschaftlichem Umfeld.
+
+[AUDIO : house sound flipped out and was turned off at 7:30, camera mic was the only functioning mic in the room.]</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Fri, 07 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2926/anwendung-von-wiki-zur-unterstutzung-kooperativer</guid><enclosure url="http://www.youtube.com/watch?v=tL3yFA5_q_g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/tL3yFA5_q_g/hqdefault.jpg"></media:thumbnail></item><item><title>moin-2, wie man eine wiki software eigentlich schreiben sollte.</title><link>http://www.pyvideo.org/video/2875/moin-2-wie-man-eine-wiki-software-eigentlich-sch</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Stand der Entwicklung von moin-2.0 und Unterschiede zu moin-1.x.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Reimar Bauer</dc:creator><pubDate>Thu, 06 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2875/moin-2-wie-man-eine-wiki-software-eigentlich-sch</guid><enclosure url="http://www.youtube.com/watch?v=oFIBhvOcwVQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/oFIBhvOcwVQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

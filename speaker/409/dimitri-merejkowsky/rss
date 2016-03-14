@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dimitri Merejkowsky</title><link>http://www.pyvideo.org/speaker/409/dimitri-merejkowsky/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/409/dimitri-merejkowsky/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>36. Using Python for robotics with Aldebaran's humanoid robot NAO.</title><link>http://www.pyvideo.org/video/736/36-using-python-for-robotics-with-aldebarans-hu</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this poster session, we shall review how Python can be used to control and
+program Aldebaran's humanoid robot NAO.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dimitri Merejkowsky</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/736/36-using-python-for-robotics-with-aldebarans-hu</guid><enclosure url="https://www.youtube.com/watch?v=Me9SZohibPQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Me9SZohibPQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

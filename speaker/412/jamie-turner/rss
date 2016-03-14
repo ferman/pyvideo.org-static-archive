@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jamie Turner</title><link>http://www.pyvideo.org/speaker/412/jamie-turner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/412/jamie-turner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>18. Bump Pumps Up with Diesel</title><link>http://www.pyvideo.org/video/815/18-bump-pumps-up-with-diesel</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Bump Technologies’ Jamie Turner explains Diesel, an open-source evented
+networking framework, and how it's used at Bump, an Android and iOS app with
+over 70 million downloads.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jamie Turner</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/815/18-bump-pumps-up-with-diesel</guid><enclosure url="https://www.youtube.com/watch?v=ZwBiQEHS4T8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/ZwBiQEHS4T8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

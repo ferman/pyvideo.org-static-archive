@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chetan Giridhar</title><link>http://www.pyvideo.org/speaker/1128/chetan-giridhar/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1128/chetan-giridhar/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Dissecting memory mysteries of Python</title><link>http://www.pyvideo.org/video/2359/dissecting-memory-mysteries-of-python-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Memory leak has been perennial problem for Python applications. This causes application to behave erroneously with Memory error and very slow operation. What is wrong with the application? How to find out the cause and fix it? This is the motivation for this talk.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Python is a dynamically typed language. Applications leave task of object memory management to Python VM. Python automatically manages memory using reference counting and garbage collection. But, Python memory manager may bloat the VM size, and sometimes it may consume complete main memory. It causes applications to deliver low performance and encounter unexpected memory errors.
+
+This talk dissects the internals of CPython memory manager, its limitations and negative impact on application behavior. We demonstrate the problem of memory leaks by learning Python heap pattern, object graphs and memory profiling. Next, we suggest solutions to reduce memory footprints of applications, tools to diagnose and fix memory leaks and lesson learned as best development practices.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/vishal-kanaujia-dissecting-memory-mysteries-of-python</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chetan Giridhar,Vishal Kanaujia</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2359/dissecting-memory-mysteries-of-python-0</guid><enclosure url="http://www.youtube.com/watch?v=7glw_5YFU-Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/7glw_5YFU-Q/hqdefault.jpg"></media:thumbnail></item><item><title>Rapid development of Unified Real-time communication for Websites</title><link>http://www.pyvideo.org/video/2362/rapid-development-of-unified-real-time-communicat</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Development of real time communication channels like instant chat or media calls has been difficult. Integrating it in a scalable and responsive way for websites has been a bigger concern. This talk describes how instant chat or media calls can be developed in a rapid way with Python modules and demonstrates the concept with a working prototype.
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Online shopping or retail industry of the world is worth trillions of dollars. Forrester research estimates that US online industry alone will be worth $279 Billion by 2015!
+
+Given the scenario, website customers have an ever-growing need of communicating with customer service representatives in real time with a live chat or media call. Businesses not only view it as an opportunity to act quickly and be flexible in delivering specific product information to customers but also to prevent or recover from service failures &amp; convert leads to sales!
+
+Though critical, development teams have found it difficult to develop, maintain and integrate instant chat or call in their websites. Scalability and responsiveness of these applications have been a measure cause of anxiety. Unavailability or shortage of ready-to-use frameworks has contributed to longer development cycles and made the task seam out-of-reach. As a result, integration of real time communication in websites is often considered 'good-to-have' and doesn't get the due importance.
+
+This talk discusses first hand experiences of development &amp; integration of real-time communication applications in websites. Audiences would get an opportunity to appreciate the concept with the help of a working prototype. The talk also suggests Python modules foe getting the task done in a rapid &amp; customized way.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/chetan-giridhar-rapid-development-of-unified-real-time-communication-for-websites</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chetan Giridhar</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2362/rapid-development-of-unified-real-time-communicat</guid><enclosure url="http://www.youtube.com/watch?v=fB_XzU8sRbU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/fB_XzU8sRbU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

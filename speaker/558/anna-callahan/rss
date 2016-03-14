@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Anna Callahan</title><link>http://www.pyvideo.org/speaker/558/anna-callahan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/558/anna-callahan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 07 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>An iPhone-Python love affair: Building APIs for mobile</title><link>http://www.pyvideo.org/video/1164/an-iphone-python-love-affair-building-apis-for-m</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Mobile apps are the hot item of the day - and the best mobile apps are backed
+by a great website. Python web developer Nate Aune and iPhone developer Anna
+Callahan will show you how we built a simple music web app in Django with a
+native iPhone app that communicates with it. Attendees of this talk will see a
+concrete case study of building an application that exposes an API for mobile
+devices.
+
+Our web app exposes a JSON API for sending and receiving data from the mobile
+device. We’ll talk about why we chose Django and the TastyPie API package, and
+discuss other Python-based frameworks that could be used to build the API such
+as Pyramid, Flask and Bottle. We’ll also compare REST and custom APIs to
+understand best practices for building APIs designed for mobile devices.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Callahan,Nate Aune</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1164/an-iphone-python-love-affair-building-apis-for-m</guid><enclosure url="http://www.youtube.com/watch?v=GB0EJUhC7yc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/GB0EJUhC7yc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andreas Müller</title><link>http://www.pyvideo.org/speaker/754/andreas-muller/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/754/andreas-muller/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 30 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Machine Learning mit Scikit-Learn</title><link>http://www.pyvideo.org/video/1419/machine-learning-mit-scikit-learn</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Machine Learning und Data Mining beschaeftigen sich mit dem Lernen aus
+beobachteten Daten, dem erstellen von Vorhersagen und dem finden von
+interessanten Mustern in Daten. Diese Gebiete sind zwei schnell wachsende
+Forschungsbereiche mit einer staendig steigenden Anzahl an kommerziellen
+Anwendungen wie Produkt-Empfehlungen, Bildersuche und Spam-Filtering.
+
+Scikit-learn ist eine Python Library fuer Machine Learning die besonderen Wert
+auf einfache Benutzung, Skalierbarkeit und hohe Code-Qualitaet legt. Ziel ist
+es eine leicht anzuwendende, flexible Bibliothek fuer Forschung wie auch
+kommerzielle Anwendungen zu schaffen. Der Vortrag bietet eine kurze Einleitung
+in Grundlagen des maschinellen Lernens und die Anwendung von Scikit-Learn.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Müller</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1419/machine-learning-mit-scikit-learn</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Machine_Learning_mit_ScikitLearn.mp4?Signature=4kvh6MA%2B8TeLDuz7L77dc%2FPwPAs%3D&amp;Expires=1351777959&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Machine_Learning_mit_ScikitLearn.mp4?Signature=4kvh6MA%2B8TeLDuz7L77dc%2FPwPAs%3D&amp;Expires=1351777959&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=CJFirE-rblA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/CJFirE-rblA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

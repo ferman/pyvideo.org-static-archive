@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michael P. Jung</title><link>http://www.pyvideo.org/speaker/789/michael-p-jung/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/789/michael-p-jung/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 15 Oct 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Echtzeit Web-Apps mit Mushroom</title><link>http://www.pyvideo.org/video/2392/echtzeit-web-apps-mit-mushroom</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[Mushroom](https://bitbucket.org/terreon/mushroom) ist ein einfach zu verwendendes Echtzeit-Web-Messaging-Framework, welches neben Browser-Push-Nachrichten auch Funktionen für die Interprozesskommunikation zur Verfügung stellt.
+
+Dieser Vortrag versucht, Lust auf das Echtzeit-Web zu machen und beantwortet grundlegende Fragen zu Themen wie Skalierbarkeit und Deployment.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael P. Jung</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2392/echtzeit-web-apps-mit-mushroom</guid><enclosure url="https://www.youtube.com/watch?v=uFg8KUfz8T0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/uFg8KUfz8T0/hqdefault.jpg"></media:thumbnail></item><item><title>Echtzeit Browsergames</title><link>http://www.pyvideo.org/video/1486/echtzeit-browsergames</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mit gevent und browserseitigem JavaScript können Mehrspieler Browsergames
+entwickelt werden, die Spielerinteraktionen in Echtzeit zulassen. Dieser
+Vortrag versucht Lust auf das Echtzeit Web zu machen und zeigt anhand eines
+konkreten Spieles (KODEX, [http://kodexgame.com/](http://kodexgame.com/))
+Lösungen für Entwicklung, Hosting und Vertrieb auf.
+
+Der Vortrag beleuchtet neben den Implikationen des Realtime Web wie Caching,
+Scaling, Same-Origin-Policy und Cross-Origin-Resource-Sharing auch Strategien
+zur horizontalen Skalierbarkeit, oder: Wie löst man das
+[C10K](http://www.kegel.com/c10k.html) Problem?
+
+Während NodeJS oft als *die* Lösung für Echtzeitanwendungen angepriesen wird,
+kommt hier auf der Serverseite gezielt Python mit gevent zum Einsatz.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael P. Jung</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1486/echtzeit-browsergames</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Echtzeit_Browsergames.mp4?Signature=Kb7LTvqb27yRaJPsIYeJdEsJBUY%3D&amp;Expires=1352128597&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Echtzeit_Browsergames.mp4?Signature=Kb7LTvqb27yRaJPsIYeJdEsJBUY%3D&amp;Expires=1352128597&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=X_RHPisbVgs" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/X_RHPisbVgs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

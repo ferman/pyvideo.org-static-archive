@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jon Nials</title><link>http://www.pyvideo.org/speaker/315/jon-nials/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/315/jon-nials/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:37:36 -0000</lastBuildDate><ttl>500</ttl><item><title>virtualenv, pip, and virtualenvwrapper</title><link>http://www.pyvideo.org/video/553/virtualenv--pip--and-virtualenvwrapper</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+virtualenv, pip, and virtualenvwrapper are vital tools for any Python
+developer. This beginner-level presentation will introduce each of these.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jon Nials</dc:creator><guid>http://www.pyvideo.org/video/553/virtualenv--pip--and-virtualenvwrapper</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/553_virtualenv-pip-and-virtualenvwrapper.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-virtualenvPipAndVirtualenvwrapper256-563.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of EuroPython 2012</title><link>http://www.pyvideo.org/category/21/europython-2012/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/21/europython-2012/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Advanced Flask Pattern Q&amp;A session</title><link>http://www.pyvideo.org/video/1274/advanced-flask-pattern-qa-session</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1274/advanced-flask-pattern-qa-session</guid><enclosure url="http://www.youtube.com/watch?v=XAARbHEjZUQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/XAARbHEjZUQ/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced Flask Patterns</title><link>http://www.pyvideo.org/video/1269/advanced-flask-patterns</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Ronacher - 5 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk shows some interesting patterns for large scale Flask applications
+and how Flask extension should be structured. It also dives into some of the
+more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of
+this talk is to share some of the things that the documentation can’t explain
+well by itself. Required prerequisites: basic knowledge of how Flask operates.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1269/advanced-flask-patterns</guid><enclosure url="http://www.youtube.com/watch?v=KOvgfbBFZxk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/KOvgfbBFZxk/hqdefault.jpg"></media:thumbnail></item><item><title>A laboratory Notebook System</title><link>http://www.pyvideo.org/video/1275/a-laboratory-notebook-system</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Many scientists are using a laboratory notebook when conducting experiments.
+The scientist documents each step, either taken in the experiment or
+afterwards when processing data. Due to computerized research systems,
+acquired data increases in volume and becomes more elaborate. This increases
+the need to migrate from originally paper-based to electronic notebooks with
+data storage, computational features and reliable electronic documentation.
+This talks describes a laboratory notebook based on the Python data management
+software DataFinder. It allows to manage data from experiments and
+simulations, to run analysis software and to create visualizations of results.
+The laboratory notebook assures that the complete history of all performed
+steps ("Provenance") is recorded, that results can be signed digitally, and
+that results can be archived in a secure archive to avoid and prevent legal
+issues.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Schereiber</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1275/a-laboratory-notebook-system</guid><enclosure url="http://www.youtube.com/watch?v=jrQT77qFN3o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/jrQT77qFN3o/hqdefault.jpg"></media:thumbnail></item><item><title>Aspect oriented programming applied to dictionary trees</title><link>http://www.pyvideo.org/video/1273/aspect-oriented-programming-applied-to-dictionary</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Florian Friesdorf - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Mixins enable code re-usage across class hierarchies, adapters allow for
+additional run-time behaviour — metachao aspects merge these two concept and
+go beyond: they can be applied to classes, instances and aspects themselves,
+allowing for functional meta-programming in python. Their beauty will be
+demonstrated by example of dictionary trees, where all behaviour is
+implemented in form of aspects and applied to different dictionary
+implementations. The goal of the talk is to get an understanding of how aspect
+oriented programming can look and why dictionary trees in combination with
+aspects are a cool way of designing applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Friesdorf</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1273/aspect-oriented-programming-applied-to-dictionary</guid><enclosure url="http://www.youtube.com/watch?v=EwLih26Cjfs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/EwLih26Cjfs/hqdefault.jpg"></media:thumbnail></item><item><title>Behaviour Driven Development at BSkyB</title><link>http://www.pyvideo.org/video/1262/behaviour-driven-development-at-bskyb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Russell Sherwood- David Sale - 5 JULY 2012 in "Track
+Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+BSkyB is a major player in the broadcasting and telecoms market in the United
+Kingdom. Skyâ??s offering of premium sports, movies and entertainment channels
+puts it at the forefront of Television entertainment in more than 10 million
+homes. Its ample broadband and telephone products have allowed the company to
+expand its customer base and offer an all round package to its customers. With
+a focus on quality and stability in everything Sky produces, testing of
+applications is paramount. As part of this business, the company needs a
+successful and efficient way to sell these products to its customers and as
+such the modelling, rules and pricing of packages need to lay a firm
+foundation for different parts of a sales application to function well.
+Testing plays a key role to ensure that delivery of a product is always as
+incident free as possible. Within the agile framework, unit tests, behaviour
+driven development (BDD) and continuous integration play a key role in making
+this possible. Ensuring we discover defects early enables us to deliver
+software fortnightly. BDD tests allow the team to test the application as the
+user will use it, highlighting any issues from front end through to back end.
+More importantly with BDD tests written in plain English and python code
+underneath it allows the Quality Assurance personnel (QAâ??s), developers and
+business owners to work together in constructing and writing tests. This
+brings together the entire team rather than separating the separate stages of
+application development. In this EuroPython presentation, we will cover the
+following aspects of BDD: â?¢ The role of BDD in Agile Development â?? a brief
+introduction to the usage of BDD on a daily basis and the process of QAâ??s
+and developers working together to form quality tests. â?¢ Creating a
+successful and useful BDD test â?? writing the feature file (plain English
+definition of what the test will achieve), underlying step definitions and how
+working collectively can maximize the coverage of routes through the code. â?¢
+BDD usage in continuous integration â?? the movement of code through a
+continuous build process, catching defects early and how BDD tests ensure
+confidence in your application as it moves into production.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Sale,Russell Sherwood</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1262/behaviour-driven-development-at-bskyb</guid><enclosure url="http://www.youtube.com/watch?v=OMLDHNaUMB8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OMLDHNaUMB8/hqdefault.jpg"></media:thumbnail></item><item><title>Building a full featured Python Web Application in 10 minutes with turbogears2 pluggable extensions part 2</title><link>http://www.pyvideo.org/video/1277/building-a-full-featured-python-web-application-i</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Building a full featured Python Web Application in 10 minutes with turbogears2
+pluggable extensions part 2 [EuroPython 2012] A Molina - 5 JULY 2012 in "Track
+Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The TurboGears 2.1 release series has deeply focused on speeding up the
+development process for rapidly prototyping full featured applications. This
+has lead to a many improvements to the CRUD extension and to the support to
+pluggable applications. Mastering those tools can make possible to build a
+complete application without much effort using the partials made available by
+the pluggable applications and exposing administrative interfaces in a bunch
+of lines of code using the CRUD extension both using SQLA and MongoDB.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Molina</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1277/building-a-full-featured-python-web-application-i</guid><enclosure url="http://www.youtube.com/watch?v=PcopX_ney0g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/PcopX_ney0g/hqdefault.jpg"></media:thumbnail></item><item><title>Building your first app with python and MongoDB</title><link>http://www.pyvideo.org/video/1254/building-your-first-app-with-python-and-mongodb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Ross Lawley - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+MongoDB - from “humongous” - is an open source, non-relational, document-
+oriented database. Trading off a few traditional features of databases
+(Notably joins and transactions) in order to Achieve much better performance,
+MongoDB is fast, scalable, and designed for web development. The goal of the
+project is MongoDB to bridge the gap between key-value stores (which are fast
+and highly scalable) and traditional RDBMS systems (which queries Provide rich
+and deep functionality). This talk will introduce the rich feature set of
+mongoDB and examine how easy it is to develop with using python. We’ll discuss
+the various ODM’s solutions that really let you develop quickly and how
+mongoDB can be used to easily scale.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ross Lawley</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1254/building-your-first-app-with-python-and-mongodb</guid><enclosure url="http://www.youtube.com/watch?v=FLIEJt6IymY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/FLIEJt6IymY/hqdefault.jpg"></media:thumbnail></item><item><title>concurrent.futures is here</title><link>http://www.pyvideo.org/video/1280/concurrentfutures-is-here</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Andrew Dalke - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The future is here! Or rather, concurrent.futures became part of the Python
+standard library with 3.2. This style of asynchronous programming, also known
+as promises, has been around for decades but is only recently becoming popular
+in a number of languages and libraries. My presentation is meant for a Python
+programmer who knows nothing about futures. I’ll structure it around
+processing web server logs, and show several ways to Python code can make more
+effective use of a multi-core machine. In some cases the multi-threaded
+executor is good enough, but in others the right solution is the multi-process
+executor. Because of the unified API, it’s a one line change to switch from
+one to the other. It isn’t hard to write your own executor for different
+compute models. I’ll show that by developing a new one which works on top of
+the PiCloud API. At the end I’ll describe some of the more experimental work
+I’m doing to use promises in a dependency graph, where certain computed
+properties are dependent on others. Even though concurrent.futures came in
+3.2, Python 2.x users can use the API through Alex Grönholm’s ‘futures’
+backport.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Dalke</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1280/concurrentfutures-is-here</guid><enclosure url="http://www.youtube.com/watch?v=2Ng-UIedZMY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/2Ng-UIedZMY/hqdefault.jpg"></media:thumbnail></item><item><title>Content Management professionale con Python nel 2012</title><link>http://www.pyvideo.org/video/1260/content-management-professionale-con-python-nel-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Maurizio Delmonte - 5 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django o Pyramid, rapidi da apprendere e mettere a frutto, sono potenti
+strumenti di lavoro, utili a costruire siti gestiti da un solo autore o
+applicazioni web di servizio. Ma se avete bisogno di far collaborare un vera
+redazione alla pubblicazione di un portale ricco di
+contenuti,&amp;nbsp_place_holder;non troverete stoffa pythonica migliore di Plone!
+Come costruire un servizio di Content e Document Management potente e
+professionale nel 2012? Facciamo il punto su cosa offre il mondo Python di
+oggi.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maurizio Delmonte</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1260/content-management-professionale-con-python-nel-2</guid><enclosure url="http://www.youtube.com/watch?v=vUwSWtWJrnY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vUwSWtWJrnY/hqdefault.jpg"></media:thumbnail></item><item><title>Costruire applicazioni web complesse con le pluggable applications di TurboGears2 in pochi minuti</title><link>http://www.pyvideo.org/video/1247/costruire-applicazioni-web-complesse-con-le-plugg</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Alessandro Molina - 5 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Con la release 2.1 di TurboGears il team di sviluppo ha posto molta enfasi nel
+creare un set di strumenti utili al rapid prototyping di applicazioni web.
+Questo ha portato alla realizzazione di molte migliorie all’estensione per la
+generazione di CRUD ed al supporto per le applicazioni pluggabili.
+Padroneggiare questi strumenti può permetterci di creare applicazioni web
+complesse senza troppa fatica riutilizzando parti messe a disposizione da
+altre applicazioni pluggabili e creando sezioni amministrative con poche righe
+di codice tramite l’uso dell’estensione CRUD sia su SQLAlchemy che MongoDB.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Molina</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1247/costruire-applicazioni-web-complesse-con-le-plugg</guid><enclosure url="http://www.youtube.com/watch?v=M8v06Wksx24" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/M8v06Wksx24/hqdefault.jpg"></media:thumbnail></item><item><title>Fast Data Mining with Pytables and pandas</title><link>http://www.pyvideo.org/video/1255/fast-data-mining-with-pytables-and-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Y Hipisch - 5 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In a number of industries, like financial services or utilities, it is
+important to analyze huge sets of data in an efficient and fast manner.
+Typical solutions that are based on SQL databases or follow some kind of data
+warehouse approach are generally quite expensive and demand for huge computing
+power. Using the Python libraries PyTables and pandas brings high performance
+data mining to your desktop computer or even notebook. The talk illustrates
+how to beneficially apply these libraries in the context of financial time
+series and other data sets. It is also illustrated how you can implement fast
+calculations on data sets which do not fit into the memory of your computer.
+In addition, the talk provides a number of examples for the visualization of
+your data mining efforts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Y Hipisch</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1255/fast-data-mining-with-pytables-and-pandas</guid><enclosure url="http://www.youtube.com/watch?v=_JrZUm9ZHIw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/_JrZUm9ZHIw/hqdefault.jpg"></media:thumbnail></item><item><title>Full text search for trac with apache solr</title><link>http://www.pyvideo.org/video/1271/full-text-search-for-trac-with-apache-solr</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Willmer- 5 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Trac is a widely used integrated bug, wiki and source control interface for
+managing software projects. It’s very extensible and a wide range of plugins
+are available. We shall present a newly written full text search plugin for
+Trac that uses Apache Solr to make all parts of trac searchable - including
+the source code repository and all file attachments. The session will
+introduce Solr and show how it can be integrated into a Python project
+-including the pitfalls to avoid and the more useful features.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Willmer</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1271/full-text-search-for-trac-with-apache-solr</guid><enclosure url="http://www.youtube.com/watch?v=6XvSvPhqRZ4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/6XvSvPhqRZ4/hqdefault.jpg"></media:thumbnail></item><item><title>Fully Test-driven Django with selenium part 1</title><link>http://www.pyvideo.org/video/1249/fully-test-driven-django-with-selenium-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] H Percival - 5 JULY 2012 in "Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+tl; dr: The concept: run through the official Django tutorial, but with full
+TDD Includes browser-based testing with Selenium, using the new WebDriver API
+In-depth unit-testing, including the Django Test Client and tools like Mock
+Discussions of TDD philosophy: what to test, what not to test, how to test
+[http://www.tdd-django-tutorial.com/](http://www.tdd-django-tutorial.com/)
+[https://github.com/hjwp/Test-Driven-Django-Tutorial](https://github.com/hjwp
+/Test-Driven-Django-Tutorial) come prepared! you’ll need git, firefox,
+python2.7, django1.4 and selenium installed. Fully Test-Driven Django with
+Selenium AKA “The Django Pony vs The Testing Goat” This tutorial is aimed
+primarily at people who want to learn about one or many of: Django Selenium
+Test-Driven-Development So it’s aimed at beginners of one kind or another – if
+you are already well versed in all three, then you may not get much out of it.
+The idea is to run through the steps covered by the official Django tutorial,
+covering the essentials of Django from a beginner’s point of view. However, at
+each stage, instead of “just” writing the Django code required to build our
+site, we first write tests. And we don’t just write unit tests! We start by
+writing “functional” or “acceptance” tests, using Selenium - which means
+driving a real browser, and checking the actual behaviour of the site as it is
+rendered, from the user’s point of view. Why should you listen to me, I hear
+you ask? Well, I was lucky enough to get my first “proper” software
+development job about two years ago with a bunch of Extreme Programming
+fanatics, who’ve thoroughly inculcated me into their cult of Test-Driven
+development. Believe me when I say I’m contrary enough to have questioned
+every single practice, challenged every single decision, moaned about every
+extra minute spent doing “pointless” tests instead of writing “proper” code.
+But I’ve come round to the idea now, and whenever I’ve had to go back to some
+of my old projects which don’t have tests, boy have I ever realised the wisdom
+of the approach. So, I’ve learnt from some really good people, and the
+learning process is still fresh in my mind, and most importantly, I still have
+the passion of a recent convert! Pre-requisites Come with the following pre-
+installed on your laptop please: Git Firefox Python 2.7
+setuptools/easy_install/pip then: pip install django pip install selenium pip
+install mock PS - I don’t have a preview of my TDD talk, but there is one
+video of me giving a lightning talk at last year’s Pycon UK. It’s on a totally
+different topic, but it gives a hit of my “dynamic” presentation “skills": - [
+https://www.youtube.com/watch?v=e6NLAbgmRZ4](https://www.youtube.com/watch?v=e
+6NLAbgmRZ4)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">H Percival</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1249/fully-test-driven-django-with-selenium-part-1</guid><enclosure url="http://www.youtube.com/watch?v=WfyoC0h9QKA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/WfyoC0h9QKA/hqdefault.jpg"></media:thumbnail></item><item><title>Fully Test-driven Django with selenium part 2</title><link>http://www.pyvideo.org/video/1251/fully-test-driven-django-with-selenium-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] H Percival - 5 JULY 2012 in "Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+tl; dr: The concept: run through the official Django tutorial, but with full
+TDD Includes browser-based testing with Selenium, using the new WebDriver API
+In-depth unit-testing, including the Django Test Client and tools like Mock
+Discussions of TDD philosophy: what to test, what not to test, how to test
+[http://www.tdd-django-tutorial.com/](http://www.tdd-django-tutorial.com/)
+[https://github.com/hjwp/Test-Driven-Django-Tutorial](https://github.com/hjwp
+/Test-Driven-Django-Tutorial) come prepared! you’ll need git, firefox,
+python2.7, django1.4 and selenium installed. Fully Test-Driven Django with
+Selenium AKA “The Django Pony vs The Testing Goat” This tutorial is aimed
+primarily at people who want to learn about one or many of: Django Selenium
+Test-Driven-Development So it’s aimed at beginners of one kind or another – if
+you are already well versed in all three, then you may not get much out of it.
+The idea is to run through the steps covered by the official Django tutorial,
+covering the essentials of Django from a beginner’s point of view. However, at
+each stage, instead of “just” writing the Django code required to build our
+site, we first write tests. And we don’t just write unit tests! We start by
+writing “functional” or “acceptance” tests, using Selenium - which means
+driving a real browser, and checking the actual behaviour of the site as it is
+rendered, from the user’s point of view. Why should you listen to me, I hear
+you ask? Well, I was lucky enough to get my first “proper” software
+development job about two years ago with a bunch of Extreme Programming
+fanatics, who’ve thoroughly inculcated me into their cult of Test-Driven
+development. Believe me when I say I’m contrary enough to have questioned
+every single practice, challenged every single decision, moaned about every
+extra minute spent doing “pointless” tests instead of writing “proper” code.
+But I’ve come round to the idea now, and whenever I’ve had to go back to some
+of my old projects which don’t have tests, boy have I ever realised the wisdom
+of the approach. So, I’ve learnt from some really good people, and the
+learning process is still fresh in my mind, and most importantly, I still have
+the passion of a recent convert! Pre-requisites Come with the following pre-
+installed on your laptop please: Git Firefox Python 2.7
+setuptools/easy_install/pip then: pip install django pip install selenium pip
+install mock PS - I don’t have a preview of my TDD talk, but there is one
+video of me giving a lightning talk at last year’s Pycon UK. It’s on a totally
+different topic, but it gives a hit of my “dynamic” presentation “skills": - [
+https://www.youtube.com/watch?v=e6NLAbgmRZ4](https://www.youtube.com/watch?v=e
+6NLAbgmRZ4)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">H Percival</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1251/fully-test-driven-django-with-selenium-part-2</guid><enclosure url="http://www.youtube.com/watch?v=1oenHuqyQXc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/1oenHuqyQXc/hqdefault.jpg"></media:thumbnail></item><item><title>Functional functional programming in Python and even Haskell part 1</title><link>http://www.pyvideo.org/video/1248/functional-functional-programming-in-python-and-e</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] S Trygubenko - 5 JULY 2012 in "Track Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Reaping the benefits of functional programming can be a real challenge,
+falling anywhere between exciting and frustrating, to the point that one might
+end up feeling demotivated and embarrassed about writing in the functional
+style in the “real world”. I have always strived to write functional side-
+effect free code for production, and this year I have been taking functional
+programming for myself one step further by re-writing some of my Python tools
+in Haskell, and I would like to share my findings. In this tutorial we will
+work through a progression of increasing in complexity fun-to-solve problems,
+obtain solutions both in Python and Haskell, in order to be able to first hand
+compare and contrast readability, performance and development time. Bring a
+laptop and a couple of interpreters (ipython and ghci) and lets do some
+hacking!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S Trygubenko</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1248/functional-functional-programming-in-python-and-e</guid><enclosure url="http://www.youtube.com/watch?v=83YIQwtXKzk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/83YIQwtXKzk/hqdefault.jpg"></media:thumbnail></item><item><title>Functional functional programming in Python and even Haskell part 2</title><link>http://www.pyvideo.org/video/1258/functional-functional-programming-in-python-and-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] S Trygubenko - 5 JULY 2012 in "Track Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Reaping the benefits of functional programming can be a real challenge,
+falling anywhere between exciting and frustrating, to the point that one might
+end up feeling demotivated and embarrassed about writing in the functional
+style in the “real world”. I have always strived to write functional side-
+effect free code for production, and this year I have been taking functional
+programming for myself one step further by re-writing some of my Python tools
+in Haskell, and I would like to share my findings. In this tutorial we will
+work through a progression of increasing in complexity fun-to-solve problems,
+obtain solutions both in Python and Haskell, in order to be able to first hand
+compare and contrast readability, performance and development time. Bring a
+laptop and a couple of interpreters (ipython and ghci) and lets do some
+hacking!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S Trygubenko</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1258/functional-functional-programming-in-python-and-0</guid><enclosure url="http://www.youtube.com/watch?v=J992TknDAT8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/J992TknDAT8/hqdefault.jpg"></media:thumbnail></item><item><title>Guidelines to writing a Python API</title><link>http://www.pyvideo.org/video/1276/guidelines-to-writing-a-python-api</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] George Peristerakis - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The talk will address the design and implementation of APIs using Python. The
+goal is show how Python can help design clean and consist API from the
+engineering point of view. The talk will be divided into 3 parts. 1. The
+motivation behind writing a API. 2. Show design patterns that help design the
+foundations of an API 3. Show an example of building an API (e-commerce
+module)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George Peristerakis</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1276/guidelines-to-writing-a-python-api</guid><enclosure url="http://www.youtube.com/watch?v=Skdz5tTAHK0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Skdz5tTAHK0/hqdefault.jpg"></media:thumbnail></item><item><title>HotPy (2) - A High Performance Binary-Compatible Virtual Machine for Python</title><link>http://www.pyvideo.org/video/1261/hotpy-2-a-high-performance-binary-compatible</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Mark Shannon - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+HotPy (2) is a new interpreter for Python. It is binary compatible with
+CPython and reuses CPython’s object and module implementations. The core
+interpreter is new and uses many of the techniques developed during the 1990s
+and 2000s plus a technique developed during my PhD. Once the first stage of
+the optimisation chain is completed (May or June), HotPy is expected to be
+between 2 and 3 times as fast as CPython. It will probably never be as fast as
+PyPy, but it might be possible to get close. During the talk I will explain
+how it works (with lots of pictures), and how it compares to CPython and PyPy.
+I will also discuss whether the techniques used in HotPy would be suitable for
+Jython and IronPython.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Shannon</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1261/hotpy-2-a-high-performance-binary-compatible</guid><enclosure url="http://www.youtube.com/watch?v=c6PYnZUMF7o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/c6PYnZUMF7o/hqdefault.jpg"></media:thumbnail></item><item><title>Increasing women engagement in the Python community</title><link>http://www.pyvideo.org/video/1278/increasing-women-engagement-in-the-python-communi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] L Root - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Are you a woman wanting to break into the engineering field? Or do you know
+any women wanting to learn how to code, but don’t know how to help them?
+Perhaps our nerdy ladies are a bit shy to ask for help. That’s okay! I’ll give
+you some tools to nudge you in the right direction. In this session, Iâ??ll be
+talking about how I increased womenâ??s engagement in the Python community
+though demonstrating how versatile the language is with practical projects, by
+creating a safe space for women to learn and to fail, and by encouraging
+involvement beyond the classroom.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">L Root</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1278/increasing-women-engagement-in-the-python-communi</guid><enclosure url="http://www.youtube.com/watch?v=l2PnVKQJg0I" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/l2PnVKQJg0I/hqdefault.jpg"></media:thumbnail></item><item><title>Language alone won't pay your bills</title><link>http://www.pyvideo.org/video/1272/language-alone-wont-pay-your-bills</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Alan Franzoni - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+What’s Python like? Is it ready for the “enterprise”? Does it scale well in
+the “cloud”? How does it stand against its old, bearded enemies like Java, or
+new threats like Ruby? A lot of work on Python is focused on the language
+itself, making it quite pleasant to read and write, and catering hordes of
+language lovers that swear by it. Nowadays, though, we don’t just choose a
+language: we pick a platform - which includes a runtime, APIs, and a lot of
+tools - along with its strengths and weaknesses, and many factors should be
+considered before doing so - mostly because we don’t usually have a “best
+choice ever” and we must face some sort of tradeoff with each design choice.
+Java is ubiquitous in the “enterprise software” world despite its
+cumbersomeness - why? Is it really just a matter of slow adoption rate, or
+does it still stand strong in some fields? We’ll explore where Python already
+works well and where it falls beyond others, not just in terms of language
+beauty, but in terms of tools and team productivity. We won’t be able to go
+really deep into each aspect since time is limited, but questions are welcome.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alan Franzoni</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1272/language-alone-wont-pay-your-bills</guid><enclosure url="http://www.youtube.com/watch?v=JlNYO4zUDAQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/JlNYO4zUDAQ/hqdefault.jpg"></media:thumbnail></item><item><title>Making DISQUS realtime</title><link>http://www.pyvideo.org/video/1279/making-disqus-realtime</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Adam Hitchcock - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk will overview what it took to add realtime to a truly “web scale”
+app. The result is the DISQUS realtime system, a highly concurrent system for
+allowing web clients to subscribe to arbitrary events in the DISQUS
+infrastructure. The talk will be about 30 minutes with an extended
+Question/Answer/Open discussion time (because your ideas are good too!).
+Overview of the architecture (redis + gevent + flask) and why those choices
+were made Numbers! how much concurrency and msg/s we are supporting with
+realtime How we baked high availability into the application, not just the
+infrastructure Overview of the hardware involved Lessons learned (what broke
+hard, what worked awesome) Suggested audience experience: Medium/Advanced
+level experience Familiarity with Flask, Gevent/Eventlet would be really good.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Hitchcock</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1279/making-disqus-realtime</guid><enclosure url="http://www.youtube.com/watch?v=PeVB5DNptD4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/PeVB5DNptD4/hqdefault.jpg"></media:thumbnail></item><item><title>Minimalism in software development, or why you should do less</title><link>http://www.pyvideo.org/video/1243/minimalism-in-software-development-or-why-you-sh</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Fredrik Haard - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Lean and agile promises - when implemented right - to reduce the pain of
+process and management overhead. As agile proponents say (the better of them
+at least), this does not actually solve all our problems, it merely lets us
+see them clearer. And one thing that we can see clear once management overhead
+goes down, is that we are perfectly able to create our own, technical,
+overhead. Developer culture and a tendency of solving problems ‘the usual way’
+can - and does - create complicated solutions to simple problems, and
+regularly leaves us in configuration hell. This is a talk about frameworks and
+API:s, programming languages and data storage, and why we - developers - spend
+a large amount of time not creating value. Even if we have the most perfect of
+agile implementations with zero process overhead (yeah, right!), we still
+waste time in development, and its all our own fault. I will discuss what we
+spend our time on, why any framework should be approached with trepidation,
+and how we can do better than keep repeating the mistakes of yesteryear.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fredrik Haard</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1243/minimalism-in-software-development-or-why-you-sh</guid><enclosure url="http://www.youtube.com/watch?v=kEqwe7EGuQU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/kEqwe7EGuQU/hqdefault.jpg"></media:thumbnail></item><item><title>NDB: the new data store library for Google App Engine</title><link>http://www.pyvideo.org/video/1266/ndb-the-new-data-store-library-for-google-app-en</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+
+&lt;p&gt;Description&lt;/p&gt;
+NDB is a new Python client library for the Google App Engine Datastore. NDB
+has an integrated multi-level cache, supports synchronous and asynchronous
+calls, automatically batches requests, and several ways of storing structured
+data. The thrust for developing NDB was the realization that the original
+Python datastore client library, “db”, had some architectural and design flaws
+which were hard to fix due to strict backward compatibility requirements. But
+in the process, NDB became much more than an improved db library. NDB offers a
+new paradigm for asynchronous APIs, based on coroutines implemented using
+Python’s “yield” expression (and a simple event loop). It also supports a
+flexible way to create new Property classes by subclassing existing Property
+classes.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1266/ndb-the-new-data-store-library-for-google-app-en</guid><enclosure url="http://www.youtube.com/watch?v=HiOp8KQLcgM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/HiOp8KQLcgM/hqdefault.jpg"></media:thumbnail></item><item><title>Non solo Django MVC orientato ai contenuti con Plone e Zope Toolkit</title><link>http://www.pyvideo.org/video/1253/non-solo-django-mvc-orientato-ai-contenuti-con-pl</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maurizio Delmonte</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1253/non-solo-django-mvc-orientato-ai-contenuti-con-pl</guid><enclosure url="http://www.youtube.com/watch?v=8q2ROzfX8E0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/8q2ROzfX8E0/hqdefault.jpg"></media:thumbnail></item><item><title>PSF Address</title><link>http://www.pyvideo.org/video/1267/psf-address</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marcandre Lembourg</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1267/psf-address</guid><enclosure url="http://www.youtube.com/watch?v=qZfkxymF_Xo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qZfkxymF_Xo/hqdefault.jpg"></media:thumbnail></item><item><title>Python and Arduino: a tale of snakes and kings</title><link>http://www.pyvideo.org/video/1268/python-and-arduino-a-tale-of-snakes-and-kings</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Davide Corio e Alessandro Pasotti - 5 JULY 2012 in "Track
+Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Interact with the real world is one of the most common needs when we talk
+about monitoring, robotics, PLC and other business software related needs we
+often hear about. Arduino is the most important electronic prototyping
+platform, but few know we can use Python to interact with it. So, let’s
+discover how we can use Python to develop applications and interact with this
+awesome prototyping board.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Pasotti,Davide Corio</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1268/python-and-arduino-a-tale-of-snakes-and-kings</guid><enclosure url="http://www.youtube.com/watch?v=IslxBmz1pVg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IslxBmz1pVg/hqdefault.jpg"></media:thumbnail></item><item><title>Python e Arduino una storia di serpenti e re</title><link>http://www.pyvideo.org/video/1270/python-e-arduino-una-storia-di-serpenti-e-re</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Pasotti,Davive Corio</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1270/python-e-arduino-una-storia-di-serpenti-e-re</guid><enclosure url="http://www.youtube.com/watch?v=MXEF7CE9ERQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/MXEF7CE9ERQ/hqdefault.jpg"></media:thumbnail></item><item><title>Python in banking systems</title><link>http://www.pyvideo.org/video/1264/python-in-banking-systems</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Dziergwa - 5 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Creating applications for banks, especially internet banking systems, is a
+very complicated process. Because we do it since many years, I would like to
+show how we do it. The talk will cover: architecture of bank transactional
+system tools used to create such solutions python frameworks used to build
+bank applications generating advanced forms and tables testing process build
+process logging what to focus on when you work with banks
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Dziergwa</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1264/python-in-banking-systems</guid><enclosure url="http://www.youtube.com/watch?v=AmmVtWY2GfU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/AmmVtWY2GfU/hqdefault.jpg"></media:thumbnail></item><item><title>Python is faster than fortran</title><link>http://www.pyvideo.org/video/1265/python-is-faster-than-fortran</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Muller - 5 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Many people may think that Python is slow because it is compiled to byte code.
+This presentation shows that Python can be fast even for computational
+intensive applications. In the example presented here, Python competes with
+FORTRAN, a programming languages renowned for its performance and aggressively
+optimizing compilers. Python offers powerful data structures such as sets that
+make writing efficient algorithms extremely simple. FORTRAN on the other hand,
+has much less in such support. For the given example, it takes considerably
+more programming in FORTRAN than in Python to achieve similar execution times
+for large data sizes. The comparison of program run times and lines of code,
+which can be roughly translated into development effort, shows that Python can
+actually be faster than FORTRAN under many circumstances typically found in
+real life.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Muller</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1265/python-is-faster-than-fortran</guid><enclosure url="http://www.youtube.com/watch?v=5kn3Sugrxz8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/5kn3Sugrxz8/hqdefault.jpg"></media:thumbnail></item><item><title>Python web applications in multihost, low latency environments</title><link>http://www.pyvideo.org/video/1263/python-web-applications-in-multihost-low-latency</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] P Schon - 5 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Creating low-level truncated WSGI frameworks to have lightweight skeleton
+Sharing state between nodes, stateless nodes, H+V scalability Background
+worker/writer processes to prepare and cache data Customizing Apache+mod-wsgi,
+running specialised daemons with mod-wsgi Realtime data updates via SOAP, RPC,
+AJAX, REST Goal of the talk is to show ways, how to develop and run python web
+applications, that responds as fast as possible Audience should know basics of
+HTTP, WSGI, python web frameworks.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">P Schon</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1263/python-web-applications-in-multihost-low-latency</guid><enclosure url="http://www.youtube.com/watch?v=I_HqPjl6quo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/I_HqPjl6quo/hqdefault.jpg"></media:thumbnail></item><item><title>Reproducible installation of applications using zc.buildout</title><link>http://www.pyvideo.org/video/1259/reproducible-installation-of-applications-using-z</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] T Lotze- 5 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+zc.buildout is a tool to install and configure applications. An application
+may consist of multiple parts and include multiple programs and processes.
+Both installation and configuration of the application as a whole are
+controlled by a configuration file which makes it possible to reproduce them
+exactly at a later point in time or on a different host. zc.buildout is
+extensible so it may be used to install application parts with nearly
+arbitrary individual requirements. The talk introduces zc.buildout, gives an
+overview of its possibilities as well as the major third-party extensions and
+demonstrates the system by means of a case study.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">T Lotze</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1259/reproducible-installation-of-applications-using-z</guid><enclosure url="http://www.youtube.com/watch?v=29rzDcisVZQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/29rzDcisVZQ/hqdefault.jpg"></media:thumbnail></item><item><title>Scegliere con saggezza il proprio WSGI server</title><link>http://www.pyvideo.org/video/1250/scegliere-con-saggezza-il-proprio-wsgi-server</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Roberto De Ioris - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Il mondo dei WSGI server e’ costellato di miti e leggende. La maggior parte
+degli utenti (soprattutto quelli alle prime armi) tende a sceglierli in base a
+fattori poco rilevanti o facendosi indirizzare da analisi completamente
+errate. Il talk descrivera’ cosa e’ un WSGI server, quali sono le scelte
+disponibili nel mondo opensource e come scegliere il prodotto piu’ adatto alle
+proprie esigenze
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1250/scegliere-con-saggezza-il-proprio-wsgi-server</guid><enclosure url="http://www.youtube.com/watch?v=YKYpyGG6dvU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YKYpyGG6dvU/hqdefault.jpg"></media:thumbnail></item><item><title>Some Experiences with Python-for-Android (Py4A)</title><link>http://www.pyvideo.org/video/1246/some-experiences-with-python-for-android-py4a</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nik Klever - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+I will talk about some experiences about the API of the Scripting Layer for
+Android (SL4A) which is included in the Python-for-Android Package. The
+simplicity of the SL4A API lets students code mobile Python programs in a
+quick and easy way. Some properties of the Android GUI and the underlying
+Linux are discussed using an GPS tracking application and some standard Python
+applications like the Web Application Framework Web2py. This talk is intended
+for beginners who have some experience with Python but none with Android and
+the Py4A library. It’s not going into details, but more on how easy it was,
+porting Python code on Android and using especially the Android GUI with the
+Scripting Layer for Android (SL4A).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nik Klever</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1246/some-experiences-with-python-for-android-py4a</guid><enclosure url="http://www.youtube.com/watch?v=RCBiw78SDb8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/RCBiw78SDb8/hqdefault.jpg"></media:thumbnail></item><item><title>sys._current_frames(): take real-time X-rays of your software for fun and performance</title><link>http://www.pyvideo.org/video/1257/sys_current_frames-take-real-time-x-rays-of-y</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Leonardo Almeida - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Profiling is hard. Trying to understand what is making your system slow can be
+very frustrating. Specially when it happens only when your clients are
+looking, but not you. Python comes with elaborate profiling tools, but
+understanding the output of profile/cProfile can be a daunting task, specially
+on complex frameworks, and these modules might be impractical in a production
+environment where their performance toll can make the system unusable. But
+Python is a very reflexive language, allowing extensive investigation of its
+own state during runtime, and one of its lesser known tools is the
+sys._current_frames() function. It can be used to take an X-ray of what all
+the threads in your running Python program are doing. It can also be used for
+a kind of “statistical” profiling, with little impact on your running system.
+In this talk we’ll investigate how this function can be used to tell what your
+program is doing, exactly at the moment when it is misbehaving. We’ll learn
+how looking at a series of tracebacks, instead of a bunch of calling
+statistics, can help zooming quickly into code hot spots. We’ll also show some
+case studies of real world server-side slowdowns that were solved by the use
+of this technique which were caused by complex interactions of different
+components, including a case where a serious performance issue was diagnosed
+in a production deployment of ERP5 in a corporate client of Nexedi’s.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Leonardo Almeida</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1257/sys_current_frames-take-real-time-x-rays-of-y</guid><enclosure url="http://www.youtube.com/watch?v=MFqP03EfT4I" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/MFqP03EfT4I/hqdefault.jpg"></media:thumbnail></item><item><title>The integrator's guide to duct-taping</title><link>http://www.pyvideo.org/video/1256/the-integrators-guide-to-duct-taping</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] S Deponti - 5 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+“Duct-taping” different systems together is a common task, and is generally
+regarded as “mostly harmless”. However, “duct-taping” hides much more pitfalls
+than a cursory examination might reveal, especially when the constraints
+outside the developer’s control are many. In this talk, a classification of
+the different integration scenarios is presented, along with methodologies to
+identify them and asses their complexity: those hiding the most dangerous
+pitfalls will be examined in detail, and methodologies and best practices to
+avoid them will be exposed, with a special care put into considerations about
+security and scalability.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S Deponti</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1256/the-integrators-guide-to-duct-taping</guid><enclosure url="http://www.youtube.com/watch?v=1yZmtiNeffg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/1yZmtiNeffg/hqdefault.jpg"></media:thumbnail></item><item><title>Twisted tutorial part 1</title><link>http://www.pyvideo.org/video/1252/twisted-tutorial-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] S Thorne - 5 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Twisted is one of the best asynchronous network programming frameworks out
+there, and can help you build cool stuff very easily, once you understand the
+core design. Unfortunately, Twisted is also a huge framework and can be very
+daunting for beginners to approach. This training session aims to help people
+with little or no asynchronous programming experience understand both Twisted
+and asynchronous programming. The plan is to cover core asynchronous topics,
+the Twisted way, and as many practical applications as we can cover, including
+web services, IPC, GUI applications etc. The audience should be competent in
+core Python constructs. No previous asynchronous or threading programming
+experience required. This is a repeat of the popular EuroPython 2011 Twisted
+Tutorial, improved after feedback.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S Thorne</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1252/twisted-tutorial-part-1</guid><enclosure url="http://www.youtube.com/watch?v=GuNwewBU_Hw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/GuNwewBU_Hw/hqdefault.jpg"></media:thumbnail></item><item><title>Twisted tutorial part 2</title><link>http://www.pyvideo.org/video/1245/twisted-tutorial-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] S Thorne - 5 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Twisted is one of the best asynchronous network programming frameworks out
+there, and can help you build cool stuff very easily, once you understand the
+core design. Unfortunately, Twisted is also a huge framework and can be very
+daunting for beginners to approach. This training session aims to help people
+with little or no asynchronous programming experience understand both Twisted
+and asynchronous programming. The plan is to cover core asynchronous topics,
+the Twisted way, and as many practical applications as we can cover, including
+web services, IPC, GUI applications etc. The audience should be competent in
+core Python constructs. No previous asynchronous or threading programming
+experience required. This is a repeat of the popular EuroPython 2011 Twisted
+Tutorial, improved after feedback.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S Thorne</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1245/twisted-tutorial-part-2</guid><enclosure url="http://www.youtube.com/watch?v=VOUH4_ka2Ls" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/VOUH4_ka2Ls/hqdefault.jpg"></media:thumbnail></item><item><title>Usiamo la api di uWSGI per scrivere applicazioni meno noiose</title><link>http://www.pyvideo.org/video/1281/usiamo-la-api-di-uwsgi-per-scrivere-applicazioni</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Roberto De Ioris - 4 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+uWSGI oltre a fornire un ambiente per eseguire le vostre applicazioni
+python/WSGI, offre una serie di funzionalita’ che estendono le possibilita’
+dei vostri progetti. La api di uWSGI esporta funzioni per gestire il tempo, i
+task asincroni, il monitoraggio dei file e tante altre robe divertenti che vi
+eviteranno di istallare tonnellate di grassi demoni o dire di “no” al cliente.
+Il talk mostrera’ vari utilizzi della api (in ordine di complessita’) e
+qualcuna delle nuove features in sviluppo
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1281/usiamo-la-api-di-uwsgi-per-scrivere-applicazioni</guid><enclosure url="http://www.youtube.com/watch?v=cn0bD2i-Ev8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/cn0bD2i-Ev8/hqdefault.jpg"></media:thumbnail></item><item><title>Using sockets in Python</title><link>http://www.pyvideo.org/video/1244/using-sockets-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] F Buynooghe - 5 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Sockets are a fundamental abstraction operating systems provide to expose
+networking operations. Initially they look like a fairly straight forward
+interface but they hide a surprising amount of complexity. Many protocol
+libraries hide sockets away from the developer but it can still be useful to
+know the sockets themselves. Other times directly using sockets is just a
+better or simpler option. This talk will cover practical socket programming in
+python, concentrating on TCP and UDP over IP (v4 &amp; v6) the basic APIs of
+address resolution and using sockets will be covered. Common patterns and
+pitfalls will be pointed out which should enable to you to write robust socket
+code with the help of tools like StringIO and memoryview. After the basics
+python’s higher level abstractions like create_connection(), .makefile() and
+the io module are covered, explaining when and how these can make life easier.
+Finally a quick look at how non-blocking sockets can be used and how libraries
+like asyncore/asynchat, twisted, eventlet and gevent all approach non-blocking
+I/O in their own way.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">F Buynooghe</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1244/using-sockets-in-python</guid><enclosure url="http://www.youtube.com/watch?v=cPZokpaA0Vw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/cPZokpaA0Vw/hqdefault.jpg"></media:thumbnail></item><item><title>Big a little i (practical artificial intelligence in python)</title><link>http://www.pyvideo.org/video/1302/big-a-little-i-practical-artificial-intelligence</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] T Mawushe - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+These days it is difficult for software to meet users’ expectations to behave
+intelligently. When a program displays a lack of even the most basic awareness
+of context it is jarring. At the same time organisations are seeking to gain a
+competitive advantage through software that behaves adaptively based on the
+information at hand. Solving these problems is a challenge for today’s
+developers. There is general agreement among seasoned developers that having a
+good understanding of basic computer science data structures and algorithms is
+essential. That said there is one sub-section of algorithms that is underused
+by most developers, the algorithms that fall under the general rubric of
+Artificial Intelligence. This talk aims to remedy that by providing a quick
+refresher course on basic AI algorithms using Python. This talk is not about
+building thinking machines, but rather about creating software that users
+won’t think is stupid. Basic AI techniques such as Constraint Propagation and
+Identification Trees, can really help developers along the road to smarter
+software.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">T Mawushe</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1302/big-a-little-i-practical-artificial-intelligence</guid><enclosure url="http://www.youtube.com/watch?v=IvKO63BSc9c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IvKO63BSc9c/hqdefault.jpg"></media:thumbnail></item><item><title>Building C++ APIs on Python</title><link>http://www.pyvideo.org/video/1297/building-c-apis-on-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Bingham - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python has great support for interfacing with C/C++ code, and this has been
+used to great advantage by exposing many C/C++ libraries as Python modules. In
+this talk, I will reverse the equation. I will show you how you can - and why
+you might want to - build C++ APIs on top of Python modules and use them
+directly from your C++ programs. The topics will include: Conversion of types
+across the language boundary. Implementation of C++ idioms (e.g. the
+begin()/end() iterator API) on top of Python idioms. Python runtime
+management: initialization, module loading, etc. Working with the “impedance
+mismatches” between the languages (e.g. duck-typing vs. static typing) I will
+also discuss the reasons why C++ APIs on Python code represent a very useful
+and often powerful technique. The reasons range from simple pragmatism (you
+want to use an existing Python module in an existing C++ program) to
+productivity (writing Python code plus a C++ wrapper can be easier and faster
+than writing pure C++.) link - [https://docs.google.com/presentation/d
+/1hx_59DMQm6ZlI3Jz-LX-
+DZ4m5LVLpGcSlk1Dq1PiELI/edit](https://docs.google.com/presentation/d
+/1hx_59DMQm6ZlI3Jz-LX-DZ4m5LVLpGcSlk1Dq1PiELI/edit)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Bingham</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1297/building-c-apis-on-python</guid><enclosure url="http://www.youtube.com/watch?v=i5YwerH73EY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/i5YwerH73EY/hqdefault.jpg"></media:thumbnail></item><item><title>Camelot 101</title><link>http://www.pyvideo.org/video/1282/camelot-101</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] J Dierckx A Cuni - 4 JULY 2012 in "Track Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Camelot , as seen on EuroPython 2010 and 2011 is a framework for developing
+desktop database applications at warp speed. It is to desktop applications
+what Django is to web applications. Some see it as a replacement for MS
+Access, but its tight integration with SQLAlchemy enables a vast amount of
+more advanced features and possibilities. This tutorial style course will
+enable you to get started with your own Camelot project. We will tackle the
+hurdles met when going through the lifecycle of a desktop application First
+Example : We start our little Camelot project, have a look at the concepts and
+terminology used within Camelot. We go through the different parts of the
+application and look at the possibilities to customize them. Declarative
+Models and Views : Then we move on by defining a relational model and use
+introspection together with a declarative definition of our view to generate
+table and form views. We look at the various options that can be used to
+create and reuse form and table definitions. Actions and Reports : Next we’ll
+dive into the details of actions the user can trigger, we discuss and
+experiment with the standard actions Camelot offers. One of those actions can
+be the generation of a nicely formatted Word document. Advanced Model
+Definition : Once an application grows, more advanced model definition is
+needed. We will try out some advanced features of SQLAlchemy and see how they
+interact with the graphical interface. Fine tuning of the GUI : Here we have a
+look at how Qt’s model-view-delegate framework works and how it is used by
+Camelot. This will enable us to fully customize the graphical interface to our
+needs. Deployment and Users : The last step of the development process is
+getting the application to the users. We will discuss the deployment options
+and list the things to be aware of when submitting an application to its
+users. Q &amp; A : Throw all Camelot questions you have in the group and try to
+resolve them together.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Cuni,J Dierckx</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1282/camelot-101</guid><enclosure url="http://www.youtube.com/watch?v=x4hec861h2w" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/x4hec861h2w/hqdefault.jpg"></media:thumbnail></item><item><title>Clone detection in python</title><link>http://www.pyvideo.org/video/1308/clone-detection-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] V Maggio - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The clone detection is a longstanding and very active research area in the
+field of Software Maintenance aimed at identifying duplications in source
+code. The presence of clones may affect maintenance activities. For example,
+errors in the “original” fragment of code have to be fixed in every clone. To
+make things worse, code clones are usually not documented and so their
+location in the source code is not known. In case of small-size software
+systems the clone detection may be manually performed, but on large software
+systems it can be accomplished only by means of automatic techniques. In this
+talk an approach that exploits structural (i.e., AST) and lexical information
+of the code (e.g., name of methods, variables) for the identification of
+clones will be presented. The main innovation of such approach is represented
+by the adoption of a Machine Learning technique based on (Tree) Kernel
+functions. Some insights on mathematical properties of these Kernel-based
+method along with its corresponding (efficient) Python implementation (Numpy,
+Scipy) will be presented. Afterwards the talk will be focused on the
+explanation of some detection results gathered on well-known Python systems
+(Eric, Plone, networkx, Zope), compared with other non-Python ones (Eclipse-
+Jdtcore, JHotDraw). The aim of this part will be to analyze what are the
+Python features that could possibly avoid (or allow) duplications w.r.t. other
+OO languages. Some snippets for analyzing the Python code “by itself” will be
+also presented, emphasizing the powerful Python built-in reflection
+capabilities, extremely useful in this specific code analysis task. Basic
+maths skill and basic knowledge of the Python language are the only suggested
+prerequisites for the talk.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">V Maggio</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1308/clone-detection-in-python</guid><enclosure url="http://www.youtube.com/watch?v=xmsK1geCDq4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xmsK1geCDq4/hqdefault.jpg"></media:thumbnail></item><item><title>Developing Restful web apis with python, flask and mongodb</title><link>http://www.pyvideo.org/video/1295/developing-restful-web-apis-with-python-flask-an</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] N Iarocci - 4 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In the last year we have been working on a full featured, Python powered,
+RESTful Web API. We learned quite a few things on REST best patterns, and we
+got a chance to put Python’s renowned web capabilities under review, even
+releasing a couple Open Source projects in the process. In my talk I will
+share what we learned. We will consider ‘pure’ REST API design and its many
+hurdles. We will look at what Python as to offer in this field and finally, we
+will dig further down by looking at some of the code we developed. Some of the
+technologies/stacks I’ll cover are (in no particular order): Flask, PyMongo,
+MongoDB, REST, JSON, XML, Heroku. Did you know? Like it or not, there is going
+to be a REST API in your future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">N Iarocci</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1295/developing-restful-web-apis-with-python-flask-an</guid><enclosure url="http://www.youtube.com/watch?v=qh9fN2iHaCQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qh9fN2iHaCQ/hqdefault.jpg"></media:thumbnail></item><item><title>Faster python programs through optimization part 1</title><link>http://www.pyvideo.org/video/1293/faster-python-programs-through-optimization-part-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Mollerv- 4 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Objective This tutorial provides an overview of techniques to improve the
+performance of Python programs. The focus is on concepts such as profiling,
+diffrence of data structures and algorithms as well as a selection of tools an
+libraries that help to speed up Python. Intended Audience Python programmers
+who would like concepts to improve performance. Audience Level Programmers
+with good Python knowledge. Prerequisites Please bring your laptop with the
+operating system of your choice (Linux, Mac OS X, Windows). In addition to
+Python 2.6 or 2.7, we need: RunSnakeRun ([http://www.vrplumber.com/programming
+/runsnakerun](http://www.vrplumber.com/programming/runsnakerun)) Guppy_PE
+framework ([http://guppy-pe.sourceforge.net](http://guppy-pe.sourceforge.net))
+(&lt;= Python 2.6 ) lineprofiler ([http://packages.python.org/line_profiler/](htt
+p://packages.python.org/line_profiler/)) pympler
+([http://code.google.com/p/pympler/](http://code.google.com/p/pympler/)) psyco
+([http://psyco.sourceforge.net](http://psyco.sourceforge.net), Python 2.6
+only, version 1.5.2 or higher) pypy ([http://pypy.org](http://pypy.org)) and
+NumPy ([http://numpy.scipy.org](http://numpy.scipy.org), version 1.2 or
+higher). Method This is a hands-on course. Students are strongly encouraged to
+work along with the trainer at the interactive prompt. There will be exercises
+the students need to do on their own. Experience shows that this active
+involvement is essential for an effective learning. Outline How fast is fast
+enough? Optimization guidelines Premature optimization Optimization rules
+Seven steps for incremental optimization Optimization strategy Measuring in
+stones Profiling CPU usage Profiling memory usage Algorithms and Anti-patterns
+String concatenation List and generator comprehensions The right data
+structure Caching The example Testing speed Pure Python Meet Psyco, the JIT
+Using PyPy NumPy for numeric arrays Using multiple CPUs with multiprocessing
+Combination of optimization strategies Results of different example
+implementations I taught this tutorial multiple times and will update the
+content as I regularly do.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Mollerv</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1293/faster-python-programs-through-optimization-part-0</guid><enclosure url="http://www.youtube.com/watch?v=lvyfpteeA54" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/lvyfpteeA54/hqdefault.jpg"></media:thumbnail></item><item><title>Faster python programs through optimization part 2</title><link>http://www.pyvideo.org/video/1292/faster-python-programs-through-optimization-part</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Mollerv- 4 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Objective This tutorial provides an overview of techniques to improve the
+performance of Python programs. The focus is on concepts such as profiling,
+diffrence of data structures and algorithms as well as a selection of tools an
+libraries that help to speed up Python. Intended Audience Python programmers
+who would like concepts to improve performance. Audience Level Programmers
+with good Python knowledge. Prerequisites Please bring your laptop with the
+operating system of your choice (Linux, Mac OS X, Windows). In addition to
+Python 2.6 or 2.7, we need: RunSnakeRun ([http://www.vrplumber.com/programming
+/runsnakerun](http://www.vrplumber.com/programming/runsnakerun)) Guppy_PE
+framework ([http://guppy-pe.sourceforge.net](http://guppy-pe.sourceforge.net))
+(&lt;= Python 2.6 ) lineprofiler ([http://packages.python.org/line_profiler/](htt
+p://packages.python.org/line_profiler/)) pympler
+([http://code.google.com/p/pympler/](http://code.google.com/p/pympler/)) psyco
+([http://psyco.sourceforge.net](http://psyco.sourceforge.net), Python 2.6
+only, version 1.5.2 or higher) pypy ([http://pypy.org](http://pypy.org)) and
+NumPy ([http://numpy.scipy.org](http://numpy.scipy.org), version 1.2 or
+higher). Method This is a hands-on course. Students are strongly encouraged to
+work along with the trainer at the interactive prompt. There will be exercises
+the students need to do on their own. Experience shows that this active
+involvement is essential for an effective learning. Outline How fast is fast
+enough? Optimization guidelines Premature optimization Optimization rules
+Seven steps for incremental optimization Optimization strategy Measuring in
+stones Profiling CPU usage Profiling memory usage Algorithms and Anti-patterns
+String concatenation List and generator comprehensions The right data
+structure Caching The example Testing speed Pure Python Meet Psyco, the JIT
+Using PyPy NumPy for numeric arrays Using multiple CPUs with multiprocessing
+Combination of optimization strategies Results of different example
+implementations I taught this tutorial multiple times and will update the
+content as I regularly do.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Mollerv</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1292/faster-python-programs-through-optimization-part</guid><enclosure url="http://www.youtube.com/watch?v=vaA0ohGKARY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vaA0ohGKARY/hqdefault.jpg"></media:thumbnail></item><item><title>Google Apps loves Python?</title><link>http://www.pyvideo.org/video/1286/google-apps-loves-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Simone Dalla - 4 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Can we put a new appointment on our Google Calendar with Python script? Yes,
+we can. Can we get the list of our Google Documents with Python script? Yes,
+we can. Can we create filters and labels on our Gmail account with Python
+script? Yes, we can. Can we add a web page to our Google Site with Python
+script? Yes, we can. Can we add, delete, modify users of our Goole Apps with
+Python script? Yes, we can. Can we integrate our Python, Django projects with
+Google Apps? Yes, we can. Go to show how Pyhton and Gdata library can afford
+to do and if Google Apps really loves Python…
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simone Dalla</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1286/google-apps-loves-python</guid><enclosure url="http://www.youtube.com/watch?v=jZj7K3r9s3k" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/jZj7K3r9s3k/hqdefault.jpg"></media:thumbnail></item><item><title>Health for geeks: feel better, save money, live longer by being lazy</title><link>http://www.pyvideo.org/video/1305/health-for-geeks-feel-better-save-money-live-l</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] N Larosa - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Take care of the most important thing, your psychophysical well-being, and be
+efficient about it. You don’t need to be hungry (well, just a little bit), do
+lots of exercise (well, just a little bit) and spend a lot of time and money
+(well, just a little bit… uhm, there seems to be a pattern :-) ). You just
+need to take care of your body using the same thing that lets you program
+computers: your mind. No, the human body is not “a machine”, as it’s often
+said: it’s much more complex than that. Nonetheless, knowledge of a few facts,
+some guiding principles, and some tech tools (we’re geeks after all, aren’t
+we? :-) ) can definitely improve your life. Warning: this speaker is not a
+doctor, and this talk is not medical advice. Get the advice of a qualified
+doctor/physician before changing your diet and/or your physical regimen.
+Neither this speaker nor the conference organization will be liable for any
+injuries or illnesses you may incur by however applying the concepts discussed
+in this talk.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">N Larosa</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1305/health-for-geeks-feel-better-save-money-live-l</guid><enclosure url="http://www.youtube.com/watch?v=RSIs_5ME6UE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/RSIs_5ME6UE/hqdefault.jpg"></media:thumbnail></item><item><title>Healthy webapps through continuous introspection</title><link>http://www.pyvideo.org/video/1304/healthy-webapps-through-continuous-introspection</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nicolas Venegas - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Every application has its hotspots – small portions of code that consume
+considerably more resources than all of the other code combined. Django apps
+are no different. Some pages, invoked with the just the right, or wrong input,
+can bring a server to its knees, hogging the CPU and taking many seconds, or
+in extreme cases even minutes to render. By keeping workers tied up, the whole
+system can then become slow to respond, or collapse altogether. Many
+webservers have a crude built-in failsafe to prevent this. They automatically
+kill workers that fail to complete their requests in time. As a result, you
+may not fully appreciate, or indeed realize at all that you are routinely
+serving 500 pages, denying users access to your service, or leaving
+uncommitted database transactions – possibly even slowly corrupting data.
+Workers killed by force leave virtually no forensic traces and so even when
+issues are suspected, it’s hard to pin them down. The cause behind these
+hotspots can be poorly generated SQL queries from the ORM, an algorithm with
+non-linear complexity, excessive disk or network IO, or lock contention in the
+database – to name just a few. Oftentimes these problems escape a developer’s
+attention, as dev and test environments simply don’t have the dataset, level
+of concurrency or sheer size of the real thing. In this talk we’ll address the
+challenges of tuning your Django app with continuous automatic runtime
+inspection tools, including homegrown Dogslow. We’ll uncover the pages that
+consume disproportionate amounts of time and cycles to complete and the pages
+that get killed altogether. We’ll discuss several ways to help you identify
+and eliminate the hotspots, both passively through monitoring exclusively, as
+well as actively by selectively interrupting workers before they get killed
+and examine how to effectively interpret the automatically collected forensic
+evidence.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Venegas</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1304/healthy-webapps-through-continuous-introspection</guid><enclosure url="http://www.youtube.com/watch?v=yxALwwDyWoA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/yxALwwDyWoA/hqdefault.jpg"></media:thumbnail></item><item><title>Javascript for Pythonistas part 1</title><link>http://www.pyvideo.org/video/1283/javascript-for-pythonistas-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] P Dopieralski - 4 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+With the growth of AJAX and other client-side technologies many Python
+programmers, web-applications increasingly involve large amounts of
+JavaScript. Many of us find that, just to keep doing our job, we have
+understand JavaScript better. This tutorial, which was also given at
+EuroPython 2009, 2010 and 2011, provides an introduction to JavaScript that
+emphasises the similarities and differences between Python and JavaScript. It
+has a focus on the concepts underlying JavaScript, and in particular the
+object model and the lack of built-in classes. It also covers quite a few
+JavaScript gotchas and other traps for the unwary. This course is suitable for
+those who are Beginners or better in Python. Previous JavaScript knowledge is
+not required, but would helpful. This course was prepared and previously
+delivered by Jonathan Fine. I was assisting in the course in 2010 as a helper
+and worked a little on improving the materials during the sprints. I intend to
+improve the materials further and bring them up to date with recent
+developments in the JavaScript world, and then deliver the tutorial, because
+Jonathan will not be attending the conference this year.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">P Dopieralski</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1283/javascript-for-pythonistas-part-1</guid><enclosure url="http://www.youtube.com/watch?v=OyavJFwEZFo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OyavJFwEZFo/hqdefault.jpg"></media:thumbnail></item><item><title>Javascript for Pythonistas part 2</title><link>http://www.pyvideo.org/video/1284/javascript-for-pythonistas-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] P Dopieralski - 4 JULY 2012 in "Track Pizza Margherita"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+With the growth of AJAX and other client-side technologies many Python
+programmers, web-applications increasingly involve large amounts of
+JavaScript. Many of us find that, just to keep doing our job, we have
+understand JavaScript better. This tutorial, which was also given at
+EuroPython 2009, 2010 and 2011, provides an introduction to JavaScript that
+emphasises the similarities and differences between Python and JavaScript. It
+has a focus on the concepts underlying JavaScript, and in particular the
+object model and the lack of built-in classes. It also covers quite a few
+JavaScript gotchas and other traps for the unwary. This course is suitable for
+those who are Beginners or better in Python. Previous JavaScript knowledge is
+not required, but would helpful. This course was prepared and previously
+delivered by Jonathan Fine. I was assisting in the course in 2010 as a helper
+and worked a little on improving the materials during the sprints. I intend to
+improve the materials further and bring them up to date with recent
+developments in the JavaScript world, and then deliver the tutorial, because
+Jonathan will not be attending the conference this year.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">P Dopieralski</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1284/javascript-for-pythonistas-part-2</guid><enclosure url="http://www.youtube.com/watch?v=4-4hTwlzTMk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/4-4hTwlzTMk/hqdefault.jpg"></media:thumbnail></item><item><title>La salute per i geek: stai meglio, risparmia, vivi a lungo tramite la pigrizia</title><link>http://www.pyvideo.org/video/1296/la-salute-per-i-geek-stai-meglio-risparmia-viv</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nicola Larosa - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Prenditi cura della cosa piÃ¹ importante, il benessere psicofisico, e fallo in
+modo efficiente. Non bisogna patire la fame (magari solo un pochino), fare
+tanta ginnastica (magari solo un pochino) e impiegare tanto tempo e soldi
+(magari solo un pochino… sembra di intravedere uno schema di fondo :-) ).
+Occorre soltanto prendersi cura del proprio corpo usando ciÃ² che ci permette
+di programmare i computer: la nostra mente. No, il corpo umano non Ã¨ una
+“macchina”, come spesso si dice: Ã¨ molto piÃ¹ complesso. Ciononostante,
+conoscere alcuni fatti, qualche principio guida e alcuni strumenti tecnologici
+(dopo tutto siamo geek, no? :-) ) puÃ² decisamente migliorare la nostra vita.
+Attenzione: il relatore non Ã¨ un medico, e questo talk non costituisce parere
+medico. Si consiglia di ottenere il parere di un medico qualificato prima di
+apportare cambiamenti alla propria dieta o alla propria
+attivitÃ&amp;nbsp_place_holder; fisica. NÃ¨ il relatore, nÃ¨ l’organizzazione
+della conferenza saranno responsabili di lesioni o malattie derivanti
+dall’applicazione di concetti discussi in questo talk.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicola Larosa</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1296/la-salute-per-i-geek-stai-meglio-risparmia-viv</guid><enclosure url="http://www.youtube.com/watch?v=-tbmih_I040" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-tbmih_I040/hqdefault.jpg"></media:thumbnail></item><item><title>Lessons in Testing</title><link>http://www.pyvideo.org/video/1298/lessons-in-testing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] David Cramer - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Testing may be one of the more difficult concepts to pick up in a development
+cycle. With the complexities of large projects, and even small projects,
+writing effective, automated tests can take many times longer than writing the
+code and testing it by hand. This talk will explore the various patterns of
+testing that DISQUS has implemented, and iterated upon over the last two
+years. It will describe how testing has been used to speed up the product
+lifecycle, improve stability through automation, and the culture shift
+required to get there. Most importantly, it will cover the practices that have
+been put in place that have helped ease the burden of writing tests.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1298/lessons-in-testing</guid><enclosure url="http://www.youtube.com/watch?v=garsUmsZIac" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/garsUmsZIac/hqdefault.jpg"></media:thumbnail></item><item><title>Mongodb and Python part 1</title><link>http://www.pyvideo.org/video/1289/mongodb-and-python-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] R Lawley - 4 JULY 2012 in "Track Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This intermediate-level class will teach you techniques using the popular
+NoSQL database MongoDB, its driver PyMongo, and the object-document mapper
+MongoEngine to write maintainable, high-performance, and scalable
+applications. We will cover everything you need to become an effective
+MongoEngine/MongoDB developer from basic PyMongo queries to high-level object-
+document mapping setups in MongoEngine.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">R Lawley</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1289/mongodb-and-python-part-1</guid><enclosure url="http://www.youtube.com/watch?v=isXLQEUWVy4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/isXLQEUWVy4/hqdefault.jpg"></media:thumbnail></item><item><title>Mongodb and Python part 2</title><link>http://www.pyvideo.org/video/1285/mongodb-and-python-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] R Lawley - 4 JULY 2012 in "Track Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This intermediate-level class will teach you techniques using the popular
+NoSQL database MongoDB, its driver PyMongo, and the object-document mapper
+MongoEngine to write maintainable, high-performance, and scalable
+applications. We will cover everything you need to become an effective
+MongoEngine/MongoDB developer from basic PyMongo queries to high-level object-
+document mapping setups in MongoEngine.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">R Lawley</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1285/mongodb-and-python-part-2</guid><enclosure url="http://www.youtube.com/watch?v=GqpAkqy2In8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/GqpAkqy2In8/hqdefault.jpg"></media:thumbnail></item><item><title>Multi-document consistency with MongoDB</title><link>http://www.pyvideo.org/video/1290/multi-document-consistency-with-mongodb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Anders Hammarquist - 4 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+When working with MongoDB, especially if you are coming from (or converting an
+application) the SQL world, you will probably miss the SQL transaction, which
+gives you, among other things, atomic writes. MongoDB only provides atomic
+writes to one document. We will show you how you can implement multi-document
+writes that are, if all writers cooperate, consistent across multiple
+documents and either writes all changes completely or fail without writing any
+changes. Audience: People who are looking at SQL alternatives, but still need
+some sort of transaction-like consistency. Understanding of parallellism
+issues, race conditions and deadlocks, may be helpful. MongoDB knowledge is
+not needed. Slides online at:
+[http://www2.openend.se/~iko/ep2012/](http://www2.openend.se/~iko/ep2012/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anders Hammarquist</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1290/multi-document-consistency-with-mongodb</guid><enclosure url="http://www.youtube.com/watch?v=4XRrLdogkdA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/4XRrLdogkdA/hqdefault.jpg"></media:thumbnail></item><item><title>Music Theory, Genetic Algorithms and Python</title><link>http://www.pyvideo.org/video/1287/music-theory-genetic-algorithms-and-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nicolas Tollervey - 4 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+I’ll explain how a genetic algorithm written in Python solves musical
+exercises used to train composers. I’ll also embarrass myself by comparing the
+computer generated results with solutions by the composers Johan Joseph Fux
+and Wolfgang Amadeus Mozart. The presented project is a fun “brain break”
+based upon work I originally started at university. No prior musical knowledge
+will be required as I intend to explain just enough musical theory for the
+audience to understand the nature of the problem (although I’ll assume
+familiarity with Python).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolas Tollervey</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1287/music-theory-genetic-algorithms-and-python</guid><enclosure url="http://www.youtube.com/watch?v=OTHggyZAot0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OTHggyZAot0/hqdefault.jpg"></media:thumbnail></item><item><title>Nuitka - the Python compiler</title><link>http://www.pyvideo.org/video/1303/nuitka-the-python-compiler</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] K Haye - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+With Nuitka, for the first time, there is a consequently executed approach to
+statically translate the full language extent of Python, with all its special
+cases, without introducing a new or reduced version of Python. It is compiled,
+but with practically 100% compatibility. Function dictionaries work, code
+objects exist, frame stack works, exception tracebacks, eval, exec, closures,
+nested functions, meta classes, etc. it’s all there, and behaves identical.
+First, I would like to start out and explain how I came to write a Python
+compiler, why I want it to be 100% compatible, and why I find deviations from
+Python unacceptable and out of scope. Then I would like to describe where
+difficulties were in the implementation, what Python constructs surprised me,
+and where the mapping from Python to C++ left things to desire. In this
+project, I learned a lot about Python, it wasn’t easy to get the full CPython
+test suite to run. In doing that, I have learned anecdotes and fine details of
+Python, that are normally hidden in daily programming, but are still useful to
+know. Esp. the work on re-formulating “with” statements, “assert”,
+“while"/"for” as generic loops, etc. gives an interesting view on Python
+itself. And I would like to present it, also for the insight it gives on
+Python. I will give an overview over newly developed infrastructure, aiming
+for type inference at compile time, and show existing stuff. I will try and
+explain, why I hope to have picked the right approach in this domain. An
+interesting side game, is the approach to use XML representations of the
+internal node tree of Nuitka to discover regressions/changes in the optimizer.
+Then I will also present a project road map, with the milestones for Nuitka,
+and why I believe this is the right plan, and how Nuitka is different from
+projects like “Cython” and “PyPy”. To round it up, I would like to make a
+demonstration of Nuitka, and give an example for how easy it should be to
+contribute. As this will be the first time, Nuitka is introduced the PyCON EU
+(it was only shown on PyCON DE 2011 so far). And to celebrate that, the
+current GPLv3 license will be lifted, and replaced with Apache 2.0 license
+(ASF), which is entirely liberal.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">K Haye</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1303/nuitka-the-python-compiler</guid><enclosure url="http://www.youtube.com/watch?v=ZDHkla5rllg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ZDHkla5rllg/hqdefault.jpg"></media:thumbnail></item><item><title>Obidire alla capra! TDD con Python i Selenium</title><link>http://www.pyvideo.org/video/1301/obidire-alla-capra-tdd-con-python-i-selenium</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Harry Percival - 4 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In breve: - Seguiremo il tutorial officiale di Django, pero con la metodologia
+TDD - primo, i test! - Inclusi i test del browser stesso con Selenium - Anche
+“unit test” dei model, views e forms di Django - Discussioni della filosofia
+TDD: cosa testare, cosa non testare, come testare… - l’Italiano del speaker
+non e garantito perfetto, pero
+[http://harry.pythonanywhere.com/](http://harry.pythonanywhere.com/)
+[https://github.com/hjwp/Test-Driven-Django-Tutorial](https://github.com/hjwp
+/Test-Driven-Django-Tutorial) “Test-Driven Django with Selenium” o “La capra
+di Test incontra il pony di Django” Questo training sarÃ&amp;nbsp_place_holder;
+particolarmente per in principianti, o uno che vuol’ imparare un po di: Django
+Selenium TDD ("Test-Driven-Development") Per uno che conosce
+giÃ&amp;nbsp_place_holder; bene questi tre temi, non sarÃ&amp;nbsp_place_holder; tanto
+utile. L’idea e di seguire il tutorial officiale di Django, dunque
+sarÃ&amp;nbsp_place_holder; dal punto di visto dal principiante, pero a ogni punto
+useremo la metodologia “TDD” - costruendo dei test prima dal coding del sito.
+Non sara solo i “unit test”. Si comincia con i “functional” test, usando
+Selenium, che permette da usare un vero browser per testare le funzione del
+sito, dal punto di vista del utilizzatore. Sento una domanda: PerchÃ© dovrÃ²
+ascoltare a lui? Son’ fortunato di avere iniziato la mia carriera con una
+compagnie di fanatici del “Extreme Programming”, una metodologia che domanda
+un devozione quasi-religiosa al test. La mia conversione non era facile, posso
+dire che ho chiesto domande ad ogni turno, “perchÃ© fasciamo cosi, perchÃ© non
+possiamo andare direttamente al coding” etc etc - e posso dire che adesso son
+proprio convinto. Ho imparato degli migliori, e ho tutta la passione di un
+neofita. Questo training sarÃ&amp;nbsp_place_holder; anche la prima volta che l’ho
+fatto in Italiano, allora sarÃ&amp;nbsp_place_holder; sicuramente emozionante.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Harry Percival</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1301/obidire-alla-capra-tdd-con-python-i-selenium</guid><enclosure url="http://www.youtube.com/watch?v=QliDfkkFa4c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/QliDfkkFa4c/hqdefault.jpg"></media:thumbnail></item><item><title>Practical guide to kill optimization, testing and other sw. project beasts</title><link>http://www.pyvideo.org/video/1294/practical-guide-to-kill-optimization-testing-and</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Fabio Pliger - 4 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Optimization, testing, tunning and design in sw. project can be both heaven or
+hell for a sw. development project. Python provides many tools to deal with
+these topics but by theirselves they could not be enough. The talk tries to
+expose techniques, self failures/success and practical tips and hints to make
+the right choice at the right time. This talk will expose optimization,
+testing, tunning patterns ( and other critical topics ) of a python project
+and try to analyze the options python provides ( such as packages, techiniques
+and patterns/anti-patterns ) to deal with them. There is not one true way to
+deal with these topics and the main goal of the talks is to provide practical
+examples/techniques and create an active discussion with the public. Main
+discussion topics: Testing ( modules and techniques ) Optimization and
+performance ( analysis of the problem, profiling and tuning techniques )
+Debugging Deployment and automation Python traps
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabio Pliger</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1294/practical-guide-to-kill-optimization-testing-and</guid><enclosure url="http://www.youtube.com/watch?v=UhYXIWmq-3Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/UhYXIWmq-3Y/hqdefault.jpg"></media:thumbnail></item><item><title>Pyrun - the one file python runtime environment</title><link>http://www.pyvideo.org/video/1300/pyrun-the-one-file-python-runtime-environment</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Lembuirg - 4 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Introducing a simple to deploy Python run-time which can be used to easily
+ship products based on Python, create custom private Python environments and
+have Python readily available without having to install it first. The talk
+will give a short introduction on what pyrun can deliver, how it can be used
+and how to build it.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Lembuirg</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1300/pyrun-the-one-file-python-runtime-environment</guid><enclosure url="http://www.youtube.com/watch?v=VnyvyTgWbzg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/VnyvyTgWbzg/hqdefault.jpg"></media:thumbnail></item><item><title>Python + Qt + MySQL = Konga ERP</title><link>http://www.pyvideo.org/video/1299/python-qt-mysql-konga-erp</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Fabrizio Toso - 4 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+L’obiettivo di questo talk è quello descrivere brevemente come in azienda
+abbiamo utilizzato Python, QT, MySQL e altre tecnologie open source per lo
+sviluppo di un moderno ERP italiano, Konga
+[http://blog.konga.it/](http://blog.konga.it/). In particolare approfondiremo
+l’architettura del programma client, scritto completamente in Python e vedremo
+come sia possibile distribuire un’applicazione completa e cross-platform (Mac
+OS X, Windows e Linux) identica - o quasi - alle applicazioni scritte con i
+sistemi di sviluppo nativi. Particolare attenzione sarà dedicata
+all’integrazione di QT tramite l’uso della libreria “slewlib” e alla libreria
+utilizzata per la descrizione e la generazione dei report di stampa.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabrizio Toso</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1299/python-qt-mysql-konga-erp</guid><enclosure url="http://www.youtube.com/watch?v=N2e9ICXHkbw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/N2e9ICXHkbw/hqdefault.jpg"></media:thumbnail></item><item><title>Restfs the next generation cloud storage</title><link>http://www.pyvideo.org/video/1306/restfs-the-next-generation-cloud-storage</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] F Manfredi F Mosca - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The RestFS is an experimental project to develop an open-source distributed
+filesystem for large environments. It is designed to scale up from a single
+server to thousand of nodes and delivering a high availability storage system
+with special features for high i/o performance and network optimization for
+work better in WAN environment. The Restfs is pure-python, but several of the
+libraries that it depends upon use C extensions (sometimes for speed,
+sometimes to interface to pre-existing C libraries). The Project is on the
+beginning stage, with some technology previews released. The main
+characteristics of the RestFS are : - Scalability, no limits on storage and
+clients size - High availability, no single point of failure and data
+replication - Adaptative, load balancing and uniform distribution - High
+Performance, parallel transfer, local cache consistency , data transfer by
+difference - Flexible, S3 compatibility interface, dedicated library for
+integration in web server and application layer This talk describes the
+architecture, internals of RestFS and comparison among different free software
+solutions. The session will discuss our experience in this development and
+detailed information on performance and scalability RestFS Introduction RestFS
+Website
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">F Manfredi,F Mosca</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1306/restfs-the-next-generation-cloud-storage</guid><enclosure url="http://www.youtube.com/watch?v=9DIpgNzC5KM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9DIpgNzC5KM/hqdefault.jpg"></media:thumbnail></item><item><title>Seamless integration of python and postgresql</title><link>http://www.pyvideo.org/video/1288/seamless-integration-of-python-and-postgresql</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] H Krossing - 4 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Presenting a better way of using PostgreSQL from python with Simple to use way
+to avoid moving data back and forth to client for just for processing while
+still maintaining your code in client code and getting all the benefits of
+server-side programming with ease of Python. access to data without writing
+SQL for simple usage while SQL is still available where appropriate, like
+complex data analysis This is achieved by the following: decorators which ship
+python code to be executed in database, with potentially 100x speedup for some
+use cases direct building of query plans bypassing SQL generation and parsing
+Some more infrastructure is presented which is needed for using code-shipping
+in more complex scenarios like django extra import hooks in server for loading
+python modules from caller (client) extra import hooks for importing modules
+from database loadatstartup modules for pl/python ways to scale this type of
+application by sharding (a.k.a. horisontally scaling) it using pl/proxy
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">H Krossing</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1288/seamless-integration-of-python-and-postgresql</guid><enclosure url="http://www.youtube.com/watch?v=99AoONzl-Ik" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/99AoONzl-Ik/hqdefault.jpg"></media:thumbnail></item><item><title>Spotify: Ask us anything</title><link>http://www.pyvideo.org/video/1291/spotify-ask-us-anything</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Jyrki Pulliainen - 4 JULY 2012 in "Track Spaghetti"
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jyrki Pulliainen</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1291/spotify-ask-us-anything</guid><enclosure url="http://www.youtube.com/watch?v=G2MfIP7GT4M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/G2MfIP7GT4M/hqdefault.jpg"></media:thumbnail></item><item><title>The story of stackless Python</title><link>http://www.pyvideo.org/video/1307/the-story-of-stackless-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] C Tismet A Rigo - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk gives a good overview of the status of Stackless Python: Its history
+from the beginning, its current status and its future development to be
+expected. A discussion and comparison with similar approaches like Greenlet,
+Eventlet and how they relate is also included. Stackless Python 1.0 was
+started in 1998 as an implementation of true continuations, with all implied
+complications. In 2002, Stackless 2.0 was born, a complete rewrite.
+Continuations were abandoned in favor of the much easier to comprehend
+tasklets - one-shot continuations that could resume their current state just
+once, like Coroutines. In 2004, Stackless 3.0 was created, which merged the
+2.0 features with a new concept: so-called “Soft-Switching”, which made the
+Pickling of Program State” possible. As a consequence, a few recent
+application make solely use of Program State Pickling, which changes the
+purpose of Stackless Python quite a bit. One example of this is the “Nagare
+Web Framework” which will be shown in examples. In the light of the popularity
+of a Stackless spin-off, called “Greenlet”, the concept of a new Stackless
+branch will be depicted: Stackless, written as a pure extension module on top
+of Greenlets, which includes State Pickling - a feature that seemed to be
+impossible to implement without changing CPython. But the impossible and ways
+to get around it was always a major topic in this project, which is going to
+augment what Stackless on PyPy already can do. Christian Tismer, creator of
+Stackless Python Perhaps with Armin Rigo as a guest, talking about Stackless
+status in PyPy. Otherwise, I will insert this myself. cheers – Chris
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Rigo,C Tismet</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1307/the-story-of-stackless-python</guid><enclosure url="http://www.youtube.com/watch?v=pDkrkP0yf70" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pDkrkP0yf70/hqdefault.jpg"></media:thumbnail></item><item><title>Ask your BDFL</title><link>http://www.pyvideo.org/video/1336/ask-your-bdfl</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Guido van Rossum - 2 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+An open session where the BDFL will answer questions from attendees. Questions
+must be submitted (and voted) through Google Moderator ; we will ask the most
+popular questions to Guido during this session. Submit your question now!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1336/ask-your-bdfl</guid><enclosure url="http://www.youtube.com/watch?v=YdxXqc2Npls" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YdxXqc2Npls/hqdefault.jpg"></media:thumbnail></item><item><title>Becoming a better programmer</title><link>http://www.pyvideo.org/video/1324/becoming-a-better-programmer</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Harald Massa - 3 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+so you have selected the best possible programming language; you learned about
+object oriented design, functional paradigmas, test driven development and the
+Structure and interpretation of computer programs. What else can you do?
+Harald did research and experimented outside computer sciences. What methods
+and substances are available to tune your brain for programming? This talk
+will describe personal experiences with various motivational, self discipline,
+learning and information management techniques; substances and exercises to
+tune your brains operating system. There will be expeditions into results from
+brain research. A critical judgement, pointing out snake oil and stuff that
+worked.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Harald Massa</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1324/becoming-a-better-programmer</guid><enclosure url="http://www.youtube.com/watch?v=oquJqXsSQ38" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/oquJqXsSQ38/hqdefault.jpg"></media:thumbnail></item><item><title>Come "liberare" i dati catastali in formato CXF con GDAL/OGR e Proj4</title><link>http://www.pyvideo.org/video/1313/come-liberare-i-dati-catastali-in-formato-cxf-c</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Alessandro Amici - 4 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+La buona notizia è che l’Agenzia del Territorio è in grado di fornire i dati
+cartografici e catastali ufficiali su tutta Italia in formato elettronico. La
+cattiva notizia è che tali dati sono distribuiti in vari formati proprietari
+scarsamente e malamente supportati dai software GIS di largo uso. In questa
+presentazione mostriamo come leggere, validare, correggere e tradurre in
+formati standard (ad esempio shapefile) i dati del catasto terreni e
+fabbricati in formato CXF usando il potente stack di geoprocessing e format
+translation in Python. L’intero processo e numerosi dei singoli passaggi sono
+completamente generici e possono essere applicati alla lettura e traduzione di
+qualsiasi formato geografico proprietario. B-Open ha recentemente rilasciato
+con licenza Open Source bgeo.catasto, una parte della propria libreria di
+parser e traduttori dai formati dell’Agenzia del Territorio. bgeo.catasto al
+momento supporta la lettura e traduzione dei dati catastali in formato CXF e
+dei dati censuari nei formati TER e FAB.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Amici</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1313/come-liberare-i-dati-catastali-in-formato-cxf-c</guid><enclosure url="http://www.youtube.com/watch?v=BP3G1s4eYMk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/BP3G1s4eYMk/hqdefault.jpg"></media:thumbnail></item><item><title>Complex and social network analysis in Python</title><link>http://www.pyvideo.org/video/1327/complex-and-social-network-analysis-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] E Franchi - 3 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A complex network is a network that has non trivial topological properties,
+i.e., properties hinting the presence of elaborate relationships among the
+actors, opposed to simple networks such as regular lattices or random graphs.
+Examples of complex networks are most social, technological or biological
+networks, such as the internet, the web, a professional network, the nervous
+system of an animal or the contact network of any social networking system.
+Network analysis has many practical applications, e.g., ranking or grouping
+items on the basis of their position in the network, and is also the basis of
+some collective intelligence and data mining techniques. Recently network
+analysis is also applied to security problems in the form of trust networks.
+Along with the basic concepts, working Python code is presented, both using
+existing network analysis Python tools and numeric packages. The focus is
+mainly placed on code, which will be shown and discussed together with the
+theory, with the idea that running code and simulations are easier to
+understand that formal maths. Since complex network datasets are typically
+huge, some high-level optimization techniques are also discussed. Although
+formulas are kept at the minimum, some maths skills are required along with
+basic knowledge of the Python programming language.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">E Franchi</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1327/complex-and-social-network-analysis-in-python</guid><enclosure url="http://www.youtube.com/watch?v=m4OHUDsNrLo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/m4OHUDsNrLo/hqdefault.jpg"></media:thumbnail></item><item><title>Diving into Flask (head on)</title><link>http://www.pyvideo.org/video/1330/diving-into-flask-head-on</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Andni Mishkovskyi - 3 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+About the talk What is Flask? Is it any better than Django? Can I use Flask on
+Google AppEngine? Fortunately, during the course of this talk I will not have
+to answer any of these questions. This talk is a showcase of our experience
+with using Flask to build flexible and scalable web service and it focuses
+strongly on Flask and Flask extensions’ internals. Who should come to this
+talk Basically anybody who’s looking to invest into learning Flask or already
+started using Flask. Even though this talk focuses strongly on Flask-related
+topics, it also raises important points relevant to any web development
+framework or library. Abstract Introduction What we’re building Why we chose
+Flask Flask RESTful APIs and Flask.route() Scaling Exploring Flask-Celery
+Monitoring Celery logging: Oh, my! Scaling Celery Flask-SQLAlchemy Migrations
+Sharding and master/slave setup Celery and SQLAlchemy: unexpected issues
+Performance analysis Using werkzeug’s profiler Integrating with statsd
+Investigating cache usage patterns Summary
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andni Mishkovskyi</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1330/diving-into-flask-head-on</guid><enclosure url="http://www.youtube.com/watch?v=5twaatBqmjE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/5twaatBqmjE/hqdefault.jpg"></media:thumbnail></item><item><title>Esageriamo con uWSGI e Nginx</title><link>http://www.pyvideo.org/video/1315/esageriamo-con-uwsgi-e-nginx</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Roberto De Ioris - 3 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Siamo tutti capaci di far girare una applicazione WSGI su un server
+(indipendentemente da quale sia), ma che succede quando ne vogliamo eseguire
+centinaia scritte da programmatori che non conosciamo (o che conosciamo fin
+troppo bene e quindi non vorremmo avere sui nostri server) ? uWSGI e’ un
+application server estremamente avanzato, usato principalmente per
+l’esecuzione di applicazioni WSGI. Nginx e’ un webserver estremamente
+performante e leggero. Il task mostrera’ come usare entrambi per costruire una
+infrastruttura per il deployment di applicazioni WSGI per voi, i vostri
+collaboratori e i vostri clienti, tenendo i costi hardware (e umani) al minimo
+sindacale
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1315/esageriamo-con-uwsgi-e-nginx</guid><enclosure url="http://www.youtube.com/watch?v=-xuelXMtYNE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-xuelXMtYNE/hqdefault.jpg"></media:thumbnail></item><item><title>Further neck and amd shoulder massage training</title><link>http://www.pyvideo.org/video/1316/further-neck-and-amd-shoulder-massage-training</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Rob Collins - 3 JULY 2012 in "Track Spaghetti"
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rob Collins</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1316/further-neck-and-amd-shoulder-massage-training</guid><enclosure url="http://www.youtube.com/watch?v=itn8W9zI0Wk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/itn8W9zI0Wk/hqdefault.jpg"></media:thumbnail></item><item><title>Getting the logging module to do your bidding</title><link>http://www.pyvideo.org/video/1323/getting-the-logging-module-to-do-your-bidding</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Sandford - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The Python logging module is a useful tool for getting all kinds of
+information out of your program; everything from error notifications through
+to debug information. The standard facilities are useful out of the box, but,
+sometimes, you need a bit more. Not surprisingly, it turns out that the
+logging module is designed to be extended. This presentation shows some of the
+things you can do; things like gathering statistics on message type, directing
+emails to different recipients depending on severity, dynamic updating of
+attributes, and logging to a database. The examples are based on the
+notification facilities in Lokai. The talk covers: an overview of why I
+thought I needed the extra features, a look at the logger structures that need
+to be changed, and some actual code that does the job. I’m sure there are many
+different ways of doing this. Some of the code might be obvious in retrospect,
+and some might be surprising. Whatever the case, if you havn’t thought of
+doing this before you might be encouraged to give it a go. And if you have
+done it before you can always come and heckle.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Sandford</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1323/getting-the-logging-module-to-do-your-bidding</guid><enclosure url="http://www.youtube.com/watch?v=m8mS28xBh_A" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/m8mS28xBh_A/hqdefault.jpg"></media:thumbnail></item><item><title>Going International</title><link>http://www.pyvideo.org/video/1334/going-international</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Bessas - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The talk targets developers who wish to publish applications to an
+international audience and will discuss three topics that developers have to
+deal with: handling Unicode, localizing the software with gettext and handling
+time zones. First, the talk will address what Unicode is and how to write
+applications that deal with Unicode correctly. Then, the talk will discuss
+software localization using gettext and will conclude with a discussion of
+time zone handling in Python. No prerequisites are necessary.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Bessas</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1334/going-international</guid><enclosure url="http://www.youtube.com/watch?v=tbk0Mpj3SO8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tbk0Mpj3SO8/hqdefault.jpg"></media:thumbnail></item><item><title>Hands on with Pygame</title><link>http://www.pyvideo.org/video/1311/hands-on-with-pygame</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] R Dopieralski - 3 JULY 2012 in "Track Pizza Napoli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PyGame continues to be Python’s most popular 2D game library, even though
+there is growing competition from more modern OpenGL-based libraries. It is
+still an excellent way to learn how our favorite games work internally and to
+write similar games ourselves. During this tutorial I want to introduce the
+basics of using PyGame to create interactive, animated graphical applications
+(such as games), and then help the participants make their own start at a
+simple adventure game, which they can later develop further into projects of
+their own. I want to concentrate on commonly used techniques and patterns in
+game development, which are useful no matter what library is used in the
+implementation. In particular I will be discussing animations, tile-based
+maps, collision detection, event systems, internal representation of game
+state and different approaches to code organisation and internal structure of
+games. I have previously created a (much simpler) tutorial for creating a
+turn-based tile-based PyGame game and a couple of games, such as Z-Day and
+Jelly . I will be using the materials and experiences from those projects in
+the tutorial. Please bring your laptop with Python 2.7 and PyGame installed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">R Dopieralski</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1311/hands-on-with-pygame</guid><enclosure url="http://www.youtube.com/watch?v=fm78gjYkYKc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/fm78gjYkYKc/hqdefault.jpg"></media:thumbnail></item><item><title>How to bootstrap a startup using django</title><link>http://www.pyvideo.org/video/1325/how-to-bootstrap-a-startup-using-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] J Leidel -P Wassibauer - 3 JULY 2012
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Based on our (Philipp Wassibauer and Jannis Leidel) experiences building
+Gidsy.com this talk will give you valuable insight as to how your
+infrastructure will evolve and how to set up the basic components
+(Loadbalancer, Webservers, DB, Caching, Celery, CDN, …) of your site. Outline:
+Basic project layout - How to handle different configurations and package your
+project to make it easy to deploy and install. A basic timeline of how your
+infrastructure needs will evolve - Starting from the initial 1 server setup we
+will talk about how and when to scale out your servers. Replicate production
+environments in development - We developed a way to have all your services
+(Webserver, Celeryd, Solr, Cache, Compass compiler, …) running using one
+management command. Setting up Chef recipes to provision your servers. Dealing
+with cloud based servers - Tips and tricks on how to manage your cloud based
+server using tools like Instagrams ec2-ssh. Automating deploying to a bigger
+infrastructure (5+ servers) - Once the infrastructure becomes larger the
+deployments become more tedious. There are a few automation tools for these
+scenarios like the Etsy Deployinator. Tips on performance - How to find and
+remove performance bottlenecks.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">J Leidel,P Wassibauer</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1325/how-to-bootstrap-a-startup-using-django</guid><enclosure url="http://www.youtube.com/watch?v=gmIG56Hf9dc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/gmIG56Hf9dc/hqdefault.jpg"></media:thumbnail></item><item><title>Juju - Service orchestration and deployment</title><link>http://www.pyvideo.org/video/1322/juju-service-orchestration-and-deployment</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] J Page - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Juju is a new opensource configuration management and tool for deploying
+services into a cloud and data center environments. Juju provides a higher
+level semantic to its users of service level management rather than machine
+management. By rethinking this focus, Juju is able to provide real reuse of
+service definitions in much the same way that package management allows
+deployment and reuse of software bits in many different context. Juju’s goal
+is to be the apt of the clouds. By providing these higher level semantics to
+end users, juju aims to be a preferred solution for deploying services to the
+cloud. Underneath the hood, juju is written in python, but part of its beauty
+is you can write service definitions in any language. Juju relies on zookeeper
+for distributed coordination and state management of the managed machines, and
+LXC for higher utilization of machines and minimal separation of deployed
+services. It can deploy to physical machines as well as cloud environments
+like AWS/EC2 and Openstack.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">J Page</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1322/juju-service-orchestration-and-deployment</guid><enclosure url="http://www.youtube.com/watch?v=HlGDP92dlfY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/HlGDP92dlfY/hqdefault.jpg"></media:thumbnail></item><item><title>Lightning Talks</title><link>http://www.pyvideo.org/video/1339/lightning-talks-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] - 2 JULY 2012 in "Track Spaghetti"
+
+</description><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1339/lightning-talks-0</guid><enclosure url="http://www.youtube.com/watch?v=2EnkSshoEkk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/2EnkSshoEkk/hqdefault.jpg"></media:thumbnail></item><item><title>Method restrictions (abstract, final, @override etc.) and implementing them for Python</title><link>http://www.pyvideo.org/video/1314/method-restrictions-abstract-final-override-e</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] P Szabo - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The earlier a bug is discovered, the cheaper it is to fix it. Method
+restrictions (such as abstract, final and @Override) help the programmer in
+discovering incompatibilities between a class and its subclass early (i.e. at
+startup time for Python and at compile time for compiled languages). Python
+doesn’t provide method restrictions out of the box. To implement them, we take
+a deep dive to the realms of Python metaprogramming (decorators, metaclasses,
+method wrappers, traceback inspection and builtins). Lots of short and code
+examples will be provided to show the building blocks and how we combine them.
+Slides: [http://pts-mini-gpl.googlecode.com/svn/trunk/pobjects/ptsmethodrestri
+ctions_2012-07-03.html](http://pts-mini-
+gpl.googlecode.com/svn/trunk/pobjects/ptsmethodrestrictions_2012-07-03.html)
+Source code download: [http://code.google.com/p/pts-mini-
+gpl/source/browse/#svn/trunk/pobjects](http://code.google.com/p/pts-mini-
+gpl/source/browse/#svn/trunk/pobjects)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">P Szabo</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1314/method-restrictions-abstract-final-override-e</guid><enclosure url="http://www.youtube.com/watch?v=WX7aB0e4-Lk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/WX7aB0e4-Lk/hqdefault.jpg"></media:thumbnail></item><item><title>Not the state of the Python union</title><link>http://www.pyvideo.org/video/1335/not-the-state-of-the-python-union</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] G. van Rossum - 2 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Worried about the future of Python 3? Wondering when lambda will be fixed?
+Angry about the GIL? Eager to get your package into the standard library? In
+this keynote, Python’s BDFL will address these issues and many others from his
+unique, personal perspective. Learn how not to be a troll!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1335/not-the-state-of-the-python-union</guid><enclosure url="http://www.youtube.com/watch?v=RwbEEzl3bL4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/RwbEEzl3bL4/hqdefault.jpg"></media:thumbnail></item><item><title>OpenERP 6.1, come progettare applicazioni business</title><link>http://www.pyvideo.org/video/1329/openerp-61-come-progettare-applicazioni-busines</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Davide Corio - 3 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+OpenERP 6.1 è uno dei più importanti free e opensource software scritti in
+Python. Immergiamoci nel framework a scopriamo come progettare la nostra
+applicazione. Durante la presentazione exploreremo gli strumenti integrati a
+disposizione degli sviluppatori per la creazione di nuove funzionalità, la
+progettazione di stampe o per dialogare con dispositivi mobile e applicazioni
+di terze parti.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1329/openerp-61-come-progettare-applicazioni-busines</guid><enclosure url="http://www.youtube.com/watch?v=Pqm1mc26eoE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Pqm1mc26eoE/hqdefault.jpg"></media:thumbnail></item><item><title>Openstack Overview - Operational Details of a large Python Project</title><link>http://www.pyvideo.org/video/1321/openstack-overview-operational-details-of-a-lar</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Padraig Brady - 3 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+OpenStack is a large and relatively new platform for building IaaS public and
+private clouds, which has attracted widespread backing from many companies.
+Covered in the talk is: A summary of what OpenStack is trying to achieve An
+overview of the structure of OpenStack services Details of the multitude of
+python components used Deployment and Packaging information
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Padraig Brady</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1321/openstack-overview-operational-details-of-a-lar</guid><enclosure url="http://www.youtube.com/watch?v=5yzzjDHpbgc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/5yzzjDHpbgc/hqdefault.jpg"></media:thumbnail></item><item><title>Permission or forgiveness?</title><link>http://www.pyvideo.org/video/1338/permission-or-forgiveness-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012 ] Alex Martelli - 2 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Grace Murray Hopper’s famous motto, “It’s easier to ask forgiveness than
+permission”, has many useful applications – in Python, in concurrency, in
+networking, as well of course as in real life. However, it’s not universally
+valid. This talk explores both useful and damaging applications of this
+principle. I start by introducing the motto “It’s easier to ask forgiveness
+than permission” and the woman who used it, Rear Admiral Grace Murray Hopper,
+also known as the “mother of Cobol” and the author of the first ever
+programming-language compiler. I then move on to the Python context, where the
+motto supports the proper usage of exception-catching rather than preliminary
+checks; and the “rule that proves the exception” introduced by abstract base
+classes. Expanding the subject, I show how “optimistic concurrency” applies
+that motto (while locking would “ask permission”, in essence, STM “asks
+forgiveness"), and how collision-detection focused networking protocols have
+similarly triumphed over more highly structured, “ask permission” ones like
+token-ring. Moving to the fuzzier context of real life, I then show how this
+daring approach does not work quite as well as in the technical realm – except
+when applied correctly, in the right circumstances… and I try to evince a
+general law describing what the right circumstances for its application are,
+comparing and contrasting with the similar issue of “do it right the first
+time” versus “launch and iterate” (and the latter’s cognate “fail, but fail
+fast” principle).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1338/permission-or-forgiveness-0</guid><enclosure url="http://www.youtube.com/watch?v=9gbUFyPltDs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9gbUFyPltDs/hqdefault.jpg"></media:thumbnail></item><item><title>PostSQL - using PostgreSQL as a better NoSQL</title><link>http://www.pyvideo.org/video/1326/postsql-using-postgresql-as-a-better-nosql</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] H Krosing - 3 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A short overview how PostgreSQL can be used for tasks that are currently often
+delegated to heterogeneous bunch of data storage solutions referred to by
+common name NoSQL. Covered topics from traditional NoSQL area are: developer
+friendlyness, even for sloppy developers scalability easy extensibility and
+maintainability And from SQL part partial ACID (Atomicity, Consistency,
+Isolation, Durability) , general BASE (basically available, soft state,
+eventually consistent) business rule checking in database, hard to overlook
+even in case of multiple applications using the same data
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">H Krosing</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1326/postsql-using-postgresql-as-a-better-nosql</guid><enclosure url="http://www.youtube.com/watch?v=fkrpe4olen8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/fkrpe4olen8/hqdefault.jpg"></media:thumbnail></item><item><title>Programming mobile apps with python</title><link>http://www.pyvideo.org/video/1331/programming-mobile-apps-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Andreas Schreiber - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Apps for smartphones and tablet PCs are getting the most relevant kind of
+software. The numbers of apps in app markets for Android, iOS and Windows
+Phone simply explodes. Unfortunately, almost none of them are developed with
+Python which is a bit of shame. This talk covers the various mobile platforms
+and explains current solutions for programming apps with Python. It shows
+todays problems as well as possibilities, so that every listener can decide
+whether Python is already ready for his mobile app project.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Schreiber</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1331/programming-mobile-apps-with-python</guid><enclosure url="http://www.youtube.com/watch?v=S8Y1eN-34eY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/S8Y1eN-34eY/hqdefault.jpg"></media:thumbnail></item><item><title>Protocol specifications written in python</title><link>http://www.pyvideo.org/video/1310/protocol-specifications-written-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] F Haard - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Rapidly updating the requirements and implementation of a machine-to-machine
+communication protocol is hard in itself, and keeping a protocol specification
+and documentation up-to-date is always a burden, and sometimes becomes an
+impossibility. At Visual Units, when this became a problem with the protocol
+between the embedded software and the fleet management server, we changed the
+approach and specified the protocol in Python. This allows us to use the
+specification directly when generating and parsing messages, as well as making
+it possible to generate protocol documentation, and source code for our Java
+(J2ME) client software. We implemented everything from scratch, and found it
+surprisingly easy to do without documentation and specifications external to
+The Code. This talk will focus on lessons learned and pitfalls found during
+the implementation of this solution, with code examples from our current state
+of art as well as showcases of some of the mistakes we made and the types of
+magic used in different iterations - most notably metaclasses and the inspect
+and imp modules. It will follow the evolution from the first (quite horrible)
+attempts, to our current implementation. I will also discuss what has been
+gained by adopting this solution and the tradeoffs that we have made. The
+intended audience is developers and designers who work with and design
+protocols, as well as developers with a general interest in code as
+specification. This is not a presentation of a framework for use in any
+application (although code is available), but an in-depth look at how far you
+can go with custom-built tools.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">F Haard</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1310/protocol-specifications-written-in-python</guid><enclosure url="http://www.youtube.com/watch?v=Cgf73JmuINU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Cgf73JmuINU/hqdefault.jpg"></media:thumbnail></item><item><title>Pypedia: a python development environment on a wiki</title><link>http://www.pyvideo.org/video/1309/pypedia-a-python-development-environment-on-a-wi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Kanterakis - 4 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this talk we present PyPedia. PyPedia is an effort to host a Python
+programming environment in a MediaWiki content management system. The concept
+is similar to any wiki except that each article contains the documentation,
+python source code and unit tests for a known and well defined computational
+problem. Through an article, a user can edit the source code, download it,
+execute it locally, in a remote computer through SSH, or in Google App Engine
+(GAE). Moreover, through a python package users can import PyPedia methods in
+their local python environment. In the source code, a developer can simply
+call a function or instantiate a class that is defined in another article. In
+every code edit, the article’s unit-tests are evaluated in GAE before saving.
+A special parameters section allows editors to build an HTML form within the
+article that help fellow users to execute the method as a simple online
+service. Articles are divided in two categories: User and Main. In User
+articles, the creator of the article manages the edit privileges of each
+section. Any non-deliberately malicious content is allowed. Main articles are
+selected from the pool of User articles that exhibit highly qualitative
+content and can be edited only by trusted users. All content is under the
+simplified BSD license. The vision of this project is to create an
+encyclopedia of documented, executable and verifiable python implementation of
+common algorithms or computational problems through the development of a vivid
+community. Specialized or user aware content is also encouraged in the User
+namespace. The source code of PyPedia is available under the GPL v.3 license.
+Availability: [http://www.pypedia.com](http://www.pypedia.com) Video
+demonstration: [http://www.youtube.com/watch?v=25jMEivICD8](http://www.youtube
+.com/watch?v=25jMEivICD8)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Kanterakis</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1309/pypedia-a-python-development-environment-on-a-wi</guid><enclosure url="http://www.youtube.com/watch?v=di3csK0Wsik" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/di3csK0Wsik/hqdefault.jpg"></media:thumbnail></item><item><title>Pypy: current status and gil-less future</title><link>http://www.pyvideo.org/video/1340/pypy-current-status-and-gil-less-future</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A. Rigo, A. Cuni, M. Fijalkowski - 2 JULY 2012 in "Track
+Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In the first part of the keynote we will present the current status of PyPy,
+with a particular focus on what happened in the last year. We will give a
+brief overview of the current speed and the on-going development efforts. The
+second part of the keynote is about one particular feature whose development
+is in progress in PyPy: Automatic Mutual Exclusion. What it is needs some
+explanation: The GIL, or Global Interpreter Lock, is a well-known issue for
+Python programmers that want to have a single program using the multiple cores
+of today’s machines. This keynote is not about writing a GIL-less Python
+interpreter; although hard, this has been done before, notably in Jython. The
+real issue is that writing each and every multi-threaded Python programs is
+hard too. The threading module offers locks in several variants, conditions,
+events, semaphores… But using them correctly without missing one case is
+difficult, impossible to seriously test, often impossible to retrofit into
+existing programs, and arguably doesn’t scale. (Other solutions like the
+multiprocessing module are at best workarounds, suffering some of the same
+issues plus their own ones.) Instead, this keynote is about an alternate
+solution: a minimal thread-less API that lets programs use multiple cores,
+without worrying about races. This may sound impossible, but is in fact
+similar to the API simplification of using a garbage collected language over
+an explicitly managed one — what is not minimal is “just” the internal
+implementation of that API. I will explain how it can actually be done using
+Automatic Mutual Exclusion, a technique based on Transactional Memory. I will
+give preliminary results on a modified version of the PyPy Python interpreter
+that show that it can actually work. I will also explain how the API is used,
+e.g. in a modified Twisted reactor that gives multi-core capability to any
+existing, non-thread-based Twisted program.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Cuni,Armin Rigo,M Fijalkowski</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1340/pypy-current-status-and-gil-less-future</guid><enclosure url="http://www.youtube.com/watch?v=x6OL88pzjHQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/x6OL88pzjHQ/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy JIT under the hood</title><link>http://www.pyvideo.org/video/1312/pypy-jit-under-the-hood</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Rigo - A Cuni - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PyPy is probably the fastest Python implementation around, thanks to its
+automatically generated JIT compiler. This talk explains how the JIT works
+internally: in particular, it shows all the intermediate steps which lead to
+the compilation of the Python source into fast machine code, and how to use
+the right tools to inspect the output of the JIT compiler. By examining the
+internals of the JIT, you will also learn why some code is more “JIT friendly”
+than other, and how to write programs which exploits its full potential.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Cuni,Armin Rigo</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1312/pypy-jit-under-the-hood</guid><enclosure url="http://www.youtube.com/watch?v=cMtBUvORCfU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/cMtBUvORCfU/hqdefault.jpg"></media:thumbnail></item><item><title>Python white magic</title><link>http://www.pyvideo.org/video/1333/python-white-magic</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Antonio Cuni - 3 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python is a powerful language. Beginners appreciate its surface of simplicity
+and ease to use, where (almost) everything “just works” (TM) as expected.
+However, under the hood, there is a whole world of rules and layers which can
+be (ab)used by experienced programmers to tweak the language in unexpected
+ways. Often, these techniques are labeled as “hacks” or “black magic”, to
+indicate that they should not used in production or that you should not look
+at it unless you are “initiated” to some not better specified sorcery.
+However, if used with care and in the right places, these techniques can lead
+to better, faster and/or more readable code, or can be extremely useful during
+debugging, and thus deserve the definition of “white magic” which programmers
+can use to improve their code. Moreover, looking at how they are implemented
+is a good way to learn about some of the deep corners of the language. This
+talk presents some of these advanced techniques which I have seen in use in
+real code, e.g. in PyPy or pdb++. Including, but not limited to: creating new
+functions by reusing existing code objects, instantiating multiple copies of
+the same module, playing with metaclasses in various ways, changing the
+__class__ of an object on the fly to get specialized behavior, automatically
+entering the debugger when a certain event occur, etc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1333/python-white-magic</guid><enclosure url="http://www.youtube.com/watch?v=WqVMZnefnO8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/WqVMZnefnO8/hqdefault.jpg"></media:thumbnail></item><item><title>Python without filesystem</title><link>http://www.pyvideo.org/video/1332/python-without-filesystem</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Arnaud Fontaine - 3 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Recent cloud architecture are heavily based on key-value storage databases
+rather than distributed filesystems. While the data itself is usually stored
+in scalable database, the source code is mainly kept on the filesystem.
+However, having the source code on filesystem raises a lot of issues for cloud
+applications and more generally for transactional web applications supposed to
+be deployed on a large number of servers: Everytime the source code is
+modified, it has to be synchronized on all the nodes somehow and the
+application server must be restarted, therefore implying downtime or
+inconsistency. Usually, the developer cannot directly modify the source code
+as this task is left to the administrator. This talk will show how source
+code, including modules and their classes, can be migrated away from
+filesystem, thanks to import hooks, meta classes, reflection and
+metaprogramming provided by Python, and the different challenges involved:
+Technical: modules and classes must be loaded and reset while carefully
+considering concurrency and database issues and ensuring that the system will
+stay usable whatever happens and without breaking existing class instances.
+Also, developers must be efficient with the new system, including convenient
+source code edition and meaningful backtraces. Performance: having dynamic
+modules and classes involved a performance tradeoff which should be kept to
+the minimum. Security: as the source code is dynamically loaded from the
+database, extra care must be taken care of compared to filesystem source code
+where the source code is never supposed to change once the applications has
+been started. In order to give practical examples of how this migration can be
+achieved, two examples will be studied and explain thoroughly, based on the
+experience I have acquired through the implementation for ERP5 I have worked
+on during the past year: First, through a basic WSGI application based on a
+lightweight web application framework to explain the basics behind having
+Python source code available in a transactional key-value storage database and
+more precisely how modules and their classes can be dynamically loaded and
+reset on-demand upon modifications while keeping good performances. This
+usually involved specific features from the database point of view which will
+also be discussed. Secondly, through ERP5 which is mainly known as an open
+source ERP based on Zope and thus ZODB, and as such it provides features an
+ERP typically provides, but it is also used for a wide range of other
+purposes. Therefore, this will give a more real-world example on how this
+migration has been performed on a complex web application where 90% of the
+code is going to be moved away from filesystem into the ZODB.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arnaud Fontaine</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1332/python-without-filesystem</guid><enclosure url="http://www.youtube.com/watch?v=xWY0UQn3dcA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xWY0UQn3dcA/hqdefault.jpg"></media:thumbnail></item><item><title>Recruiting session</title><link>http://www.pyvideo.org/video/1337/recruiting-session</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] - 2 JULY 2012 "Track Spaghetti"
+
+</description><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1337/recruiting-session</guid><enclosure url="http://www.youtube.com/watch?v=guc1IwNegFM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/guc1IwNegFM/hqdefault.jpg"></media:thumbnail></item><item><title>Snakes and onions: Python developers and Tor</title><link>http://www.pyvideo.org/video/1317/snakes-and-onions-python-developers-and-tor</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Runa Sandvik - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The Tor Project develops and maintains Tor, a free and open-source software
+that allows users to browse the web anonymously and securely. In addition, the
+Tor Project also develops and maintains a number of Python applications
+related to Tor, such as a command-line monitor, censorship scanner, network
+simulator, controller library, and bridge distributor. In this talk, Runa A.
+Sandvik will present the Tor Project, and talk about Tor and how it works. She
+will also introduce some of the Python projects currently under development,
+and explain how you can get involved and contribute with code, testing, and
+documentation.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Runa Sandvik</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1317/snakes-and-onions-python-developers-and-tor</guid><enclosure url="http://www.youtube.com/watch?v=lmuhyc4aPYs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/lmuhyc4aPYs/hqdefault.jpg"></media:thumbnail></item><item><title>Spotify, pipelining your music</title><link>http://www.pyvideo.org/video/1320/spotify-pipelining-your-music</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Jyrki Pulliainen - 3 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Spotify’s current catalog contains 15 million songs. Original storage of audio
+and metadata is over 500 terabytes and we’re transcoding 500 000 new audio
+streams a day. At it’s best the system can make an album playable just few
+minutes after it’s delivery. This talk is about building the music pipeline,
+all the way from the labels, who deliver music and metadata XML to our system,
+to the clients. Problems here are the concurrency, massive amount of data,
+enriching the metadata to provide better quality and to actually deliver 100
+gigabytes of indexes daily.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jyrki Pulliainen</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1320/spotify-pipelining-your-music</guid><enclosure url="http://www.youtube.com/watch?v=OH4Q9db0xFw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/OH4Q9db0xFw/hqdefault.jpg"></media:thumbnail></item><item><title>Sviluppare una Restful web API con Python, Flask e MongoDB</title><link>http://www.pyvideo.org/video/1318/sviluppare-una-restful-web-api-con-python-flask</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Nicola Tarocci - 3 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Nel corso dell’ultimo anno abbiamo lavorato all’implementazione Python di una
+RESTful Web API completa. Abbiamo imparato un bel po’ di cose sui best pattern
+REST e, naturalmente, abbiamo messo alla prova le ben note
+capacitÃ&amp;nbsp_place_holder; web di Python, rilasciando nel frattempo un paio
+di progetti Open Source. Nel corso del mio intervento condividerÃ² quel che
+abbiamo imparato. Prenderemo in considerazione il problematico design di una
+REST API ‘pura’. Vedremo che cosa offre Python in questo campo e scenderemo
+infine nel dettaglio, dando una occhiata al codice che abbiamo scritto. Alcune
+tecnologie/stack che tratteremo sono (in nessun ordine particolare): Flask,
+PyMongo, MongoDB, REST, JSON, XML, Heroku. Lo sapevi? Che ti piaccia o no,
+c’Ã¨ una REST API nel tuo futuro.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicola Tarocci</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1318/sviluppare-una-restful-web-api-con-python-flask</guid><enclosure url="http://www.youtube.com/watch?v=Q6EKaBd7jmY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Q6EKaBd7jmY/hqdefault.jpg"></media:thumbnail></item><item><title>Tornado in Depth</title><link>http://www.pyvideo.org/video/1319/tornado-in-depth</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] O Vilaplana - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Tornado is a non-blocking light-weight web server and framework. There’s been
+many introductory talks about it, and it’s time to look deeper into it: not
+just what Tornado does, but how it does it and what can we learn from it when
+designing our own concurrent systems. We’ll cover each topic in two parts:
+first we’ll see how to use a certain feature in our applications; then, we’ll
+dig into Tornado’s source code to see how it really works. How much time we’ll
+spend in the “how to use” will depend on the audience’s knowledge of Tornado.
+Getting Started: quickly get a simple Tornado application up and running.
+We’ll keep digging into, changing and poking this Application for most of the
+talk. An Application Listens: what an Application is, how does Tornado start
+it and how does it process its requests. Application and IOLoop: we’ll look at
+how the IOLoop receives the connections from the users and passes them on to
+the Applications. Scheduled Tasks: we’ll see how to schedule tasks and how the
+IOLoop will run them. Generators: we’ll learn to use generators to handle the
+responses of our asynchronous calls, and how they work with the IOLoop.
+Websockets: how to use them and how they work. IOStream: how do Tornado’s non-
+blocking sockets work. Database: how to use non-blocking sockets to connect to
+a MySQL or MongoDB database.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">O Vilaplana</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1319/tornado-in-depth</guid><enclosure url="http://www.youtube.com/watch?v=4Ztq-Yz1ero" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/4Ztq-Yz1ero/hqdefault.jpg"></media:thumbnail></item><item><title>What i learned from big web app deployments</title><link>http://www.pyvideo.org/video/1328/what-i-learned-from-big-web-app-deployments</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Christian Theune - 3 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The requirements and expectations towards deployment and operations are
+advancing at an incredible pace. Especially the DevOps community encourages
+and demonstrates how system administrators can leverage methods from other
+areas of expertise to achieve classical goals: fewer outages, more
+flexibility, lower cost, higher security standards, improved reproducability
+and overall increased quality. The hosting of complex, traffic-intensive web
+applications nowadays requires a solid and flexible infrastructure: you need
+to take care of all the homework first before going into the nitty gritty
+details of your specific application. My talk shall demonstrate the aspects we
+meet on the infrastructure and service level when deploying and operating
+complex services. I’ll show-case how we approach the problems we face to
+prepare for an ever-improving future. As many people and companies are
+experimenting with different approaches today, I’d love to spawn a separate
+discussion, maybe in an open space, to talk about why you do something
+different from us and what your experiences are. The topics will specifically
+include: infrastructure versus service, data center operations, make-or-buy,
+automation, virtualisation, monitoring, help desk, SLAs, deployment checklist,
+staging, secrets, HTTP/S termination, load balancing, reporting As you can
+see, the talk’s topics are mainly focused on methods and lines of thought.
+However, if you’re interest in tools - I will also mention the following on a
+varying level of detail: puppet,
+
+    haproxy, nginx, apache, varnish, supervisor, cron, Linux, DELL, ProCurve, KVM, Nagios, RT, fabric, zc.buildout, batou
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Theune</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1328/what-i-learned-from-big-web-app-deployments</guid><enclosure url="http://www.youtube.com/watch?v=ENnI2FU3EV4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ENnI2FU3EV4/hqdefault.jpg"></media:thumbnail></item><item><title>EuroPython 2012 - Track Big Mac</title><link>http://www.pyvideo.org/video/1341/europython-2012-track-big-mac</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><pubDate>Tue, 03 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1341/europython-2012-track-big-mac</guid><enclosure url="http://www.youtube.com/watch?v=-aTjP9_di4E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-aTjP9_di4E/hqdefault.jpg"></media:thumbnail></item></channel></rss>

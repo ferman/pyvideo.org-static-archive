@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jamu Kakar</title><link>http://www.pyvideo.org/speaker/526/jamu-kakar/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/526/jamu-kakar/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Using Storm to work with SQL databases</title><link>http://www.pyvideo.org/video/1091/using-storm-to-work-with-sql-databases</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jamu Kakar - 24 June 2011 in "Track Tagliatelle "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Storm is an object relational mapper for SQL databases, with builtin support
+for PostgreSQL, MySQL and SQLite. It was designed and implemented as part of
+the Landscape project at Canonical in mid-2006 and was open sourced in
+mid-2007. Since then it's been used in a variety of projects, in production
+for many years, and has received numerous enhancements and bug fixes. The
+features of Storm will be explained with a series of examples and with
+discussion about what's happening in each one. In addition to describing the
+concepts and features that a developer needs to understand, a variety of best
+practices will be shared, to help developers make the best use of Storm.
+
+The examples in this talk assume that participants have a good understanding
+of SQL, transactions, relationships between tables and other common database
+concepts.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jamu Kakar</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1091/using-storm-to-work-with-sql-databases</guid><enclosure url="http://www.youtube.com/watch?v=JC5QqVWA8Vo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/JC5QqVWA8Vo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Emily Bache</title><link>http://www.pyvideo.org/speaker/1457/emily-bache/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1457/emily-bache/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Will I still be able to get a job in 2024 if I don't do TDD</title><link>http://www.pyvideo.org/video/3043/will-i-still-be-able-to-get-a-job-in-2024-if-i-do</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Geoffrey Moores's book "Crossing the chasm" outlines the difficulties
+faced by a new, disruptive technology, when adoption moves from
+innovators and visionaries into the mainstream. Test Driven Development
+is clearly a disruptive technology, that changes the way you approach
+software design and testing.
+&lt;p&gt;Description&lt;/p&gt;
+TDD hasn't yet been embraced by everyone,
+but is it just a matter of time? Ten years from now, will a non-TDD
+practicing developer experience the horror of being labelled a
+technology adoption 'laggard', and be left working exclusively on
+dreadfully boring legacy systems?
+
+It could be a smart move to get down to your nearest Coding Dojo and
+practice TDD on some Code Katas. On the other hand, the thing with
+disruptive technologies is that even they can become disrupted when
+something better comes along. What about Property-Based Testing?
+Approval Testing? Outside-In Development?
+
+In this talk, I'd like to look at the chasm-crossing potential of TDD
+and some related technologies. My aim is that both you and I will still
+be able to get a good job in 2024.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Emily Bache</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3043/will-i-still-be-able-to-get-a-job-in-2024-if-i-do</guid><enclosure url="http://www.youtube.com/watch?v=loWnONmVtpM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/loWnONmVtpM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

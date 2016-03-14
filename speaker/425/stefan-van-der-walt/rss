@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stéfan van der Walt</title><link>http://www.pyvideo.org/speaker/425/stefan-van-der-walt/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/425/stefan-van-der-walt/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Speeding up Scientific Python code using Cython</title><link>http://www.pyvideo.org/video/3342/speeding-up-scientific-python-code-using-cython</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stéfan van der Walt</dc:creator><pubDate>Wed, 22 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3342/speeding-up-scientific-python-code-using-cython</guid><enclosure url="https://www.youtube.com/watch?v=zdXLSEdtyaY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/zdXLSEdtyaY/hqdefault.jpg"></media:thumbnail></item><item><title>Image Processing in Python with scikits-image</title><link>http://www.pyvideo.org/video/963/image-processing-in-python-with-scikits-image</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this video from the 2012 PyData Workshop, Stéfan van der Walt is going to
+give you an in-depth look at scikits-image, the image processing toolbox for
+Python.
+
+Stefan will talk about the wide application for image processing in industry,
+and demonstrate how you can use scikits-image to solve specific industry
+problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stéfan van der Walt</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/963/image-processing-in-python-with-scikits-image</guid><enclosure url="http://www.youtube.com/watch?v=Wvvxazwi2IY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Wvvxazwi2IY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

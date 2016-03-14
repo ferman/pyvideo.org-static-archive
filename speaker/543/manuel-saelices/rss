@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Manuel Saelices</title><link>http://www.pyvideo.org/speaker/543/manuel-saelices/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/543/manuel-saelices/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Merengue: the new surprising and refreshing Django based CMS.</title><link>http://www.pyvideo.org/video/1127/merengue-the-new-surprising-and-refreshing-djang</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Manuel Saelices - 20 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django is an excellent web development platform with an extensive developers
+community. It may be the most popular Python web framework nowadays. However,
+the exisiting django based CMS products are not as feature complete as other
+comparable solutions (Drupal, Plone, Alfresco, ModX, etc.).
+
+The Merengue project tries to fill this gap. It is financed by the University
+of Málaga (Spain) and takes advantage of existing code and knowledge from
+other projects (Plone, Drupal, Pinax, django-cms, feincms, LFC, etc.)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Manuel Saelices</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1127/merengue-the-new-surprising-and-refreshing-djang</guid><enclosure url="http://www.youtube.com/watch?v=jUHTORehfRg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/jUHTORehfRg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

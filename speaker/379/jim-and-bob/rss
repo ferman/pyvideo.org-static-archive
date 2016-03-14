@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jim and Bob</title><link>http://www.pyvideo.org/speaker/379/jim-and-bob/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/379/jim-and-bob/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>3. Hacking for Humanity with Python: The CuiBono political app</title><link>http://www.pyvideo.org/video/693/3-hacking-for-humanity-with-python-the-cuibono</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This poster discusses the development of the CuiBono "political ad truth
+detector" app, from concept, to hackathon, to launch. The poster also talks
+about Python's prominence at the Philadelphia Random Hacks of Kindness
+hackathon (Winter 2011)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jim and Bob,Pam Selle</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/693/3-hacking-for-humanity-with-python-the-cuibono</guid><enclosure url="https://www.youtube.com/watch?v=WMUXMqYhQ-M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/WMUXMqYhQ-M/hqdefault.jpg"></media:thumbnail></item></channel></rss>

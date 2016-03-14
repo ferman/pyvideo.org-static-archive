@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Liz Quilty</title><link>http://www.pyvideo.org/speaker/1127/liz-quilty/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1127/liz-quilty/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 12 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Hacking the OWI robotic arm bot</title><link>http://www.pyvideo.org/video/2358/hacking-the-owi-robotic-arm-bot</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Demonstrating the OWI robotic arm running automated with a Raspberry Pi and some python code.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
+
+**Audience level**
+
+Novice
+
+**Abstract**
+
+After buying my son an OWI robotic arm,we decided to see if we could do more with it than use the remote controller. We quickly found you can buy a USB interface, however it only came with windows drivers. After some googling we found we could control this with python scripts which led to even more fun!
+
+**Slides**
+
+https://speakerdeck.com/nzpug/liz-quilty-hacking-the-owi-robotic-arm-bot</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Liz Quilty</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2358/hacking-the-owi-robotic-arm-bot</guid><enclosure url="http://www.youtube.com/watch?v=UJUbOWDlbWs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/UJUbOWDlbWs/hqdefault.jpg"></media:thumbnail></item></channel></rss>

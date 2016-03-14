@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Matt Croydon</title><link>http://www.pyvideo.org/speaker/156/matt-croydon/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/156/matt-croydon/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Internationalizing your Django project (#74)</title><link>http://www.pyvideo.org/video/331/pycon-2010--internationalizing-your-django-projec</link><description>&lt;p&gt;Description&lt;/p&gt;
+Internationalizing your Django project
+
+  
+Presented by Matt Croydon (Mediaphormedia)
+
+  
+Internationalizing your Django application isn't as hard as it sounds. This
+session introduces the topic of internationalization and walks through what it
+takes to use Django's internationalization tools, including how to mark
+models, views, and templates for translation and how to enable
+internationalization in your application. We will also step through localizing
+your application in a new language.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matt Croydon</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/331/pycon-2010--internationalizing-your-django-projec</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/331_internationalizing-your-django-project-74.ogv" length="186905210" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/331_internationalizing-your-django-project-74.ogv" fileSize="186905210" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/331_internationalizing-your-django-project-74.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010InternationalizingYourDjangoProject74399.png"></media:thumbnail></item></channel></rss>

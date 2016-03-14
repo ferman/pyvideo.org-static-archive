@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Bob Ippolito</title><link>http://www.pyvideo.org/speaker/126/bob-ippolito/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/126/bob-ippolito/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 21 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>What can python learn from Haskell?</title><link>http://www.pyvideo.org/video/3046/what-can-python-learn-from-haskell</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+What can we learn from Erlang or Haskell for building reliable high
+concurrency services?
+
+&lt;p&gt;Description&lt;/p&gt;
+What can we learn from Erlang or Haskell for building reliable high
+concurrency services? Bob was involved in many Python projects but
+argues that for some domains there may be better methods found
+elsewhere. He started looking for alternatives back in 2006 when
+building high concurrency services at Mochi Media (originally with
+Twisted), which led him to the land of Erlang and later Haskell. Bob is
+going to talk about what he learned along the way. In particular, he’ll
+cover some techniques that are used in functional programming languages
+and how they can be used to solve problems in more performant, robust
+and/or concise ways than the standard practices in Python. He is also
+going to discuss some potential ways that the Python language and its
+library ecosystem could evolve accordingly.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bob Ippolito</dc:creator><pubDate>Mon, 21 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3046/what-can-python-learn-from-haskell</guid><enclosure url="http://www.youtube.com/watch?v=eVChXmNjV7o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/eVChXmNjV7o/hqdefault.jpg"></media:thumbnail></item><item><title>Pycon 2010: Analysis: The other kind of testing (#185)</title><link>http://www.pyvideo.org/video/294/pycon-2010--analysis--the-other-kind-of-testing--</link><description>&lt;p&gt;Description&lt;/p&gt;
+Analysis: The other kind of testing
+
+  
+Presented by Bob Ippolito
+
+  
+Software testing helps verify that your code meets a specification, but not
+how to improve the specification. How can you stay competitive when most of
+the big names today are using analysis to guide product evolution? Level the
+playing field and make better products by learning how to design experiments,
+collect data, make measurements, and optimize your specifications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bob Ippolito</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/294/pycon-2010--analysis--the-other-kind-of-testing--</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/294_pycon-2010-analysis-the-other-kind-of-testing-185.ogv" length="152495613" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/294_pycon-2010-analysis-the-other-kind-of-testing-185.ogv" fileSize="152495613" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/294_pycon-2010-analysis-the-other-kind-of-testing-185.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010AnalysisTheOtherKindOfTesting185103.png"></media:thumbnail></item></channel></rss>

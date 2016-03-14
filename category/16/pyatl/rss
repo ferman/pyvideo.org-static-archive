@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Python Atlanta</title><link>http://www.pyvideo.org/category/16/pyatl/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/16/pyatl/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 08 Oct 2009 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyAtl Oct 2009: "Adding Excel-based Import and Export to Django" by Keyton Weissinger</title><link>http://www.pyvideo.org/video/595/pyatl-oct-2009---quot-adding-excel-based-import-a</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+End users often need to update multiple items at one time. Unfortunately,
+building a grid-like user interface in a webpage to allow for this type of
+editing is often painful and results in a poor substitute for Excel, the
+standard against which some of these same end users will compare it. Why not
+just let 'em use Excel?
+
+
+&lt;p&gt;Description&lt;/p&gt;
+"In this presentation I will talk about a simple addition to any django
+application that will allow your end users to, in essence, check out a large
+number of items, update them en masse using Excel (where they can take the
+data offline and sort to their heart's content), and then check them all in
+again.
+
+"This same system also allows for Excel-based batch import -- an added bonus.
+And, of course, it works if you're spreadsheet of choice is Open Office as
+well.
+
+"This presentation shows you how to add this functionality to any django
+project quickly and easily using some simple model decoration, an openly
+available drop-in reusable django application and the excellent libraries xlrd
+and xlwt."
+
+</description><pubDate>Thu, 08 Oct 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/595/pyatl-oct-2009---quot-adding-excel-based-import-a</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/595_pyatl-oct-2009-adding-excel-based-import-and-export-to-django-by-keyton-weissinger.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-keyton613-636.jpg"></media:thumbnail></item><item><title>PyAtl Oct 2009: "Django at the Atlanta-Journal Constitution" by Zellyn Hunter</title><link>http://www.pyvideo.org/video/594/pyatl-oct-2009---quot-django-at-the-atlanta-journ</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Hear about the trials, tribulations, and successes of using Django for content
+providing at a large urban newspaper. Includes a bit of discussion about how
+they integrate Django with their Big Proprietary Java CMS, their Ruby on Rails
+components, and Memcached.
+
+</description><pubDate>Thu, 08 Oct 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/594/pyatl-oct-2009---quot-django-at-the-atlanta-journ</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/594_pyatl-oct-2009-django-at-the-atlanta-journal-constitution-by-zellyn-hunter.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-zellyn827-101.jpg"></media:thumbnail></item><item><title>PyAtl Oct 2009: "Gearman and Python" by Chris Heisel</title><link>http://www.pyvideo.org/video/593/pyatl-oct-2009---quot-gearman-and-python-quot--by</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In a repeat of his lightning talk from DjangoCon (that wound up a bit longer
+at our meeting thanks to audience questions), Chris tells us about using the
+work queuing and distribution system "Gearman".
+
+</description><pubDate>Thu, 08 Oct 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/593/pyatl-oct-2009---quot-gearman-and-python-quot--by</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/593_pyatl-oct-2009-gearman-and-python-by-chris-heisel.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-chris170-493.jpg"></media:thumbnail></item><item><title>PyAtl July 2009: Skylar Saveland talks about Pinax</title><link>http://www.pyvideo.org/video/596/pyatl-july-2009--skylar-saveland-talks-about-pina</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Local Python Atlanta Meetup member Sklyar Saveland talks about Pinax, an
+extension for Django that he has been using that supports many common social
+networking tools for your web site users right out of the box.
+
+</description><pubDate>Thu, 16 Jul 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/596/pyatl-july-2009--skylar-saveland-talks-about-pina</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/596_pyatl-july-2009-skylar-saveland-talks-about-pinax.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-skylerpinax177-300.jpg"></media:thumbnail></item><item><title>PyAtl June 2009: Brandon Rhodes talks about TurboGears 2, Plone, and contentmirror</title><link>http://www.pyvideo.org/video/597/pyatl-june-2009--brandon-rhodes-talks-about-turbo</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+What happens when your customer needs the power of a real CMS but you don't
+want the hosting expense, performance challenge, or theming quirks of driving
+their web site itself through Plone? Brandon Rhodes shares a war story or two
+from his recent work to generate both a happy customer and a fast web site by
+combining Plone with contentmirror and Turbogears 2.
+
+</description><pubDate>Thu, 11 Jun 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/597/pyatl-june-2009--brandon-rhodes-talks-about-turbo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/597_pyatl-june-2009-brandon-rhodes-talks-about-turbogears-2-plone-and-contentmirror.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-brandonrhodestg2plone908-229.jpg"></media:thumbnail></item><item><title>PyAtl June 2009: Nuts &amp; Bolts, including ctypes, by Brandon Rhodes</title><link>http://www.pyvideo.org/video/600/pyatl-june-2009--nuts--amp--bolts--including-ctyp</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python Atlanta Meetup organizer Brandon Rhodes welcomed everybody to the June
+2009 meeting with his usual "Nuts &amp; Bolts" talk.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Receiving brief mention in this month's talk were:
+
+  * Everyblock.com now has a site for Atlanta
+  * Starting a discussion of what Atlanta restaurants to sent PyCon attendees to when PyCon is in Atlanta in February 2010
+  * The "ctypes" module, with a small demo calling the sbrk() command 
+
+</description><pubDate>Thu, 11 Jun 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/600/pyatl-june-2009--nuts--amp--bolts--including-ctyp</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/600_pyatl-june-2009-nuts-bolts-including-ctypes-by-brandon-rhodes.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-brandonrhodesintro528-200.jpg"></media:thumbnail></item><item><title>PyAtl June 2009: Rick Tomas talks about Google Wave</title><link>http://www.pyvideo.org/video/598/pyatl-june-2009--rick-tomas-talks-about-google-wa</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+What is the recently announced Google Wave technology? How does it look? How
+can you write programs that interact with it? Our own Rick Thomas shares what
+he has discovered about this new protocol and how it integrates with your
+favorite programming language.
+
+</description><pubDate>Thu, 11 Jun 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/598/pyatl-june-2009--rick-tomas-talks-about-google-wa</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/598_pyatl-june-2009-rick-tomas-talks-about-google-wave.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-rickthomasgooglewave735-778.jpg"></media:thumbnail></item><item><title>PyAtl June 2009: Sim Harbert talks about Python Scripting on the Android</title><link>http://www.pyvideo.org/video/599/pyatl-june-2009--sim-harbert-talks-about-python-s</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+After two days of experimenting with Python scripting on his Google Android
+phone, Sim Harbert reported to us about the experience, with a brief
+introduction to the technology, how to get started using it, and what promise
+it might hold for the future.
+
+</description><pubDate>Thu, 11 Jun 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/599/pyatl-june-2009--sim-harbert-talks-about-python-s</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/599_pyatl-june-2009-sim-harbert-talks-about-python-scripting-on-the-android.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-simharbertandroidscripting540-841.jpg"></media:thumbnail></item><item><title>PyAtl May 2009: Brandon Rhodes gives an introduction to videoing and PyCon</title><link>http://www.pyvideo.org/video/602/pyatl-may-2009--brandon-rhodes-gives-an-introduct</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+To kick off our meeting, Brandon Rhodes rambled on a bit about the video
+equipment that the PyCon team has lent us â€” and on which we are recording
+this meeting itself â€” and talked about that fact that we need to find enough
+volunteers to staff the AV team at PyCon 2010 next February in Atlanta. He
+shares a few specific thoughts about what it was like to be an A/V volunteer
+at the recent PyCon in Chicago.
+
+</description><pubDate>Thu, 14 May 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/602/pyatl-may-2009--brandon-rhodes-gives-an-introduct</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/602_pyatl-may-2009-brandon-rhodes-gives-an-introduction-to-videoing-and-pycon.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-200905video435-313.jpg"></media:thumbnail></item><item><title>PyAtl May 2009: Testing and Test Coverage with Nose, with Alfredo Deza</title><link>http://www.pyvideo.org/video/601/pyatl-may-2009--testing-and-test-coverage-with-no</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Fellow Python Atlanta member Alfredo Deza talks about how his recent project
+to write a daemon library for Python benefitted from the popular "nose"
+testing framework and how its test coverage module guided him into creating
+more complete testing.
+
+</description><pubDate>Thu, 14 May 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/601/pyatl-may-2009--testing-and-test-coverage-with-no</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/601_pyatl-may-2009-testing-and-test-coverage-with-nose-with-alfredo-deza.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Brandonrhodes-200905alfredo931-303.jpg"></media:thumbnail></item></channel></rss>

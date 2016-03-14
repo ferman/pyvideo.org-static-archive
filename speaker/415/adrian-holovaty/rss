@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adrian Holovaty</title><link>http://www.pyvideo.org/speaker/415/adrian-holovaty/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/415/adrian-holovaty/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 11 Jul 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Django Regrets</title><link>http://www.pyvideo.org/video/3664/django-regrets</link><description>&lt;p&gt;Description&lt;/p&gt;
+With the benefit of hindsight, here are a bunch of things I've regretted about doing, and not doing, in helping develop Django. Learn from my mistakes!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrian Holovaty</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3664/django-regrets</guid><enclosure url="http://youtu.be/POzEqzWy2Ac" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/POzEqzWy2Ac/hqdefault.jpg"></media:thumbnail></item><item><title>BDFL Keynote - Adrian Holovaty</title><link>http://www.pyvideo.org/video/1387/bdfl-keynote-adrian-holovaty</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DjangoCon 2012 - BDFL Keynote - Adrian Holovaty
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrian Holovaty</dc:creator><pubDate>Sat, 06 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1387/bdfl-keynote-adrian-holovaty</guid><enclosure url="http://www.youtube.com/watch?v=O2MGR0N68UI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/O2MGR0N68UI/hqdefault.jpg"></media:thumbnail></item><item><title>Extracting musical information from sound</title><link>http://www.pyvideo.org/video/878/extracting-musical-information-from-sound</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[audio missing from first 3 min] Music Information Retrieval technology has
+gotten good enough that you extract musical metadata from your sound files
+with some degree of accuracy. Find out how to use Python (along with third-
+party APIs) to determine everything from the key/tempo of a song to the
+pitch/timbre of individual notes. Then we'll do some amusing analysis of
+popular tunes.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrian Holovaty</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/878/extracting-musical-information-from-sound</guid><enclosure url="https://www.youtube.com/watch?v=bGWytn-Ff9E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/bGWytn-Ff9E/hqdefault.jpg"></media:thumbnail></item></channel></rss>

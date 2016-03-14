@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Luke Campagnola</title><link>http://www.pyvideo.org/speaker/1674/luke-campagnola/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1674/luke-campagnola/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Introducing Vispy's high level modules: easy, powerful visualization</title><link>http://www.pyvideo.org/video/3327/introducing-vispys-high-level-modules-easy-pow</link><description>&lt;p&gt;Description&lt;/p&gt;
+Vispy is an OpenGL-based interactive visualization library in Python. Its goal is to make it easy to create beautiful and fast dynamic visualizations. For example, scientific plotting of tens of millions of points, interacting with complex polygonial models, and (dynamic) volume rendering.
+
+Vispy is a young library and very actively developed. Until recently, a user would have to know OpenGL in order to work with Vispy. Now that the higher levels of the package take shape, this is no longer the case. When these layers are finalized, the number of people that can benefit from vispy will significantly increase.
+
+We will give a brief overview of the Vispy package, and focus on the higher level modules that will make it easy to visualize images, lines, etc., and organize these object in a scene graph. Of course we will demonstrate this with several examples.
+
+We will also talk about our progress in other areas, such as a browser backend and integration with the IPython notebook. 
+
+&lt;http://vispy.org/&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Almar Klein,Cyrille Rossant,Eric Larson,Luke Campagnola,Nicolas P. Rougier</dc:creator><pubDate>Wed, 22 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3327/introducing-vispys-high-level-modules-easy-pow</guid><enclosure url="https://www.youtube.com/watch?v=D7w8H4wmPRo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/D7w8H4wmPRo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

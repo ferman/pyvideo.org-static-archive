@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeremy Edberg</title><link>http://www.pyvideo.org/speaker/175/jeremy-edberg/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/175/jeremy-edberg/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python at Netflix</title><link>http://www.pyvideo.org/video/1743/python-at-netflix</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Come find out how Netflix uses Python.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Corey Bertram,Jeremy Edberg,Roy Rapoport</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1743/python-at-netflix</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Advanced_Django_Forms_Usage.mp4?Signature=ndHFHflQ0qFNLMEWBmCMjn5fI5U%3D&amp;Expires=1363660832&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Advanced_Django_Forms_Usage.mp4?Signature=ndHFHflQ0qFNLMEWBmCMjn5fI5U%3D&amp;Expires=1363660832&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=poBc5__tKgU" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/poBc5__tKgU/hqdefault.jpg"></media:thumbnail></item><item><title>Scaling your Python application on EC2 (#191)</title><link>http://www.pyvideo.org/video/349/pycon-2010--scaling-your-python-application-on-ec</link><description>&lt;p&gt;Description&lt;/p&gt;
+Scaling Your Python Application on EC2
+
+  
+Presented by Jeremy Edberg
+
+  
+Come hear about the trials and tribulations of moving reddit's Python
+application from physical hardware to EC2's cloud infrastructure, and how they
+have scaled since moving. Will include general discussion of their learnings
+about scaling as well cloud specific issues.
+
+  
+[VIDEO HAS ISSUES: Missing audio first few seconds]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeremy Edberg</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/349/pycon-2010--scaling-your-python-application-on-ec</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.ogv" length="145496279" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.ogv" fileSize="145496279" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ScalingYourPythonApplicationOnEC2191887.png"></media:thumbnail></item></channel></rss>

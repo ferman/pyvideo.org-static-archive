@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Damián Avila</title><link>http://www.pyvideo.org/speaker/413/damian-avila/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/413/damian-avila/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 28 Nov 2014 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Introducción A Jupyter</title><link>http://www.pyvideo.org/video/3363/introduccion-a-jupyter</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damián Avila</dc:creator><pubDate>Fri, 28 Nov 2014 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3363/introduccion-a-jupyter</guid><enclosure url="https://www.youtube.com/watch?v=fTRkm3d6ebw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/fTRkm3d6ebw/hqdefault.jpg"></media:thumbnail></item><item><title>22. Quantitative Finance Research with Python: Statistical arbitrage.</title><link>http://www.pyvideo.org/video/816/22-quantitative-finance-research-with-python-st</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Recently, many projects have been developed to make Python useful to do
+quantitative finance research. We proposed us not only to show you the
+integration of these tools to perform time series analysis and modeling, but
+also to show you how we can search for cointegrated pairs of asset and set up
+a statistical arbitrage strategy - pairs trading - to get potential profit
+from financial market.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damián Avila</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/816/22-quantitative-finance-research-with-python-st</guid><enclosure url="https://www.youtube.com/watch?v=MIAKOMzRl1I" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/MIAKOMzRl1I/hqdefault.jpg"></media:thumbnail></item></channel></rss>

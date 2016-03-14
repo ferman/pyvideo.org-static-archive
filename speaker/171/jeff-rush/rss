@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeff Rush</title><link>http://www.pyvideo.org/speaker/171/jeff-rush/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/171/jeff-rush/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 05 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>The Magic of Metaprogramming</title><link>http://www.pyvideo.org/video/550/the-magic-of-metaprogramming</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn the magic of writing programs that monitor, alter and react to the
+execution of program code by responding to imports, changes to variables,
+calls to functions and invocations of the builtins. This talk goes beyond the
+static world of metaclasses and class decorators into the dynamics of
+tracepoints.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Rush</dc:creator><guid>http://www.pyvideo.org/video/550/the-magic-of-metaprogramming</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/550_the-magic-of-metaprogramming.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-TheMagicOfMetaprogramming664-615.jpg"></media:thumbnail></item><item><title>Lightning Talks</title><link>http://www.pyvideo.org/video/3206/lightning-talks-11</link><description>&lt;p&gt;Description&lt;/p&gt;
+ * (00:00) - Sasha Hart -- Make PyPI Fast
+ * (0:01:36) - Sasha Hart -- Find Your Editor
+ * (0:04:17) - Jeff Rush -- Ways to Call Out
+ * (0:06:28) - Jeff Rush -- Weak References
+ * (0:08:17) - James Powell -- Newton's Method
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Powell,Jeff Rush,Sasha Hart</dc:creator><pubDate>Sun, 05 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3206/lightning-talks-11</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3206_Lightning_Talks_3.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3206_Lightning_Talks_3.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/y5OWRJZut8E" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/y5OWRJZut8E/hqdefault.jpg"></media:thumbnail></item><item><title>The Magic of Metaprogramming</title><link>http://www.pyvideo.org/video/1695/the-magic-of-metaprogramming-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn the magic of writing programs that monitor, alter and react to the execution of program code by responding to imports, changes to variables, calls to functions and invocations of the builtins. This talk goes beyond the static world of metaclasses and class decorators.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Rush</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1695/the-magic-of-metaprogramming-0</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/The_Magic_of_Metaprogramming.mp4?Signature=%2BjcZWMxtrxJlyoTsRFIATtbEuHU%3D&amp;Expires=1363653495&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/The_Magic_of_Metaprogramming.mp4?Signature=%2BjcZWMxtrxJlyoTsRFIATtbEuHU%3D&amp;Expires=1363653495&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=kwu9Itn8Ylc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/kwu9Itn8Ylc/hqdefault.jpg"></media:thumbnail></item><item><title>Deconstruction of an Object (#62)</title><link>http://www.pyvideo.org/video/327/pycon-2010--deconstruction-of-an-object---62</link><description>&lt;p&gt;Description&lt;/p&gt;
+Deconstruction of an Object
+
+  
+Presented by Jeff Rush (Tau Productions Inc.)
+
+  
+An incremental deconstruction of a class definition identifying the key
+elements such as layered namespaces, common attributes, lifecycle and access
+controls. We'll also look at calling into, out of and through an object,
+making classes extensible and various object behaviors like containment,
+sequence, iteration and arithmetic.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Rush</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/327/pycon-2010--deconstruction-of-an-object---62</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/327_deconstruction-of-an-object-62.ogv" length="293909973" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/327_deconstruction-of-an-object-62.ogv" fileSize="293909973" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/327_deconstruction-of-an-object-62.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010DeconstructionOfAnObject62593.png"></media:thumbnail></item><item><title>Interfaces, Adapters and Factories (#181)</title><link>http://www.pyvideo.org/video/347/pycon-2010--interfaces--adapters-and-factories---</link><description>&lt;p&gt;Description&lt;/p&gt;
+Interfaces, Adapters, and Factories
+
+  
+Presented by Jeff Rush
+
+  
+A step-by-step introduction to the idea of object interfaces and adapters
+using incremental code examples, based on the zope.interface module. The case
+for adaption to ease code brittleness will be made and how we can reason about
+interfaces. I'll show how to automatically check code for conformance to your
+interfaces and then cover where objects come from, the several kinds of object
+factories in Python and how one kind can be based on interfaces.
+
+  
+[VIDEO HAS ISSUES: Beginning out of focus]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Rush</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/347/pycon-2010--interfaces--adapters-and-factories---</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/347_interfaces-adapters-and-factories-181.ogv" length="123411601" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/347_interfaces-adapters-and-factories-181.ogv" fileSize="123411601" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/347_interfaces-adapters-and-factories-181.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010InterfacesAdaptersAndFactories181339.png"></media:thumbnail></item></channel></rss>

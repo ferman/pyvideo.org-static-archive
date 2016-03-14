@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alessandro Molina</title><link>http://www.pyvideo.org/speaker/639/alessandro-molina/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/639/alessandro-molina/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Baking Beaker perchè sessioni e caching possono ancora convivere</title><link>http://www.pyvideo.org/video/3579/baking-beaker-perche-sessioni-e-caching-possono</link><description>&lt;p&gt;Description&lt;/p&gt;
+Beaker è probabilmente la più diffusa soluzione cross-framework per la gestione delle sessioni e della cache nell’ambito web.
+Nato nel 2005 dagli autori di SQLAlchemy e Pylons è stato sempre mantenuto al fianco del framework Pylons. Dopo la fine di Pylons a favore di Pyramid il suo futuro è diventato incerto e, per quanto sia ancora oggi molto usato al fianco di Bottle, Flask, TurboGears e spesso anche Pyramid, alcuni dei limiti dovuti all’incompatibilità con Python3 ed alcune scelte architetturali hanno portato gli utenti ad avvicinarsi a soluzioni alternative.
+Nel 2015 la manutenzione di Beaker è stata passata da Ben Bangert al team di TurboGears che ha riscritto tutta la compatibilità con Python3 rendendo Beaker un progetto nativo Python3 e risolto alcuni dei bugs di più lunga data.
+Il talk mira a mostrare l’esperienza e le problematiche venute alla luce nei quasi 10 anni di vita del framework ed illustrare come si intende ridare forza al progetto risolvendo alcuni dei limiti architetturali pricinpali e quali sono state le scelte “sbagliate”.
+Lo scopo è diffondere quali possono essere le problematiche e le false supposizioni che esistono nell’ambito del caching e della gestione delle sessioni facendo tesoro delle esperienze fatte dal progetto Beaker nel corso della sua vita.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Molina</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3579/baking-beaker-perche-sessioni-e-caching-possono</guid><enclosure url="https://www.youtube.com/watch?v=xi2y-4Uxwek" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/xi2y-4Uxwek/maxresdefault.jpg"></media:thumbnail></item><item><title>Messing up with PyMongo for fun and profit</title><link>http://www.pyvideo.org/video/3583/messing-up-with-pymongo-for-fun-and-profit</link><description>&lt;p&gt;Description&lt;/p&gt;
+BSON (Binary JSON) è il formato di rappresentazione dei dati usato internamente da MongoDB per la trasmissione e rappresentazione dei documenti salvati nel database.
+Ogni volta che si implementano delle API HTTP basate su MongoDB il driver (pymongo) riceve i dati in formato BSON e li deve convertire in un formato comprensibile da Python. Successivamente questi dati dovranno essere re-encodati nel formato usato dalle nostre API, solitamente JSON.
+Per qualcosa come una API REST che solitamente è solo un proxy ai dati effettivi, l’encoding/decoding dance può arrivare a pesare pesantemente sulle performance riducendo il throughput del nostro API Server.
+La presentazione mira a mostrare come studiando il funzionamento interno di PyMONGO ed alterandone alcuni flussi si può evitare in molti casi questo balletto e guadagnare sensibilmente in numero di richieste al secondo servite dal nostro ambiente.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Molina</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3583/messing-up-with-pymongo-for-fun-and-profit</guid><enclosure url="https://www.youtube.com/watch?v=CQfPq6wXyJI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/CQfPq6wXyJI/maxresdefault.jpg"></media:thumbnail></item><item><title>Costruire applicazioni web complesse con le pluggable applications di TurboGears2 in pochi minuti</title><link>http://www.pyvideo.org/video/1247/costruire-applicazioni-web-complesse-con-le-plugg</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Alessandro Molina - 5 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Con la release 2.1 di TurboGears il team di sviluppo ha posto molta enfasi nel
+creare un set di strumenti utili al rapid prototyping di applicazioni web.
+Questo ha portato alla realizzazione di molte migliorie all’estensione per la
+generazione di CRUD ed al supporto per le applicazioni pluggabili.
+Padroneggiare questi strumenti può permetterci di creare applicazioni web
+complesse senza troppa fatica riutilizzando parti messe a disposizione da
+altre applicazioni pluggabili e creando sezioni amministrative con poche righe
+di codice tramite l’uso dell’estensione CRUD sia su SQLAlchemy che MongoDB.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Molina</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1247/costruire-applicazioni-web-complesse-con-le-plugg</guid><enclosure url="http://www.youtube.com/watch?v=M8v06Wksx24" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/M8v06Wksx24/hqdefault.jpg"></media:thumbnail></item></channel></rss>

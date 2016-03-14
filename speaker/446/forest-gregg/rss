@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Forest Gregg</title><link>http://www.pyvideo.org/speaker/446/forest-gregg/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/446/forest-gregg/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 14 Jun 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Big Data De-duping</title><link>http://www.pyvideo.org/video/973/big-data-de-duping</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Derek Eder of Webitects and Forest Gregg, a Ph.D. student of sociology at the
+University of Chicago, will describe the Python library they are developing to
+deduplicate tabular data, quickly, accurately, and at a large scale. The
+library facilitates the matching of related records in different data sets,
+using a machine learning approach. They expect to have a demo to show and will
+explain how they expect that the library will be used.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Derek Eder,Forest Gregg</dc:creator><pubDate>Thu, 14 Jun 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/973/big-data-de-duping</guid><enclosure url="https://www.youtube.com/watch?v=7Lwlo42j6aA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i4.ytimg.com/vi/7Lwlo42j6aA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

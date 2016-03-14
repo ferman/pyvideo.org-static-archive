@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Matt Spitz</title><link>http://www.pyvideo.org/speaker/189/matt-spitz/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/189/matt-spitz/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Practical Machine Learning in Python</title><link>http://www.pyvideo.org/video/636/practical-machine-learning-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There are a plethora of options when it comes to deciding how to add a machine
+learning component to your python application. In this talk, I'll discuss why
+python as a language is well-suited to solving these particular problems, the
+tradeoffs of different machine learning solutions for python applications, and
+some tricks you can use to get the most out of whatever package you decide to
+use.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matt Spitz</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/636/practical-machine-learning-in-python</guid><enclosure url="https://www.youtube.com/watch?v=__s45TTXxps" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/__s45TTXxps/hqdefault.jpg"></media:thumbnail></item><item><title>Using Coroutines to Create Efficient, High-Concurrency Web Applications</title><link>http://www.pyvideo.org/video/377/pycon-2011--using-coroutines-to-create-efficient-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Using Coroutines to Create Efficient, High-Concurrency Web Applications
+
+Presented by Matt Spitz
+
+Creating high-concurrency python web applications is inherently difficult for
+a variety of reasons. In this talk, I'll discuss the various iterations of
+application server paradigms we've used at meebo, the advantages/disadvantages
+of each approach, and why we've settled on a coroutine-based WSGI setup to
+handle our high-concurrency web applications going forward.
+
+Abstract
+
+There are a number of ways in which to create a web application in python.
+Some examples include a straight-up CGI scripts that run anew with each
+request, preforked Apache workers that each handle multiple requests, and
+using an asynchronous web framework like Twisted.
+
+At meebo, we've settled on using gunicorn, a lightweight WSGI server, which
+supports gevent, a coroutine-based network library for python. Gevent
+monkeypatches python's system modules to make network requests asynchronous
+using an event loop based on libevent. This trick allows the developer to use
+a simple blocking CGI as a non-blocking web application that can handle many
+concurrent requests.
+
+I'll discuss our iteration process through these approaches to building web
+applications, why we ended up choosing gunicorn+gevent, the challenges this
+new framework presents, and how we've dealt with them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matt Spitz</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/377/pycon-2011--using-coroutines-to-create-efficient-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/377_using-coroutines-to-create-efficient-high-concurrency-web-applications.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011UsingCoroutinesToCreateEfficientHighConcurrency731.png"></media:thumbnail></item></channel></rss>

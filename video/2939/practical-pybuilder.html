@@ -1,0 +1,349 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Practical PyBuilder</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="*PyBuilder* is a software build tool written in pure python which mainly targets 
+pure python applications.
+It provides glue between existing build frameworks, thus empowering you to focus on the big picture of the build process.
+
+It will be shown through demonstrations and samples how a simple, 
+human-readable and declarative configuration can lead to an astonishingly 
+well-integrated build process which will make maintainers, developers and newcomers happy.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="practical-pybuilder.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="practical-pybuilder.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=iQU18hAjux4"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Practical PyBuilder</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/iQU18hAjux4/hqdefault.jpg"/>
+      <link property="sameAs" href="practical-pybuilder.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p><em>PyBuilder</em> is a software build tool written in pure python which mainly targets 
+pure python applications.
+It provides glue between existing build frameworks, thus empowering you to focus on the big picture of the build process.</p>
+<p>It will be shown through demonstrations and samples how a simple, 
+human-readable and declarative configuration can lead to an astonishingly 
+well-integrated build process which will make maintainers, developers and newcomers happy.</p></div>
+        <meta property="caption" content="PyBuilder is a software build tool written in pure python which mainly targets 
+pure python applications.
+It provides glue between existing build frameworks, thus empowering you to focus on the big picture of the build process.
+It will be shown through demonstrations and samples how a simple, 
+human-readable and declarative configuration can lead to an astonishingly 
+well-integrated build process which will make maintainers, developers and newcomers happy."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><h1>Why another build tool</h1>
+<p>Starting up a simple python project with best practices still takes a lot of boilerplate and glueing (e.G. chaining unit tests and integration tests in the build process, adding a linter, measuring coverage, ...).
+It often results in extremely ugly homebrew scripts and edge-case solutions that are not reusable.
+There are even programs out there (e.G. cookiecutter) that encourage boilerplate code generation!</p>
+<h1>Build orchestration</h1>
+<p>PyBuilder borrows from the <em>maven</em> idea of phases (packaging, verifying, publishing, ...) to set up a fully declarative and automated build that can be run locally and remotely (build servers) in the very same way.
+Rather than reinventing the wheel, it  provides glue between existing solutions (like unittest, coverage, flake8, ...) through a simple but powerful plugin mechanism.</p>
+<h1>The talk</h1>
+<p>After a more theoretical talk with a colleague at PyConDE 2013, I want to show how it's actually like to work with <em>PyBuilder</em>.
+This includes</p>
+<ul>
+<li>starting up a project</li>
+<li>running builds</li>
+<li>using plugins</li>
+<li>writing a plugin</li>
+</ul>
+<p>The demo code will be made available on GitHub and I'll probably  have recordings prepped in case something goes wrong.</p>
+<h1>Reviewer FAQ</h1>
+<h3>How does PyBuilder compare to other existing solutions like zc.buildout?</h3>
+<p>As opposed to solutions like zc.buildout which focus on the <em>building</em> of complex projects (many parts, complex dependencies) PyBuilder emphasizes the full build process for very simple projects. Undoubtedly, buildout is more powerful for building in that regard and there is no reason to switch to PyBuilder.</p>
+<p>However, for simple projects (a few packages, pure python) we believe that PyBuilder is better, especially if you're starting out with Python. The plugin architecture (as opposed to recipes) makes it easier to reason about what is going on. We are able to model dependencies between build phases  (like "coverage" needing "unit tests" and "packaging" needing "integration tests") where recipes are not. It also seems (after looking through the recipes available for buildout) that we have more focus on QA as part of the build process (lint code, differentiate between unit/integration tests, code analysis, ...). </p>
+<p>There is also a special focus on having the build descriptor written in Python (with fluent interfaces where possible) so that it is possible to understand what the configuration is by reading plain english, as opposed to zc.buildout (where the configuration is an ini file, or SCons which is very make-oriented).</p>
+<p>In the end, a big difference between most build tools and PyBuilder is that PyBuilder is more about orchestration. We didn't reinvent packaging or linting,  we simply use what is already there (setuptools, flake8, pymetrics, ...). This allows users to use the tools they want without having to do the integration themselves, and still get a nice, unified build process out of it.</p>
+<p>A simple example :</p>
+<p>In buildout, code analysis can be done with </p>
+<p>```
+[buildout]
+parts += code-analysis</p>
+<p>[code-analysis]
+recipe = plone.recipe.codeanalysis
+directory = ${buildout:directory}/src
+```</p>
+<p>This is not readable IMHO.
+In PyBuilder it can look like this :</p>
+<p><code>use_plugin('python.flake8')
+project.set_property('flake8_include_test_sources', True)
+project.set_property('flake8_ignore', 'E501')
+project.set_property('flake8_break_build', True)</code></p>
+<h3>"It provides glue between existing build frameworks" - which ones ? Could you name (some at least) ?</h3>
+<p>Currently there is only a plugin for building with distutils/setuptools. Should that change (e.G. new contender) it would be easy to switch using PyBuilder.</p>
+<p>Examples where glue is needed : </p>
+<ul>
+<li>Glue setuptools + unittest, so that no distribution can be shipped if tests fail</li>
+<li>Glue setuptools + coverage + unittest, so that no distribution can be shipped if the statement coverage is too low (configurable ofc)</li>
+<li>Glue setuptools + pip so that cloned projects can be built with their dependencies without needing to pip install manually</li>
+</ul></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1374/maximilien-riehl.html">Maximilien Riehl</a></div>
+            <meta property="author" content="Maximilien Riehl"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 25, 2014
+            <meta property="dateCreated" content="2014-07-25"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 31, 2014
+            <meta property="dateModified" content="2014-07-31T01:05:09.971401"/>
+            <meta property="datePublished" content="2014-07-31T01:05:09.971401"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=iQU18hAjux4" property="embedUrl">http://www.youtube.com/watch?v=iQU18hAjux4</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2939">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="practical-pybuilder.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

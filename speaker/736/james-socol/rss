@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of James Socol</title><link>http://www.pyvideo.org/speaker/736/james-socol/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/736/james-socol/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How we found our security best practices (and what they are)</title><link>http://www.pyvideo.org/video/1394/how-we-found-our-security-best-practices-and-wha</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mozilla takes data security very seriously. We have AppSec, OpSec, and
+InfraSec teams, and our web developers have baked our security best practices
+into documentation and a Django app called Funfactory. Hear how we came to
+those best practices, what they are, and how to follow them.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Privacy and security are key parts of Mozilla's mission, and we build some of
+the largest Django applications on the web, so being at the absolutely
+forefront of security is crucial to us. And having a great user experience is,
+too. So over the past few years, we've developed a number of proposals, tools
+--like Bleach and django-ratelimit--and best practices, and we've wrapped
+these up into our application template Playdoh and an app called Funfactory.
+
+I'll share those best practices and their motivations. We'll also go over a
+number of tools, settings, and even some fairly new web standard proposals
+(with tools, of course) to help you build the most secure Django applications
+you can, at whatever scale you're building.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Socol</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1394/how-we-found-our-security-best-practices-and-wha</guid><enclosure url="http://www.youtube.com/watch?v=Wb83VL3k3zo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Wb83VL3k3zo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

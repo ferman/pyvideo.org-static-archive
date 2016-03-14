@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Shannon -jj Behrens</title><link>http://www.pyvideo.org/speaker/344/shannon-jj-behrens/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/344/shannon-jj-behrens/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Scalability at YouTube</title><link>http://www.pyvideo.org/video/632/scalability-at-youtube</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk covers scalability at YouTube. It's given by one of the original
+engineers at YouTube, Mike Solomon. It's a rare glimpse into the heart of
+YouTube which is one of the largest websites in the world, and one of the few
+extremely large websites to be written in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Solomon,Shannon -jj Behrens</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/632/scalability-at-youtube</guid><enclosure url="https://www.youtube.com/watch?v=G-lGCC4KKok" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/G-lGCC4KKok/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rick Copeland</title><link>http://www.pyvideo.org/speaker/109/rick-copeland/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/109/rick-copeland/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 07 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>MongoDB and Python</title><link>http://www.pyvideo.org/video/914/mongodb-and-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This intermediate-level class will teach you techniques using the popular
+NoSQL database MongoDB, its driver PyMongo, and the object-document mapper
+Ming to write maintainable, high-performance, and scalable applications. We
+will cover everything you need to become an effective Ming/MongoDB developer
+from basic PyMongo queries to high-level object-document mapping setups in
+Ming.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bernie Hackett,Rick Copeland</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/914/mongodb-and-python</guid><enclosure url="https://www.youtube.com/watch?v=SULKL7TMRsU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/SULKL7TMRsU/hqdefault.jpg"></media:thumbnail></item><item><title>How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)</title><link>http://www.pyvideo.org/video/271/pycon-2010--how-python--turbogears--and-mongodb-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+How Python, TurboGears, and MongoDB are transforming SourceForge.net
+
+  
+Presented by Rick Copeland
+
+  
+In mid-2009, SourceForge embarked on a quest to modernize our websites,
+starting with the download (consumer) flow on SourceForge.net. A small team
+was tasked the rewrite, converting a site originally implemented in PHP with
+Python. Using a customized TurboGears as a core component, the rewrite was
+completed and the new site deployed in under 2 months. This talk tells the
+story of that rewrite and explains our new technology stack, which includes
+TurboGears, MongoDB, and Jinja templates.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rick Copeland</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/271/pycon-2010--how-python--turbogears--and-mongodb-a</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.ogv" length="126931888" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.ogv" fileSize="126931888" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010HowPythonTurboGearsAndMongoDBAreTransformingSou564-509.jpg"></media:thumbnail></item></channel></rss>

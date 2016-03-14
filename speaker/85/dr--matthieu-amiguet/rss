@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Matthieu Amiguet</title><link>http://www.pyvideo.org/speaker/85/dr--matthieu-amiguet/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/85/dr--matthieu-amiguet/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Teaching compilers with python (#87)</title><link>http://www.pyvideo.org/video/241/pycon-2010--teaching-compilers-with-python---87</link><description>&lt;p&gt;Description&lt;/p&gt;
+Teaching compilers with python
+
+Presented by Dr. Matthieu Amiguet
+
+Why choose Python to teach compilers?
+
+In the University of Applied Sciences ARC, compilers are taught in a
+relatively short amount of time. Focus is put on the main conceptual ideas,
+letting aside many technical details. Still, the students are expected to
+write a full compiler within a few weeks' time.
+
+After trying the traditional C/Lex/Yacc based approach, and a more education-
+oriented Java/Jaccie solution, we settled on Python and PLY, plus a few
+enhancements (syntax tree graphical representation, decorator to achieve
+better code separation).
+
+As a result, the students get a better understanding of the compiler concepts
+and produce more interesting and creative projects.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Matthieu Amiguet</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/241/pycon-2010--teaching-compilers-with-python---87</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/241_teaching-compilers-with-python-87.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010TeachingCompilersWithPython87495-873.jpg"></media:thumbnail></item></channel></rss>

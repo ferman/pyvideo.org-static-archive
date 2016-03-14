@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of William Scullin</title><link>http://www.pyvideo.org/speaker/204/william-scullin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/204/william-scullin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Solving the import problem: Scalable Dynamic Loading Network File Systems</title><link>http://www.pyvideo.org/video/1201/solving-the-import-problem-scalable-dynamic-load</link><description>&lt;p&gt;Description&lt;/p&gt;
+The most common programming paradigm for scientific computing, SPMD (Single
+Program Multiple Data), catastrophically interacts with the loading strategies
+of dynamically linked executables and network-attached file systems on even
+moderately sized high performance computing clusters. This difficulty is
+further exacerbated by "function-shipped" I/O on modern supercomputer compute
+nodes, preventing the deployment of simple solutions. In this talk, we
+introduce a two-component solution: collfs, a set of low-level MPI-collective
+file operations that can selectively shadow file system access in a library,
+and walla, a set of Python import hooks for seamlessly enabling parallel
+dynamic loading scalable to tens of thousands of cores.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aron Ahmadia,Jed Brown,William Scullin</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1201/solving-the-import-problem-scalable-dynamic-load</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Solving_the_import_problem_Scalable_Dynamic_Loading_Network_File_Systems.mp4?Signature=03ccbsvqMA%2B2aqWka6hHeqFwiKI%3D&amp;Expires=1346381205&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Solving_the_import_problem_Scalable_Dynamic_Loading_Network_File_Systems.mp4?Signature=03ccbsvqMA%2B2aqWka6hHeqFwiKI%3D&amp;Expires=1346381205&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=BpuykTOy4a0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/BpuykTOy4a0/hqdefault.jpg"></media:thumbnail></item><item><title>Python for High Performance Computing</title><link>http://www.pyvideo.org/video/394/pycon-2011--python-for-high-performance-computing</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python for High Performance Computing
+
+Presented by William Scullin
+
+Python is becoming increasingly popular within the high performance computing
+community. While it initially gained traction as a scripting language,
+Python's role has continued to expand with Python applications for science
+scaling to hundreds of thousands of cores and bindings to high performance
+libraries becoming commonplace. This talk is meant as an overview of Python's
+role in the HPC space.
+
+Abstract
+
+This talk is focused on raising awareness of Python in the high performance
+computing space. Specific topics include:
+
+  * building the Python interpreter for speed 
+  * an overview of bindings to numerical libraries 
+  * using GPUs and accelerators with Python 
+  * scaling codes with MPI 
+  * issues when scaling on very large systems 
+  * an overview of successful science codes 
+  * a live demonstration of Python running on 163,840 cores 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">William Scullin</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/394/pycon-2011--python-for-high-performance-computing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/394_python-for-high-performance-computing.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PythonForHighPerformanceComputing720.png"></media:thumbnail></item></channel></rss>

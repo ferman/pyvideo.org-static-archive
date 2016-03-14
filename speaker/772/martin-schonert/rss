@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Martin Schönert</title><link>http://www.pyvideo.org/speaker/772/martin-schonert/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/772/martin-schonert/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Beziehungen? Nein danke! - Agile Datenbankentwicklung mit schemafreien Datenbanken und Python</title><link>http://www.pyvideo.org/video/1451/beziehungen-nein-danke-agiledatenbankentwickl</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python-Projekte haben immer häufiger alternative Datenbanken aus der nosql
+/newsql-Familie in ihrem Stack, seien es Graphendatenbanken wie Neo4j, Key-
+Value-Stores wie Redis oder dokumentenorientierte Datenbanken wie MongoDB.
+
+So verschiedenartig diese Datenbanken auch sind, gemeinsam ist ihnen, dass sie
+nicht das relationale Datenmodell implementieren, Daten nicht in miteinander
+in Beziehung stehenden Entitäten ablegen. Während Nicht-Normalisirung bei
+relationalen Datenbanken meist als Anti-Pattern angesehen wird, ist es bei
+schemafreien Datenbanken Prinzip, das schnelles und agiles Entwickeln und
+Deployen fördert.
+
+Dieser Talk zeigt an Hand eines konkreten Use-Cases, welche Auswirkungen die
+Verwendung einer nicht-relationalen Datenbank auf den Entwicklungsprozess hat,
+zeigt wie Daten modelliert werden können und auch, wie Veränderungen am
+Datenbankmodell implementiert werden können, wenn es kein "Alter table" mehr
+gibt.
+
+Diskutiert werden sollen dabei auch die Pros und Kontras der verschiedenen
+Datenmodelle hinsichtlich ihrer Query-Möglichkeiten, der Query-Performance,
+Anforderungen an Plattenplatz und Auswirkungen auf die Client/Anwendungsseite.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Martin Schönert</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1451/beziehungen-nein-danke-agiledatenbankentwickl</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Beziehungen_Nein_danke.mp4?Signature=GwcLq3LbRvmkwcwlWe3K%2FBqDsnE%3D&amp;Expires=1351856279&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Beziehungen_Nein_danke.mp4?Signature=GwcLq3LbRvmkwcwlWe3K%2FBqDsnE%3D&amp;Expires=1351856279&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=0re7PgM9Duc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/0re7PgM9Duc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

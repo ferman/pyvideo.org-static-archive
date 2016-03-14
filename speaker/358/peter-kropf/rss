@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Peter Kropf</title><link>http://www.pyvideo.org/speaker/358/peter-kropf/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/358/peter-kropf/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Python Meets the Arduino</title><link>http://www.pyvideo.org/video/660/python-meets-the-arduino</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Arduino is an open-source electronics prototyping platform based on flexible,
+easy-to-use hardware and software. Python is our favorate programming language
+that allows you to integrate systems more effectively. Learn how to use Python
+to communicate with an Arduino and interact with sensors, solenoids and
+motors.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Kropf</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/660/python-meets-the-arduino</guid><enclosure url="https://www.youtube.com/watch?v=54XwSUC8klI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/54XwSUC8klI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

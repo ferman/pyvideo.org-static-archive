@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of T Mawushe</title><link>http://www.pyvideo.org/speaker/679/t-mawushe/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/679/t-mawushe/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 05 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Big a little i (practical artificial intelligence in python)</title><link>http://www.pyvideo.org/video/1302/big-a-little-i-practical-artificial-intelligence</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] T Mawushe - 4 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+These days it is difficult for software to meet users’ expectations to behave
+intelligently. When a program displays a lack of even the most basic awareness
+of context it is jarring. At the same time organisations are seeking to gain a
+competitive advantage through software that behaves adaptively based on the
+information at hand. Solving these problems is a challenge for today’s
+developers. There is general agreement among seasoned developers that having a
+good understanding of basic computer science data structures and algorithms is
+essential. That said there is one sub-section of algorithms that is underused
+by most developers, the algorithms that fall under the general rubric of
+Artificial Intelligence. This talk aims to remedy that by providing a quick
+refresher course on basic AI algorithms using Python. This talk is not about
+building thinking machines, but rather about creating software that users
+won’t think is stupid. Basic AI techniques such as Constraint Propagation and
+Identification Trees, can really help developers along the road to smarter
+software.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">T Mawushe</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1302/big-a-little-i-practical-artificial-intelligence</guid><enclosure url="http://www.youtube.com/watch?v=IvKO63BSc9c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IvKO63BSc9c/hqdefault.jpg"></media:thumbnail></item></channel></rss>

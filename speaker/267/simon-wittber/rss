@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Simon Wittber</title><link>http://www.pyvideo.org/speaker/267/simon-wittber/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/267/simon-wittber/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:35 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom</title><link>http://www.pyvideo.org/video/481/pyconau-2010--hard-real-time-python--or--giant-ro</link><description>&lt;p&gt;Description&lt;/p&gt;
+Hard Real-time Python, or, Giant Robots of Doom
+
+Presented by Simon Wittber (Different Methods Pty Ltd)
+
+Can you use Python to control a pair of 30 tonne robots as they spin at 72
+kilometres per hour? Can you use Python to provide realtime collision
+avoidance and fly-by-wire control?
+
+Yes, you can. See how Perth based engineering company Transmin Pty Ltd
+(www.transmin.com.au) used Python to deliver a safety-crticial robotic control
+system in record time.
+
+[NOTE: Missing first 2.5 minutes of talk, then camera audio for first section]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Wittber</dc:creator><guid>http://www.pyvideo.org/video/481/pyconau-2010--hard-real-time-python--or--giant-ro</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/481_pyconau-2010-hard-real-time-python-or-giant-robots-of-doom.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-HardRealtimePythonOrGiantRobotsOfDoom180.png"></media:thumbnail></item></channel></rss>

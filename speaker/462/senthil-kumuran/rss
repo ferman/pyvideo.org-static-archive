@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Senthil Kumuran</title><link>http://www.pyvideo.org/speaker/462/senthil-kumuran/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/462/senthil-kumuran/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 22 Aug 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Networking Libraries in Python</title><link>http://www.pyvideo.org/video/992/networking-libraries-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will explore the core networking libraries available in Python.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  1. Python Standard Library. http and urllib package (Python3 and Python2). 
+  2. Capabilities of other 3rd party networking libraries - pycurl and httplib2. When to use them and why they exist. 
+  3. Asychronous Network IO using Twisted Matrix Framework. 
+  4. Tornado framework capablities - Generic overview. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Senthil Kumuran</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/992/networking-libraries-in-python</guid><enclosure url="http://www.youtube.com/watch?v=xnoW4twC4xo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xnoW4twC4xo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

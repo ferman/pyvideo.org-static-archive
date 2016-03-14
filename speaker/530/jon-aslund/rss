@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jon Åslund</title><link>http://www.pyvideo.org/speaker/530/jon-aslund/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/530/jon-aslund/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Spotify and Python: love at first sight</title><link>http://www.pyvideo.org/video/1097/spotify-and-python-love-at-first-sight</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Jon Åslund - 20 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This is a story about how Spotify started, how we evolved, where we are today
+and how Python has always been a big part of our success. Where do we use it?
+Where do we not use it? Learn about the Unix way and the Debian way of
+maintaining a healthy love for Python, while two-timing with other languages
+such as Java and C++.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jon Åslund</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1097/spotify-and-python-love-at-first-sight</guid><enclosure url="http://www.youtube.com/watch?v=GZ9DzDJCe90" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/GZ9DzDJCe90/hqdefault.jpg"></media:thumbnail></item></channel></rss>

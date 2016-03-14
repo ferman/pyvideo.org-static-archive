@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tarek Ziadé</title><link>http://www.pyvideo.org/speaker/121/tarek-ziad/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/121/tarek-ziad/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Firefox Sync</title><link>http://www.pyvideo.org/video/376/pycon-2011--firefox-sync</link><description>&lt;p&gt;Description&lt;/p&gt;
+Firefox Sync
+
+Presented by Tarek Ziadé
+
+Firefox Sync let you access your history, passwords, bookmarks and even open
+tabs across all your devices, while remaining unreadable on the server through
+encryption. After a brief introduction on the Sync protocol, this talk will
+focus on the server, which is written in Python.
+
+Abstract
+
+The talk will briefly explain how Syncing works then will focus on the Server
+architecture and code. You will discover through this talk how the server was
+built and what technologies it uses.
+
+  1. Firefox Sync in numbers 
+  2. How synchronisation happens - the big picture 
+    1. Desktop
+    2. iPhone (Firefox Home)
+  3. How encryption works
+  4. Overview of the APIs 
+    1. Sync 1.1
+    2. User 1.0
+  5. Server architecture 
+    1. User &amp; Data storage
+    2. Web Services
+    3. Libraries used
+  6. Scaling and benchmarking
+    1. Grinder
+    2. Funkload
+  7. Run your own server !
+  8. What's Next
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tarek Ziadé</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/376/pycon-2011--firefox-sync</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/376_firefox-sync.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011FirefoxSync705-934.jpg"></media:thumbnail></item><item><title>The state of Packaging (#63)</title><link>http://www.pyvideo.org/video/283/pycon-2010--the-state-of-packaging---63</link><description>&lt;p&gt;Description&lt;/p&gt;
+The state of Packaging
+
+  
+Presented by Tarek Ziadé
+
+  
+The Python Package Index (PyPI) became over the last years an essential tool
+to share your Python programs. As long as you use Distutils standards, you can
+register and upload your work at PyPI in a few seconds.
+
+  
+Projects like Setuptools and Pip added great features on the top of this : the
+ability to fetch PyPI to install a project and its dependencies. So you can
+"easy_install A-Program" and everything is done automatically for you.
+
+  
+But all these features have shown the flaws and limitations of the current
+Distutils design, and the urgency to make it evolve with respect to the
+existing OS-specific packaging systems.
+
+  
+This talk will detail the biggest issues that need to be solved, and the work
+that is being done. It will end up with a presentation of the Distutils
+roadmap, and an overview of the Distribute project, the Setuptools replacer.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tarek Ziadé</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/283/pycon-2010--the-state-of-packaging---63</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/283_the-state-of-packaging-63.ogv" length="213007664" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/283_the-state-of-packaging-63.ogv" fileSize="213007664" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/283_the-state-of-packaging-63.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010TheStateOfPackaging63241-136.jpg"></media:thumbnail></item></channel></rss>

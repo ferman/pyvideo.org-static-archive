@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Achiel van der Mandele</title><link>http://www.pyvideo.org/speaker/546/achiel-van-der-mandele/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/546/achiel-van-der-mandele/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Leveraging an instant messaging protocol to build a scalable cloud architecture</title><link>http://www.pyvideo.org/video/1131/leveraging-an-instant-messaging-protocol-to-build</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Achiel van der Mandele - 24 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+XMPP is an open technology for real-time communication. Although primarily
+known for its application in the IM service "Jabber" (and, subsequently,
+gchat/gtalk), it has numerous applications and creates new opportunities for
+inter-system communication.
+
+While researching for an alternative to webservices at Mendix, we came across
+XMPP and realized it solved many of the shortcomings of webservices. It is
+currently being used to handle all inter-system and inter-process
+communication in the Mendix cloud hosting environment.
+
+The talk will give a general overview of what XMPP is, an introduction to the
+sleekxmpp python library and how the core features of xmpp can help an
+architecture scale well horizontally.
+
+Required knowledge: basic understanding of hosting environments.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Achiel van der Mandele</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1131/leveraging-an-instant-messaging-protocol-to-build</guid><enclosure url="http://www.youtube.com/watch?v=xlVCtmbIYNE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xlVCtmbIYNE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

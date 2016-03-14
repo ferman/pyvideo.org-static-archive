@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Patrick Cole</title><link>http://www.pyvideo.org/speaker/1290/patrick-cole/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1290/patrick-cole/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 14 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>The History and Design Behind the Python Geophysical Modelling and Interpretation (PyGMI) Package</title><link>http://www.pyvideo.org/video/2780/the-history-and-design-behind-the-python-geophysi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The development of geophysical software by individual scientists is achievable through languages such as Python. All goals behind developing a geophysical potential field interpretation and modelling software have been achieved to date. The implication of this is that innovation can be a driving force in projects, rather than waiting for commercial vendors to provide appropriate scientific tools.
+&lt;p&gt;Description&lt;/p&gt;
+The Council for Geoscience (CGS) is the so called "Geological Survey"
+of South Africa. Like many similar institutions around the world, financial
+restrictions play a significant role in limiting what tools are available to
+scientists. It was from this need to stay scientifically current, while keeping
+the software inexpensive, that the examination of Python first started and
+ultimately ended up in the PyGMI project.
+
+The origins of PyGMI started with two separate projects. The first was a joint
+project where the CGS was responsible for the creation of a software interface
+for cluster analysis code, developed by the University of Potsdam (Paasche et
+al 2009). The resulting project was done entirely in Python. Data could be
+imported, filtered, analyzed and displayed in graph form using Matplotlib.
+
+The second project stemmed from the need to perform 3D modelling on geophysical
+data. The creation of 3D models can be extremely time-consuming. Packages
+available tend to follow either the modelling of individual 2.5D profiles,
+which are then joined up into 3D sections, or modelling fully in
+three dimensions using polygonal based models. The initial idea was to use the
+VTK library as the means to create, display and interrogate the model, while
+using the Scipy and Numpy libraries to perform the actual potential field
+calculations. It soon became apparent that editing the resulting mesh quickly
+became complex and time consuming. The ability to easily create and change a
+model is the very basis of forward modelling and for this reason a new approach
+was adopted. The newer 3D modelling package was designed to allow the user to
+model simply by drawing the model, in the same way one would draw views of a
+house using a paint program. This implies the need to have a front view, as
+well as a top view. The model is therefore voxel based rather than polygonal.
+The final model can be displayed either within the PyGMI software, or exported
+to Google Earth for examination.
+
+Ultimately these two projects formed the basis of what is now the actual PyGMI
+package -- which is a modular collection of various techniques, including
+multivariate statistical analysis and potential field modelling. The interface
+follows a flow diagram approach and the individual modules are independent
+enough to ensure that they do not interfere with code which has preceded them
+in previous modules.
+
+The PyGMI software is available for free download at: [https://code.google.com/p/pygmi/](https://code.google.com/p/pygmi/)
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Patrick Cole</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2780/the-history-and-design-behind-the-python-geophysi</guid><enclosure url="http://www.youtube.com/watch?v=5kM3tKkjoSw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/5kM3tKkjoSw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

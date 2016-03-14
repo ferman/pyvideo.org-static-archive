@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Peter A Portante</title><link>http://www.pyvideo.org/speaker/158/peter-a-portante/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/158/peter-a-portante/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Demystifying Non-Blocking and Asynchronous I/O (#164)</title><link>http://www.pyvideo.org/video/333/pycon-2010--demystifying-non-blocking-and-asynchr</link><description>&lt;p&gt;Description&lt;/p&gt;
+Demystifying non-blocking and asynchronous I/O
+
+  
+Presented by Peter A Portante
+
+  
+We will first define what blocking, non-blocking, synchronous and asynchronous
+I/O are under the POSIX interfaces. We'll cover how and when these four types
+of I/O should be used, and their individual effects on a Python based
+application. The notion of concurrency will be discussed by comparing a simple
+threaded blocking I/O application to a simple single threaded non-blocking I/O
+application by walking the attendees through the python code for those
+applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter A Portante</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/333/pycon-2010--demystifying-non-blocking-and-asynchr</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/333_demystifying-non-blocking-and-asynchronous-i-o-164.ogv" length="153455334" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/333_demystifying-non-blocking-and-asynchronous-i-o-164.ogv" fileSize="153455334" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/333_demystifying-non-blocking-and-asynchronous-i-o-164.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010DemystifyingNonBlockingAndAsynchronousIO164681.png"></media:thumbnail></item></channel></rss>

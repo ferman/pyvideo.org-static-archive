@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tzu-ping Chung</title><link>http://www.pyvideo.org/speaker/1604/tzu-ping-chung/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1604/tzu-ping-chung/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 11 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Yielding a Tulip</title><link>http://www.pyvideo.org/video/3263/yielding-a-tulip-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+Asynchronised operations are good. Callbacks are not. Named callbacks clutter scopes and are disruptive. Anonymous callbacks create deeply nested code and become totally unreadable—Python does not even support that because it just lacks style! We deserve better. Let's take a look on how Python 3.4's new "asyncio" (aka Tulip) brings elegance to async tasks.
+
+
+About the speaker
+
+
+TP is a professional software engineer enjoying building things. He writes C++ because his boss pays him to do so, but loves Python and constantly tries to sneak it into his work as much as he can.
+
+個人網頁連結
+
+https://uranusjr.com/
+Twitter
+@uranusjr
+組織/公司
+BIMETEK Co. Ltd.
+頭銜
+Lead Software Engineer</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tzu-ping Chung</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3263/yielding-a-tulip-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=Nvsl2e0YVmY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/Nvsl2e0YVmY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

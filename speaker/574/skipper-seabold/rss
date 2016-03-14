@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Skipper Seabold</title><link>http://www.pyvideo.org/speaker/574/skipper-seabold/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/574/skipper-seabold/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Classification using Pandas and Scikit-Learn</title><link>http://www.pyvideo.org/video/3548/classification-using-pandas-and-scikit-learn</link><description>&lt;p&gt;Description&lt;/p&gt;
+This will be a tutorial-style talk demonstrating how to use pandas and scikit-learn to do classification tasks. We will do some data munging and visualization using pandas and matplotlib. Then we will introduce some of the different classifiers in scikit-learn and show how to include them into a classification pipeline to produce the best predictive model. Interactive IPython/Jupyter notebooks will be provided.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Skipper Seabold</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3548/classification-using-pandas-and-scikit-learn</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3548_Classification_using_Pandas_and_ScikitLearn.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3548_Classification_using_Pandas_and_ScikitLearn.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/7gAZoK6kGhM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg"></media:thumbnail></item><item><title>statsmodels</title><link>http://www.pyvideo.org/video/1200/statsmodels</link><description>&lt;p&gt;Description&lt;/p&gt;
+This tutorial will give users an overview of the capabilities of statsmodels,
+including how to conduct exploratory data analysis, fit statistical models,
+and check that the modeling assumptions are met.
+
+The use of Python in data analysis and statistics is growing rapidly. It is
+not uncommon now for researchers to conduct data cleaning steps in Python and
+then move to some other software to estimate statistical models. Statsmodels,
+however, is a Python module that attempts to bridge this gap and allow users
+to estimate statistical models, perform statistical tests, and conduct data
+exploration in Python. Researchers across fields such as economics and the
+social sciences to finance and engineering may find that statsmodels meets
+their needs for statistical computing and data analysis in Python.
+
+All examples in this tutorial will use real data. Attendees are expected to
+have some familiarity with statistical methods.
+
+With this knowledge attendees will be ready to jump in and use Python for
+applied statistical analysis and will have an idea how they can extend
+statsmodels for their own needs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Skipper Seabold</dc:creator><pubDate>Tue, 17 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1200/statsmodels</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/statsmodels.mp4?Signature=33EXalpD4sobT5zT3ZjQbB%2FlZO0%3D&amp;Expires=1346381343&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/statsmodels.mp4?Signature=33EXalpD4sobT5zT3ZjQbB%2FlZO0%3D&amp;Expires=1346381343&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=RWRsxhUzpxk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/RWRsxhUzpxk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

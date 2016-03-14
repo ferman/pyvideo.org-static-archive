@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Valerio Maggio</title><link>http://www.pyvideo.org/speaker/1394/valerio-maggio/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1394/valerio-maggio/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Machine Learning Recipes for Large Scale problems</title><link>http://www.pyvideo.org/video/3573/machine-learning-recipes-for-large-scale-problems</link><description>&lt;p&gt;Description&lt;/p&gt;
+Machine Learning focuses on constructing algorithms for making predictions from data. These algorithms usually require huge amount of data to analyse, thus demanding for high computational costs and requiring easily scalable solutions to be effectively applied. These factors favoured a more and more increasing interest in scaling up machine learning applications.
+
+Scikit-learn is one of the most popular machine learning library in Python, providing implementations for several machine learning methods, along with datasets and (performance) evaluation algorithms.
+
+In this talk some recipes to scale up machine learning algorithms with scikit-learn will be presented. The talk will go over several examples and case studies that will be presented in a problem-to-solution way in order to likely engage discussions during and after the talk.
+
+The talk is intended for an intermediate level of audience. It requires (very) basic math skills and a good knowledge of the Python language. Good knowledge of the numpy and scipy packages is also a plus.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerio Maggio</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3573/machine-learning-recipes-for-large-scale-problems</guid><enclosure url="https://www.youtube.com/watch?v=cWmgjXOesEc" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/cWmgjXOesEc/maxresdefault.jpg"></media:thumbnail></item><item><title>Python 3 for Data Science: what works, what doesn't</title><link>http://www.pyvideo.org/video/3578/python-3-for-data-science-what-works-what-doesn</link><description>&lt;p&gt;Description&lt;/p&gt;
+In the last years, the Python programming language has engaged a 
+major renovation, and Python 3.x is going to be the next generation reference
+of the language.
+However, despite the community strives to support the language switch 
+among pythonistas, Python 3 is not yet the real de-facto reference version 
+of the language and Python 2.x is still on the go.
+Moreover, as for the scientific Python community, only few years ago most 
+of the scientific python packages only (or mainly) supported Python 2.
+In this talk we will analyse how far the support to Python 3 extent to the 
+Python scientific packages, emphasising what actually works and 
+what doesn’t.
+The general claim of this talk is that, from a technical perspective, Python 3 
+is a more mature language from many point of view (w.r.t. Python 2), 
+and the scientific community is now able more than ever to switch to Python 3. 
+However, so far, the switch has not been done yet. 
+Thus, some reflections on this “particular” community of pythonistas will 
+conclude the talk in order to stimulate the discussion and derive together 
+possible solutions and “workaround” to support this change.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerio Maggio</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3578/python-3-for-data-science-what-works-what-doesn</guid><enclosure url="https://www.youtube.com/watch?v=TE7xo1Xk9Fo" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/TE7xo1Xk9Fo/maxresdefault.jpg"></media:thumbnail></item><item><title>Test-driven machine learning with scikit-learn</title><link>http://www.pyvideo.org/video/3574/test-driven-machine-learning-with-scikit-learn</link><description>&lt;p&gt;Description&lt;/p&gt;
+Machine learning is an amazing research and application field, which perfectly matches math skills with coding abilities in order to define programs that are able to learn from data.  Therefore, after having defined our own (mathematical) model, machine learning is about writing code - sometimes a lot of - to actually make the model to work.  However, one point usually underestimated or omitted when dealing with machine learning algorithms is how to write good quality code.
+
+Test-driven development (TDD) is one of the most popular agile methods, specifically designed to support developers in producing (potential) less-buggy code by writing tests before the actual code under test.  The application of test-first programming principles to the implementation of Naive Bayes classifiers or Neural networks looks like a daunting challenge. 
+
+Conversely, the test-code-refactor cycle strategy founds its principles in the scientific method: make a proposition of validity, share results, work in feedback loops.  Moreover, this kind of approach to tackle problems, in this particular case would also allow for a better understanding of how the whole learning model works under the hood.
+
+In this talk, examples of Test-Driven implementations of some of the most famous machine learning algorithms will be presented using scikit-learn.
+
+The talk is intended for an intermediate audience.  The content of the talk is intended to be mostly practical, and code oriented. Thus a good proficiency with the Python language is required.  Conversely, no prior knowledge about TDD nor Machine Learning algorithms is necessary to attend this talk.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerio Maggio</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3574/test-driven-machine-learning-with-scikit-learn</guid><enclosure url="https://www.youtube.com/watch?v=JlcDw2V9JJY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/JlcDw2V9JJY/maxresdefault.jpg"></media:thumbnail></item><item><title>Semantic Python: Mastering Linked Data with Python</title><link>http://www.pyvideo.org/video/3076/semantic-python-mastering-linked-data-with-pytho</link><description>&lt;p&gt;Description&lt;/p&gt;
+Tim Berners-Lee defined the Semantic Web as a web of data that can be processed directly and indirectly by machines. More precisely, the Semantic Web can be defined as a set of standards and best practices for sharing data and the semantics of that data over the Web to be used by applications [DuCharme, 2013].
+
+In particular, the Semantic Web is built on top of three main pillars: the RDF (i.e., Resource Description Framework) data model, the SPARQL query language, and the OWL standard for storing vocabularies and ontologies. These standards allows the huge amount of data on the Web to be available in a unique and unified standard format, contributing to the definition of the Web of Data (WoD) [1].
+
+The WoD makes the web data to be reachable and easily manageable by Semantic Web tools, providing also the relationships among these data (thus practically setting up the “Web”). This collection of interrelated datasets on the Web can also be referred to as Linked Data [1].
+
+Two typical examples of large Linked Dataset are FreeBase, and DBPedia, which essentially provides the so called Common sense Knowledge in RDF format. Python offers a very powerful and easy to use library to work with Linked Data: rdflib. RDFLib is a lightweight and functionally complete RDF library, allowing applications to access, create and manage RDF graphs in a very Pythonic fashion.
+
+In this talk, a general overview of the main features provided by the rdflib package will be presented. To this end, several code examples will be discussed, along with a case study concerning the analysis of a (semantic) social graph. This case study will be focused on the integration between the networkx module and the rdflib library in order to crawl, access (via SPARQL), and analyze a Social Linked Data Graph represented using the FOAF (Friend of a Friend) schema.
+
+This talk is intended for an Novice level audience, assuming a good knowledge of the Python language.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerio Maggio</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3076/semantic-python-mastering-linked-data-with-pytho</guid><enclosure url="http://video.ep14.c3voc.de/20244.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://video.ep14.c3voc.de/20244.mp4" mime_type="video/mp4"></media:content><media:content url="http://www.youtube.com/watch?v=5DCS9LE-8rE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/5DCS9LE-8rE/hqdefault.jpg"></media:thumbnail></item><item><title>Scikit-learn to "learn them all"</title><link>http://www.pyvideo.org/video/2969/scikit-learn-to-learn-them-all</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+**Scikit-learn** is a powerful library, providing implementations for 
+many of the most popular machine learning algorithms. 
+This talk will provide an overview of the "batteries" included in 
+Scikit-learn, along with working code examples and internal insights, in order to 
+get the best for our machine learning code.
+&lt;p&gt;Description&lt;/p&gt;
+**Machine Learning** is about *using the right features, to build the right 
+models, to achieve the right tasks* [[Flach, 2012]][0]
+However, to come up with a definition of what actually means **right** for 
+the problem at the hand, it is required to analyse 
+huge amounts of data, and to evaluate the performance of different algorithms 
+on these data.
+
+However, deriving a working machine learning solution for a given problem 
+is far from being a *waterfall* process. 
+It is an iterative process where continuous refinements are required for the 
+data to be used (i.e., the *right features*), and the algorithms to apply 
+(i.e., the *right models*).
+
+In this scenario, Python has been found very useful for practitioners and 
+researchers: its high-level nature, in combination with available tools and 
+libraries, allows to rapidly implement working machine learning code 
+without *reinventing the wheel*.
+
+[**Scikit-learn**](http://scikit-learn.org/stable/) is an actively 
+developing Python library, built on top of the solid `numpy` and `scipy` 
+packages.
+
+Scikit-learn (`sklearn`) is an *all-in-one* software solution, providing 
+implementations for several machine learning methods, along with datasets and 
+(performance) evaluation algorithms.
+
+These "batteries" included in the library, in combination with a nice and intuitive
+software API, have made scikit-learn to become one of the most popular Python 
+package to write machine learning code.
+
+In this talk, a general overview of scikit-learn will be presented, along with 
+brief explanations of the techniques provided out-of-the-box by the library.
+
+These explanations will be supported by working code examples, and insights on 
+algorithms' implementations aimed at providing hints on 
+how to extend the library code.
+
+Moreover, advantages and limitations of the `sklearn` package will be discussed 
+according to other existing machine learning Python libraries
+(e.g., [`shogun`](http://shogun-toolbox.org "Shogun Toolbox"), 
+[`pyML`](http://pyml.sourceforge.net "PyML"), 
+[`mlpy`](http://mlpy.sourceforge.net "MLPy")).
+
+In conclusion, (examples of) applications of scikit-learn to big data and 
+computational intensive tasks will be also presented.
+
+The general outline of the talk is reported as follows (the order of the topics may vary):
+
+*   Intro to Machine Learning
+    *   Machine Learning in Python
+    *   Intro to Scikit-Learn
+*   Overview of Scikit-Learn
+    *   Comparison with other existing ML Python libraries
+*   Supervised Learning with `sklearn`
+    *   Text Classification with SVM and Kernel Methods
+*   Unsupervised Learning with `sklearn`
+    *   Partitional and Model-based Clustering (i.e., k-means and Mixture Models)
+*   Scaling up Machine Learning
+    *   Parallel and Large Scale ML with `sklearn`
+
+The talk is intended for an intermediate level audience (i.e., Advanced).
+It requires basic math skills and a good knowledge of the Python language.
+
+Good knowledge of the `numpy` and `scipy` packages is also a plus.
+
+[0]: http://goo.gl/BnhoHa "Machine Learning: The Art and Science of Algorithms that Make Sense of Data, *Peter Flach, 2012*"</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerio Maggio</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2969/scikit-learn-to-learn-them-all</guid><enclosure url="http://www.youtube.com/watch?v=zVPfVkC5qDk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/zVPfVkC5qDk/hqdefault.jpg"></media:thumbnail></item><item><title>Traversing Mazes the pythonic way and other Algorithmic...</title><link>http://www.pyvideo.org/video/3034/traversing-mazes-the-pythonic-way-and-other-algor</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+**Graphs** define a powerful mental (and mathematical) model of structure, 
+representing the building blocks of formulations and/or solutions 
+for many *hard problems*. In this talk, graphs and (*some of the*) main 
+graph-related algorithms will be analysed from a **very pythonic** angle:
+the [Zen of Python][1] (e.g., *beautiful is better than ugly*, 
+*simple is better than complex*, *readability counts*).
+
+[1]: http://www.python.org/dev/peps/pep-0020/ "PEP20: The Zen of Python"</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valerio Maggio</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3034/traversing-mazes-the-pythonic-way-and-other-algor</guid><enclosure url="http://www.youtube.com/watch?v=TeWfOgjFeT0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/TeWfOgjFeT0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

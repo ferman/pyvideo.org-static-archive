@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Paul Dyson</title><link>http://www.pyvideo.org/speaker/255/dr--paul-dyson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/255/dr--paul-dyson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:40 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Using Python in a scientific real-time data collection network</title><link>http://www.pyvideo.org/video/463/pyconau-2010--using-python-in-a-scientific-real-t</link><description>&lt;p&gt;Description&lt;/p&gt;
+Using Python in a scientific real-time data collection network
+
+Presented by Dr. Paul Dyson (Bureau of Meteorology)
+
+Python is being increasingly used within the Solar and Terrestrial Radiation
+Network at the Bureau of Meteorology. This Network consists of ten ground
+stations across Australasia that track the sun, measuring the irradiance of
+the sun and sky. This talk will outline the work of the Network, the changes
+resulting from the introduction of Python in 2005, and advantages and some
+difficulties of using Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Paul Dyson</dc:creator><guid>http://www.pyvideo.org/video/463/pyconau-2010--using-python-in-a-scientific-real-t</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/463_pyconau-2010-using-python-in-a-scientific-real-time-data-collection-network.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-UsingPythonInAScientificRealtimeDataCollectionNetwork865.png"></media:thumbnail></item></channel></rss>

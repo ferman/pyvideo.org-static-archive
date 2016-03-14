@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christopher Neugebauer</title><link>http://www.pyvideo.org/speaker/1092/christopher-neugebauer/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1092/christopher-neugebauer/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 06 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python's New Type Hints in Action… In JavaScript</title><link>http://www.pyvideo.org/video/3860/pythons-new-type-hints-in-action-in-javascript</link><description>&lt;p&gt;Description&lt;/p&gt;
+Depending on who you ask, PEP 484's Type Hints are either the next big thing in Python, or the harbinger of doom upon our entire community. Which is it?
+
+Allowing optional static typing in Python will bring with it some benefits that other languages have had for years: IDEs will be able to do code completion better; a whole class of boring tests will fall out automatically; and some bugs will be easier to catch. 
+
+But this is also undeniably a huge change of direction: will it mean you have to substantially change your code style? Will Python's simple expressiveness suddenly become unattainable thanks to clumsy Java-style type declarations?
+
+To show how PEP 484's Gradual Typing system works, we're going to look at TypeScript, a minimal implementation of Gradual Typing over JavaScript. We'll see how the type system works, and how it fits into the already thriving JavaScript developer community, where most people aren't using type hints at all.
+
+We'll draw some parallels with how Python's implementation will work, and see what Python can learn from a language that has successfully made the jump to a type-hinted world.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Sun, 06 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3860/pythons-new-type-hints-in-action-in-javascript</guid><enclosure url="http://youtu.be/N-Upha2YFNs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/N-Upha2YFNs/hqdefault.jpg"></media:thumbnail></item><item><title>Python's New Type Hints in Action… In JavaScript</title><link>http://www.pyvideo.org/video/3984/pythons-new-type-hints-in-action-in-javascript-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+Depending on who you ask, PEP 484's Type Hints are either the next big thing in Python, or the harbinger of doom upon our entire community. Which is it?
+
+Allowing optional static typing in Python will bring with it some benefits that other languages have had for years: IDEs will be able to do code completion better; a whole class of boring tests will fall out automatically; and some bugs will be easier to catch. 
+
+But this is also undeniably a huge change of direction: will it mean you have to substantially change your code style? Will Python's simple expressiveness suddenly become unattainable thanks to clumsy Java-style type declarations?
+
+To show how PEP 484's Gradual Typing system works, we're going to look at TypeScript, a minimal implementation of Gradual Typing over JavaScript. We'll see how the type system works, and how it fits into the already thriving JavaScript developer community, where most people aren't using type hints at all.
+
+We'll draw some parallels with how Python's implementation will work, and see what Python can learn from a language that has successfully made the jump to a type-hinted world.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3984/pythons-new-type-hints-in-action-in-javascript-0</guid><enclosure url="https://www.youtube.com/watch?v=_PPQLeimyOM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/_PPQLeimyOM/hqdefault.jpg"></media:thumbnail></item><item><title>Test-Driven Repair</title><link>http://www.pyvideo.org/video/3949/test-driven-repair</link><description>&lt;p&gt;Description&lt;/p&gt;
+“it is impossible BY DEFINITION to do Test-Driven Development after the code is written.” — Tim Ottinger, author of ‘Clean Code’, on Twitter [1].
+
+Automated testing is one of the most important tools in the modern programming toolbox: good tests help you find regressions early, and help you make sure your code is right before it ships. Test-driven development is a great way to make sure your software is up to specification before you start work. Even better, it makes sure your software’s architecture is amenable to writing tests from day 1.
+
+So what happens when you find yourself working on code where automated testing took a back seat to being shipped? Chances are you’ll have a sea of bugs, strung together in a structure where writing simple unit tests just isn’t going to happen.
+
+Broken code is a support burden, and if it’s in production, you’ve got no choice but to make things work. Luckily, automated testing isn’t a lost cause here!
+
+In this talk, we’ll look at how to approach automated testing on late-stage, or even production code… or in any situation when you don’t have the luxury of starting with a test-driven structure. We’ll look at techniques that I’ve used to analyse faults in existing code, and how to translate those into tests, and how to use that to fix bugs.
+
+In particular, we’ll look at:
+
+- Tooling and metrics to help you decide what code to test, and how to measure progress when you’re writing tests
+- Approaches to constructing test cases for old code, including using data-driven approaches, and approaches based on requirements specifications
+- Granularity — making tests on old code granular enough is difficult, so we’ll look at the trade-offs between unit and integration tests on old code, and ways to make integration-level tests granular enough to make results reliable
+
+We’ll see that testing old code is both achievable, and actually a worthwhile exercise. You’ll find bugs. You’ll increase quality. You’ll make your code more maintainable! Do try it!
+
+[1] https://twitter.com/tottinge/status/544632253205475329
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3949/test-driven-repair</guid><enclosure url="https://www.youtube.com/watch?v=1i5leCslA4g" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/1i5leCslA4g/hqdefault.jpg"></media:thumbnail></item><item><title>Java for Python Developers</title><link>http://www.pyvideo.org/video/3240/java-for-python-developers</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Christopher Neugebauer:
+Java for Python Developers
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 1 
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+Stop looking at me like that.
+
+No really. Stop it. I'm serious.
+
+Calling Java APIs from CPython is one of the more interesting challenges facing developers who want to get Python working as a first-class language for developing apps for Android.
+
+This talk looks at solutions, past and present, for making the world of Java accessible from Python.
+
+**Abstract**
+
+Stop looking at me like that.
+
+No really. Stop it. I'm serious. Why are you looking so confused?
+
+Yes. I'm talking about Java at a Python conference. What of it?
+
+OK, well, I'm actually talking about avoiding having to code in Java, when circumstances almost certainly require you to code in Java… or at least require your applications to run in a Java environment.
+
+One of the more interesting challenges for Python developers targetting Android is being able to call Java APIs from CPython. Environments like Android require developers to use Java to get access to Android's user interface libraries. Perhaps more importantly, Android has APIs for accessing hardware features like accelerometers and geolocation, and software features like notifications, but all of these have a Java interface.
+
+This talk looks at how these problems have been solved, and where they haven't, approaches to solutions that might exist.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/christopher-neugebauer-java-for-python-developers</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3240/java-for-python-developers</guid><enclosure url="http://youtu.be/RfGldwLoiUk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/RfGldwLoiUk/hqdefault.jpg"></media:thumbnail></item><item><title>The Quest for the Pocket-Sized Python by Christopher Neugebauer</title><link>http://www.pyvideo.org/video/3126/the-quest-for-the-pocket-sized-python-by-christop</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python's already a language of choice for developers on the web, in science, and on the desktop. In the meantime, the world of Mobile computing has exploded in the last couple of years, and developers targetting Android, iOS, and other Mobile platforms are writing their apps in Java, Objective-C, JavaScript... but definitely not Python.
+
+But Python's a great language for solving the sort of problems that are posed in Mobile development time -- speedy development cycles, 20 years worth of libraries for solving many tasks that you throw at it, and a ready-made community to help developers. So why aren't we using Python?
+
+This talk surveys the current landscape of Python on the major Mobile platforms, and ways you can start targeting Mobile platforms with your Python code. We'll look at considerations for Mobile web development, the state of Python-based mobile toolkits, and progress towards Python-coded native UIs.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3126/the-quest-for-the-pocket-sized-python-by-christop</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/39-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/39-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=R1neKbS7UZM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/R1neKbS7UZM/hqdefault.jpg"></media:thumbnail></item><item><title>The Quest for the Pocket-Sized Python</title><link>http://www.pyvideo.org/video/2828/the-quest-for-the-pocket-sized-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk surveys the current landscape of Python on the major Mobile platforms, and ways you can start targeting Mobile platforms with your Python code. We'll look at considerations for Mobile web development, the state of Python-based mobile toolkits, and progress towards Python-coded native UIs.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2828/the-quest-for-the-pocket-sized-python</guid><enclosure url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2828_The_Quest_for_the_PocketSized_Python.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2828_The_Quest_for_the_PocketSized_Python.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/XO0uIIEWJbY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/XO0uIIEWJbY/hqdefault.jpg"></media:thumbnail></item><item><title>Job Security (in Python)</title><link>http://www.pyvideo.org/video/2347/job-security-in-python</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Sun, 11 Aug 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2347/job-security-in-python</guid><enclosure url="http://www.youtube.com/watch?v=o5D8DwvkOc8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/o5D8DwvkOc8/hqdefault.jpg"></media:thumbnail></item><item><title>Android: The Land that Python Forgot?</title><link>http://www.pyvideo.org/video/2354/android-the-land-that-python-forgot</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A fast-paced overview of mobile development for Python programmers. Is Android the land that Python forgot, and if so, what can we do about it?</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Neugebauer</dc:creator><pubDate>Sat, 10 Aug 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2354/android-the-land-that-python-forgot</guid><enclosure url="http://www.youtube.com/watch?v=p77BR6e1uoo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/p77BR6e1uoo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

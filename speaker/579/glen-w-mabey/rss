@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Glen W. Mabey</title><link>http://www.pyvideo.org/speaker/579/glen-w-mabey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/579/glen-w-mabey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>QNDArray: A Numpy Clone for C++/Qt</title><link>http://www.pyvideo.org/video/1203/qndarray-a-numpy-clone-for-cqt</link><description>&lt;p&gt;Description&lt;/p&gt;
+While Numpy/Scipy is an attractive implementation platform for many
+algorithms, in some cases C++ is mandated by a customer. However, a foundation
+of numpy's behavior is the notion of reference-counted instances, and
+implementing an efficient, cross-platform mechanism for reference counting is
+no trivial prerequisite.
+
+The reference counting mechanisms already implemented in the Qt C++ toolkit
+provide a cross-platform foundation upon which a numpy-like array class can be
+built. In this talk one such implementation is discussed, QNDArray. In fact,
+by mimicking the numpy behaviors, the job of implementing QNDArray became much
+easier, as the task of "defining the behavior" became "adopting the behavior,"
+to include function names.
+
+In particular, the following aspects of the implementation were found to be
+tricky and deserve discussion in this presentation:
+
+    
+
+  * slicing multidimensional arrays given the limitations of operator[] in C++,
+  * const
+  * partial specialization
+  * implicit vs. explicit data sharing in Qt
+QNDArray has been deployed in scientific research applications and currently
+has the following features:
+
+    
+
+  * bit-packed boolean arrays
+  * nascent masked array support
+  * unit test suite that validates QNDArray behavior against numpy behavior
+  * bounds checking with Q_ASSERT() (becomes a no-op in release mode)
+  * memmap()ed arrays via QFile::map()
+  * easily integrated as a QVariant value, leading to a natural mapping from QVariantMap to Python dict.
+  * float16 implementation including in-place compare
+
+The author has approval from his management to submit the source code for
+QNDArray to the Qt Project and plans to have it freely available for download
+via [http://qt.gitorious.org/](http://qt.gitorious.org/) before the SciPy
+conference begins.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glen W. Mabey</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1203/qndarray-a-numpy-clone-for-cqt</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QNDArray_A_Numpy_Clone_for_CQt.mp4?Signature=ODStHEG40%2FmQ5sV78j11L%2FYj%2Fks%3D&amp;Expires=1346381293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/QNDArray_A_Numpy_Clone_for_CQt.mp4?Signature=ODStHEG40%2FmQ5sV78j11L%2FYj%2Fks%3D&amp;Expires=1346381293&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=PLqIRtpUHGk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/PLqIRtpUHGk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Justin Myles Holmes</title><link>http://www.pyvideo.org/speaker/731/justin-myles-holmes/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/731/justin-myles-holmes/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 05 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Why the Django Community Sucks</title><link>http://www.pyvideo.org/video/1385/why-the-django-community-sucks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Continuing in the tradition of self-deprecation that has made DjangoCon
+famous, a relative newcomer will outline what the Django community can learn
+from the world of social activism.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In 2010, Eric Florenzano ignited a fever following his lightfooted and
+lighthearted placement of a mirror in front of the hardest of the hardcore in
+the django community with his presentation, “Why Django Sucks, and How We can
+Fix It.” Then, a year later, at DjangCon 2011, Steve Holden grasped the self-
+critique baton with an even steeper challenge, making a claim that he
+described as “the most outrageous thing you can say” - that the Django
+documentation sucked.
+
+The Django documentation, already widely considered the best in its class, has
+responded to the critique and continues to improve daily.
+
+Also widely viewed as a top strength of Django is its community. While Django
+enjoys one of the most thoughtful, patient, and responsive communities in the
+world of open source web frameworks, it has a special opportunity for learning
+in Washington, D.C., where many of the most successful and voracious non-
+profit advocacy organizations call home.
+
+This presentation will examine some of their tactics and compare them with
+those employed by the Django community. Among the topics covered will be
+mobilization of new troops, building and listening to diverse coalitions, and
+identifying and reaching out to under-represented populations.
+
+The presenter comes from a decade of experience in non-profit social justice
+activism. Having been a Django user for 3.5 years and involved in the
+community for 2, will be at only his second DjangoCon.. Freshly imported, he
+has the perspective of a passionate newcomer rather a seasoned veteran.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Justin Myles Holmes</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1385/why-the-django-community-sucks</guid><enclosure url="http://www.youtube.com/watch?v=NrkopXN9sQg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/NrkopXN9sQg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mark Lavin</title><link>http://www.pyvideo.org/speaker/743/mark-lavin/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/743/mark-lavin/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Designers + Developers: Collaborating on your Python project</title><link>http://www.pyvideo.org/video/1732/designers-developers-collaborating-on-your-pyt</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Working in teams is an important part of what we do as developers &amp; designers. Whether it's desktop applications or mobile sites, we work together to create successful end products. But how do we work together in different environments? What is the best work-flow for a mix of skill sets?
+
+We'll be talking about our various methods &amp; work-flows that we found successful in working collaboratively.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julia Elman,Mark Lavin</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1732/designers-developers-collaborating-on-your-pyt</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Designers_Developers_Collabora.mp4?Signature=Fbe%2BpefqxiiSxqBH8hcBTLdr6CY%3D&amp;Expires=1363659044&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Designers_Developers_Collabora.mp4?Signature=Fbe%2BpefqxiiSxqBH8hcBTLdr6CY%3D&amp;Expires=1363659044&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=VVvqLrSMtxI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VVvqLrSMtxI/hqdefault.jpg"></media:thumbnail></item><item><title>Maintaining Your Sanity While Maintaining Your Open Source App</title><link>http://www.pyvideo.org/video/1403/maintaining-your-sanity-while-maintaining-your-op</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django has a thriving community of open source pluggable applications.
+Maintaining an external application can be a rewarding experience and doesn't
+need to take over your life. Learn what it takes to package, document and test
+your Django app so that others can use and contribute to what you've built.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+## Introduction/Overview
+
+So you want to release your Django app into the wild. Now what? I'll go over
+packaging your application to add to the Python Package Index (PyPi), creating
+documentation to host on Read The Docs and setup an environment to test your
+application against different versions of Python and Django. I'll also go over
+some things you should and shouldn't do when maintaining your app over the
+years.
+
+## Packaging
+
+  * Creating a setup.py
+  * Registering your package
+  * Uploading your package
+  * Sane versioning with PEP386
+
+## Documentation
+
+  * Getting started with Sphinx
+  * Using Read the Docs
+
+## Testing
+
+  * Running your app tests
+  * Testing multiple Python/Django versions with tox
+  * Testing your documentation build
+
+## Things to Do
+
+  * State your goals
+  * Let others help you
+  * Include a license
+  * Prepare for the future
+
+## Things to Avoid
+
+  * Rejecting every contribution
+  * Accepting every contribution
+  * Developer burnout
+
+## Conclusion
+
+Reusable applications are my favorite feature of Django. It does take work to
+maintain an open source app but it can be quite rewarding. If you use these
+tools you can help provide your users with the best experience and empower
+them to help you with your application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Lavin</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1403/maintaining-your-sanity-while-maintaining-your-op</guid><enclosure url="http://www.youtube.com/watch?v=xgWFTrXn0_U" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/xgWFTrXn0_U/hqdefault.jpg"></media:thumbnail></item></channel></rss>

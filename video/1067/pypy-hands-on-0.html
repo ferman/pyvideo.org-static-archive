@@ -1,0 +1,382 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - PyPy hands-on</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="cd,cpython,extensions,hg,jit,optimize,pypy,setup.py,tutorial">
+  
+    <meta name="description" content="[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in &quot;Training Pizza
+Margherita&quot;
+
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="pypy-hands-on-0.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="pypy-hands-on-0.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=J1ZTPi06awk"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">PyPy hands-on</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/J1ZTPi06awk/hqdefault.jpg"/>
+      <link property="sameAs" href="pypy-hands-on-0.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in "Training Pizza
+Margherita"</p></div>
+        <meta property="caption" content="[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in &quot;Training Pizza
+Margherita&quot;"/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>The session is divided into two parts, of roughly 2 hours each. People who are
+interested only in the first part, can leave the session after it. However,
+the first part is a prerequisite for the second one, thus people are not
+advised to join in the middle of the session.</p>
+<p>The session is meant to be highly interactive. People are invited to bring
+their own laptop and try things by themselves.</p>
+<h2>Part 1: Run your application under PyPy</h2>
+<p>This tutorial is targeted to Python users who want to run their favorite
+Python application under PyPy, and exploit the most of it. The following
+topics will be covered:</p>
+<pre><code>- how to fix/avoid CPython implementation details (e.g., refcounting)
+
+- general overview of how the PyPy JIT works
+
+- how to optimize your program for the PyPy JIT
+
+- how to view and interpret the traces produced by the JIT
+
+- how to tweak the parameters of the JIT and the GC
+
+- how to use existing CPython C extensions on PyPy, and fix them if necessary
+</code></pre>
+<h2>Part 2: Write your own interpreter with PyPy</h2>
+<p>PyPy is not only a Python interpreter, but also a toolchain to implement
+dynamic languages. This tutorial is targeted to people who want to implement
+their own programming languages, or who simply want to know more about how the
+PyPy JIT works internally.</p>
+<p>The students will be given the source code for a toy language implemented in
+RPython. They will learn:</p>
+<pre><code>- how to translate it to C using the PyPy translation toolchain
+
+- what are the "hints" needed by the JIT generator, and how to place them
+</code></pre>
+<p>Then, they will be challenged to add the proper hints to the toy interpreter,
+to get the best result with the JIT.</p>
+<p><strong>THINGS TO DO BEFORE THE TRAINING</strong></p>
+<p>You are encouraged to bring your laptop to the training session.</p>
+<p>Make sure that the following prerequisites are met:</p>
+<ul>
+<li>
+<p>Install PyPy 1.5:</p>
+<ul>
+<li>
+<p><a href="http://pypy.org/download.html">http://pypy.org/download.html</a></p>
+</li>
+<li>
+<p><a href="http://doc.pypy.org/en/latest/getting-started.html#installing-pypy">http://doc.pypy.org/en/latest/getting-started.html#installing-pypy</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Make sure that <code>setuptools</code> or <code>distribute</code> are installed (look at the URL above for instructions)</p>
+</li>
+<li>
+<p>Clone the pypy repository, and update to the 1.5 version::</p>
+</li>
+</ul>
+<p>$ hg clone <a href="http://bitbucket.org/pypy/pypy">http://bitbucket.org/pypy/pypy</a></p>
+<p>$ cd pypy</p>
+<p>$ hg up -r release-1.5</p>
+<ul>
+<li>Clone the jitviewer repository and install it on pypy::</li>
+</ul>
+<p>$ hg clone
+<a href="http://bitbucket.org/pypy/jitviewer">http://bitbucket.org/pypy/jitviewer</a></p>
+<p>$ cd jitviewer</p>
+<p>$ /path/to/pypy-1.5/bin/pypy setup.py develop</p>
+<p>If you intend to follow also the second part ("Write your own interpreter with
+PyPy"), you need to make sure you have a working [developing
+environment](http://doc.pypy.org/en/latest/getting-started-python.html</p>
+<h1>translating-the-pypy-python-interpreter)</h1></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/19/europython-2011.html">EuroPython 2011</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/497/antonio-cuni.html">Antonio Cuni</a></div>
+            <meta property="author" content="Antonio Cuni"/>
+          
+            <div><a href="../../speaker/334/armin-rigo.html">Armin Rigo</a></div>
+            <meta property="author" content="Armin Rigo"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 18, 2011
+            <meta property="dateCreated" content="2011-07-18"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.783227"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.783227"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=J1ZTPi06awk" property="embedUrl">http://www.youtube.com/watch?v=J1ZTPi06awk</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1067">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Standard YouTube License
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">cd</span>
+          
+            <span property="keywords">cpython</span>
+          
+            <span property="keywords">extensions</span>
+          
+            <span property="keywords">hg</span>
+          
+            <span property="keywords">jit</span>
+          
+            <span property="keywords">optimize</span>
+          
+            <span property="keywords">pypy</span>
+          
+            <span property="keywords">setup.py</span>
+          
+            <span property="keywords">tutorial</span>
+          
+          <meta property="keywords" content="EuroPython 2011"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="pypy-hands-on-0.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

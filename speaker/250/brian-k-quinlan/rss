@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brian K Quinlan</title><link>http://www.pyvideo.org/speaker/250/brian-k-quinlan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/250/brian-k-quinlan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:32 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: App Engine 101</title><link>http://www.pyvideo.org/video/458/pyconau-2010--app-engine-101</link><description>&lt;p&gt;Description&lt;/p&gt;
+App Engine 101
+
+Presented by Brian K Quinlan (Google)
+
+App Engine lets you run your Python web applications on Google's
+infrastructure.
+
+This tutorial will provide an overview on how to create, configure and deploy
+applications on App Engine using a simple (but useful!) example application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian K Quinlan</dc:creator><guid>http://www.pyvideo.org/video/458/pyconau-2010--app-engine-101</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/458_pyconau-2010-app-engine-101.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-AppEngine101534.png"></media:thumbnail></item><item><title>PyConAU 2010: The future is soon!</title><link>http://www.pyvideo.org/video/480/pyconau-2010--the-future-is-soon</link><description>&lt;p&gt;Description&lt;/p&gt;
+The future is soon!
+
+Presented by Brian K Quinlan (Google)
+
+This talk introduces PEP 3148, a proposed library that makes it easier to
+build concurrent applications or modify existing application to exploit
+opportunities for parallelism.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian K Quinlan</dc:creator><guid>http://www.pyvideo.org/video/480/pyconau-2010--the-future-is-soon</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/480_pyconau-2010-the-future-is-soon.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-TheFutureIsSoon488.png"></media:thumbnail></item></channel></rss>

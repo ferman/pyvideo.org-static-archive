@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ben Toews</title><link>http://www.pyvideo.org/speaker/714/ben-toews/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/714/ben-toews/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 13 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Event Driven Concurrency</title><link>http://www.pyvideo.org/video/1351/event-driven-concurrency</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Ben recently discovered event driven concurrency. He will be talking about
+some of the basics as well as trying to compare it with other concurrency
+options. The focus will be on its application in a few recent projects as well
+as a comparison of Python's gevent and node.js. Some of the demos will also be
+using matplotlib in honor of John Hunter's passing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ben Toews</dc:creator><pubDate>Thu, 13 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1351/event-driven-concurrency</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_sep_2012/Event_Driven_Concurrency.mp4?Signature=37DPSEM1HyPGBTtB9770SXS%2BHDU%3D&amp;Expires=1347917213&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_sep_2012/Event_Driven_Concurrency.mp4?Signature=37DPSEM1HyPGBTtB9770SXS%2BHDU%3D&amp;Expires=1347917213&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=2gcrTsQ7yi4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/2gcrTsQ7yi4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

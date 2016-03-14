@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Celia Cintas</title><link>http://www.pyvideo.org/speaker/1444/celia-cintas/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1444/celia-cintas/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 23 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>3D sensors and Python: A space odyssey</title><link>http://www.pyvideo.org/video/2993/3d-sensors-and-python-a-space-odyssey</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will show how to build a simple open source based NUI (Natural User Interface)  game with 3D Sensors, incorporating PyOpenNI with PyGame and WebGL.
+OpenNI allows you operate several 3D sensors, enabling hardware independent game development (supported 3D sensors are Microsoft Kinect, PrimeSense Carmine or Asus XTion). It also runs on Linux, Mac OS X and Windows.
+&lt;p&gt;Description&lt;/p&gt;
+This talk will start with a brief introduction to 3D Sensors and OpenNI. Then we’ll surf into PyOpenNI,  features such as the skeleton, hand and gesture tracking, RGB and depth video. Every topic will be presented with practical demos. The talk will end with a demo integrating WebGL (THREE.JS), 3D sensors, Flask and ZMQ to produce a simple fully open source based NUI game.
+
+Some simple demos of PyOpenNI and PyGame can be found at [1](http://www.youtube.com/watch?v=wI2ktioiPY8) and [2](http://youtu.be/3e8jibGUQ2Q)
+
+Attendees will not only learn about game related technologies but also about innovative ways of doing domotics, cinema &amp; art, Interactive visualization, scientific research, educations, etc.
+
+3D Sensors will be available for testing during the event - you can get yours for about 80 to 140 Euros (depending on the brand). Slides and demo code will be available at Github.
+
+Talk structure:
+
+* Introduction: hardware and OpenNI goodies and a tale of PCL (5’)
+* Hands On PyOpenNI
+    * Normal and Depth camera - basics concepts and small demo (5’)
+    * Skeleton - basics concepts and small demo. (5’)
+	* Hand &amp; gesture - basics concepts and small demo. (5’)
+* Final Demo
+	* What we’re going to use? Flask, ZMQ, THREE.JS, PyOpenNI. (6’)
+* Q&amp;A. (4’)</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Celia Cintas</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2993/3d-sensors-and-python-a-space-odyssey</guid><enclosure url="http://www.youtube.com/watch?v=3FubECqg688" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3FubECqg688/hqdefault.jpg"></media:thumbnail></item></channel></rss>

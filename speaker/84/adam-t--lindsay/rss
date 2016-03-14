@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adam T. Lindsay</title><link>http://www.pyvideo.org/speaker/84/adam-t--lindsay/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/84/adam-t--lindsay/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Remixing Music Pythonically (#157)</title><link>http://www.pyvideo.org/video/240/pycon-2010--remixing-music-pythonically---157</link><description>&lt;p&gt;Description&lt;/p&gt;
+Remixing Music Pythonically
+
+Presented by Adam T. Lindsay
+
+The Echo Nest Remix API ([http://code.google.com/p/echo-nest-
+remix/](http://code.google.com/p/echo-nest-remix/)) was made open source by
+The Echo Nest, a "music intelligence" company based in the Boston area in the
+autumn of 2008. This talk will offer details on the concise expressivity
+offered when editing multimedia driven by content-based features, and some
+insights on what Pythonic magic did and didn't work in the development of the
+modules. Audio and video examples of the fun-yet-odd outputs that are possible
+will be shown.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam T. Lindsay</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/240/pycon-2010--remixing-music-pythonically---157</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/240_remixing-music-pythonically-157.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010RemixingMusicPythonically157433-961.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ludwig Schwardt</title><link>http://www.pyvideo.org/speaker/1028/ludwig-schwardt/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1028/ludwig-schwardt/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python and the SKA</title><link>http://www.pyvideo.org/video/1973/python-and-the-ska-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We will discuss some of the challenges specific to the radio astronomy environment and how we believe Python can contribute, particularly when it comes to the trade off between development time and performance.
+&lt;p&gt;Description&lt;/p&gt;
+Authors: Simon Ratcliffe SKA South Africa, Ludwig Schwardt SKA South Africa
+
+Track: Astronomy and Astrophysics
+
+The Square Kilometer Array will be one of the prime scientific data generates in the next few decades.
+
+Construction is scheduled to commence in late 2016 and last for the best part of a decade. Current estimates put data volume generation near 1 Exabyte per day with 2-3 ExaFLOPs of processing required to handle this data.
+
+As a host country, South Africa is constructing a large precursor telescope known as MeerKAT. Once complete this will be the most sensitive telescope of it's kind in the world - until dwarfed by the SKA.
+
+We make extensive use of Python from the entire Monitor and Control system through to data handling and processing.
+
+This talk looks at our current usage of Python, and our desire to see the entire high performance processing chain being able to call itself Pythonic.
+
+We will discuss some of the challenges specific to the radio astronomy environment and how we believe Python can contribute, particularly when it comes to the trade off between development time and performance.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ludwig Schwardt,Simon Ratcliffe</dc:creator><pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1973/python-and-the-ska-0</guid><enclosure url="http://www.youtube.com/watch?v=dRFiI29y7KA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/dRFiI29y7KA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Joe Jasinski</title><link>http://www.pyvideo.org/speaker/733/joe-jasinski/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/733/joe-jasinski/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 03 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Mongoengine Basics</title><link>http://www.pyvideo.org/video/3849/mongoengine-basics</link><description>&lt;p&gt;Description&lt;/p&gt;
+A walk through of MondoDB pymongo and mongoengine and how they can be used in a production environment.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Jasinski</dc:creator><pubDate>Thu, 03 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3849/mongoengine-basics</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/mongoengine_basics.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/mongoengine_basics.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/CApYuQWNCKo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/CApYuQWNCKo/hqdefault.jpg"></media:thumbnail></item><item><title>Django+Elasticsearch+Haystack to Search PDFs and Such</title><link>http://www.pyvideo.org/video/3377/djangoelasticsearchhaystack-to-search-pdfs-and</link><description>&lt;p&gt;Description&lt;/p&gt;
+Have you ever wanted to search the contents of uploaded PDFs, Docs, and other document formats on your website?  Django Haystack (with the Elasticsearch search backend) is a great way to add search to your site, but it does not support full document indexing out of the box.  I'd like to share a solution that I cobbled together to allow this combination of tools the ability to search document contents. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Jasinski</dc:creator><pubDate>Thu, 12 Feb 2015 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3377/djangoelasticsearchhaystack-to-search-pdfs-and</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/DjangoElasticsearchHaystack_to.webm?Signature=VCu0QWgnQkqRJ0k%2BWEzBSpZoqnk%3D&amp;Expires=1423871709&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/webm"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/DjangoElasticsearchHaystack_to.webm?Signature=VCu0QWgnQkqRJ0k%2BWEzBSpZoqnk%3D&amp;Expires=1423871709&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/webm"></media:content><media:content url="http://youtu.be/xr1b39XMtBQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/xr1b39XMtBQ/hqdefault.jpg"></media:thumbnail></item><item><title>upgrading Django</title><link>http://www.pyvideo.org/video/1860/upgrading-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Joe Jasinski: upgrading Django
+
+
+(Please expand - 1 or 2 lines is fine.  see http://pyvideo.org/category/17/pycon-us-2012 for how it will be used)</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Jasinski</dc:creator><pubDate>Thu, 02 May 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1860/upgrading-django</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/chicago_djangonauts/may_2013/upgrading_django.mp4?Signature=2Pgmlh5AzhTSMnoIKc6qSUAEF34%3D&amp;Expires=1367618829&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/chicago_djangonauts/may_2013/upgrading_django.mp4?Signature=2Pgmlh5AzhTSMnoIKc6qSUAEF34%3D&amp;Expires=1367618829&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=DvDX94_x1bk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/DvDX94_x1bk/hqdefault.jpg"></media:thumbnail></item><item><title>Under the Microscope: Evaluating Existing Django Code When Onboarding a New Client</title><link>http://www.pyvideo.org/video/1413/under-the-microscope-evaluating-existing-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As a Web development firm that specializes in Django, we receive many
+inquiries from organizations looking for assistance with their existing Django
+websites. This session will describe our process for evaluating existing
+codebases and deployment structures. The goal is to provide a framework for
+evaluating other people's code and understand the scrutiny your code may
+someday endure.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Taking over someone else’s code is an exercise fraught with peril. However,
+with the growing popularity of Django, more and more organizations are seeking
+companies and individuals to take over their Django website and support their
+existing Django codebase. This talk will describe the standardized process
+Imaginary Landscape has developed to evaluate existing code as part of their
+new client onboarding process.
+
+Covered topics:
+
+  * Introduction/Overview
+
+  * Top reasons why clients are looking to change vendor
+
+  * Initial assessment
+
+&gt;     * What questions to ask before looking at the code.
+
+  * Where to start when looking at code? 
+
+&gt;     * Traversing the code tree to get a feel for how the code is structured
+
+&gt;     * Trying to determine how the previous developer thinks
+
+  * Detailed code review including checklist
+
+&gt;     * Things to look for when evaluating code: Version control, "Standard"
+site layout, Settings file, hardcoding, Virtualenv, south, etc.
+
+  * Examples (names have been changed to protect the imperfect)
+
+&gt;     * The good: the kinds of coding and configuration techniques that seem
+to be consistent among well-thought-out projects.
+
+&gt;     * The bad: examples of code and configuration that make onboarding and
+maintenance difficult.
+
+  * Final thoughts
+
+&gt;     * What you can do as a developer taking over a project.
+
+&gt;     * What you can do as a developer hoping to make great code that others
+may someday see.
+
+&gt;     * Exercise your right to say no, it’s your reputation on the line
+
+  * Q&amp;A
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Moloney,Joe Jasinski</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1413/under-the-microscope-evaluating-existing-django</guid><enclosure url="http://www.youtube.com/watch?v=-hma3mlcrD8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-hma3mlcrD8/hqdefault.jpg"></media:thumbnail></item><item><title>So You Want to Make a Payment: Comparing and contrasting Django payment options</title><link>http://www.pyvideo.org/video/1391/so-you-want-to-make-a-payment-comparing-and-cont</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+So you've developed an eCommerce site and now you want users to be able to
+make payments. The aim of this talk will be to introduce and compare some
+common payment gateway options, such as Payflow, Authorize.net, Stripe, and
+Braintree, with the focus of integrating them into Django projects.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+When developing eCommerce applications in Django, you will often be faced with
+the choice of which payment API to use. It's not always clear which services
+are available, which will fit your needs, and how to get started with them.
+This talk aims to evaluate these payment options from a Django programmer's
+perspective and provide you with background that may help you choose a payment
+processor that fits your needs.
+
+Topics will include:
+
+  * High-level overview of how payments work. 
+  * Overview of popular payment options: Google Checkout, Authorize.net, Payflow Payments, Braintree, Stripe, etc. 
+  * Compare and contrast these payment gateway APIs 
+    * compare ease of use
+    * features 
+    * price
+  * General overview of payment gateway web interfaces 
+  * Example Code snippets for payment processing
+  * Useful Python/Django payment-related modules 
+  * Q&amp;A 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Jasinski</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1391/so-you-want-to-make-a-payment-comparing-and-cont</guid><enclosure url="http://www.youtube.com/watch?v=vZc5mETltzM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/vZc5mETltzM/hqdefault.jpg"></media:thumbnail></item><item><title>Consuming Tasks with Celery</title><link>http://www.pyvideo.org/video/2549/consuming-tasks-with-celery</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Introduction to RabbitMQ, Celery, Django-celery, basic task types, and monitoring. This will provide a walk-through of how to get started and be productive with these tools.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Jasinski</dc:creator><pubDate>Thu, 02 Feb 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/2549/consuming-tasks-with-celery</guid><enclosure url="http://youtu.be/MCmNGmFh6wE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/MCmNGmFh6wE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

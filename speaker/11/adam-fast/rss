@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adam Fast</title><link>http://www.pyvideo.org/speaker/11/adam-fast/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/11/adam-fast/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 17 May 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: Plenary: Morning Lightning Talks</title><link>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plenary: Morning Lightning Talks covering GeoDjango, Zope, Launchpad, JSOT,
+AppEngine, StackOverflow, Miro, zc.buildout and RPM, ham radio, Plyne,
+GozerBot, picking tools, and stop watch.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * (00:20) GeoDjango - Justin Bronn 
+  * (05:50) What's up with Zope - Martijn Faassen 
+  * (10:55) Scripting Launchpad - Paul Hummer 
+  * (13:50) JSQT - ? 
+  * (16:10) Python, AppEngine, and Informatics - Charles Severance 
+  * (20:55) an online game called stackoverflow - John Mulder 
+  * (25:25) Miro - Chris Webber 
+  * (28:40) Deploying applications with zc.buildout and RPM - Jim Fulton 
+  * (34:10) Ham radio and Python - Adam Fast 
+  * (38:30) Plone + Pylons = Plyne - Roberto Allende 
+  * (41:35) GozerBot - John Hampton 
+  * (44:25) Software Engineering and the Pickling Tools - Rich Saunders 
+  * (48:45) Talks about the stop watch 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast,Charles Severance,Christopher Allan Webber,JIm Fulton,John Hampton,John Mulder,Justin Bronn,Martin Faassen,Paul Hummer,Richard T. Saunders,Roberto Allende</dc:creator><guid>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</guid><enclosure url="http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalks730.mp4" length="242768891" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalks730-226.jpg"></media:thumbnail></item><item><title>Introduction to GeoDjango</title><link>http://www.pyvideo.org/video/18/djangocon-2009--introduction-to-geodjango</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Gives an introduction to GeoDjango.
+&lt;p&gt;Description&lt;/p&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast</dc:creator><pubDate>Fri, 17 May 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/18/djangocon-2009--introduction-to-geodjango</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/18_introduction-to-geodjango.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-IntroductionToGeoDjango145.png"></media:thumbnail></item></channel></rss>

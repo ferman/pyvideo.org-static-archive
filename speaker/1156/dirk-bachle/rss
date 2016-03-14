@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dirk Bächle</title><link>http://www.pyvideo.org/speaker/1156/dirk-bachle/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1156/dirk-bachle/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 16 Oct 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>SCons - Software bauen in Python</title><link>http://www.pyvideo.org/video/2409/scons-software-bauen-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dieser Vortrag stellt SCons (www.scons.org) und seine Benutzung vor. Er richtet sich in erster Linie an Softwareentwickler oder Betreuer von großen Buildumgebungen, die nach Alternativen zu herkömmlichen Tools, wie CMake oder autotools, suchen.
+
+SCons ist ein Buildsystem das vollständig in Python programmiert wird. Die Eingabedateien zur Definition der einzelnen Buildschritte werden ebenfalls als Pythonskripte ausgeführt. Durch diese Kombination einer DSL (Domain Specific Language) mit der Allzwecksprache Python, lassen sich auch komplizierte Softwareprojekte einfach spezifizieren und bauen.
+
+Das Framework das sich hinter dem Startskript verbirgt, ist auf einfache Erweiterbarkeit und hohe Flexibilität ausgelegt. 
+
+Während des Vortrags soll gezeigt werden wie man ein Projekt richtig anfängt und make-typische Denkweisen vermeidet. Die Vorteile von SCons und  Standardfragen, z.B. zur Erweiterung des Systems für neue Buildschritte, werden diskutiert.
+
+Am Ende soll der Zuhörer einen Eindruck von der Arbeitsweise des Programms erhalten haben, und entscheiden können ob sich der Einsatz von SCons für sein Softwareprojekt lohnen würde.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dirk Bächle</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2409/scons-software-bauen-in-python</guid><enclosure url="https://www.youtube.com/watch?v=br9D39weshc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/br9D39weshc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

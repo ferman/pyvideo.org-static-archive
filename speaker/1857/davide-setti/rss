@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Davide Setti</title><link>http://www.pyvideo.org/speaker/1857/davide-setti/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1857/davide-setti/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 29 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Un programmatore python tra gli elefanti (di Hadoop)</title><link>http://www.pyvideo.org/video/3603/un-programmatore-python-tra-gli-elefanti-di-hado</link><description>&lt;p&gt;Description&lt;/p&gt;
+Una vita idilliaca tra list comprehension e generator, senza preoccuparti troppo dei tipi. Sei felice. E poi arriva lui. Hadoop. Ma tu non devi abbatterti. C’è speranza. Come sopravvivere in un ecosistema Java?
+L’obiettivo di questo talk è di introdurre Hadoop e come è possibile utilizzare Python, quando ha senso farlo. Verranno introdotti:
+
+Hadoop MapReduce e HDFS
+Hadoop Streaming
+Pig
+YARN
+Spark
+
+Non si vuole proporre un uso forzato di Python dove non ha senso, ma solo suggerire in base all’esperienza maturata quando è utile e quali sono i limiti.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Setti</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3603/un-programmatore-python-tra-gli-elefanti-di-hado</guid><enclosure url="https://www.youtube.com/watch?v=HSJVNFr0GzY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/HSJVNFr0GzY/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Kyle Rimkus</title><link>http://www.pyvideo.org/speaker/746/kyle-rimkus/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/746/kyle-rimkus/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 06 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Where Django Caching Busts at the Seams</title><link>http://www.pyvideo.org/video/1405/where-django-caching-busts-at-the-seams</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Most mid-sized Django websites thrive by relying on memcached. Though what
+happens when basic memcached is not enough? And how can one identify when the
+caching architecture is becoming a bottleneck? We'll cover the problems we've
+encountered and solutions we've put in place.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Most mid-sized Django websites thrive by relying on memcached. Though what
+happens when basic memcached is not enough? And how can one identify when the
+caching architecture is becoming a bottleneck? We'll cover the problems we've
+encountered and solutions we've put in place.
+
+The following highlight the issues we'll discuss during the talk:
+
+  * Cache Warming. For content that will likely be in demand, getting it ready in cache before use is a helpful start. 
+  * Two-tier caching. In multi-server environments, certain content that changes infrequently and has high-demand can be cached locally on each server. In these cases, having methods to burn the cache on each server becomes critical.
+  * Categorizing Cache. If good estimates exist for the expected demand of certain cache as well as the frequency of change, this can lead to better insight into when to warm that content as well as whether to cache it locally.
+  * Caching comparison with memcached vs. reddis vs. mongo
+  * Cachemodel. Our open-source, mini-framework for simplifying caching in Django. 
+  * Adding servers to memcached. And consistent hashing algorithms to avoid having to burn all cache when the cache cluster changes in size.
+  * Elasticache on AWS.
+
+As caching problems become more common, better layers and mini-frameworks will
+help simplify and elegantly solve some of these problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kyle Rimkus,Mike Biglan</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1405/where-django-caching-busts-at-the-seams</guid><enclosure url="http://www.youtube.com/watch?v=dXDLWGY0Tro" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/dXDLWGY0Tro/hqdefault.jpg"></media:thumbnail></item></channel></rss>

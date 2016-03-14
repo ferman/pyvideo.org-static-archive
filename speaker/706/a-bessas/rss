@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of A Bessas</title><link>http://www.pyvideo.org/speaker/706/a-bessas/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/706/a-bessas/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 04 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Going International</title><link>http://www.pyvideo.org/video/1334/going-international</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] A Bessas - 3 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The talk targets developers who wish to publish applications to an
+international audience and will discuss three topics that developers have to
+deal with: handling Unicode, localizing the software with gettext and handling
+time zones. First, the talk will address what Unicode is and how to write
+applications that deal with Unicode correctly. Then, the talk will discuss
+software localization using gettext and will conclude with a discussion of
+time zone handling in Python. No prerequisites are necessary.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">A Bessas</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1334/going-international</guid><enclosure url="http://www.youtube.com/watch?v=tbk0Mpj3SO8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tbk0Mpj3SO8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

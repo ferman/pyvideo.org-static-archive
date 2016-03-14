@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tony Yu</title><link>http://www.pyvideo.org/speaker/1273/tony-yu/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1273/tony-yu/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Image analysis in Python with scipy and scikit image 4</title><link>http://www.pyvideo.org/video/2752/image-analysis-in-python-with-scipy-and-scikit-im</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2752/image-analysis-in-python-with-scipy-and-scikit-im</guid><enclosure url="http://www.youtube.com/watch?v=pWnYjqudKHs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/pWnYjqudKHs/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image, Part 1</title><link>http://www.pyvideo.org/video/2863/image-analysis-with-scikit-image-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2863/image-analysis-with-scikit-image-part-1</guid><enclosure url="http://www.youtube.com/watch?v=MP-MTiCETYg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/MP-MTiCETYg/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image, Part 2</title><link>http://www.pyvideo.org/video/2862/image-analysis-with-scikit-image-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2862/image-analysis-with-scikit-image-part-2</guid><enclosure url="http://www.youtube.com/watch?v=SE7h0IWD93Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/SE7h0IWD93Y/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image, Part 3</title><link>http://www.pyvideo.org/video/2861/image-analysis-with-scikit-image-part-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2861/image-analysis-with-scikit-image-part-3</guid><enclosure url="http://www.youtube.com/watch?v=Yxpnvc4RHy4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Yxpnvc4RHy4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

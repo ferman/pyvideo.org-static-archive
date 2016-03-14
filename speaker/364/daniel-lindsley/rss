@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Daniel Lindsley</title><link>http://www.pyvideo.org/speaker/364/daniel-lindsley/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/364/daniel-lindsley/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>How (Not) To Build An OSS Community</title><link>http://www.pyvideo.org/video/1742/how-not-to-build-an-oss-community</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A rough &amp; tumble guide, based on the pains of experience, of what to do/not do
+when trying to build an OSS community.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Lindsley</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1742/how-not-to-build-an-oss-community</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/How_Not_To_Build_An_OSS_Commun.mp4?Signature=dHAOiq1G5xq8Gev%2FgixIPyd0Dkk%3D&amp;Expires=1363660433&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/How_Not_To_Build_An_OSS_Commun.mp4?Signature=dHAOiq1G5xq8Gev%2FgixIPyd0Dkk%3D&amp;Expires=1363660433&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=o0jY0_OEyRc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/o0jY0_OEyRc/hqdefault.jpg"></media:thumbnail></item><item><title>Avoiding The Search Hall Of Shame</title><link>http://www.pyvideo.org/video/1559/avoiding-the-search-hall-of-shame</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Most pieces of modern software (web, desktop or otherwise) include that
+innocuous little text box with inviting word "Search" nearby. But behind it
+lies a torrid world of bad ideas, worse ideas &amp; ideas no computer should be
+made to suffer. If you want to keep your good name &amp; stay out of the hall of
+shame, this talk will give you a grounding on how to make the search in your
+software better.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Lindsley</dc:creator><pubDate>Sat, 10 Nov 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1559/avoiding-the-search-hall-of-shame</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Avoiding_The_Search_Hall_Of_Shame.mp4?Signature=571uOsfJBOwPqhfN3J35RGj%2BLls%3D&amp;Expires=1352719653&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Avoiding_The_Search_Hall_Of_Shame.mp4?Signature=571uOsfJBOwPqhfN3J35RGj%2BLls%3D&amp;Expires=1352719653&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=kdWtaVfRxko" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/kdWtaVfRxko/hqdefault.jpg"></media:thumbnail></item><item><title>API Design Tips</title><link>http://www.pyvideo.org/video/1398/api-design-tips</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The focus of this talk will be on some pragmatic tips on how to design
+programmatic (non-web-based) APIs for use by other developers.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+If you're a developer of any sort (Django, Python, Javascript, etc), chances
+are that someone, at some point, will have to take the code you've written &amp;
+use it in a different context. This is even more amplified if you work on OSS,
+where people _will_ use it in ways you've never dreamed about.
+
+This talk is a reflection on my experience building libraries for other
+people's consumption &amp; thoughts on how to design/make (non-HTTP) APIs in a way
+that will make others love you (or at least not hunt you down &amp; strangle you).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Lindsley</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1398/api-design-tips</guid><enclosure url="http://www.youtube.com/watch?v=IKQzXu43hzY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IKQzXu43hzY/hqdefault.jpg"></media:thumbnail></item><item><title>Building A Python-Based Search Engine</title><link>http://www.pyvideo.org/video/715/building-a-python-based-search-engine</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Search is an increasingly common request in all types of applications as the
+amount of data all of us deal with continues to grow. The
+technology/architecture behind search engines is wildly different from what
+many developers expect. This talk will give a solid grounding in the
+fundamentals of providing search using Python to flesh out these concepts in a
+simple library.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Lindsley</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/715/building-a-python-based-search-engine</guid><enclosure url="https://www.youtube.com/watch?v=cY7pE7vX6MU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/cY7pE7vX6MU/hqdefault.jpg"></media:thumbnail></item><item><title>RESTful APIs With Tastypie</title><link>http://www.pyvideo.org/video/673/restful-apis-with-tastypie</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Providing full-featured REST APIs is an increasingly popular request. Tastypie
+allows you to easily implement a customizable REST API for your Python or
+Django applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Lindsley</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/673/restful-apis-with-tastypie</guid><enclosure url="https://www.youtube.com/watch?v=Zv26xHYlc8s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Zv26xHYlc8s/hqdefault.jpg"></media:thumbnail></item></channel></rss>

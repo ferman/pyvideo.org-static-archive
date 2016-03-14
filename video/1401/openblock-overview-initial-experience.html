@@ -1,0 +1,371 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - OpenBlock: Overview & Initial Experience</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="django,openblock">
+  
+    <meta name="description" content="OpenBlock is an open-source project aiming to provide a framework for &quot;hyper-
+local&quot; civic data. We&#39;ve been using OpenBlock in a project focused on
+increasing access to public records in rural North Carolina communities. In
+this talk we provide an overview of OpenBlock and how to get started using it,
+we describe our experience using it, and discuss some extensions we have made
+to it.
+
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="openblock-overview-initial-experience.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="openblock-overview-initial-experience.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=nwr_G6Nln3s"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">OpenBlock: Overview &amp; Initial Experience</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/nwr_G6Nln3s/hqdefault.jpg"/>
+      <link property="sameAs" href="openblock-overview-initial-experience.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>OpenBlock is an open-source project aiming to provide a framework for "hyper-
+local" civic data. We've been using OpenBlock in a project focused on
+increasing access to public records in rural North Carolina communities. In
+this talk we provide an overview of OpenBlock and how to get started using it,
+we describe our experience using it, and discuss some extensions we have made
+to it.</p></div>
+        <meta property="caption" content="OpenBlock is an open-source project aiming to provide a framework for &quot;hyper-
+local&quot; civic data. We&#39;ve been using OpenBlock in a project focused on
+increasing access to public records in rural North Carolina communities. In
+this talk we provide an overview of OpenBlock and how to get started using it,
+we describe our experience using it, and discuss some extensions we have made
+to it."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><h1>Abstract</h1>
+<p>What do you do if EveryBlock isn't available in your city? OpenBlock, released
+to the community from the Knight-funded project, EveryBlock.com, is a
+neighborhood news project aiming to provide a framework for "hyper-local"
+civic data. Over the past few years, the open source project has been
+maintained by the non-profit OpenPlans. Their goal was to simplify and
+accelerate adoption of OpenBlock by making it easier to use. Today, Caktus is
+working with Ryan Thornburg of the UNC School of Journalism and Mass
+Communication to bring OpenBlock to rural North Carolina newspapers. Open
+Rural aims to leverage OpenBlock to increase access to public records in small
+communities. This talk focuses on our experience with OpenBlock as we work to
+deploy OpenRural in North Carolina.</p>
+<h1>Outline</h1>
+<h2>Introduction</h2>
+<ul>
+<li>What is OpenBlock?</li>
+<li>How does it relate to/compare to EveryBock?</li>
+<li>When/why might you want to incorporate OpenBlock into a site?</li>
+<li>What have we (Caktus) be doing with OpenBlock?</li>
+</ul>
+<h2>Geocoding</h2>
+<ul>
+<li>Geocoding is a hard problem to solve</li>
+<li>String parsing</li>
+<li>Places and locations</li>
+<li>Street/block data</li>
+<li>3rd-party geocoder comparison</li>
+</ul>
+<h2>Getting Started: Choosing Source for Street/Block Data</h2>
+<ul>
+<li>Pros and Cons of Census (Tiger) Data</li>
+<li>Pros and Cons of Other Data Sources</li>
+<li>Differences with county data and OpenBlocks preference for cities</li>
+<li>Our Experience with Columbus County, NC</li>
+</ul>
+<h2>Scrapers</h2>
+<ul>
+<li>What are they?</li>
+<li>How do you write them?</li>
+<li>Our Experience with Some Scrapers for Columbus County, NC</li>
+<li>How we improve data accessibility with ScraperWiki</li>
+</ul>
+<h2>The Missing Piece: Data Review and Analysis</h2>
+<ul>
+<li>OpenBlock handles scraping and public viewing, but is missing review and analysis</li>
+<li>How successful was the geocoder?</li>
+<li>How many news items were added this past week?</li>
+<li>Why is my scraper failing to run?</li>
+<li>Why did this address fail to geocode? How can I correct it?</li>
+<li>Data Dashboard</li>
+</ul>
+<h2>Adding OpenBlock to an Existing Site</h2>
+<ul>
+<li>Out-of-the-box views/templates</li>
+<li>Our experience integrating with local online newspapers</li>
+<li>Our OpenRural deployment setup</li>
+</ul>
+<h2>Conclusion</h2>
+<ul>
+<li>State of the OpenBlock community</li>
+<li>Our plans in North Carolina</li>
+</ul></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/23/djangocon-2012.html">DjangoCon 2012</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/741/colin-copeland.html">Colin Copeland</a></div>
+            <meta property="author" content="Colin Copeland"/>
+          
+            <div><a href="../../speaker/740/karen-tracey.html">Karen Tracey</a></div>
+            <meta property="author" content="Karen Tracey"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Sept. 4, 2012
+            <meta property="dateCreated" content="2012-09-04"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.008082"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.008082"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=nwr_G6Nln3s" property="embedUrl">http://www.youtube.com/watch?v=nwr_G6Nln3s</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/1401">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Creative Commons Attribution license (reuse allowed
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">django</span>
+          
+            <span property="keywords">openblock</span>
+          
+          <meta property="keywords" content="DjangoCon 2012"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="openblock-overview-initial-experience.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Luke Cawood</title><link>http://www.pyvideo.org/speaker/843/luke-cawood/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/843/luke-cawood/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Aug 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Triage: real-world error logging for web applications</title><link>http://www.pyvideo.org/video/1629/triage-real-world-error-logging-for-web-applicat</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Modern web applications can quickly develop many moving parts. As they grow in
+traffic, infrastructure, services and features, keeping track of errors and
+communicating about them becomes more challenging.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In this talk we present Triage, a homegrown tool at 99designs for aggregating
+and managing errors in a live production system. Although written in Python,
+Triage is designed to ingest errors in a language agnostic way. We describe
+our path from simpler logging techniques which we outgrew, the new workflows
+around error management which it allows, and some challenges we faced along
+the way.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lars Yencken,Luke Cawood</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1629/triage-real-world-error-logging-for-web-applicat</guid><enclosure url="http://www.youtube.com/watch?v=LVeecddAd8g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/LVeecddAd8g/hqdefault.jpg"></media:thumbnail></item></channel></rss>

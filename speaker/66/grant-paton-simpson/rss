@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Grant Paton-Simpson</title><link>http://www.pyvideo.org/speaker/66/grant-paton-simpson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/66/grant-paton-simpson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 14 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Grant Paton-Simpson - SOFA Statistics - Developing, packaging, and promoting a Python open source project</title><link>http://www.pyvideo.org/video/120/grant-paton-simpson---sofa-statistics---developin</link><description>&lt;p&gt;Description&lt;/p&gt;
+SOFA Statistics - Developing, packaging and promoting a Python open source
+project
+
+Presented by Grant Paton-Simpson
+
+Abstract
+
+Overview of an open source Python project. Will cover wxPython (GUI toolkit)
+plus graphics generally; quirks of different databases; making python
+installer packages; using Sourceforge, Freshmeat, and Launchpad (and Bazaar);
+and promoting the project.
+
+Outline
+
+SOFA Statistics
+([http://www.sofastatistics.com/](http://www.sofastatistics.com/)) is an open
+source desktop Python application with an emphasis on ease of use, learn as
+you go, and beautiful output. The talk will cover technical aspects of the
+project as well as project management issues. Specific areas covered will
+include:
+
+  * Using the cross-platform GUI toolkit wxPython (including wxWebKit and the grid widgets) plus initial exploration of Matplotlib and Raphael (Javascript and SVG) 
+  * Experience using different database engines including SQLite, MySQL, MS Access, and MS SQL Server 
+  * Issues with standard statistics modules e.g. in SciPy 
+  * Making python installer packages – currently only deb packages and Windows installers (using NSIS). Plus managing releases. 
+  * Using Sourceforge, Freshmeat, and Launchpad (including Bazaar) 
+  * Promoting the project through blogging, answering posts e.g. Ubuntu, wikipedia, special aggregator lists and reviews, presentations, articles, etc. 
+
+Questions are very welcome as this is a very broad topic.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grant Paton-Simpson</dc:creator><guid>http://www.pyvideo.org/video/120/grant-paton-simpson---sofa-statistics---developin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/120_grant-paton-simpson-sofa-statistics-developing-packaging-and-promoting-a-python-open-source-project.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-GrantPatonSimpsonSOFAStatisticsDevelopingPackagingPromo591-977.jpg"></media:thumbnail></item><item><title>basil - making it easy to spin up best practice python web frameworks</title><link>http://www.pyvideo.org/video/3223/basil-making-it-easy-to-spin-up-best-practice-p</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Grant Paton-Simpson / Ben Denham:
+basil - making it easy to spin up best practice python web frameworks
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 2
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+Python is a great language for web development but spinning up Python web frameworks for development is still not as easy as it could be - especially if following a particular form of best practice e.g. altering the standard folder structure. Basil addresses this pain point. Use cases include students building basic web apps and experienced devs trying out less familiar web frameworks.
+
+**Abstract**
+
+Python is a great language for web development but spinning up Python web frameworks for development is still not as easy as it could be - especially if you're trying to follow a particular form of best practice e.g. altering the standard folder structure, or separating secrets (unversioned) from settings (versioned). And even if you are familiar with one framework, it may not be as easy to spin up another one. The basil project is an attempt to address this pain point. Use cases may include a teaching session where students are learning Python by building a basic web application. Or an experienced developer wanting to try out an alternative web framework. The presentation will look at some of the challenges involved in designing basil.
+
+The talk will cover the following topics:
+
+ - standard user experience of setting up a web framework for Python (contrasted with other languages)
+ - the user experience of basil
+ - use cases for basil (new developers, experienced developers, teaching)
+ - existing alternative solutions
+ - benefits of using vagrant
+
+**Slides**
+
+https://speakerdeck.com/nzpug/ben-denham-basil-making-it-easy-to-spin-up-best-practice-python-web-frameworks</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ben Denham,Grant Paton-Simpson</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3223/basil-making-it-easy-to-spin-up-best-practice-p</guid><enclosure url="http://youtu.be/ynxQ3qF7LwY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ynxQ3qF7LwY/hqdefault.jpg"></media:thumbnail></item><item><title>Python and Creative Data Analysis</title><link>http://www.pyvideo.org/video/2364/python-and-creative-data-analysis</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python + SQL/CSV + matplotlib + HTML make it possible to create flexible and sophisticated analyses. If you want to express something about your data, there is probably a way of doing it using these tools. This talk will be about some lessons learned.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2
+
+**Audience level**
+
+Novice
+
+**Abstract**
+
+Python + SQL/CSV + matplotlib + HTML make it possible to create flexible and sophisticated analyses of data from your spreadsheet or database. If you want to express something about your data, there is probably a way of doing it using these tools. The presentation will include both general principles and specific technical tips (who knew named tuples would be so useful!). Bring questions and enthusiasm. Data analysis should be fun.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/grant-paton-simpson-python-and-creative-data-analysis</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grant Paton-Simpson</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2364/python-and-creative-data-analysis</guid><enclosure url="http://www.youtube.com/watch?v=6gz2eEC4qdc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/6gz2eEC4qdc/hqdefault.jpg"></media:thumbnail></item></channel></rss>

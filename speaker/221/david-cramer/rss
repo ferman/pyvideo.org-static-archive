@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Cramer</title><link>http://www.pyvideo.org/speaker/221/david-cramer/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/221/david-cramer/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 05 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Lessons in Testing</title><link>http://www.pyvideo.org/video/1384/lessons-in-testing-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn from failures (and successes) around testing patterns and culture in a
+growing company, both in amount of code, and number of engineers. We'll dive
+into how DISQUS adopted testing, and the many challenges we've had to
+overcome.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Testing can be one of the more difficult concepts to pick up in a development
+cycle. With the complexities of large projects, and even small projects,
+writing effective, automated tests can take many times longer than writing the
+code and testing it by hand.
+
+This talk will explore the various patterns of testing that DISQUS has
+implemented, and iterated upon over the last two years. It will describe how
+testing has been used to speed up the product lifecycle, improve stability
+through automation, and the culture shift required to get there. Most
+importantly, it will cover the practices that have been put in place that have
+helped ease the burden of writing tests.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1384/lessons-in-testing-0</guid><enclosure url="http://www.youtube.com/watch?v=9_39Vbjx23Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/9_39Vbjx23Y/hqdefault.jpg"></media:thumbnail></item><item><title>Lessons in Testing</title><link>http://www.pyvideo.org/video/1298/lessons-in-testing</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] David Cramer - 4 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Testing may be one of the more difficult concepts to pick up in a development
+cycle. With the complexities of large projects, and even small projects,
+writing effective, automated tests can take many times longer than writing the
+code and testing it by hand. This talk will explore the various patterns of
+testing that DISQUS has implemented, and iterated upon over the last two
+years. It will describe how testing has been used to speed up the product
+lifecycle, improve stability through automation, and the culture shift
+required to get there. Most importantly, it will cover the practices that have
+been put in place that have helped ease the burden of writing tests.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1298/lessons-in-testing</guid><enclosure url="http://www.youtube.com/watch?v=garsUmsZIac" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/garsUmsZIac/hqdefault.jpg"></media:thumbnail></item><item><title>Practicing Continuous Deployment</title><link>http://www.pyvideo.org/video/655/practicing-continuous-deployment</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Practice iterative development like the pros. Release sooner, faster, and more
+often.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/655/practicing-continuous-deployment</guid><enclosure url="https://www.youtube.com/watch?v=QGfxLXoMpPk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/QGfxLXoMpPk/hqdefault.jpg"></media:thumbnail></item><item><title>Pitfalls of Continuous Deployment</title><link>http://www.pyvideo.org/video/1040/pitfalls-of-continuous-deployment</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] David Cramer - 22 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Practice iterative development like the pros. Release sooner, faster, and more
+often.
+
+Continuous deployment (and testing) has started to become a reality for many
+companies. It brings to light one of the many problems that face large product
+teams, but also creates some of its own. This talk will focus on the pros and
+cons of continuous deployment, how DISQUS switched from the recurring release
+cycle to continuous releases, as well as providing tips and arguments for
+adopting it in your workplace.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1040/pitfalls-of-continuous-deployment</guid><enclosure url="http://www.youtube.com/watch?v=smUceHEg1P0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/smUceHEg1P0/hqdefault.jpg"></media:thumbnail></item><item><title>Pitfalls of Continuous Deployment</title><link>http://www.pyvideo.org/video/1118/pitfalls-of-continuous-deployment-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] David Cramer - 22 June 2011 in "Track Ravioli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Practice iterative development like the pros. Release sooner, faster, and more
+often.
+
+Continuous deployment (and testing) has started to become a reality for many
+companies. It brings to light one of the many problems that face large product
+teams, but also creates some of its own. This talk will focus on the pros and
+cons of continuous deployment, how DISQUS switched from the recurring release
+cycle to continuous releases, as well as providing tips and arguments for
+adopting it in your workplace.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1118/pitfalls-of-continuous-deployment-0</guid><enclosure url="http://www.youtube.com/watch?v=qLKNjpudFbY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qLKNjpudFbY/hqdefault.jpg"></media:thumbnail></item><item><title>Building Scalable Web Apps</title><link>http://www.pyvideo.org/video/1162/building-scalable-web-apps</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] David Cramer - 21 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Building scalable web applications may seem like a distant problem, but the
+problem is not thinking about it before it's too late. This talk will focus on
+designing a scalable web application before it needs to be (and avoiding the
+premature optimization dilemma). It will cover topics such as efficient usage
+of your database, appropriate caching (and invalidation!), and what the
+speaker considers as best practices.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1162/building-scalable-web-apps</guid><enclosure url="http://www.youtube.com/watch?v=cubJ4tYVrNc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/cubJ4tYVrNc/hqdefault.jpg"></media:thumbnail></item><item><title>Disqus: Serving 400 million people with Python</title><link>http://www.pyvideo.org/video/418/pycon-2011--disqus--serving-400-million-people-wi</link><description>&lt;p&gt;Description&lt;/p&gt;
+Disqus: Serving 400 million people with Python
+
+Presented by David Cramer and Jason Yan
+
+Disqus, one of the largest Python applications on the web, will explain how
+they deal with scaling complexities in a growing startup. Founded in 2007,
+Disqus maintains a small engineering team reaching over 400 million users a
+month. Being powered by Python has allowed quick iteration of the application,
+without sacrificing code quality and performance. The talk will cover key
+parts of the architecture and development process at Disqus, including
+hardware, databases, and common bottlenecks.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cramer,Jason Yan</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/418/pycon-2011--disqus--serving-400-million-people-wi</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/418_disqus-serving-400-million-people-with-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011DisqusServing400MillionPeopleWithPython212.png"></media:thumbnail></item></channel></rss>

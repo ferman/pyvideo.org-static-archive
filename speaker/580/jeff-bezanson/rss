@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jeff Bezanson</title><link>http://www.pyvideo.org/speaker/580/jeff-bezanson/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/580/jeff-bezanson/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Julia: A Fast Dynamic Language for Technical Computing</title><link>http://www.pyvideo.org/video/1204/julia-a-fast-dynamic-language-for-technical-comp</link><description>&lt;p&gt;Description&lt;/p&gt;
+Julia is a dynamic language designed for technical applications and high
+performance. Its design is based on a sophisticated but unobtrusive type
+system, type inference, multiple dispatch instead of class-based OO, and a
+code generator based on LLVM. These features work together to run high-level
+code efficiently even without type declarations. At the same time, the type
+system provides useful expressiveness for designing libraries, enables forms
+of metaprogramming not traditionally found in dynamic languages, and creates
+the possibility of statically compiling whole programs and libraries. This
+combination of high performance and expressiveness makes it possible for most
+of Julia's standard library to be written in Julia itself, with an interface
+to call existing C and Fortran libraries.
+
+We will discuss some ways that Python and Julia can interoperate, and compare
+Julia's current capabilities to Python and NumPy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Bezanson</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1204/julia-a-fast-dynamic-language-for-technical-comp</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Julia_A_Fast_Dynamic_Language_for_Technical_Computing.mp4?Signature=otqxhrYPHzksIHD27rcge7iww4c%3D&amp;Expires=1346381386&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Julia_A_Fast_Dynamic_Language_for_Technical_Computing.mp4?Signature=otqxhrYPHzksIHD27rcge7iww4c%3D&amp;Expires=1346381386&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=VCp1jUgVRgE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/VCp1jUgVRgE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

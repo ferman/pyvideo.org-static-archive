@@ -1,0 +1,296 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - The Failure of Python Object Serializations: Why HPC in Python is Broken and How...</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="Parallel and asynchronous computing in python is crippled by pickle&#39;s poor object serialization. Dill, a more robust serialization package, strives to serialize all of python.  Dill has been used to enable state persistence and recovery, global caching, and the coordination of distributed parallel calculations across a network of the world&#39;s largest computers.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="the-failure-of-python-object-serializations-why.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="the-failure-of-python-object-serializations-why.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=oSoT0m8SgrU"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">The Failure of Python Object Serializations: Why HPC in Python is Broken and How to Fix it</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/oSoT0m8SgrU/hqdefault.jpg"/>
+      <link property="sameAs" href="the-failure-of-python-object-serializations-why.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Parallel and asynchronous computing in python is crippled by pickle's poor object serialization. Dill, a more robust serialization package, strives to serialize all of python.  Dill has been used to enable state persistence and recovery, global caching, and the coordination of distributed parallel calculations across a network of the world's largest computers.</p></div>
+        <meta property="caption" content="Parallel and asynchronous computing in python is crippled by pickle&#39;s poor object serialization. Dill, a more robust serialization package, strives to serialize all of python.  Dill has been used to enable state persistence and recovery, global caching, and the coordination of distributed parallel calculations across a network of the world&#39;s largest computers."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Parallel and asynchronous computing in python is crippled by pickle's poor object serialization. However, a more robust serialization package would drastically improve the situation. To leverage the cores found in modern processors we need to communicate functions between different processes -- and that means callables must be serialized without pickle barfing.  Similarly, parallel and distributed computing with MPI, GPUs, sockets, and across other process boundaries all need serialized functions (or other callables).  So why is pickling in python so broken?  Python's ability to leverage these awesome communication technologies is limited by python's own inability to be a fully serializable language.  In actuality, serialization in python is quite limited, and for really no good reason.</p>
+<p>Many raise security concerns for full object serialization, however it can be argued that it is not pickle's responsibility to do proper authentication. In fact, one could apply rather insecure serialization of all objects the objects were all sent across RSA-encrypted ssh-tunnels, for example. </p>
+<p>Dill is a serialization package that strives to serialize all of python.  We have forked python's multiprocessing to use dill. Dill can also be leveraged by mpi4py, ipython, and other parallel or distributed python packages. Dill serves as the backbone for a distributed parallel computing framework that is being used to design the next generation of large-scale heterogeneous computing platforms, and has been leveraged in large-scale calculations of risk and uncertainty.  Dill has been used to enable state persistence and recovery, global caching, and the coordination of distributed parallel calculations across a network of the world's largest computers.</p>
+<p><a href="http://pythonhosted.org/dill">http://pythonhosted.org/dill</a></p>
+<p><a href="https://github.com/uqfoundation">https://github.com/uqfoundation</a></p>
+<p><a href="http://matthewrocklin.com/blog/work/2013/12/05/Parallelism-and-Serialization/">http://matthewrocklin.com/blog/work/2013/12/05/Parallelism-and-Serialization/</a></p>
+<p><a href="http://stackoverflow.com/questions/19984152/what-can-multiprocessing-and-dill-do-together?rq=1">http://stackoverflow.com/questions/19984152/what-can-multiprocessing-and-dill-do-together?rq=1</a></p>
+<p><a href="https://groups.google.com/forum/#!topic/mpi4py/1fd4FwdgpWY">https://groups.google.com/forum/#!topic/mpi4py/1fd4FwdgpWY</a></p>
+<p><a href="http://nbviewer.ipython.org/gist/anonymous/5241793">http://nbviewer.ipython.org/gist/anonymous/5241793</a></p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/976/michael-mckerns.html">Michael McKerns</a></div>
+            <meta property="author" content="Michael McKerns"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 9, 2014
+            <meta property="dateCreated" content="2014-07-09"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 9, 2014
+            <meta property="dateModified" content="2014-07-09T19:24:51.603252"/>
+            <meta property="datePublished" content="2014-07-09T19:24:51.603252"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=oSoT0m8SgrU" property="embedUrl">http://www.youtube.com/watch?v=oSoT0m8SgrU</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2720">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="the-failure-of-python-object-serializations-why.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

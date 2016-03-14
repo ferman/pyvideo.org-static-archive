@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Georgina Wilcox</title><link>http://www.pyvideo.org/speaker/460/georgina-wilcox/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/460/georgina-wilcox/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 22 Aug 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Teaching Python to the young and impressionable</title><link>http://www.pyvideo.org/video/990/teaching-python-to-the-young-and-impressionable</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+We present two outreach programmes run by Sydney University for high school
+students: the National Computer Science School (http://www.ncss.edu.au) and
+the Girls' Programming Network (http://sydney.edu.au/it/gpn). For the past
+four years we have been teaching Python to students in grades 9-12, and based
+on this experience we will discuss why Python is a good first language and the
+parts of it which are still difficult for students to grasp.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Georgina Wilcox,Katie M Bell</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/990/teaching-python-to-the-young-and-impressionable</guid><enclosure url="http://www.youtube.com/watch?v=S56dbRk_jSQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/S56dbRk_jSQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

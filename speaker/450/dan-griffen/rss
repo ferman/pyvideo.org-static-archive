@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dan Griffen</title><link>http://www.pyvideo.org/speaker/450/dan-griffen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/450/dan-griffen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 08 Jul 2010 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Programming with Twisted</title><link>http://www.pyvideo.org/video/574/programming-with-twisted</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+  * What twisted is and its purpose in life (ie the reactor pattern).
+  * Non-blocking network programming.
+  * The confusing topic of deferreds and callbacks everywhere.
+  * Methods for dealing with blocking APIs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dan Griffen</dc:creator><pubDate>Thu, 08 Jul 2010 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/574/programming-with-twisted</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/574_programming-with-twisted.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-ProgrammingWithTwisted152.png"></media:thumbnail></item></channel></rss>

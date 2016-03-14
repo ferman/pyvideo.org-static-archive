@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mjumbe Poe</title><link>http://www.pyvideo.org/speaker/742/mjumbe-poe/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/742/mjumbe-poe/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Creating Dynamic Applications with Django and Backbone.js</title><link>http://www.pyvideo.org/video/1402/creating-dynamic-applications-with-django-and-bac</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+See how well Django and Backbone.js can complement each other, and learn a few
+best-practices for building dynamic web applications using these tools in
+concert.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Django is a great tool for creating powerful database-driven web applications
+quickly. The ORM, form processing, the admin interface, and wealth of
+community applications make Django the right tool for a number of situations.
+
+One thing that Django doesn’t do well is make it terribly easy to create
+highly-interactive, dynamic interfaces. There are solutions that people are
+working on. This talk will be about using Django with Backbone.js to help
+create these interfaces. Backbone.js is a Javascript framework that, in many
+ways, sees the world in the same way as Django. These two tools can complement
+each other nicely.
+
+Topics:
+
+  * Similarities and differences in how the two frameworks see the world
+  * Creating REST interfaces with Django REST Framework
+  * Tools to ease the interface between Django and Backbone
+  * Templating strategies
+  * Shortcomings and implications on accessibility
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mjumbe Poe</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1402/creating-dynamic-applications-with-django-and-bac</guid><enclosure url="http://www.youtube.com/watch?v=Is0TIzSG3eg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Is0TIzSG3eg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

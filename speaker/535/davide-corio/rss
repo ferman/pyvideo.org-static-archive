@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Davide Corio</title><link>http://www.pyvideo.org/speaker/535/davide-corio/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/535/davide-corio/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 09 Jun 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Kivy RAD Python per lo sviluppo di applicazioni mobile e non solo.</title><link>http://www.pyvideo.org/video/3562/kivy-rad-python-per-lo-sviluppo-di-applicazioni-m</link><description>&lt;p&gt;Description&lt;/p&gt;
+Kivy è un RAD Python per lo sviluppo di applicazioni NUI (Natural User Interface) cross-platform, caratterizzato dalla possibilità di creare applicazioni per Android ed iOS oltre che per i principali ambienti desktop. Scopriamo qualcosa di più su Kivy e sulle sue potenzialità.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Tue, 09 Jun 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3562/kivy-rad-python-per-lo-sviluppo-di-applicazioni-m</guid><enclosure url="https://www.youtube.com/watch?v=b0KKa0dQ55s" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/b0KKa0dQ55s/maxresdefault.jpg"></media:thumbnail></item><item><title>Odoo 8.0. Le nuove API</title><link>http://www.pyvideo.org/video/3595/odoo-80-le-nuove-api</link><description>&lt;p&gt;Description&lt;/p&gt;
+La novità principale della versione 8.0 sono state sicuramente le tanto attese nuove API.
+Più pythoniche, meno prolisse.
+Vediamo assieme le principali differenze, tramite un confronto approfondito con le API che hanno accompagnato Odoo fino alla versione 7.0.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3595/odoo-80-le-nuove-api</guid><enclosure url="https://www.youtube.com/watch?v=Dh8qv7C62Xw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/Dh8qv7C62Xw/maxresdefault.jpg"></media:thumbnail></item><item><title>Odoo CMS by Davide Corio</title><link>http://www.pyvideo.org/video/3597/odoo-cms-by-davide-corio</link><description>&lt;p&gt;Description&lt;/p&gt;
+Odoo website builder, ecommerce ed altre nuove funzionalità.
+Approfondiamo questo nuovo set di moduli introdotto con la versione 8.0 di Odoo con i quali possiamo aggiungere funzionalità specifiche di CMS ed altri strumenti per lo sviluppo di siti web.
+Configuriamo assieme un sito web con Odoo CMS e giochiamo con temi, snippets e blocchi.
+Odoo si è dichiarato in guerra contro Wordpress, Drupal, Joomla &amp; C.
+Riuscirà a scalare la classifica?
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3597/odoo-cms-by-davide-corio</guid><enclosure url="https://www.youtube.com/watch?v=D341KedzE-Y" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/D341KedzE-Y/maxresdefault.jpg"></media:thumbnail></item><item><title>Python and Arduino: a tale of snakes and kings</title><link>http://www.pyvideo.org/video/1268/python-and-arduino-a-tale-of-snakes-and-kings</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Davide Corio e Alessandro Pasotti - 5 JULY 2012 in "Track
+Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Interact with the real world is one of the most common needs when we talk
+about monitoring, robotics, PLC and other business software related needs we
+often hear about. Arduino is the most important electronic prototyping
+platform, but few know we can use Python to interact with it. So, let’s
+discover how we can use Python to develop applications and interact with this
+awesome prototyping board.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Pasotti,Davide Corio</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1268/python-and-arduino-a-tale-of-snakes-and-kings</guid><enclosure url="http://www.youtube.com/watch?v=IslxBmz1pVg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IslxBmz1pVg/hqdefault.jpg"></media:thumbnail></item><item><title>OpenERP 6.1, come progettare applicazioni business</title><link>http://www.pyvideo.org/video/1329/openerp-61-come-progettare-applicazioni-busines</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Davide Corio - 3 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+OpenERP 6.1 è uno dei più importanti free e opensource software scritti in
+Python. Immergiamoci nel framework a scopriamo come progettare la nostra
+applicazione. Durante la presentazione exploreremo gli strumenti integrati a
+disposizione degli sviluppatori per la creazione di nuove funzionalità, la
+progettazione di stampe o per dialogare con dispositivi mobile e applicazioni
+di terze parti.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1329/openerp-61-come-progettare-applicazioni-busines</guid><enclosure url="http://www.youtube.com/watch?v=Pqm1mc26eoE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Pqm1mc26eoE/hqdefault.jpg"></media:thumbnail></item><item><title>OpenERP: 100% pythonic way for business management</title><link>http://www.pyvideo.org/video/1122/openerp-100-pythonic-way-for-business-managemen</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Davide Corio - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Business management isn't just accounting. Let's see how Python can help us to
+build a complete ERP infrastructure. From CRM to e-commerce, from accounting
+to document management…we'll see how Python is mature and able to do great
+things where Java and .NET are still considered as the only option. Case
+studies to be presented.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1122/openerp-100-pythonic-way-for-business-managemen</guid><enclosure url="http://www.youtube.com/watch?v=b70_GgWpH40" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/b70_GgWpH40/hqdefault.jpg"></media:thumbnail></item><item><title>Rubrica indirizzi all'ennesima potenza</title><link>http://www.pyvideo.org/video/1181/rubrica-indirizzi-allennesima-potenza</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Davide Corio - 23 June 2011 in "Track Italiana Big Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Avete presente il classico, noioso, banale esempio di rubrica indirizzi in
+Python? Si? Quindi, diamo un'occhiata ad un nuovissimo, complicato ed
+entusiasmante modo di tenere la nostra rubrica e il nostro dispositivo mobile
+sincronizzati. Mischieremo differenti tecnologie come Zope, OpenERP, Funambol,
+XML-RPC e Json. Tutto per rendere la vostra vita più elettrizzante!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1181/rubrica-indirizzi-allennesima-potenza</guid><enclosure url="http://www.youtube.com/watch?v=5IYPF0YY6jo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/5IYPF0YY6jo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

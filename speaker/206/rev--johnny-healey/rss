@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rev. Johnny Healey</title><link>http://www.pyvideo.org/speaker/206/rev--johnny-healey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/206/rev--johnny-healey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>How to write obfuscated python</title><link>http://www.pyvideo.org/video/398/pycon-2011--how-to-write-obfuscated-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to write obfuscated python
+
+Presented by Rev. Johnny Healey
+
+With its clean, highly readable syntax, Python would seem to be quite a
+challenge for a programmer attempting to write obfuscated code. Fortunately,
+it provides a wide variety of high-level abstractions that can be misused in
+exciting ways. This survey of obfuscation strategies will include topics such
+as decorator abuse, lambda calculus, and bytecode manipulation.
+
+Abstract
+
+Python's clean syntax can make traditional approaches to writing obfuscated
+code much more challenging. Fortunately, Python provides many useful
+abstractions that can be misused to write code that is unreadable or even
+deliberately misleading. This talk will provide a survey of silly python
+tricks that explore the boundaries of the language.
+
+Topics
+
+  * Redefining builtins 
+  * Rarely used syntax 
+  * Comparison edge cases 
+  * Things you probably shouldn't do with decorators 
+  * Fun with lambdas 
+  * Bytecode manipulation 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rev. Johnny Healey</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/398/pycon-2011--how-to-write-obfuscated-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/398_how-to-write-obfuscated-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011HowToWriteObfuscatedPython160.png"></media:thumbnail></item></channel></rss>

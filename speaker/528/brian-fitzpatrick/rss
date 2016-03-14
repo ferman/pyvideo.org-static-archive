@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brian Fitzpatrick</title><link>http://www.pyvideo.org/speaker/528/brian-fitzpatrick/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/528/brian-fitzpatrick/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>The Myth of the Genius Programmer</title><link>http://www.pyvideo.org/video/1178/the-myth-of-the-genius-programmer</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Brian Fitzpatrick - 23 June 2011 in "Track Italiana Big Mac
+"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A pervasive elitism hovers in the background of collaborative software
+development: everyone secretly wants to be seen as a genius. I'll cover how to
+avoid this trap and gracefully exchange personal ego for personal growth and
+super-charged collaboration. I'll also examine how software tools affect
+social behaviors, and how to successfully manage the growth of new ideas.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Fitzpatrick</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1178/the-myth-of-the-genius-programmer</guid><enclosure url="http://www.youtube.com/watch?v=IY96mgfZ_TM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IY96mgfZ_TM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

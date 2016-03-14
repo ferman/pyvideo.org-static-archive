@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mark Rees</title><link>http://www.pyvideo.org/speaker/846/mark-rees/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/846/mark-rees/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 11 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Seeing with Python by Mark Rees</title><link>http://www.pyvideo.org/video/3095/seeing-with-python-by-mark-rees</link><description>&lt;p&gt;Description&lt;/p&gt;
+In 2013 I purchased a Ninja Block (http://ninjablocks.com/) and wanted to add a camera based sensor to it. So began my adventures in computer vision using python. The talk will discuss the various libraries (including PyOpenCV &amp; SimpleCV ) available for python to perform CV tasks like motion detection, object tracking &amp; facial recognition. As my goals for the camera sensor underwent "feature creep" the project required it's own dedicated processing power, so a BeagleBone Black &amp; later a Raspberry Pi were purchased and the project became a IoT device. I will also share my experiences with developing python CV solutions ARM based computers. If the demo gods are willing, code examples will be demonstrated.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Rees</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3095/seeing-with-python-by-mark-rees</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/58-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/58-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=WlgMwSHyXcg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/WlgMwSHyXcg/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy - is it ready for production?</title><link>http://www.pyvideo.org/video/1636/pypy-is-it-ready-for-production</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+I have followed the development of PyPy since 2004 and played with various
+releases to see what the PyPy team had achieved. It wasn't until the release
+of PyPy 1.18 that I actually ran some existing production python code under
+it. The perc
+
+
+&lt;p&gt;Description&lt;/p&gt;
+I have followed the development of PyPy since 2004 and played with various
+releases to see what the PyPy team had achieved. It wasn't until the release
+of PyPy 1.18 that I actually ran some existing production python code under
+it. The perceived performance improvement of this exercise inspired me to
+implement a more scientific method for comparing the runtime performance of
+CPython and PyPy running various Python production code sets that we use in
+the company I work for. This presentation will discuss the results of this
+comparison and the positives and negatives with utilising PyPy in production.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Rees</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1636/pypy-is-it-ready-for-production</guid><enclosure url="http://www.youtube.com/watch?v=KN9eHa2cXNQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/KN9eHa2cXNQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

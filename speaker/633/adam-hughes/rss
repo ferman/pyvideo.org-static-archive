@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Adam Hughes</title><link>http://www.pyvideo.org/speaker/633/adam-hughes/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/633/adam-hughes/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 19 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Domain Analysis of Mosaic Proteins in Purple Sea Urchin</title><link>http://www.pyvideo.org/video/1241/domain-analysis-of-mosaic-proteins-in-purple-sea</link><description>&lt;p&gt;Description&lt;/p&gt;
+Purple sea urchins (Strongylocentrotus purpuratus or Sp) are invertebrates
+that share more than 7,000 genes with humans, more than other common model
+invertebrate organisms like fruit flies and worms. In addition, the innate
+immune system of sea urchins demonstrates unprecedented complexity. These
+factors make the sea urchin a very interesting organism for investigations of
+immunology. Of particular interest are the set of proteins in SP that contain
+C-type lectin (CLECT) domains, a functional region in the protein which
+recognizes sugars. Proteins containing CLECTs may be particularly important to
+immune system robustness because of sugars that are present on pathogens.
+
+The primary goals of this research project are first to identify all the
+CLECT-containing proteins in the Sp genome, and then to predict their function
+based on similarity to characterized proteins in other species (protein
+homology or similarity). The latter goal is particularly challenging and
+requires new and creative analysis methods.
+
+From an informational viewpoint, proteins are represented by a unique sequence
+of letters, each letter corresponding to an amino acid. For example G-A-V
+indicates the sequence glycine, alanine and valine. Commonality between
+proteins is usually measured by sequence alignments; that is, by directly
+comparing the sequence of letters between two proteins. Algorithms and tools
+for these alignments are among the most standardized and available tools in
+bioinformatics.
+
+Sequence similarity between homologous proteins can degrade over long
+evolutionary timescales. This is in part because some mutations at the
+sequence level can occur without compromising a protein's overall function.
+This is akin to the evolution of a language, e.g modern English and middle
+English, which initially appear to be separate languages due to spelling
+differences. Because domains are regions of a protein which can function semi-
+independently, they are less prone to accommodate mutations. By comparing
+proteins based on the ordering of their domains, or their "domain
+architecture", it becomes possible to identify homology, or similarities in
+domain order, separated by extensive evolution.
+
+Alignment tools based on domain architecture are promising, but are still in
+their infancy. Consequently, very few researchers utilize both sequence and
+domain alignment methodologies corroboratively. Using Python scripts in tandem
+with various web tools and databases, we have identified the top alignment
+candidates for the CLECT-containing Sp proteins using both methods. With the
+help of the Enthought Tool Suite, we have created a simple visualization tool
+that allows users to examine the sequence alignments side-by-side with two
+types of domain alignments. The information provided by these three results
+together is much more informative with respect to predicting protein function
+than any single method alone. Finally, we have developed a systematic set of
+heuristic rules to allow users to make objective comparisons among the three
+sets of results. The results can later be parsed using Python scripts to make
+quantitative and qualitative assessments of the dataset. We believe that these
+new comparison and visualization techniques will apply in general to
+computational proteomics.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Hughes</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1241/domain-analysis-of-mosaic-proteins-in-purple-sea</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Analysis_of_Mosaic_Prot.mp4?Signature=sk5dC792%2F9McCWo60IdAhf4LCUU%3D&amp;Expires=1346383398&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Analysis_of_Mosaic_Prot.mp4?Signature=sk5dC792%2F9McCWo60IdAhf4LCUU%3D&amp;Expires=1346383398&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=l4x23L-mSfk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/l4x23L-mSfk/hqdefault.jpg"></media:thumbnail></item></channel></rss>

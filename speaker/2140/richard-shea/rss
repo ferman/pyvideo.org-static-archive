@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard Shea</title><link>http://www.pyvideo.org/speaker/2140/richard-shea/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2140/richard-shea/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Stop and smell the Djangos</title><link>http://www.pyvideo.org/video/4066/stop-and-smell-the-djangos</link><description>&lt;p&gt;Description&lt;/p&gt;
+A great strength of Django is how much functionality there is baked in without the developer doing anything to obtain it.
+
+A corollary of this is that there’s a great deal of functionality in Django which the average developer is hardly aware exists. The happy dev is pleased to ignore the problems that have been solved for them as their requests rush in and their responses rush out.
+
+There's Middleware, Signals, Authentication, Caching, Internationalization, Serialization and ... a lot more and that's just the core framework.
+
+In this talk we’re going to stop and admire the view .
+
+We’ll demonstrate the effects that these core aspects of Django have on a request - response cycle by reviewing how they work and feeling the pain of what life would be like without them.
+
+My talk is aimed at the average Django dev who has been happy to ignore what goes on under the hood. By better understanding the machinery that Django relies on it gives us all the opportunity to exploit it in our work and, of course, to impress our colleagues!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Shea</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4066/stop-and-smell-the-djangos</guid><enclosure url="https://www.youtube.com/watch?v=tl0wkY78jk4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/tl0wkY78jk4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

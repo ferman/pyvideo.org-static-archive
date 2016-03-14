@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Michael Hudson-Doyle</title><link>http://www.pyvideo.org/speaker/58/michael-hudson-doyle/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/58/michael-hudson-doyle/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:54 -0000</lastBuildDate><ttl>500</ttl><item><title>Michael Hudson-Doyle - An Introduction to PyPy</title><link>http://www.pyvideo.org/video/123/michael-hudson-doyle---an-introduction-to-pypy</link><description>&lt;p&gt;Description&lt;/p&gt;
+An introduction to PyPy
+
+Presented by Michael Hudson-Doyle
+
+Abstract
+
+An overview of the ideas behind the project, its current status, future plans
+and why you should care about it.
+
+Outline
+
+The core idea of PyPy is to produce a flexible and fast implementation of the
+Python programming language. The talk will cover the interpreter, translator
+and jit parts of the code and their relationships and the fundamental ways in
+which PyPy differs from other virtual machine implementations.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Hudson-Doyle</dc:creator><guid>http://www.pyvideo.org/video/123/michael-hudson-doyle---an-introduction-to-pypy</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/123_michael-hudson-doyle-an-introduction-to-pypy.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-MichaelHudsonAnIntroductionToPyPy702-526.jpg"></media:thumbnail></item><item><title>Michael Hudson - How we use Twisted in Launchpad</title><link>http://www.pyvideo.org/video/112/michael-hudson---how-we-use-twisted-in-launchpad</link><description>&lt;p&gt;Description&lt;/p&gt;
+How we use Twisted in Launchpad
+
+Presented by Michael Hudson-Doyle
+
+Abstract
+
+Launchpad is a large, open source, "real world" Python project with many
+moving parts. This talk will explain how Twisted helps us keep track of them.
+
+Outline
+
+Although we don't use it for the core web application, most other places in
+Launchpad that have to deal with concurrency issues do it using Twisted. This
+talk will survey these areas and talk about issues we've found and design
+patterns we've found helpful.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Hudson-Doyle</dc:creator><guid>http://www.pyvideo.org/video/112/michael-hudson---how-we-use-twisted-in-launchpad</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/112_michael-hudson-how-we-use-twisted-in-launchpad.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-MichaelHudsonHowWeUseTwistedInLaunchpad505-421.jpg"></media:thumbnail></item></channel></rss>

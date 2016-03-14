@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Moshe Zadka</title><link>http://www.pyvideo.org/speaker/353/moshe-zadka/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/353/moshe-zadka/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Make Sure Your Programs Crash</title><link>http://www.pyvideo.org/video/647/make-sure-your-programs-crash</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+With Python, segmentation faults and the like simply don't happen -- programs
+do not crash. However, the world is a messy, chaotic place. What happens when
+your programs crash? I will talk about how to make sure that your application
+survives crashes, reboots and other nasty problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Moshe Zadka</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/647/make-sure-your-programs-crash</guid><enclosure url="https://www.youtube.com/watch?v=OBbvj0WWT-g" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/OBbvj0WWT-g/hqdefault.jpg"></media:thumbnail></item></channel></rss>

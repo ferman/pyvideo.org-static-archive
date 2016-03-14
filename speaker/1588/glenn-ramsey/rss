@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Glenn Ramsey</title><link>http://www.pyvideo.org/speaker/1588/glenn-ramsey/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1588/glenn-ramsey/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 13 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Packaging a Python desktop application using PyInstaller</title><link>http://www.pyvideo.org/video/3230/packaging-a-python-desktop-application-using-pyin</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Glenn Ramsey:
+Packaging a Python desktop application using PyInstaller
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+What PyInstaller does. How it works. How to use it. What to do when it doesn't work.
+
+**Abstract**
+
+This talk will be an introduction to using PyInstaller for packaging a desktop application on Windows and OSX. It will briefly outline how PyInstaller works and describe how to use it, with some simple examples. Finally some techniques to use for debugging a built package will be discussed.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/glenn-ramsey-packaging-a-python-desktop-application-using-pyinstaller</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glenn Ramsey</dc:creator><pubDate>Sat, 13 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3230/packaging-a-python-desktop-application-using-pyin</guid><enclosure url="http://youtu.be/tOTLqUQC-k0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tOTLqUQC-k0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

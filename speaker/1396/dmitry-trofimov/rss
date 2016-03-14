@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dmitry Trofimov</title><link>http://www.pyvideo.org/speaker/1396/dmitry-trofimov/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1396/dmitry-trofimov/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 24 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python Debugger Uncovered</title><link>http://www.pyvideo.org/video/2972/python-debugger-uncovered</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk will explain how to implement a debugger for Python. We'll start with setting a simple trace function, then look how it is implemented in modern IDEs like PyCharm and Pydev. 
+Then we go further in the details and uncover the tricks used to implement some cool features like exception handling and multiprocess debugging.
+&lt;p&gt;Description&lt;/p&gt;
+Presentation describes how to implement debugger for Python and has 4 parts:
+
+* Tracing Python code
+
+    Explains how to use trace function
+
+* Debugger Architecture
+
+    Explains which parts consists of a modern full-fledged debugger.
+
+* A Bit of Details
+
+    Explains how to make code to work for all python versions and implementations, survive gevent monkey-patching etc.
+
+* Cool Features
+
+    Explains how to implement exception handling and multiprocess debugging
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dmitry Trofimov</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2972/python-debugger-uncovered</guid><enclosure url="http://www.youtube.com/watch?v=HfzdM7rsKbU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/HfzdM7rsKbU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

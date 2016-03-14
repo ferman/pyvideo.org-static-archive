@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christopher Allan Webber</title><link>http://www.pyvideo.org/speaker/215/christopher-allan-webber/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/215/christopher-allan-webber/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 11 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: Plenary: Morning Lightning Talks</title><link>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plenary: Morning Lightning Talks covering GeoDjango, Zope, Launchpad, JSOT,
+AppEngine, StackOverflow, Miro, zc.buildout and RPM, ham radio, Plyne,
+GozerBot, picking tools, and stop watch.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * (00:20) GeoDjango - Justin Bronn 
+  * (05:50) What's up with Zope - Martijn Faassen 
+  * (10:55) Scripting Launchpad - Paul Hummer 
+  * (13:50) JSQT - ? 
+  * (16:10) Python, AppEngine, and Informatics - Charles Severance 
+  * (20:55) an online game called stackoverflow - John Mulder 
+  * (25:25) Miro - Chris Webber 
+  * (28:40) Deploying applications with zc.buildout and RPM - Jim Fulton 
+  * (34:10) Ham radio and Python - Adam Fast 
+  * (38:30) Plone + Pylons = Plyne - Roberto Allende 
+  * (41:35) GozerBot - John Hampton 
+  * (44:25) Software Engineering and the Pickling Tools - Rich Saunders 
+  * (48:45) Talks about the stop watch 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast,Charles Severance,Christopher Allan Webber,JIm Fulton,John Hampton,John Mulder,Justin Bronn,Martin Faassen,Paul Hummer,Richard T. Saunders,Roberto Allende</dc:creator><guid>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</guid><enclosure url="http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalks730.mp4" length="242768891" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalks730-226.jpg"></media:thumbnail></item><item><title>MediaGoblin Update</title><link>http://www.pyvideo.org/video/1418/mediagoblin-update</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+GNU MediaGoblin is a free software media publishing system written in Python
+for images, video, and audio. This talk starts by tricking you into watching
+the mediagoblin_campaign_pitch video, and then Chris explains how he used
+Python to drive Blender to make the animated effects.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber</dc:creator><pubDate>Thu, 11 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1418/mediagoblin-update</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_oct_2012/MediaGoblin_Update.mp4?Signature=7YwMLKLZ1QQS6M7jhRh1XW5F%2BZ0%3D&amp;Expires=1350083294&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/chipy/chipy_oct_2012/MediaGoblin_Update.mp4?Signature=7YwMLKLZ1QQS6M7jhRh1XW5F%2BZ0%3D&amp;Expires=1350083294&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=MrEoE0Py5ZY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/MrEoE0Py5ZY/hqdefault.jpg"></media:thumbnail></item><item><title>40. MediaGoblin: The Road to Federation</title><link>http://www.pyvideo.org/video/725/40-mediagoblin-the-road-to-federation</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From just a gleam in founder Chris Webber's eye to a full tilt media hosting
+project supporting photos, HTML5 video, and more, the road to federation has
+been a wild ride so far. Come talk to us about the challenges, the fun and the
+future.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+From just a gleam in founder Chris Webber's eye to a full tilt media hosting
+project supporting photos, HTML5 video, and more, the road to federation has
+been a wild ride so far. We owe a lot to the huge community of fellow
+federators whose work on the ostaus library enabled us to start in the middle
+with our own not-quite-finished spin, Kuneco. Kudos to the GNU project for
+getting excited about the web with us. We're also thankful for the massive
+outpouring of project love that channeled itself through transifex and has
+made Media Goblin global-ready even though it isn't finished. Ever thought
+about switching databases midstream? Come talk to us, Mongo to SQL wasn't as
+bad as we'd been expecting. We'll also tell you all about our minimalist wsgi
+un-framework design and how we think it's working compared to Django or even
+Pylons/Pyramid.
+
+What's still left do? Smoother interoperations with allied projects like
+StatusNet and Diaspora. Support for more media types like 3D modelling and
+presentations. World domination... in a friendly way! Swing by if you're
+looking for a new project to get involved with or just want details to take
+back to your own.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber,Deb Nicholson</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/725/40-mediagoblin-the-road-to-federation</guid><enclosure url="https://www.youtube.com/watch?v=AMMBYLB3qd0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/AMMBYLB3qd0/hqdefault.jpg"></media:thumbnail></item><item><title>GNU MediaGoblin for a federated media future</title><link>http://www.pyvideo.org/video/565/gnu-mediagoblin-for-a-federated-media-future</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Christopher Allan Webber talks about GNU MediaGoblin, a federated
+(decentralized) media publishing system (images, and later other media like
+video) written in python and under the AGPL. Infrastructure discussion
+describes what it means that GNU MediaGoblin uses an unframework / is "wsgi
+minimalist", about the choice of MongoDB and MongoKit, and how to impress an
+audience with ascii art mockups.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber</dc:creator><pubDate>Thu, 09 Jun 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/565/gnu-mediagoblin-for-a-federated-media-future</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/565_gnu-mediagoblin-for-a-federated-media-future.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/565_gnu-mediagoblin-for-a-federated-media-future.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/565_gnu-mediagoblin-for-a-federated-media-future.m4v" fileSize="302223624" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/CarlFK-GNUMediaGoblinForAFederatedMediaFuture830.png"></media:thumbnail></item><item><title>Using Blender's new BPY Python API</title><link>http://www.pyvideo.org/video/411/pycon-2011--using-blender--39-s-new-bpy-python-ap</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Blender 2.5 (a free and open source software 3d graphics suite) includes a new
+BPY python API which is usable for scripting modeling, animation, etc. Learn
+to use this API to speed up your workflow, create procedural graphics, and
+cool new tools.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Since 2.5, the API has become more pythonic and self-descriptive. Blender's UI
+can show you the Python equivalent for nearly every user action and includes a
+full datablock exploration tool. Users will be taught how to use so they can
+quickly adapt to their appropriate needs with a little Blender experience and
+no previous BPY experience.
+
+There will be a brief Blender overview, an introduction to the API and how to
+use it, as well as / along with an overview of some of the presenter's own
+tools / use cases. Some other popular 3rd party Python tools will also be
+shown as an example.
+
+If there is time, a brief demo of the Blender Game Engine will also be given,
+though that is a separate API.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/411/pycon-2011--using-blender--39-s-new-bpy-python-ap</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/411_using-blender-s-new-bpy-python-api.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011UsingBlendersNewBPYPythonAPI450.png"></media:thumbnail></item><item><title>Using Python for Blender Animations</title><link>http://www.pyvideo.org/video/575/using-python-for-blender-animations</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Creating tools with Python and Blender 2.5's bpy API
+
+
+&lt;p&gt;Description&lt;/p&gt;
+A walk through using Blender 2.5's new Python API to automate various
+animation tasks, using examples from the film Patent Absurdity:
+http://patentabsurdity.com/ http://patentabsurdity.com/fsf_patent_anims.tar.gz
+has the sources of the animations demonstrated.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber</dc:creator><pubDate>Thu, 10 Jun 2010 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/575/using-python-for-blender-animations</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/575_using-python-for-blender-animations.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-UsingPythonForBlenderAnimations589-560.jpg"></media:thumbnail></item><item><title>GitPython and Git Internals</title><link>http://www.pyvideo.org/video/579/gitpython-and-git-internals</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Chris covers how git works, the internals, and using the GitPython library.
+
+[GitPython](http://gitorious.org/git-python)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber</dc:creator><pubDate>Thu, 14 Jan 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/579/gitpython-and-git-internals</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/579_gitpython-and-git-internals.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-GitPythonAndGitInternals503.png"></media:thumbnail></item><item><title>Blender 2.5 loves Python 3</title><link>http://www.pyvideo.org/video/587/blender-2-5-loves-python-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+Blender 2.5 loves Python 3
+
+Presented by Chris Webber on October 8th, 2009
+
+Chris talks about the upcoming Blender 2.5 release. "Blender 2.5 is the first
+app I know of that *requires* Python 3.X. So that's pretty interesting on its
+own. But there's plenty more interesting stuff to discuss. It's going to be
+mostly an overview talk. Blender's python integration could possibly span 3
+separate talks, especially considering the blender game engine's use of it,
+which is a separate but interesting talk."
+
+ChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are
+held monthly at various locations around Chicago. Also, ChiPy is a proud
+sponsor of many Open Source and Educational efforts in Chicago. Stay tuned to
+the mailing list for more info. [ChiPy website](http://chipy.org/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christopher Allan Webber</dc:creator><pubDate>Thu, 08 Oct 2009 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/587/blender-2-5-loves-python-3</guid><enclosure url="http://blip.tv/file/get/CarlFK-Blender25LovesPython3368.ogv" length="335728586" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/CarlFK-Blender25LovesPython3867.png"></media:thumbnail></item></channel></rss>

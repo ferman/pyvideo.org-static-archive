@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Juergen Brendel</title><link>http://www.pyvideo.org/speaker/248/juergen-brendel/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/248/juergen-brendel/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 14 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Introducing Python to a Java shop</title><link>http://www.pyvideo.org/video/456/pyconau-2010--introducing-python-to-a-java-shop</link><description>&lt;p&gt;Description&lt;/p&gt;
+Introducing Python to a Java shop
+
+Presented by Juergen Brendel (MuleSoft)
+
+There is a time and place for everything: For some applications Python is
+perfect, for others a language like Java and its entire ecosystem is more
+ideal. In this talk we see how Python was introduced to a Java shop as a
+vehicle for rapid and dynamic prototyping of a new project. The talk then
+explains how Jython/Java integration was used to translate this project step
+by step from Python to Java. Going beyond the advocacy focus, the talk then
+shows the interfaces to call Java from Python and vice versa and illustrates
+those with examples. Furthermore, unit testing of Java classes via test cases
+written in Python is also touched upon.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juergen Brendel</dc:creator><guid>http://www.pyvideo.org/video/456/pyconau-2010--introducing-python-to-a-java-shop</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/456_pyconau-2010-introducing-python-to-a-java-shop.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-IntroducingPythonToAJavaShop731.png"></media:thumbnail></item><item><title>Deploying test and production systems with Ansible</title><link>http://www.pyvideo.org/video/3233/deploying-test-and-production-systems-with-ansibl</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Juergen Brendel:
+Deploying test and production systems with Ansible
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 1
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+This talk presents Ansible as a light-weight, simple and effective configuration management tool. We will see why configuration management is important and how we can use Ansible to automatically deploy and test full production clusters - showcased with a sample Django application - with just a single command and in a number of different environments.
+
+**Abstract**
+
+With modern configuration, deployment and orchestration systems, software developers can easily maintain, bring up and tear down local test systems, staging, demonstration and production systems, which are 100% identical to each other.
+
+This presentation will give an introduction to Ansible, a modern, simple and efficient configuration management system. We will see how we can deploy complete clusters (with load balancers, database and some Django application servers), reliably and fully automated, either on dedicated servers, on local virtual machines or in the cloud.
+
+If all goes well, there will even be a live demo in which we will bring up a complete cluster or two in different environments, to illustrate the power of this approach.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/juergen-brendel-deploying-test-and-production-systems-with-ansible</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juergen Brendel</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3233/deploying-test-and-production-systems-with-ansibl</guid><enclosure url="http://youtu.be/Dg5TSfLHW3Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Dg5TSfLHW3Q/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alessandro Pasotti</title><link>http://www.pyvideo.org/speaker/653/alessandro-pasotti/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/653/alessandro-pasotti/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python and Arduino: a tale of snakes and kings</title><link>http://www.pyvideo.org/video/1268/python-and-arduino-a-tale-of-snakes-and-kings</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Davide Corio e Alessandro Pasotti - 5 JULY 2012 in "Track
+Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Interact with the real world is one of the most common needs when we talk
+about monitoring, robotics, PLC and other business software related needs we
+often hear about. Arduino is the most important electronic prototyping
+platform, but few know we can use Python to interact with it. So, let’s
+discover how we can use Python to develop applications and interact with this
+awesome prototyping board.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Pasotti,Davide Corio</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1268/python-and-arduino-a-tale-of-snakes-and-kings</guid><enclosure url="http://www.youtube.com/watch?v=IslxBmz1pVg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/IslxBmz1pVg/hqdefault.jpg"></media:thumbnail></item><item><title>Python e Arduino una storia di serpenti e re</title><link>http://www.pyvideo.org/video/1270/python-e-arduino-una-storia-di-serpenti-e-re</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+None
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Pasotti,Davive Corio</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1270/python-e-arduino-una-storia-di-serpenti-e-re</guid><enclosure url="http://www.youtube.com/watch?v=MXEF7CE9ERQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/MXEF7CE9ERQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

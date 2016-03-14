@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Brian E. Granger</title><link>http://www.pyvideo.org/speaker/330/brian-e-granger/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/330/brian-e-granger/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>IPython: Python at your fingertips</title><link>http://www.pyvideo.org/video/640/ipython-python-at-your-fingertips</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+IPython is widely used in the scientific community, but its various tools can
+be used in any context. IPython gets you as close as possible to the Python
+language, with an array of tools for productive work: at the terminal, in
+GUIs, through a web browser, and in high-level parallel computing. This talk
+will explain the design of IPython and provide short, hands-on demos of its
+main features.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian E. Granger,Fernando Pérez,Min Ragan-Kelley,Thomas Kluyver</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/640/ipython-python-at-your-fingertips</guid><enclosure url="https://www.youtube.com/watch?v=26wgEsg9Mcc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/26wgEsg9Mcc/hqdefault.jpg"></media:thumbnail></item><item><title>IPython in-depth: high-productivity interactive and parallel python</title><link>http://www.pyvideo.org/video/605/ipython-in-depth-high-productivity-interactive-a</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+IPython provides tools for interactive and parallel computing that are widely
+used in scientific computing, but can benefit any Python developer. We will
+show how to use IPython in different ways, as: an interactive shell, an
+embedded shell, a graphical console, a network-aware VM in GUIs, a web-based
+notebook with code, graphics and rich HTML, and a high-level framework for
+parallel computing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian E. Granger,Fernando Pérez,Min Ragan-Kelley</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/605/ipython-in-depth-high-productivity-interactive-a</guid><enclosure url="https://www.youtube.com/watch?v=2G5YTlheCbw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/2G5YTlheCbw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Sarah Dutkiewicz</title><link>http://www.pyvideo.org/speaker/289/sarah-dutkiewicz/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/289/sarah-dutkiewicz/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:36:52 -0000</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2010: Lap Around IronPython</title><link>http://www.pyvideo.org/video/507/pyohio-2010--lap-around-ironpython</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lap Around IronPython
+
+Presented by Sarah Dutkiewicz
+
+It's not just C# and VB.NET that can be used in WinForms, WPF, Silverlight,
+and ASP.NET. You could also use IronPython! In this session, you will get a
+quick overview of IronPython and a look into using it with each of the
+following: WinForms, WPF, Silverlight, and ASP.NET
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Dutkiewicz</dc:creator><guid>http://www.pyvideo.org/video/507/pyohio-2010--lap-around-ironpython</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/507_pyohio-2010-lap-around-ironpython.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-LapAroundIronPython299.png"></media:thumbnail></item><item><title>PyOhio 2010: Python 101 for the .NET Developer</title><link>http://www.pyvideo.org/video/512/pyohio-2010--python-101-for-the--net-developer</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 101 for the .NET Developer
+
+Presented by Sarah Dutkiewicz
+
+The first part of the session will cover the basics of Python - its history,
+how its data structures compare to those we're familiar with in the primary
+.NET languages, its strong and weak points, who's using it, and why you as a
+developer - both generally speaking and as a .NET developer - should care
+about Python. The second part of the session will get into the demos -
+starting with some basic Python scripts and getting into IronPython scripts,
+if time allows. By the end of this session, you'll have an idea of what Python
+is, why you should know it as a developer and specifically as a .NET
+developer, and how to get setup and write a basic app in both Python and
+IronPython.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Dutkiewicz</dc:creator><guid>http://www.pyvideo.org/video/512/pyohio-2010--python-101-for-the--net-developer</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/512_pyohio-2010-python-101-for-the-net-developer.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-Python101ForTheNETDeveloper706.png"></media:thumbnail></item></channel></rss>

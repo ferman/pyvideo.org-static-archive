@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Paolo Sammicheli</title><link>http://www.pyvideo.org/speaker/514/paolo-sammicheli/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/514/paolo-sammicheli/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 18 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Ubuntu e la programmazione occasionale</title><link>http://www.pyvideo.org/video/1172/ubuntu-e-la-programmazione-occasionale</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Paolo Sammicheli - 21 June 2011 in "Track Italiana Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In questo talk, mosteremo i tool e l'infastruttura che rende molto semplice la
+creazione di progetti Python in Ubunut, e la loro distribuzione a milioni di
+utenti. Verranno mostrati vari tool: Launchpad, Quickly e i PPA (personal
+package archiving).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paolo Sammicheli</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1172/ubuntu-e-la-programmazione-occasionale</guid><enclosure url="http://www.youtube.com/watch?v=qkB-ZqqyYrY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qkB-ZqqyYrY/hqdefault.jpg"></media:thumbnail></item><item><title>Ubuntu and the opportunistic programming</title><link>http://www.pyvideo.org/video/1080/ubuntu-and-the-opportunistic-programming</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Paolo Sammicheli - 20 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+We will show the tools and the infrastructure that makes easy creating own
+python project in Ubuntu and distributing it to millions of users. It will be
+shown several tools: Launchpad, Quickly and and the Ubuntu's PPA (personal
+package archiving).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paolo Sammicheli</dc:creator><pubDate>Thu, 14 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1080/ubuntu-and-the-opportunistic-programming</guid><enclosure url="http://www.youtube.com/watch?v=3iqlzW8C3gw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3iqlzW8C3gw/hqdefault.jpg"></media:thumbnail></item></channel></rss>

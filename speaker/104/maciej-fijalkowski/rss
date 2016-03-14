@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Maciej Fijalkowski</title><link>http://www.pyvideo.org/speaker/104/maciej-fijalkowski/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/104/maciej-fijalkowski/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 02 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: PyPy status talk (#72)</title><link>http://www.pyvideo.org/video/232/pycon-2009-pypy-status-talk-72</link><description>&lt;p&gt;Description&lt;/p&gt;
+PyPy Status Talk
+
+  
+Presented by Holger Krekel and Maciej Fijalkowski
+
+  
+PyPy has come a long way. It's gone from being purely a research project to
+providing a flexible and reasonably fast Python Interpreter, itself
+implemented in Python. Although PyPy is not yet a viable CPython replacement,
+PyPy is able to run sophisticated python applications like Django and Twisted.
+In this talk, we'll focus on improvements that happened during the last year
+in PyPy. This talk will also explain the motivations driving current PyPy
+development and its targets for the future.
+
+  
+[VIDEO HAS ISSUES: Audio humming, other misc audio issues]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel,Maciej Fijalkowski</dc:creator><guid>http://www.pyvideo.org/video/232/pycon-2009-pypy-status-talk-72</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/232_pycon-2009-pypy-status-talk-72.mp4" length="127771496" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyPyStatusTalk814-335.jpg"></media:thumbnail></item><item><title>How PyPy runs your program</title><link>http://www.pyvideo.org/video/3932/how-pypy-runs-your-program</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk we would like to have a short introduction on how Python
+programs are compiled and executed, with special attention towards
+just-in-time compilation done by PyPy. PyPy is the most advanced Python
+interpreter around, and while it should generally just speed up your programs,
+there is a wide range of performance that you can get out of PyPy, ranging from
+slightly faster than CPython to C speeds, depending on how you write your
+programs.
+
+We will split the talk in two parts. In the first part we will explain
+how things work, and what can and cannot be optimized, as well as describe
+the basic heuristics of the JIT compiler and optimizer. In the next part we will
+do a brief survey of existing tools for looking at performance of Python programs,
+with a specific focus on PyPy. We'll mostly focus on vmprof with a brief mention of others.
+
+As a result of this talk, an audience member should be better equipped with
+the tools to write new software and improve existing software with performance
+in mind.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maciej Fijalkowski</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3932/how-pypy-runs-your-program</guid><enclosure url="http://youtu.be/mHTu723RDNI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mHTu723RDNI/hqdefault.jpg"></media:thumbnail></item><item><title>Why PyPy by example</title><link>http://www.pyvideo.org/video/661/why-pypy-by-example</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+One of the goals of PyPy is to make existing Python code faster, however an
+even broader goal was to make it possible to write things in Python that
+previous would needed to be written in C or other low-level language. This
+talk will show examples of this, and describe how they represent the
+tremendous progress PyPy has made, and what it means for people looking to use
+PyPy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor,Armin Rigo,Maciej Fijalkowski</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/661/why-pypy-by-example</guid><enclosure url="https://www.youtube.com/watch?v=P5ad6NpjR3M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/P5ad6NpjR3M/hqdefault.jpg"></media:thumbnail></item><item><title>How to get the most out of your PyPy</title><link>http://www.pyvideo.org/video/612/how-to-get-the-most-out-of-your-pypy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+For many applications PyPy can provide performance benefits right out of the
+box. However, little details can push your application to perform much better.
+In this tutorial we'll give you insights on how to push pypy to it's limites.
+We'll focus on understanding the performance characteristics of PyPy, and
+learning the analysis tools in order to maximize your applications
+performance.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor,Armin Rigo,Maciej Fijalkowski</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/612/how-to-get-the-most-out-of-your-pypy</guid><enclosure url="https://www.youtube.com/watch?v=oZw8m_lyhvo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/oZw8m_lyhvo/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python VMs</title><link>http://www.pyvideo.org/video/421/panel-python-vms</link><description>&lt;p&gt;Description&lt;/p&gt;
+Panel: Python VMs
+
+Presented by Jacob Kaplan-Moss, Brett Cannon, Maciej Fijalkowski, Frank
+Wierzbicki, Dino Viehland
+
+Python is lucky enough to have a healthy ecosystem of virtual machines (VMs)
+exist. CPython, Jython, IronPython, and PyPy are all used extensively by
+people in real-world situations. This panel brings together a representative
+from each of the major VMs to discuss where they are now, going in the future,
+and to answer questions from the community.
+
+Abstract
+
+All four major Python VMs will be represented:
+
+  * [CPython](http://python.org/): Brett Cannon 
+  * [Jython](http://www.jython.org/): Frank Wierzbicki 
+  * [IronPython](http://ironpython.net/): Dino Viehland 
+  * [PyPy](http://pypy.org/): Maciej Fijalkowski 
+Moderation will be handled by Jacob Kaplan-Moss of Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Cannon,Dino Viehland,Frank J Wierzbicki,Jacob Kaplan-Moss,Maciej Fijalkowski</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/421/panel-python-vms</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/421_panel-python-vms.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PanelPythonVMs871.png"></media:thumbnail></item><item><title>Why is Python slow and how PyPy can help?</title><link>http://www.pyvideo.org/video/427/pycon-2011--why-is-python-slow-and-how-pypy-can-h</link><description>&lt;p&gt;Description&lt;/p&gt;
+Why is Python slow and how PyPy can help?
+
+Presented by Maciej Fijalkowski and Alex Gaynor
+
+PyPy is a virtual machine for Python, featuring an advanced just in time
+compiler, which can deliver exceptional performance. This talk is going to be
+a deep dive into what exactly makes Python such a hard language to optimize,
+how PyPy is organized, and what optimizations our JIT can do (and what it
+can't do) for your code.
+
+Abstract
+
+The talk will detail how a python interpreter works internally and why some
+operations are costly. We'll go through several python features, how they
+work, why they're slow in CPython and how we're fixing it.
+
+The list of mentioned features is not exhaustive, however we will try to focus
+at least on the following:
+
+  * Dynamic language - In Python code we have no known types, like a statically typed language. Even operations like "a + b" can do anything, unless we know more about the code, and the types it is operating on.
+
+  * Frame introspection - Frame objects need to be allocated for every function call, and all local variables are stored on the frame, and must be accessible from further down the call stack.
+
+PyPy uses a novel approach called "virtualizables" which makes it possible to
+avoid frame allocation in most common cases.
+
+  * Object model - All user defined Python objects have a dictionary which stores their attributes, as does every type. When Python does an attribute lookup this requires at least two dictionary lookups.
+
+In PyPy we use an approach similar to the one used by V8 with hidden classes
+(except more PyPy specific) called map dictionaries and other optimizations.
+
+  * FFI calls - Calling C from Python is costly and hard to optimize. In PyPy we expose C APIs to Python code via ctypes. This part explains how we can optimize ctypes calls.
+
+  * array module - Users of CPython's array module probably know it can save them quite a bit of memory, however it's also slower than using a list, due to the overhead of boxing and unboxing on every operations. Here we will tie everything together and describe how the array module is much faster with PyPy's JIT, combining our optimizations to: unbox values, remove the dynamicism within traces, and deliver great performance.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor,Maciej Fijalkowski</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/427/pycon-2011--why-is-python-slow-and-how-pypy-can-h</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/427_why-is-python-slow-and-how-pypy-can-help.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011WhyIsPythonSlowAndHowPyPyCanHelp525.png"></media:thumbnail></item><item><title>How to write cross-interpreter Python programs (#101)</title><link>http://www.pyvideo.org/video/311/pycon-2010--how-to-write-cross-interpreter-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to write cross-interpreter Python programs
+
+  
+Presented by Maciej Fijalkowski (merlinux GmbH, pypy)
+
+  
+This talk will cover basics about writing cross-interpreter python programs.
+What to do and most of all what not to do. This will help you if you want at
+some point in time to run program on for example Java platform or faster
+python interpreter, but also if you want to keep it running between CPython
+releases.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maciej Fijalkowski</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/311/pycon-2010--how-to-write-cross-interpreter-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.ogv" length="89924085" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.ogv" fileSize="89924085" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010HowToWriteCrossinterpreterPythonPrograms101432.png"></media:thumbnail></item><item><title>Keynote: State of PyPy</title><link>http://www.pyvideo.org/video/266/pycon-2010--keynote--state-of-pypy</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote: State of PyPy
+
+  
+Presented by Maciej Fijalkowski
+
+  
+Talks about the current state of PyPy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maciej Fijalkowski</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/266/pycon-2010--keynote--state-of-pypy</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/266_keynote-state-of-pypy.ogv" length="32758929" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/266_keynote-state-of-pypy.ogv" fileSize="32758929" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/266_keynote-state-of-pypy.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010KeynoteStateOfPyPy184-324.jpg"></media:thumbnail></item><item><title>The speed of PyPy (#83)</title><link>http://www.pyvideo.org/video/334/pycon-2010--the-speed-of-pypy---83</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Speed of PyPy
+
+  
+Presented by Maciej Fijalkowski (merlinux GmbH, pypy)
+
+  
+The first part of the talk will cover PyPy's speed achievements resulting from
+the last year's work on the Just-In-Time Compiler. I'll present and discuss a
+number of benchmarks and compare against other Python-speed projects. I'll
+also cover the basics of how the JIT works and what sort of programs it can
+greatly speedup (and which ones it can't).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maciej Fijalkowski</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/334/pycon-2010--the-speed-of-pypy---83</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/334_the-speed-of-pypy-83.ogv" length="138494172" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/334_the-speed-of-pypy-83.ogv" fileSize="138494172" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/334_the-speed-of-pypy-83.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010TheSpeedOfPyPy83496.png"></media:thumbnail></item></channel></rss>

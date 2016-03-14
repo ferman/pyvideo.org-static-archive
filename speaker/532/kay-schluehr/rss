@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Kay Schluehr</title><link>http://www.pyvideo.org/speaker/532/kay-schluehr/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/532/kay-schluehr/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Source code processing with Python</title><link>http://www.pyvideo.org/video/1099/source-code-processing-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Kay Schluehr - 24 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Folklore says that having a problem and trying to solve it with regular
+expressions gives you two problems. However not applying regular expressions
+to advanced textual search'n replace doesn't solve your problem either. One
+step above you have large portions of recursively structured text aka "source
+code" and using context free grammars and tools supporting them gives you two
+problems but not using them also doesn't solve your original problem. Maybe
+you get uneasy at that point because what I say implies parsers and computing
+science and what not and you still wake up in the night believing that you
+have to learn automata theory but you are lucky it was just a nightmare.
+Otherwise you are laughing about the little diatribe against regexps and use
+them without much deliberation, verifying your SQL input, mining source code
+and do all the other things they are not made for.
+
+In my talk I'm addressing daily use of grammars outside of the scope of
+compiler implementation or natural language processing. My talk covers:
+
+  * Search &amp; Replace using grammars
+
+  * CodeTemplates for source code transformation
+
+  * Generative grammars for expression generation
+
+I'm touching this from the lightweight, "pythonic" angle and you might wonder
+why not everyone uses those techniques already for decades in their daily
+work. I can't answer this, I wonder about this too.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kay Schluehr</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1099/source-code-processing-with-python</guid><enclosure url="http://www.youtube.com/watch?v=tjF5jLD31kQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tjF5jLD31kQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alexander Gaudio</title><link>http://www.pyvideo.org/speaker/271/alexander-gaudio/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/271/alexander-gaudio/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:24:55 -0000</lastBuildDate><ttl>500</ttl><item><title>PyGotham 2011: Tmux + IPython = Awesome</title><link>http://www.pyvideo.org/video/485/pygotham-2011--tmux---ipython---awesome</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is a two part class aimed at expanding a developer's toolset with both
+tmux and IPython. In the first half, we will learn about tmux. I will first
+explain its client-server model and general architecture, compare it to GNU
+screen, and show some use cases. Then, we will start using it, create a
+customized profile, and solve a simple distributed computing problem with
+tmux. In the second half of this class, we will start using IPython. I will
+first explain what it is and review different use cases. Then, we will start
+using some basic commands, customize our profile and aliases, integrate python
+and shell scripting into the same code, and, time permitting, see some of the
+interactive scientific computing and interactive distributed computing
+possibilities. If you have one, bring a laptop with tmux and IPython already
+installed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Gaudio</dc:creator><guid>http://www.pyvideo.org/video/485/pygotham-2011--tmux---ipython---awesome</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/485_pygotham-2011-tmux-ipython-awesome.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Gloriajw-TmuxIPythonAwesome119-688.jpg"></media:thumbnail></item></channel></rss>

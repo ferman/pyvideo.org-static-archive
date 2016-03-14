@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Toby Rosen</title><link>http://www.pyvideo.org/speaker/373/toby-rosen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/373/toby-rosen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>The Pyed Piper: A Modern Python Alternative to awk, sed and Other Unix Text Manipulation Utilities </title><link>http://www.pyvideo.org/video/686/the-pyed-piper-a-modern-python-alternative-to-aw</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+"The Pyed Piper", or pyp, is a linux command line text manipulation tool
+similar to awk or sed, but which uses standard python string and list methods
+as well as custom functions evolved to generate fast results in an intense
+production environment.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Toby Rosen</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/686/the-pyed-piper-a-modern-python-alternative-to-aw</guid><enclosure url="https://www.youtube.com/watch?v=3UHE-zD1r_M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/3UHE-zD1r_M/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Bill Rihl</title><link>http://www.pyvideo.org/speaker/1275/bill-rihl/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1275/bill-rihl/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 14 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>The KBase Narrative Bioinformatics for the 99%</title><link>http://www.pyvideo.org/video/2762/the-kbase-narrative-bioinformatics-for-the-99</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The KBase Narrative builds on the IPython Notebook to provide a multi-user, virtualized Bioinformatics Laboratory Notebook that brings Experimental/Wetlab Biologists, students and the bio-curious into the world of Computational Biology. Tools for genome annotation, visualization, metabolic modeling and more are made available in a collaborative and educational web interface.
+&lt;p&gt;Description&lt;/p&gt;
+Computional Biology and Experimental Biology are two specialities that would deeply
+benefit from more interaction - computationalists need access to data, biologists in
+wetlabs need computational tools. The KBase Narrative is a computerized laboratory
+notebook that puts the power of the KBase predictive biology platform into the hands of
+experimentalists and students. KBase provides cluster computation, analysis and modeling pipelines,
+large public datasets and a "pluggable" architecture for future services. The Narrative
+is an interface enabling the sharing of data, approaches and workflows on KBase. It
+also serves as a teaching tool and publishing platform, allowing other scientists and
+students to observe and reproduce the processes that led to the published result.
+
+The KBase Narrative is based on the IPython Notebook, extended in the following ways:
+
+* Notebooks are stored in a remote object store that enables versioning, provenance and sharing
+* Support for multiple users has been added, based on OAuth authentication against a "cloud" authentication service (Globus Online)
+* A framework for dynamically building form inputs for services using Python introspection and the IPython Traitlets package (a version of Traits) and displaying the output in JS visualization widgets
+* A Docker based provisioning system that builds and tears down sandboxed IPython Notebook servers on demand, providing a scalable, reasonable safe and easy to use environment for running hosted IPython notebooks with much smaller overhead than VM's
+* A heavily modified user interface that has been designed to support computational biology workflows
+
+The current KBase Narrative was developed over the span of roughly 6 months by a small
+team of developers and user interface experts - the short time scale was possible due to the
+huge amount of functionality already provided by the IPython Notebook, and taking advantage
+of the productivity and power of the Python language.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bill Rihl</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2762/the-kbase-narrative-bioinformatics-for-the-99</guid><enclosure url="http://www.youtube.com/watch?v=52uP6NZa8rE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/52uP6NZa8rE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

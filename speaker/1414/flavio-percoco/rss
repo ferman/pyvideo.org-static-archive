@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Flavio Percoco</title><link>http://www.pyvideo.org/speaker/1414/flavio-percoco/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1414/flavio-percoco/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Breaking backwards compatibility: The easy way!</title><link>http://www.pyvideo.org/video/3978/breaking-backwards-compatibility-the-easy-way-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+Say you have this piece of software that many people use. One day, you wake up and you have the urge to make them suffer. Well, there’s no better way to do so than breaking the software they’re using.
+
+In this talk, I’ll walk you through very good ways to do so by showing examples taken from experience - because experience is the only thing that matters (TM) - so that you’ll be able, by the time this talk ends, to do the same to your users.
+
+(P.S: If you’ve a kinder hearth, you can also do the exact opposite of what I’ll say and keep your users happy.)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Percoco</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3978/breaking-backwards-compatibility-the-easy-way-0</guid><enclosure url="https://www.youtube.com/watch?v=VZp7iWOKJ_A" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/VZp7iWOKJ_A/hqdefault.jpg"></media:thumbnail></item><item><title>Fast-forward to today's Zaqar</title><link>http://www.pyvideo.org/video/4052/fast-forward-to-todays-zaqar</link><description>&lt;p&gt;Description&lt;/p&gt;
+Zaqar is probably one of the projects that had been debated the most in OpenStack. Nonetheless, this service capable of providing multi-tenant messaging is now becoming a more relevant part of the OpenStack infrastructure. 
+
+One feature at a time, it's achieving its goals and improving itself. From multi-tenantcy, to subscriptions and persistent transports. In this talk, I'll present the project and its goals, the current state of art, its capabilities and architecture, the tools available and the related maintenance cost.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Percoco</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4052/fast-forward-to-todays-zaqar</guid><enclosure url="https://www.youtube.com/watch?v=ZS9CRzgLNCE" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/ZS9CRzgLNCE/hqdefault.jpg"></media:thumbnail></item><item><title>*aaS Royal Rumble - Q&amp;A</title><link>http://www.pyvideo.org/video/3585/aas-royal-rumble-qa</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+La sessione di Q&amp;A ti permetterà di approfondire le differenze tra le varie piattaforme.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli,Christian Barra,Flavio Percoco</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3585/aas-royal-rumble-qa</guid><enclosure url="https://www.youtube.com/watch?v=xghRi2DsPGw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/xghRi2DsPGw/maxresdefault.jpg"></media:thumbnail></item><item><title>Don't let your passion kill your motivation</title><link>http://www.pyvideo.org/video/3584/dont-let-your-passion-kill-your-motivation</link><description>&lt;p&gt;Description&lt;/p&gt;
+If I would ask you to sit down and do some work right now (assuming you’re not doing it), how would you feel about it? Would you be motivated enough to take off your laptop and start coding? Or would you rather do something else?
+Programming is more about other things than just coding. Great books - like The Passionate Programmer by Chad Fowler - have eloquently explained the different perspectives there are about what programming is and how you can take the most out of your skills. Nonetheless, programming is even more than that. Programming is more than just producing results and it’s definitely more than just being “smart”. In fact, programming is probably more about how to keep programming than actually doing it. Likely, one of the things we, developers, struggle the most with is motivation.
+Therefore, join me in this talk while I share some of my motivational ups and downs and walk you through some of the things that have worked for me along the way.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Percoco</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3584/dont-let-your-passion-kill-your-motivation</guid><enclosure url="https://www.youtube.com/watch?v=8K6WiIsRk20" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/8K6WiIsRk20/hqdefault.jpg"></media:thumbnail></item><item><title>Breaking backwards compatibility The easy way</title><link>http://www.pyvideo.org/video/3617/breaking-backwards-compatibility-the-easy-way</link><description>&lt;p&gt;Description&lt;/p&gt;
+Say you have this piece of software that many people use. One day, you wake up and you have the urge to make them suffer. Well, there’s no better way to do so than breaking the software they’re using.
+In this talk, I’ll walk you through very good ways to do so by showing examples taken from experience - because experience is the only thing that matters (TM) - so that you’ll be able, by the time this talk ends, to do the same to your users.
+(P.S: If you’ve a kinder hearth, you can also do the exact oposite of what I’ll say and keep your users happy.)
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Percoco</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3617/breaking-backwards-compatibility-the-easy-way</guid><enclosure url="https://www.youtube.com/watch?v=EYKdmo9Rg2s" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/EYKdmo9Rg2s/maxresdefault.jpg"></media:thumbnail></item><item><title>Systems Integration: The OpenStack success story</title><link>http://www.pyvideo.org/video/3002/systems-integration-the-openstack-success-story</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+OpenStack is a huge, open-source cloud provider. One of the main tenets of OpenStack is the (Shared Nothing Architecture) to which all modules stick very closely. In order to do that, services within OpenStack have adopted different strategies to integrate themselves and share data without sacrificing performance nor moving away from SNA.
+
+This strategies are not applicable just to OpenStack but to any distributed system. Sharing data, regardless what that data is, is a must-have requirement of any successful cloud service.
+
+This talk will present some of the existing integration strategies that are applicable to cloud infrastructures and enterprise services. The talk will be based on the strategies that have helped OpenStack to be successful and most importantly, scalable.
+&lt;p&gt;Description&lt;/p&gt;
+Abstract
+=======
+
+OpenStack is a huge, open-source cloud provider. One of the main tenets of OpenStack is the (Shared Nothing Architecture) to which all modules stick very closely. In order to do that, services within OpenStack have adopted different strategies to integrate themselves and share data without sacrificing performance nor moving away from SNA.
+
+This strategies are not applicable just to OpenStack but to any distributed system. Sharing data, regardless what that data is, is a must-have requirement of any successful cloud service.
+
+This talk will present some of the existing integration strategies that are applicable to cloud infrastructures and enterprise services. The talk will be based on the strategies that have helped OpenStack to be successful and most importantly, scalable.
+
+Details
+======
+
+Along the lines of what I've described in the abstract, the presentation will walk the audience through the state of the art of existing system integration solutions, the ones that have been adopted by OpenStack and the benefits of those solutions. At the end of the talk, a set of solutions under development, ideas and improvements to the existing ones will be presented.
+
+The presentation is oriented to distributed services, fault-tolerance and replica determinism. It's based on a software completely written in python and running successfully on several production environments.
+
+The presentation will be split in 3 main topics:
+
+Distributed System integration
+-----------------------------------
+
+* What's it ?
+* Why is it essential for cloud infrastructures?
+* Existing methods and strategies
+
+OpenStack success story
+----------------------------
+
+* Which methods did OpenStack adopt?
+* How / Why do they work?
+* What else could be done?
+
+Coming Next
+---------------
+
+* Some issues of existing solutions
+* What are we doing to improve that?
+* Other solutions coming up</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Percoco</dc:creator><pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3002/systems-integration-the-openstack-success-story</guid><enclosure url="http://www.youtube.com/watch?v=pYzIOrAkb-A" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pYzIOrAkb-A/hqdefault.jpg"></media:thumbnail></item></channel></rss>

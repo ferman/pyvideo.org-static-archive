@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Johan Euphrosine</title><link>http://www.pyvideo.org/speaker/513/johan-euphrosine/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/513/johan-euphrosine/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 18 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Web API Mashups in a Python Application</title><link>http://www.pyvideo.org/video/1061/web-api-mashups-in-a-python-application</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Johan Euphrosine - 21 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk will cover: - How to use OAuth into your webapp so users can give
+permission to access their data stored in third party web application. - How
+your webapp can interact with their Web API using RESTful JSON protocols.
+
+This talk is suitable for beginners already familiar with any WSGI web
+framework.
+
+This talk will be illustrated with code samples using Google App Engine and
+Google APIs client library.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Johan Euphrosine</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1061/web-api-mashups-in-a-python-application</guid><enclosure url="http://www.youtube.com/watch?v=Z_q-52ap-Vg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Z_q-52ap-Vg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

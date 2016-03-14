@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ryan J O'Neil</title><link>http://www.pyvideo.org/speaker/130/ryan-j-o-neil/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/130/ryan-j-o-neil/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Optimal Resource Allocation using Python (#36)</title><link>http://www.pyvideo.org/video/299/pycon-2010--optimal-resource-allocation-using-pyt</link><description>&lt;p&gt;Description&lt;/p&gt;
+Optimal Resource Allocation using Python
+
+  
+Presented by Ryan J O'Neil
+
+  
+A brief introduction to modeling and solving resource allocation and
+scheduling problems using Python and SCIP.
+
+  
+At times a programmer is faced with difficult, possibly NP-Hard, optimization
+problems such as scheduling or assignment. Sophisticated techniques exist for
+modeling and solving these sorts of problems which are well implemented in
+optimization solvers. This talk introduces some of these techniques using the
+ZIB Optimization Suite and its new Python interface.
+
+  
+[VIDEO HAS ISSUES: Audio buzzing]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan J O'Neil</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/299/pycon-2010--optimal-resource-allocation-using-pyt</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/299_optimal-resource-allocation-using-python-36.ogv" length="127002678" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/299_optimal-resource-allocation-using-python-36.ogv" fileSize="127002678" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/299_optimal-resource-allocation-using-python-36.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010OptimalResourceAllocationUsingPython36659-324.jpg"></media:thumbnail></item></channel></rss>

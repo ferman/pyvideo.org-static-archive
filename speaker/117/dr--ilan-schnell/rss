@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Ilan Schnell</title><link>http://www.pyvideo.org/speaker/117/dr--ilan-schnell/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/117/dr--ilan-schnell/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>How does Enthought distribute packages? (#108)</title><link>http://www.pyvideo.org/video/278/pycon-2010--how-does-enthought-distribute-package</link><description>&lt;p&gt;Description&lt;/p&gt;
+How does Enthought distribute packages?
+
+  
+Presented by Dr. Ilan Schnell
+
+  
+This presentation gives an overview of how packages are build and distributed
+for different operating systems in the Enthought Python Distribution.
+Enstaller (http://pypi.python.org/pypi/Enstaller/4.0.0) is a tool I wrote for
+installing egg-based packages, which are not necessarily Python packages, such
+as SWIG or HDF5. I will discuss the architecture of Enstaller, and in
+particular the egg-based distribution format.
+
+  
+[VIDEO HAS ISSUES: Frezz frame in the start of the video]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Ilan Schnell</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/278/pycon-2010--how-does-enthought-distribute-package</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/278_how-does-enthought-distribute-packages-108.ogv" length="165694547" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/278_how-does-enthought-distribute-packages-108.ogv" fileSize="165694547" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/278_how-does-enthought-distribute-packages-108.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010HowDoesEnthoughtDistributePackages108674-826.jpg"></media:thumbnail></item></channel></rss>

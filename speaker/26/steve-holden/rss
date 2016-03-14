@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Steve Holden</title><link>http://www.pyvideo.org/speaker/26/steve-holden/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/26/steve-holden/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Welcome and Chairman's Address</title><link>http://www.pyvideo.org/video/46/djangocon-2010--welcome-and-chairman--39-s-addres</link><description>&lt;p&gt;Description&lt;/p&gt;
+Welcome and Chairman's Address
+
+Presented by Steve Holden
+
+[VIDEO HAS ISSUES: Looks like the presentation started before recording.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><guid>http://www.pyvideo.org/video/46/djangocon-2010--welcome-and-chairman--39-s-addres</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/46_welcome-and-chairman-s-address.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-WelcomeAndChairmansAddress563.png"></media:thumbnail></item><item><title>Why the Django Documentation Sucks</title><link>http://www.pyvideo.org/video/87/djangocon-2011--why-the-django-documentation-suck</link><description>&lt;p&gt;Description&lt;/p&gt;
+Why the Django Documentation Sucks
+
+Presented by Steve Holden
+
+Documentation is normally held to be one of Django's strong points. Steve
+attempts to point out that even the best can stand improvement.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><guid>http://www.pyvideo.org/video/87/djangocon-2011--why-the-django-documentation-suck</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/87_why-the-django-documentation-sucks.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-WhyTheDjangoDocumentationSucks196-328.jpg"></media:thumbnail></item><item><title>Building New Communities</title><link>http://www.pyvideo.org/video/1479/building-new-communities</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+As commercial and governmental entities become more aware of the advantages of
+
+open source software, they are seeking to engage with the existing open source
+
+communities in a variety of ways. In this talk Steve examines some of the
+
+models that are being used, and takes a look at the possibilities for new ways
+
+of working in the open source world.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1479/building-new-communities</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Building_New_Communiti.mp4?Signature=U83FsMaCwCbbsl7vzk2gHgxd0HY%3D&amp;Expires=1352075062&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Keynote_Building_New_Communiti.mp4?Signature=U83FsMaCwCbbsl7vzk2gHgxd0HY%3D&amp;Expires=1352075062&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Ecw9UIv1Czg" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/Ecw9UIv1Czg/hqdefault.jpg"></media:thumbnail></item><item><title>Python Software Foundation Chairman's Address</title><link>http://www.pyvideo.org/video/658/python-software-foundation-chairmans-address</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/658/python-software-foundation-chairmans-address</guid><enclosure url="https://www.youtube.com/watch?v=6wZoBbE-rOo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/X6807rcObkk/hqdefault.jpg"></media:thumbnail></item><item><title>Python Software Foundation Chairman Address</title><link>http://www.pyvideo.org/video/453/pycon-2011--python-software-foundation-chairman-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python Software Foundation Chairman Address
+
+Presented by Steve Holden
+
+Steven Holden summarizes the last year for the Python Software Foundation and
+talks about future directions.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/453/pycon-2011--python-software-foundation-chairman-a</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/453_python-software-foundation-chairman-address.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PythonSoftwareFoundationChairmanAddress279.png"></media:thumbnail></item><item><title>Keynote: Building the Python Community</title><link>http://www.pyvideo.org/video/290/pycon-2010--keynote--building-the-python-communit</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote: Building the Python Community
+
+  
+Presented by Steve Holden
+
+  
+Steve addresses the Python community, thanks helpers for PyCon 2010, and talks
+about the PSF and where it's at.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/290/pycon-2010--keynote--building-the-python-communit</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/290_keynote-building-the-python-community.ogv" length="70625813" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/290_keynote-building-the-python-community.ogv" fileSize="70625813" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/290_keynote-building-the-python-community.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010KeynoteBuildingThePythonCommunity114.png"></media:thumbnail></item><item><title>Keynote: State of CPython</title><link>http://www.pyvideo.org/video/267/keynote-state-of-cpython</link><description>&lt;p&gt;Description&lt;/p&gt;
+Uses the Twitter feed for PyCon and a floor mic for a Q&amp;A; session covering
+the state of CPython and what's in the future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum,Steve Holden</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/267/keynote-state-of-cpython</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/267_keynote-state-of-cpython.ogv" length="222198009" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/267_keynote-state-of-cpython.ogv" fileSize="222198009" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/267_keynote-state-of-cpython.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010KeynoteStateOfCPython844-859.jpg"></media:thumbnail></item></channel></rss>

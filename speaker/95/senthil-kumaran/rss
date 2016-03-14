@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Senthil Kumaran</title><link>http://www.pyvideo.org/speaker/95/senthil-kumaran/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/95/senthil-kumaran/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>What's new and interesting in standard library</title><link>http://www.pyvideo.org/video/718/whats-new-and-interesting-in-standard-library</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk distills some intereting stuff from What's new document from 2.7,
+3.2 and upcoming 3.3 release. Look out for those new arguments to your
+favorite methods, functions add the wow! factor to your code. Heard of
+@lru_cache?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Senthil Kumaran</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/718/whats-new-and-interesting-in-standard-library</guid><enclosure url="https://www.youtube.com/watch?v=2gha47uSk5c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/2gha47uSk5c/hqdefault.jpg"></media:thumbnail></item><item><title>State of CPython and Python Ecosystem</title><link>http://www.pyvideo.org/video/999/state-of-cpython-and-python-ecosystem</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This a high level overview of the State of CPython interpreter and other
+python interpreters. The talk will mention about the
+&amp;nbsp_place_holder;changes in 3.2 release and changes coming up in 3.3 release
+and status of Python2.7. It will also give the details of current state of
+PyPy Project, IronPython project and Jython Project..
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Senthil Kumaran</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/999/state-of-cpython-and-python-ecosystem</guid><enclosure url="http://www.youtube.com/watch?v=hx_rCN8pcfk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/hx_rCN8pcfk/hqdefault.jpg"></media:thumbnail></item><item><title>Python 201: How to Solve It Using Python</title><link>http://www.pyvideo.org/video/253/pycon-2010--python-201--how-to-solve-it-using-pyt</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python 201: How to Solve it using Python
+
+Presented by Senthil Kumaran
+
+One good way to develop applications is to divide the problem into smaller
+manageable chunks and the build those. Once we identify and define those
+smaller piece of tasks, our problem becomes incredibly easy.
+
+But we are still faced with the question of what is the best way to do that
+smaller task in Python? This tutorial will answer those questions.
+
+In this tutorial, we will identify the commonly occurring tasks that would fit
+into to bigger problems and learn how do we solve it using Python.
+
+The aim of the tutorial is help you develop the correct intuition when
+developing applications using Python.
+
+Intended Audience
+
+Beginning to intermediate Python Programmers. Familiarity with Python's syntax
+and usage is assumed.
+
+This tutorial will use Python 3.1 examples (with changes from Python 2.6
+explained, when it is required).
+
+The source code and the handout will contain the snippets written in both
+Python 2.6 and Python 3.1.
+
+Class Outline
+
+  * Outline of the Tutorial and a Brief Overview of Standard Library. 
+  * Lets start with Strings. 
+  * Files - We deal with them often. 
+  * Date time related tasks. 
+  * Dealing with Database stuff. 
+  * Process Handling. 
+  * Processing XMLs. 
+  * Web Programming 
+  * Programming tasks. 
+  * Unit Testing 
+  * How to Convert Python 2 to Python 3. 
+
+Requirements
+
+Attendees are welcome to bring their laptops with Python installed ( version
+3.1 and version 2.6 both installed).
+
+Some snippets will be using Twisted Matrix Framework, those who would like to
+try those recipes, would like to have Twisted Package installed for their
+Python Distribution.
+
+[VIDEO HAS ISSUES: Some missing sections of video due to technical issues
+(approx 3 mins in)]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Senthil Kumaran</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/253/pycon-2010--python-201--how-to-solve-it-using-pyt</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.ogv" length="1023524470" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.ogv" fileSize="1023524470" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010Python201HowToSolveItUsingPython440-675.jpg"></media:thumbnail></item></channel></rss>

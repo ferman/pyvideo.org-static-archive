@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stefan Talpalaru</title><link>http://www.pyvideo.org/speaker/525/stefan-talpalaru/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/525/stefan-talpalaru/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>django-rdflib and postgresql - the best of both worlds</title><link>http://www.pyvideo.org/video/1086/django-rdflib-and-postgresql-the-best-of-both-w</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Stefan Talpalaru - 21 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+rdflib is a python library implementing a database with various triples back-
+end, parser, data serializers, SPARQL is a Python interface to extract/insert
+triples. We integrated it in Django reusing the database connection and
+exposing an ORM interface, along with full-text search on literals. This
+presentation shows a django-rdflib case study with a PostgreSQL backend in
+[Brain Architecture Management System](http://brancusi1.usc.edu) - a
+neuroscientific project for the University of Southern California. Benefits of
+the flexible RDF structure will be shown, allowing researchers to insert free
+format data, making data public with a customizable serialization and use the
+powerful full-text search integrated in PostgreSQL.
+
+Objective: show attendees an effective combination of RDF, PostgreSQL full-
+text search and Django ORM via django-rdflib.
+
+Requirements: Django familiarity.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Talpalaru</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1086/django-rdflib-and-postgresql-the-best-of-both-w</guid><enclosure url="http://www.youtube.com/watch?v=zP7p_wbOjbw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/zP7p_wbOjbw/hqdefault.jpg"></media:thumbnail></item><item><title>django-rdflib e postgresql - il meglio dei due mondi</title><link>http://www.pyvideo.org/video/1177/django-rdflib-e-postgresql-il-meglio-dei-due-mo</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Stefan Talpalaru - 24 June 2011 in "Track Italiana Big Mac "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+rdflib è una libreria python che fornisce una base di dati con vari back-end
+per le triple, dei parser, serializzatori, SPARQL è un'interfaccia in python
+per estrarre/inserire le triple. L'abbiamo integrata con Django tramite il
+riutilizzo della connessione alla base di dati fornendo un'interfaccia ORM e
+la capacità di fare ricerca full-text sui valori letterali. La presentazione
+contiene un studio di caso per django-rdflib con un back-end postgresql in
+Brain Architecture Management System (http://brancusi1.usc.edu) - un progetto
+neuroscientifico per University of Southern California. Si vedranno i benefici
+della struttura flessibile del RDF che permette ai ricercatori di introdurre
+dati in formatto libero, rendere i dati pubblici con una serializzazione
+personalizzata e usare la potente ricerca full-text fornita da postgresql.
+
+Scopo: introdurre al pubblico una combinazione di RDF, la ricerca full-text di
+postgresql e l'ORM di Django tramite django-rdflib.
+
+Requisiti: familiarità con Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan Talpalaru</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1177/django-rdflib-e-postgresql-il-meglio-dei-due-mo</guid><enclosure url="http://www.youtube.com/watch?v=ujP5LiQdgyI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ujP5LiQdgyI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

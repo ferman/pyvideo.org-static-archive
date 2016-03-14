@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard Crowley</title><link>http://www.pyvideo.org/speaker/231/richard-crowley/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/231/richard-crowley/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Dependency management with Puppet</title><link>http://www.pyvideo.org/video/431/pycon-2011--dependency-management-with-puppet</link><description>&lt;p&gt;Description&lt;/p&gt;
+Dependency management with Puppet
+
+Presented by Richard Crowley
+
+Puppet is a configuration management tool that we'll learn to use the easy
+way. We'll introduce the Puppet language and the concept of resources like
+packages, files, shell commands, and more. We'll use Puppet to build our dev
+environment and deploy it to production servers.
+
+Abstract
+
+We've all been there: religiously following the steps in some blog post for
+the 47th time trying to setup a shiny new server. We thought we'd improved the
+situation when we copied our Bash history into doit.sh and committed it. Then
+along came Pip and requirements.txt files.
+
+That's where most of us are today. Pip can only manage Python packages so much
+of our servers' behavior is left to Lady Luck. Puppet gives us the power to
+efficiently and confidently specify everything our program needs.
+
+We'll start at square one and the concept of resources, the basic unit of
+configuration management. We'll learn the Puppet language's resource syntax.
+We'll talk about obvious resource types like packages and files plus less
+obvious types like shell commands, users, groups, and daemons. We'll compose
+resources into larger ones, declare dependencies between resources, and
+accommodate differences between OS X and Linux.
+
+These Puppet manifests can satisfy our program's dependencies on demand,
+making them ideal parts of the deploy process. We'll walk through how Puppet
+is used to build production environments both through tools such as Fabric and
+Puppet's traditional client-server mode.
+
+Dependency hell doesn't have to be your reality. Consistent, reliable
+environments can be had with Puppet.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Crowley</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/431/pycon-2011--dependency-management-with-puppet</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/431_dependency-management-with-puppet.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011DependencyManagementWithPuppet645.png"></media:thumbnail></item></channel></rss>

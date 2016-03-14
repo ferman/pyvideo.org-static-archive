@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chad Whitacre</title><link>http://www.pyvideo.org/speaker/312/chad-whitacre/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/312/chad-whitacre/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 15 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyOhio 2011: Aspen: A Next-generation Web Framework</title><link>http://www.pyvideo.org/video/548/pyohio-2011--aspen--a-next-generation-web-framewo</link><description>&lt;p&gt;Description&lt;/p&gt;
+Aspen: A Next-generation Web Framework
+
+Presented by Chad Whitacre
+
+Aspen is a Python web framework for both realtime and traditional web apps. It
+makes the most of the filesystem to reduce boilerplate and configuration to
+near zero. Simplates are the main attraction, a unique approach that brings
+logic and presentation as close together as possible--without mixing them.
+
+[http://aspen.io/](http://aspen.io/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chad Whitacre</dc:creator><guid>http://www.pyvideo.org/video/548/pyohio-2011--aspen--a-next-generation-web-framewo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/548_pyohio-2011-aspen-a-next-generation-web-framework.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyohio-AspenANextgenerationWebFramework733.png"></media:thumbnail></item><item><title>Gittip: Inspiring Generosity</title><link>http://www.pyvideo.org/video/1672/gittip-inspiring-generosity</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Gittip is a platform for sustainable crowd-funding. The site's primary funding mechanism is the "gift tip," a small, anonymous, weekly gift to a worthwhile person or project. These gifts are given with no strings attached, and represent a new model for funding free and open source software. Moreover, Gittip itself is funded on Gittip, with potential implications far beyond software.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chad Whitacre</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1672/gittip-inspiring-generosity</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Gittip_Inspiring_Generosity.mp4?Signature=RgQFzDEMDS4hUpWXNUhAk%2BButng%3D&amp;Expires=1363646257&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Gittip_Inspiring_Generosity.mp4?Signature=RgQFzDEMDS4hUpWXNUhAk%2BButng%3D&amp;Expires=1363646257&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=iv7B7D9iIRI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/iv7B7D9iIRI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

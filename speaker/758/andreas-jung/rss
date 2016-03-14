@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andreas Jung</title><link>http://www.pyvideo.org/speaker/758/andreas-jung/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/758/andreas-jung/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 30 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>"Getting things done" - Pragmatische Projekte mit Plone</title><link>http://www.pyvideo.org/video/1427/getting-things-done-pragmatische-projekte-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plone ist ein komplexes Web-Framework with vielen Modulen und vielschichtigen
+Abstraktionsebenen. Kundenprojekte im Bereich Web erfordern oft Anpassungen
+auf mehreren Ebenen: neue Inhaltstypen, Änderungen an Templates und
+existierenden Funktionalitäten etc. Es ist immer schwierig den richtigen Weg
+bei einer Anpassung zu finden insbesondere wenn die üblichen Projektressourcen
+wie Personal, Zeit und Budget begrenzt sind und nicht beliebig skalierbar
+sind.
+
+In dem Vortrag berichte ich wie wir in vergangenen großen Webprojekten mit
+diesem Spannungsfeld umgegangen sind und Plone-Anpassungen in einer
+pragmatischen Art und Weise durchgeführt haben - ohne dem Kunden einen Sack
+voller hässlicher Workarounds zu liefern aber auch nicht mit dem Anspruch die
+perfekteste Lösung gebaut zu haben.
+
+Ich behandle Techniken zur Anpassungen von existierenden Templates und Views,
+Strategien bei der Behebung von Fehlern in Plone oder Drittprodukten, die
+Verwendung von Site-Fixtures, um Kunden und Designer frühzeitig eine Site mit
+Fake-Inhalten (Text + Bilder) zu versorgen sowie Ansätze zum pragmatischen
+Testen in großen Web-Projekten.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Jung</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1427/getting-things-done-pragmatische-projekte-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Getting_things_done_Pragmatische_Projekte_mit_Plone.mp4?Signature=RxwhiYdvMWfUReKoWwuLIanXgeM%3D&amp;Expires=1351791406&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Getting_things_done_Pragmatische_Projekte_mit_Plone.mp4?Signature=RxwhiYdvMWfUReKoWwuLIanXgeM%3D&amp;Expires=1351791406&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=oqhOeFKiBVk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/oqhOeFKiBVk/hqdefault.jpg"></media:thumbnail></item><item><title>Produce &amp; Publish: Single-Source-Multi-Channel-Publishing mit Plone</title><link>http://www.pyvideo.org/video/2890/produce-publish-single-source-multi-channel-pu</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Vortrag beschreibt die Plone-basierte Plattform Produce &amp; Publish zur Generierung von verschiedener Ausgabeformate (PDF, EBook, RTF, ODT, Word) unter Verwendung der selben Eingabedaten.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Jung</dc:creator><pubDate>Wed, 05 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2890/produce-publish-single-source-multi-channel-pu</guid><enclosure url="http://www.youtube.com/watch?v=LTKP8vA42JE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/LTKP8vA42JE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

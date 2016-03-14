@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Paul Smith</title><link>http://www.pyvideo.org/speaker/369/paul-smith/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/369/paul-smith/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Spatial data and web mapping with Python</title><link>http://www.pyvideo.org/video/680/spatial-data-and-web-mapping-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Spatial data are often seen as opaque to most developers, and while dealing
+with them does require a shift in approach from the data types we most
+regularly handle, they needn’t be the domain of specialists. High-quality
+Python libraries and Python-based applications exist for operating on and
+transforming spatial data, and for creating visualizations, including maps for
+presentation on the web.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Smith</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/680/spatial-data-and-web-mapping-with-python</guid><enclosure url="https://www.youtube.com/watch?v=qmgh14LUOjQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/qmgh14LUOjQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

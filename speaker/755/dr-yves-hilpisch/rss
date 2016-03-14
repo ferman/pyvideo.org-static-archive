@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dr. Yves Hilpisch</title><link>http://www.pyvideo.org/speaker/755/dr-yves-hilpisch/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/755/dr-yves-hilpisch/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 17 Oct 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Continuum Data Analytics Stack</title><link>http://www.pyvideo.org/video/2425/continuum-data-analytics-stack</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Continuum Analytics bietet mit Anaconda Accelerate eine kommerzielle, skalierbare und unternehmenstaugliche Python-Distribution. Diese basiert auf der beliebten Open Source Distribution Anaconda.
+
+Gegenüber der freien Distribution verfügt Accelerate über Bibliotheken wie NumbaPro oder IOPro, die eine nachhaltige Beschleunigung von typischen Data Analytics Aufgaben mit Python  erlauben.
+
+Bokeh, eine Open Source Bibliothek, etabliert einen neuen Standard für die interaktive, Web-basierte Visualisierung von großen Datenmengen.
+
+Der Talk illustriert die Leistungsfähigkeit des "Continuum Data Analytics Stack" an Hand einer Reihe von praxisnahen Beispielen, z.B. aus dem Finanzumfeld, und gewährt auch einen Einblick in aktuelle sowie geplante Entwicklungen und Erweiterungen.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2425/continuum-data-analytics-stack</guid><enclosure url="https://www.youtube.com/watch?v=NMotyZCztEI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/NMotyZCztEI/hqdefault.jpg"></media:thumbnail></item><item><title>Interaktive Datenanalyse und Visualisierung mit Python, pandas &amp; Co.</title><link>http://www.pyvideo.org/video/2399/interaktive-datenanalyse-und-visualisierung-mit-p</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python hat sich als ernste Alternative für die effiziente und hochperformante Analyse auch von großen Datenmengen etabliert. Der Vortrag stellt die wesentlichen Python-basierten Tools für die interaktive Datenanalyse und Visualisierung vor und veranschaulicht diese an Hand von praxisnahen Beispielen.
+
+Der Vortag nutzt IPython Notebooks um die Interaktivität in Echzeit zu veranschaulichen.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2399/interaktive-datenanalyse-und-visualisierung-mit-p</guid><enclosure url="https://www.youtube.com/watch?v=sdNE4yb_9QU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/sdNE4yb_9QU/hqdefault.jpg"></media:thumbnail></item><item><title>Wissenschaftliches Publizieren mit Python</title><link>http://www.pyvideo.org/video/2413/wissenschaftliches-publizieren-mit-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python hat sich als eine der bedeutendsten Programmiersprachen in vielen Bereichen der Wissenschaft etabliert. Jüngere Entwicklungen im Bereich des Publizierens machen die Nutzung von Python noch attraktiver. So ist es heute recht einfach möglich ausführbaren Python-Code in Dokument-Sourcen zu integrieren und die Ergebnisse dieses Codes direkt in das Dokument zu importieren (z.B. Formeln, Berechnungen, Abbildungen).
+
+Der Vortrag skizziert Tools wie IPython Notebook, Sphinx (inkl. IPython Extension) oder auch PythonTEX. Er zeigt auch, wie einfach Open Research mit Hilfe dieser Tools zu realisieren ist.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2413/wissenschaftliches-publizieren-mit-python</guid><enclosure url="https://www.youtube.com/watch?v=sMufaHbSY8I" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/sMufaHbSY8I/hqdefault.jpg"></media:thumbnail></item><item><title>DEXISION -- Moderne Finanztheorie und -praxis mit Python</title><link>http://www.pyvideo.org/video/1420/dexision-moderne-finanztheorie-und-praxis-mit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+DEXISION ist eine kommerzielle Bewertungslösung für Finanzderivate. Sie wurde
+durch die Visixion GmbH im Wesentlichen auf Basis von Python entwickelt. Der
+Vortrag zeigt, wie moderne, Web-basierte Finanzlösungen mittels Python zu
+implementieren sind. Aspekte wie Effizienz in der Entwicklung, Performance,
+Erweiterbarkeit, Wartbarkeit und Sicherheit sind dabei von besonderer
+Bedeutung.
+
+Die Architektur von DEXISION fußt auf einem LAMP-Stack und es kommen dabei nur
+Open Source-Komponenten zum Einsatz. Unseres Wissens nach ist DEXISION nach
+wie vor die einzige kommerzielle Finanzlösung dieser Art, die in allen
+Bereichn -- auch bei rechenintensiven Simulationsaufgaben -- voll auf Python
+setzt.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1420/dexision-moderne-finanztheorie-und-praxis-mit</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_DEXISION_Moderne_Finanztheorie_und_praxis_mit_Python.mp4?Signature=1XtL7WHSvOrn%2FeCrrwDl1HYoqa4%3D&amp;Expires=1351778243&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_DEXISION_Moderne_Finanztheorie_und_praxis_mit_Python.mp4?Signature=1XtL7WHSvOrn%2FeCrrwDl1HYoqa4%3D&amp;Expires=1351778243&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=gsxAmno6noo" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/gsxAmno6noo/hqdefault.jpg"></media:thumbnail></item><item><title>Effiziente Datenanalyse mit pandas</title><link>http://www.pyvideo.org/video/1474/effiziente-datenanalyse-mit-pandas</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Datenanalyse ist eine der Kernaufgaben moderner Technologie. pandas (vgl.
+[http://pandas.pydata.org](http://pandas.pydata.org)) ist eine leistungsstarke
+Python-Bibliothek, die die Möglichkeiten zur Datenanalyse mit
+Python/NumPy/SciPy in viele Richtungen erweitert. Der Fokus liegt dabei auf
+Convenience und Performance.
+
+Python in Kombination mit pandas macht Datenanalyse im Unternehmens- und
+Forscheralltag effizient und kann z.T. sogar komplexe und kostenintensive
+Business Intelligence-Lösungen ersetzen. Besondere Stärken zeigen sich im
+Zeitreihenmanagement, was für viele Branchen und Unternehmen eine immer höhere
+Bedeutung erlangt (z.B. Finanzbranche, Energieversorger).
+
+Mit pandas werden die guten Datenanalysefähigkeiten von einer typischen
+Python-Installation mit NumPy, SciPy etc. in vielerlei Hinsicht erweitert,
+indem z.B. viele Eigenschaften und Features der statistischen Sprache R in die
+Python-Welt portiert werden. Es ist dabei kein Ersatz für Standard-
+Bibliotheken wie NumPy, sondern eine nützliche Erweiterung mit viel
+"eingebauter Intelligenz" für die Datenanalyse.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves Hilpisch</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1474/effiziente-datenanalyse-mit-pandas</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Effiziente_Datenanalys.mp4?Signature=Zg3VD9VlClCzRCPh7cMvfgBmZ4A%3D&amp;Expires=1352051718&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Effiziente_Datenanalys.mp4?Signature=Zg3VD9VlClCzRCPh7cMvfgBmZ4A%3D&amp;Expires=1352051718&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=8LVw2ktxjpA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/8LVw2ktxjpA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

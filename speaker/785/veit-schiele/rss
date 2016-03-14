@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Veit Schiele</title><link>http://www.pyvideo.org/speaker/785/veit-schiele/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/785/veit-schiele/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python-Web-Sprints</title><link>http://www.pyvideo.org/video/1480/python-web-sprints</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Seit April 2011 finden regelmäßig dreitägige Sprints zu verschiedenen Themen
+rund um Python-Web Anwendungen statt. Dabei geht es meist nicht um die
+schnelle Implementierung spezifischer Features sondern um grundlegende, von
+den Beteiligten mitgetragene Konzepte. Meist wird auch nicht an einzelnen
+Komponenten, sondern an einer Toolchain zur Lösung konkreter Probleme
+gearbeitet. Schließlich werden die Ergebnisse in einer Anwenderdokumentation
+festgehalten.
+
+Die Initiatoren des Sprints, Christian Theune und Veit Schiele, stellen das
+Konzept der Sprint-Reihe vor und gehen auch die Ergebnisse der bisherigen
+Sprints ein. Die Themen der bisherigen Sprints waren: PyPI-Mirroring und
+Performance-Optimierungen, Sicherheit und Datenschutz bei Web-Anwendungen
+sowie Betrieb und Deployment von Python-Webanwendungen.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Theune,Veit Schiele</dc:creator><pubDate>Thu, 01 Nov 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1480/python-web-sprints</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_PythonWebSprints.mp4?Signature=kmgV9ltUeZT%2B4SIor4Lqna770PQ%3D&amp;Expires=1352081375&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_PythonWebSprints.mp4?Signature=kmgV9ltUeZT%2B4SIor4Lqna770PQ%3D&amp;Expires=1352081375&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=sX5zuqomc14" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/sX5zuqomc14/hqdefault.jpg"></media:thumbnail></item></channel></rss>

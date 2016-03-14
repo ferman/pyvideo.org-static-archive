@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Thomas Koch</title><link>http://www.pyvideo.org/speaker/760/thomas-koch/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/760/thomas-koch/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 30 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>EnArgus - ein ontologiebasiertes Forschungsinformationssystem</title><link>http://www.pyvideo.org/video/1429/enargus-ein-ontologiebasiertes-forschungsinforma</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Forschungsaktivitäten in vielen Disziplinen werden durch unterschiedliche
+politische Instrumente gefördert. Die Erfassung und Darstellung von
+betriebswirtschaftlichen Kennzahlen zu Forschungsaktivitäten ist bereits
+etablierte Praxis; darauf aufbauende Informationssysteme bieten jedoch oft nur
+unzureichende Auskunft über inhaltliche Zusammenhänge und Entwicklungen. Am
+Beispiel des Forschungsthemas Energietechnik wird im EnArgus-Projekt
+untersucht, wie sich die Transparenz staatlicher Förderpolitik durch
+Aufbereitung vorhandener Projektdatenbanken und inhaltliche Erschließung mit
+Unterstützung einer Fachontologie verbessern lässt und die Ergebnisse auch der
+interessierten Öffentlichkeit zugänglich gemacht werden können.
+
+Der Vortrag gibt eine Einführung in das Thema ontologiebasierte Suche und
+stellt das Forschungsprojekt EnArgus ([www.enargus.de](http://www.enargus.de))
+vor. Das Ziel von EnArgus ist die Konzeption, Entwicklung und Erprobung eines
+zentralen Informationssystems für Energieforschungsvorhaben aus dem Bereich
+der Förderung durch Bund und Länder. Das EnArgus-System soll Politik und
+Gesellschaft einen Zugang zu Informationen über die Energieforschung
+ermöglichen und so die Transparenz staatlicher Förderpolitik verbessern. Der
+Einsatz von Python spielt bei der Systementwicklung in EnArgus eine bedeutende
+Rolle.
+
+EnArgus ist ein gemeinsames Vorhaben aus Energieforschung und Informatik. Zur
+inhaltlichen Erschließung der Anwendungsdomäne werden von Energieexperten
+Texte in einem Wiki verfasst und bilden die Grundlage zum Aufbau der
+Energieforschungs-Ontologie. Dabei kommt u.a. die Wiki-Software MoinMoin zum
+Einsatz.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Koch</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1429/enargus-ein-ontologiebasiertes-forschungsinforma</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_EnArgus_ein_ontologiebasiertes_Forschungsinformationssystem.mp4?Signature=DSK04UkP4IqG5vyeWl5lxtRqFrs%3D&amp;Expires=1351793012&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_EnArgus_ein_ontologiebasiertes_Forschungsinformationssystem.mp4?Signature=DSK04UkP4IqG5vyeWl5lxtRqFrs%3D&amp;Expires=1351793012&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=ULCz2GuMeVc" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/ULCz2GuMeVc/hqdefault.jpg"></media:thumbnail></item><item><title>Die Nadel im Heuhaufen - Index-basierte Volltextsuche mit PyLucene</title><link>http://www.pyvideo.org/video/2919/die-nadel-im-heuhaufen-index-basierte-volltexts</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Der Vortrag gibt eine Einführung in das Thema Index-basierte Suche mit Python und stellt dazu das PyLucene-Projekt vor, einer Python Erweiterung, die Zugriff auf alle Features des Java Lucene Framework ermöglicht. Aufbauend auf den grundlegenden Konzepten von PyLucene wird dargestellt, wie man auf Basis des Suchmaschinen-Frameworks effiziente Suchmechanismen in Python realisieren kann.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Koch</dc:creator><pubDate>Thu, 06 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2919/die-nadel-im-heuhaufen-index-basierte-volltexts</guid><enclosure url="http://www.youtube.com/watch?v=-pgboCKZVrE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/-pgboCKZVrE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

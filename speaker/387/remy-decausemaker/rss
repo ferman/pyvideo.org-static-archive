@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Remy DeCausemaker</title><link>http://www.pyvideo.org/speaker/387/remy-decausemaker/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/387/remy-decausemaker/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>10. FOSS@RIT: Python-Powered Student Engagement</title><link>http://www.pyvideo.org/video/701/10-fossrit-python-powered-student-engagement</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+FOSS@RIT is an applied research lab at Rochester Institute of Technology
+focused on promoting free/open source software and open web technologies.
+Students and staff will discuss the evolution of the lab in general, and the
+RIT Fedora Remixerator - a web application running on Django that allows users
+to create an RIT-themed Fedora LiveCD.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eitan Romanoff,Remy DeCausemaker</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/701/10-fossrit-python-powered-student-engagement</guid><enclosure url="https://www.youtube.com/watch?v=O8WXXtDUUOE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/O8WXXtDUUOE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

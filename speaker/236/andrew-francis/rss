@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Francis</title><link>http://www.pyvideo.org/speaker/236/andrew-francis/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/236/andrew-francis/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 11 Nov 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>How to Solve a Problem Like Santa Claus</title><link>http://www.pyvideo.org/video/1577/how-to-solve-a-problem-like-santa-claus</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The Santa Claus Problem is a conceptually simple but notoriously tough
+concurrency problem. For 20 years, the problem has been used to highlight new
+concurrency features. Polyphonic C# sports an elegant solution using join
+patterns. I prototyped a version of join patterns for Stackless Python. Rather
+than hack Stackless Python's C code base, I use PyPy's stackless.py module and
+greenlets!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Francis</dc:creator><pubDate>Sun, 11 Nov 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/1577/how-to-solve-a-problem-like-santa-claus</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/How_to_Solve_a_Problem_Like_Santa_Claus.mp4?Signature=nSRFpxdJMzP8YZgYS1Q8NL6Ckp4%3D&amp;Expires=1352836950&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/How_to_Solve_a_Problem_Like_Santa_Claus.mp4?Signature=nSRFpxdJMzP8YZgYS1Q8NL6Ckp4%3D&amp;Expires=1352836950&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=DakC_lRNw9E" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/DakC_lRNw9E/hqdefault.jpg"></media:thumbnail></item><item><title>Prototyping Go's Select with stackless.py for Stackless Python</title><link>http://www.pyvideo.org/video/438/pycon-2011--prototyping-go--39-s-select-with-stac</link><description>&lt;p&gt;Description&lt;/p&gt;
+Prototyping Go's Select with stackless.py for Stackless Python
+
+Presented by Andrew Francis
+
+Showing how to use Python to prototype powerful concurrency features for
+Stackless Python. We do want you to try this at home.
+
+Abstract
+
+Google’s introduction of the Go language raised eyebrows in the Stackless
+Python community. Although very different languages, Go and Stackless Python’s
+concurrency model share a common ancestor: the Bell Labs family of languages
+(i.e., Newsqueak, Limbo). The common feature are channels: a synchronous
+message passing mechanism based on Tony Hoare’s Communicating Sequential
+Processes (CSP).
+
+Both Go and Python have channels. However with the select language statement,
+Go has the ability to wait on multiple channels simultaneously. Select greatly
+simplifies many concurrent programming problems. Stackless Python does not
+have this feature. Other channel based languages also feature powerful
+concurrency constructs. How hard would these constructs be to implement for
+Stackless Python?
+
+This talk explores the prototyping potential of stackless.py, the PyPy's
+framework's implementation of Stackless Python. The beauty of stackless.py is
+that it is written in Python and implements much of Stackless Python's API!
+The "case study" involves prototyping Go's select in stackless.py before
+reimplementing select in C based Stackless Python.
+
+During this talk, it will be shown how stackless.py can be used with CPython
+and the greenlet package (no need to install another Python). The audience
+will also get an in depth look at how channels are implemented. Channels are
+at the heart of Stackless Python's message based concurrency model. Finally
+the audience will gain insights into future directions of Stackless Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Francis</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/438/pycon-2011--prototyping-go--39-s-select-with-stac</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/438_prototyping-go-s-select-with-stackless-py-for-stackless-python.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PrototypingGosSelectWithStacklesspyForStackless735.png"></media:thumbnail></item></channel></rss>

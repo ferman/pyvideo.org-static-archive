@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Piotr Przymus</title><link>http://www.pyvideo.org/speaker/1370/piotr-przymus/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1370/piotr-przymus/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 25 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Everything You Always Wanted to Know About Memory in Python But Were Afraid to Ask</title><link>http://www.pyvideo.org/video/2933/everything-you-always-wanted-to-know-about-memory</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Have you ever wondered what happens to all the precious RAM after running your 'simple' CPython code? 
+Prepare yourself for a short introduction to CPython memory management!
+This presentation will try to answer some memory related questions you always wondered about. It will also discuss basic memory profiling tools and techniques.
+&lt;p&gt;Description&lt;/p&gt;
+This talk will cover basics of CPython memory usage. 
+It will start with basics like objects and data structures representation.
+Then advanced memory management aspects, such as sharing, segmentation, preallocation or caching, will be discussed. Finally, memory profiling tools will be presented. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piotr Przymus</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2933/everything-you-always-wanted-to-know-about-memory</guid><enclosure url="http://www.youtube.com/watch?v=hf4MKeP5oxg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/hf4MKeP5oxg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

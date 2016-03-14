@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of DjangoCon 2011</title><link>http://www.pyvideo.org/category/3/djangocon-2011/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/3/djangocon-2011/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:09:40 -0000</lastBuildDate><ttl>500</ttl><item><title>Advanced Django Form Usage</title><link>http://www.pyvideo.org/video/82/djangocon-2011--advanced-django-form-usage</link><description>&lt;p&gt;Description&lt;/p&gt;
+Advanced Django Form Usage
+
+Presented by Daniel Greenfeld, Miguel Araujo
+
+Django forms are really powerful but there are edge cases that can cause a bit
+of anguish. This talk will go over how to handle many common solutions not
+currently described in the core documentation. It will also cover some useful
+third-party libraries and will end with clarifications about what the state of
+form features will be in Django 1.4.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Greenfeld,Miguel Araujo</dc:creator><guid>http://www.pyvideo.org/video/82/djangocon-2011--advanced-django-form-usage</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/82_advanced-django-form-usage.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-AdvancedDjangoFormUsage262-618.jpg"></media:thumbnail></item><item><title>Advanced security topics</title><link>http://www.pyvideo.org/video/80/djangocon-2011--advanced-security-topics</link><description>&lt;p&gt;Description&lt;/p&gt;
+Advanced security topics
+
+Presented by Paul McMillan
+
+An in-depth look (with demonstrations) at the how and why of several advanced
+security topics. Discussion of ways to improve security of the framework
+moving forward.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul McMillan</dc:creator><guid>http://www.pyvideo.org/video/80/djangocon-2011--advanced-security-topics</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.ogv" length="76996528" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.ogv" fileSize="76996528" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-AdvancedSecurityTopics290-576.jpg"></media:thumbnail></item><item><title>A Little South Sanity</title><link>http://www.pyvideo.org/video/91/djangocon-2011--a-little-south-sanity</link><description>&lt;p&gt;Description&lt;/p&gt;
+A Little South Sanity
+
+Presented by Brian Luft
+
+South is a useful tool in agile development environments, but learning to use
+it effectively can take some practice. In this demo-driven talk we'll walk
+through some common workflow examples, dissect a couple pitfalls, and call out
+the relative strengths and weaknesses of South as a tool at each step. Finding
+South's sweet spot for your environment will give you the best results.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Luft</dc:creator><guid>http://www.pyvideo.org/video/91/djangocon-2011--a-little-south-sanity</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/91_a-little-south-sanity.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ALittleSouthSanity152-343.jpg"></media:thumbnail></item><item><title>A Summer in the Wild</title><link>http://www.pyvideo.org/video/68/djangocon-2011--a-summer-in-the-wild</link><description>&lt;p&gt;Description&lt;/p&gt;
+A summer in the wild
+
+Presented by Alex Gaynor
+
+I've spent this past summer away from Django, working for Quora, venturing
+into the depths of a foreign codebase, and making it faster by running on
+PyPy. This talk will feature the lessons I've learned about Django, PyPy, and
+web development in general.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor</dc:creator><guid>http://www.pyvideo.org/video/68/djangocon-2011--a-summer-in-the-wild</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/68_a-summer-in-the-wild.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ASummerInTheWild519-270.jpg"></media:thumbnail></item><item><title>Benevolent Designer For Life's Keynote - Designers Make It Go to Eleven</title><link>http://www.pyvideo.org/video/84/djangocon-2011--benevolent-designer-for-life--39-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Benevolent Designer for Life's Keynote: Designers make it go to eleven
+
+Presented by Idan Gazit
+
+The open-source world is and always has been focused on code; attention and
+respect doled out in exchange for patches. As a result, many open-source
+projects want for design love but don't know how to secure it. We scare off
+potential contributors from the many fields beneath the aegis of "design":
+user experience, user interfaces, usability, interaction design, information
+architects, graphic design, typography, and other roles assumed by the authors
+of our markup and styling. Django can be a model citizen among open-source
+projects in changing these attitudes and coaxing contributors out of the
+woodwork -- not just for the benefit of the framework, but for the
+constellation of 3rd party apps which make Django great. Other FOSS
+communities have made efforts that we can learn from, and the fight to change
+perceptions is less uphill than you might think. This talk will cover: -
+Misconceptions of "Design." What is design, and what do designers do? - A
+brief trip down memory lane, and how Django came to be relatively designer-
+friendly. - "I don't get it: what is the BDesignFL role?" - Process and tools:
+How can Django better engage designers, for core's benefit and for the benefit
+of _your projects_. How can we help these contributors get over the "suck"
+threshold? - What parts of core are ripe for love from designers? What 3rd
+party projects?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Idan Gazit</dc:creator><guid>http://www.pyvideo.org/video/84/djangocon-2011--benevolent-designer-for-life--39-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/84_benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-BenevolentDesignerForLifesKeynoteDesignersMakeItGoToE975-385.jpg"></media:thumbnail></item><item><title>Best Practices for Front-End Django Developers</title><link>http://www.pyvideo.org/video/86/djangocon-2011--best-practices-for-front-end-djan</link><description>&lt;p&gt;Description&lt;/p&gt;
+Best Practices for Front-End Django Developers
+
+Christine Cheung
+
+Considerations, best practices, tools, and more for front-end development in
+Django.
+
+</description><guid>http://www.pyvideo.org/video/86/djangocon-2011--best-practices-for-front-end-djan</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/86_best-practices-for-front-end-django-developers.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-BestPracticesForFrontEndDjangoDevelopers521-806.jpg"></media:thumbnail></item><item><title>Building APIs in Django with Tastypie</title><link>http://www.pyvideo.org/video/90/djangocon-2011--building-apis-in-django-with-tast</link><description>&lt;p&gt;Description&lt;/p&gt;
+Building APIs in Django with Tastypie
+
+Issac Kelly
+
+Tastypie is one of a couple of frameworks for building APIs with Django. Issac
+will go over some of the reasons you might pick Tastypie, and how to implement
+a Tastypie on top of an existing Django project.
+
+</description><guid>http://www.pyvideo.org/video/90/djangocon-2011--building-apis-in-django-with-tast</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/90_building-apis-in-django-with-tastypie.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-BuildingAPIsInDjangoWithTastypie841-194.jpg"></media:thumbnail></item><item><title>Cache rules everything around me</title><link>http://www.pyvideo.org/video/75/djangocon-2011--cache-rules-everything-around-me</link><description>&lt;p&gt;Description&lt;/p&gt;
+Cache rules everything around me
+
+Presented by Jacob Burch, Noah Silas
+
+This talk aims to briefly introduce the core concepts of caching and covers
+the best practices of using Django’s cache backend.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Burch,Noah Silas</dc:creator><guid>http://www.pyvideo.org/video/75/djangocon-2011--cache-rules-everything-around-me</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/75_cache-rules-everything-around-me.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CacheRulesEverythingAroundMe471-781.jpg"></media:thumbnail></item><item><title>Confessions of Joe Developer</title><link>http://www.pyvideo.org/video/103/djangocon-2011--confessions-of-joe-developer</link><description>&lt;p&gt;Description&lt;/p&gt;
+Confessions of Joe Developer
+
+Presented by Daniel Greenfeld
+
+Over the course of 6 years of Python development at NASA, Revsys, and
+Eldarion; Daniel Greenfeld has picked up a lot of easy tricks stolen from the
+best and brightest in the Python community that make him look good in front of
+his peers and clients. And now, at great risk to his career and reputation, he
+is going to show you how he does it.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Greenfeld</dc:creator><guid>http://www.pyvideo.org/video/103/djangocon-2011--confessions-of-joe-developer</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/103_confessions-of-joe-developer.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/notfound-episode.png"></media:thumbnail></item><item><title>Deployment, Daemons and Datacenters</title><link>http://www.pyvideo.org/video/78/djangocon-2011--deployment--daemons-and-datacente</link><description>&lt;p&gt;Description&lt;/p&gt;
+Deployment, Daemons, and Datacenters
+
+Presented by Andrew Godwin
+
+A tour through the systems that power [ep.io](http://ep.io/), the Python
+hosting platform, from the array of daemons powering the system, to how
+redundancy is set up, and also covering general best practices for hosting
+Django sites yourself.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><guid>http://www.pyvideo.org/video/78/djangocon-2011--deployment--daemons-and-datacente</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/78_deployment-daemons-and-datacenters.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DeploymentDaemonsAndDatacenters670-810.jpg"></media:thumbnail></item><item><title>Django Core Dev Panel</title><link>http://www.pyvideo.org/video/71/djangocon-2011--django-core-dev-panel</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django Core Dev Panel
+
+Some getting-to-know-you questions and answers for the Django core devs.
+Additionally, covers how decisions are made, Python3 status, infrastructure
+status, so and so forth.
+
+</description><guid>http://www.pyvideo.org/video/71/djangocon-2011--django-core-dev-panel</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/71_django-core-dev-panel.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoCoreDevPanel757-791.jpg"></media:thumbnail></item><item><title>Django Hosting Panel</title><link>http://www.pyvideo.org/video/102/djangocon-2011--django-hosting-panel</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django Hosting Panel
+
+Moderated by Sean O'Connor; Panelists: Gabriel Grant
+([dotCloud](http://www.dotcloud.com/)), Nate Aune
+([DjangoZoom](http://djangozoom.com/)), Andrew Godwin ([Epio](http://ep.io/)),
+James Tauber ([Eldarion](http://eldarion.com/)), Brian Rosner
+([Eldarion](http://eldarion.com/)), Even Hazlett
+([apphosted](http://apphosted.com/))
+
+Over the last year there's a been a whole new crop of specialized hosting
+platforms for Django applications. In this panel, we speak to a number of the
+people behind these new platforms to discuss what benefits they offer, what
+challenges they face, and what the Django project/community can do to
+encourage their growth.
+
+</description><guid>http://www.pyvideo.org/video/102/djangocon-2011--django-hosting-panel</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/102_django-hosting-panel.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoHostingPanel628-324.jpg"></media:thumbnail></item><item><title>Django Package Thunderdome: Is Your Package Worthy?</title><link>http://www.pyvideo.org/video/93/djangocon-2011--django-package-thunderdome--is-yo</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django Package Thunderdome: Is Your Package Worthy
+
+Audrey Roy, Daniel Greenfeld
+
+What makes a package useful? What is it about certain packages that makes them
+must-haves for any project? I’ll go over topics like: purpose, structure,
+docs, tests, availability on PyPI and Github/Bitbucket, activity, and more. I
+will visit some of the most useful grids on djangopackages.com and highlight
+my top package picks, showing examples of what makes these top packages so
+great.
+
+</description><guid>http://www.pyvideo.org/video/93/djangocon-2011--django-package-thunderdome--is-yo</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/93_django-package-thunderdome-is-your-package-worthy.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoPackageThunderdomeIsYourPackageWorthy568-264.jpg"></media:thumbnail></item><item><title>Fireside Chat with a BDFL</title><link>http://www.pyvideo.org/video/97/djangocon-2011--fireside-chat-with-a-bdfl</link><description>&lt;p&gt;Description&lt;/p&gt;
+Fireside Chat with a BDFL
+
+Jacob Kaplan-Moss
+
+Question and answer format covering the history of django, why it's popular,
+their inspirations, ...
+
+</description><guid>http://www.pyvideo.org/video/97/djangocon-2011--fireside-chat-with-a-bdfl</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/97_fireside-chat-with-a-bdfl.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-FiresideChatWithABDFL887-468.jpg"></media:thumbnail></item><item><title>From Designer to Django'er in Six Weeks: A Story from Solo Founder</title><link>http://www.pyvideo.org/video/105/djangocon-2011--from-designer-to-django--39-er-in</link><description>&lt;p&gt;Description&lt;/p&gt;
+From Designer to Django'er in Six Weeks: A Story from Solo Founder
+
+Presented by Tracy Osborn
+
+Django gives you the tools to start a successful web app even if you're new to
+development. Learn how to build and launch a web startup while avoiding common
+pitfalls and problems.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tracy Osborn</dc:creator><guid>http://www.pyvideo.org/video/105/djangocon-2011--from-designer-to-django--39-er-in</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/105_from-designer-to-django-er-in-six-weeks-a-story-from-solo-founder.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-FromDesignerToDjangoerInSixWeeksAStoryFromSoloFounder225-45.jpg"></media:thumbnail></item><item><title>Keynote - Brad Fitzpatrick</title><link>http://www.pyvideo.org/video/95/djangocon-2011--keynote---brad-fitzpatrick</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote
+
+Brad Fitzpatrick
+
+In this talk, Brad will be discussing lessons learned from the various
+projects he's started over the years and why it is often best to scratch your
+own itch.
+
+[VIDEO HAS ISSUES: Audio stutters periodically.]
+
+</description><guid>http://www.pyvideo.org/video/95/djangocon-2011--keynote---brad-fitzpatrick</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/95_keynote-brad-fitzpatrick.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-KeynoteBradFitzpatrick377-484.jpg"></media:thumbnail></item><item><title>Keynote - David Eaves</title><link>http://www.pyvideo.org/video/107/djangocon-2011--keynote---david-eaves</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote - David Eaves
+
+David talks about community management in open source communities.
+
+</description><guid>http://www.pyvideo.org/video/107/djangocon-2011--keynote---david-eaves</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/107_keynote-david-eaves.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-KeynoteDavidEaves169-846.jpg"></media:thumbnail></item><item><title>Keynote - Glyph Lefkowitz</title><link>http://www.pyvideo.org/video/83/djangocon-2011--keynote---glyph-lefkowitz</link><description>&lt;p&gt;Description&lt;/p&gt;
+Keynote
+
+Presented by Glyph Lefkowitz
+
+Talks about using Python for everything in a project and the difficulties of
+using different non-Python-based things in your deployment.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Glyph Lefkowitz</dc:creator><guid>http://www.pyvideo.org/video/83/djangocon-2011--keynote---glyph-lefkowitz</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/83_keynote-glyph-lefkowitz.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-KeynoteGlyphLefkowitz810-708.jpg"></media:thumbnail></item><item><title>Lightning Talks - Thursday morning</title><link>http://www.pyvideo.org/video/70/djangocon-2011--lightning-talks---thursday-mornin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lightning Talks - Thursday morning
+
+  * 00:00 - Jason Boyer: Multi DB Routing 
+  * 05:20 - Vicky Tuite: [PyStar](http://pystar.org/)
+  * 08:55 - Katie Cunningham: [Django Explorer](https://github.com/kcunning/android-django)
+  * 11:45 - Shawn Milo: You Should Contribute to Django 
+  * 16:00 - Graham King: Psychology for your web app 
+  * 21:30 - Tobias McNulty: [FabulAWS](http://bit.ly/fabulaws)
+  * 27:00 - Harris Lapiroff: [Pipetter](http://github.com/melinath/django-pipetter)
+  * 31:05 - Tim White: [wtfawd?](http://wtfawd.com/)
+  * 33:50 - Matt Lauber: Multiforms: A simple tool for managing multiple forms 
+  * 38:55 - Kenneth Love: The dumb and lazy guide to class-based views 
+  * 42:30 - Todd Davies: Let's talk about "control by users" 
+  * 47:40 - Sebastian Serrano: backbone.js with django and tastypie 
+  * 51:15 - ?: [Stackato](http://www.activestate.com/cloud)
+  * 56:00 - Steve Ivy: [Activity streams](https://github.com/justquick/django-activity-stream)
+  * 59:15 - Kenneth Love and Chris Jones: There's always money in the Banana(-py) Stand! ([Banana-Py](https://github.com/kennethlove/Banana-Py)) 
+  * 1:00:46 - Brian Davis: Static analysis in Emacs ([emacs-psa](http://bit.ly/emacs-psa)) 
+  * 1:03:55 - ?: Sitting on your butt and letting your ideas happen without you 
+  * 1:06:35 - Mjumbe Poe: [django-model-blocks](https://github.com/mjumbewu/django-model-blocks)
+
+</description><guid>http://www.pyvideo.org/video/70/djangocon-2011--lightning-talks---thursday-mornin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/70_lightning-talks-thursday-morning.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-LightningTalksThursAM543-952.jpg"></media:thumbnail></item><item><title>Lightning Talks - Tuesday morning</title><link>http://www.pyvideo.org/video/96/djangocon-2011--lightning-talks---tuesday-morning</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lightning talks - Tuesday morning
+
+  * 00:00 - Joshua Ginsberg: Redis and Protocol Buffers 
+  * 05:40 - Nate Aune: [DjangoZoom](http://djangozoom/com/)
+  * 10:45 - Justin Mayer: Tips for a prettier and more productive terminal 
+  * 16:35 - ?: Philo 
+  * 20:10 - 21:10 (musical interlude) 
+  * 21:40 - Steve Holden: Making a Small Positive Difference 
+
+</description><guid>http://www.pyvideo.org/video/96/djangocon-2011--lightning-talks---tuesday-morning</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/96_lightning-talks-tuesday-morning.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-LightningTalksTuePm466-363.jpg"></media:thumbnail></item><item><title>Lightning Talks - Wednesday morning</title><link>http://www.pyvideo.org/video/74/djangocon-2011--lightning-talks---wednesday-morni</link><description>&lt;p&gt;Description&lt;/p&gt;
+Lightning Talks - Wednesday morning
+
+  * 00:00 - Steve Ivy: [Pushcode](http://pushcode.wallrazer.com/)
+  * 05:00 - Jacob Kaplan-Moss: Brief history of Django model syntax 
+  * 14:20 - Gabriel Grant: Why the big backpack? Well, I have t-shirts.... [DotCloud](http://dotcloud.com/)
+  * 16:20 - ?: Prezi [Prezi](http://prezi.com/)
+
+</description><guid>http://www.pyvideo.org/video/74/djangocon-2011--lightning-talks---wednesday-morni</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/74_lightning-talks-wednesday-morning.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-LightningTalksWedAm363-324.jpg"></media:thumbnail></item><item><title>Making interactive maps for the web</title><link>http://www.pyvideo.org/video/76/djangocon-2011--making-interactive-maps-for-the-w</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making Interactive Maps for the Web
+
+Presented by Zain Memon
+
+When tasked with displaying geo-data, most developers decide to put some big
+red markers on an embeddable Google Map and call it a day. If you're
+interested in creating maps that are more beautiful, more interactive, and
+more usable, this talk is for you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zain Memon</dc:creator><guid>http://www.pyvideo.org/video/76/djangocon-2011--making-interactive-maps-for-the-w</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/76_making-interactive-maps-for-the-web.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MakingInteractiveMapsForTheWeb699-509.jpg"></media:thumbnail></item><item><title>Making the Django ORM Multilingual</title><link>http://www.pyvideo.org/video/89/djangocon-2011--making-the-django-orm-multilingua</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making the Django ORM Multilingual
+
+Presented by Jonas Obrist
+
+Why does Django make it that hard to have translated database contents? And
+what solutions are there to make it easier? And how can Django make
+multilingual database contents less of a pain?
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonas Obrist</dc:creator><guid>http://www.pyvideo.org/video/89/djangocon-2011--making-the-django-orm-multilingua</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/89_making-the-django-orm-multilingual.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MakingTheDjangoORMMultilingual519-34.jpg"></media:thumbnail></item><item><title>Monkeying Around with Python at New Relic</title><link>http://www.pyvideo.org/video/104/djangocon-2011--monkeying-around-with-python-at-n</link><description>&lt;p&gt;Description&lt;/p&gt;
+Monkeying around with Python at New Relic
+
+Presented by Graham Dumpleton
+
+This session will cover the challenges of creating a production application
+performance monitoring system for Python. It includes an overview of the
+architecture of the system, as well as how it hooks into Django and captures
+details about web transactions, database transactions, memcache requests,
+exceptions and much more.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><guid>http://www.pyvideo.org/video/104/djangocon-2011--monkeying-around-with-python-at-n</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/104_monkeying-around-with-python-at-new-relic.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MonkeyingAroundWithPythonAtNewRelic328-388.jpg"></media:thumbnail></item><item><title>Pinax after Three Years: Lessons Learnt and the Way Forward</title><link>http://www.pyvideo.org/video/72/djangocon-2011--pinax-after-three-years--lessons-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pinax after three years: Lessons learnt and the way forward
+
+Presented by James Tauber
+
+The Pinax platform has had its ups and downs since it was launched in 2008.
+People either love it or just don't get it. About the only thing everyone
+agrees on is that it doesn't seem to be progressing as fast as it once did.
+This talk will take a fresh look at the goals of Pinax, what we did well, what
+we didn't do so well and what we're (slowly) doing to fix it.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Tauber</dc:creator><guid>http://www.pyvideo.org/video/72/djangocon-2011--pinax-after-three-years--lessons-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/72_pinax-after-three-years-lessons-learnt-and-the-way-forward.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-PinaxAfterThreeYearsLessonsLearntAndTheWayForward913-612.jpg"></media:thumbnail></item><item><title>Real-Time Django</title><link>http://www.pyvideo.org/video/100/djangocon-2011--real-time-django</link><description>&lt;p&gt;Description&lt;/p&gt;
+Real-Time Django
+
+Presented by Ben Slavin, Adam Miskiewicz
+
+The web is live. APIs give us access to continuously changing data. We discuss
+ways to get real-time data into your app, how to handle data processing and
+what to do when you get thousands of updates per second.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Miskiewicz,Ben Slavin</dc:creator><guid>http://www.pyvideo.org/video/100/djangocon-2011--real-time-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/100_real-time-django.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RealTimeDjango172-84.jpg"></media:thumbnail></item><item><title>Real world Django deployment using Chef</title><link>http://www.pyvideo.org/video/92/djangocon-2011--real-world-django-deployment-usin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Real world Django deployment using Chef
+
+Presented by Noah Kantrowitz
+
+Chef, a popular configuration management tool, is gaining momentum in the
+Django community. Learn how to deploy Django sites using Chef, be they one
+server or a thousand.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Noah Kantrowitz</dc:creator><guid>http://www.pyvideo.org/video/92/djangocon-2011--real-world-django-deployment-usin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/92_real-world-django-deployment-using-chef.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RealWorldDjangoDeploymentUsingChef158-86.jpg"></media:thumbnail></item><item><title>RESTful APIs: Promises and Lies</title><link>http://www.pyvideo.org/video/94/djangocon-2011--restful-apis--promises--amp--lies</link><description>&lt;p&gt;Description&lt;/p&gt;
+RESTful APIs: Promises &amp; Lies
+
+Presented by Tareque Hossain
+
+Over the last few years RESTful APIs have become an integral part of many
+django projects. But some of the fundamental questions still remain
+unanswered. How do you decouple resources from models, formatting from
+definitions, authorization from authentication? How should you define
+resources? How do you handle pagination? Deliver facets? Prevent abuse?
+Implement versioning? Let's have a look.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tareque Hossain</dc:creator><guid>http://www.pyvideo.org/video/94/djangocon-2011--restful-apis--promises--amp--lies</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/94_restful-apis-promises-and-lies.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RESTfulAPIsPromisesLies340-439.jpg"></media:thumbnail></item><item><title>RTFM -- wRite The Friendly Manual</title><link>http://www.pyvideo.org/video/79/djangocon-2011--rtfm----write-the-friendly-manual</link><description>&lt;p&gt;Description&lt;/p&gt;
+RTFM - wRite The Friendly Manual
+
+Presented by James Bennett
+
+An introduction to writing great documentation. Not just in the "here's some
+tools and how to use them" sense, but in the "here's why you should care about
+documentation" sense and the "how to write things people will read" sense.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><guid>http://www.pyvideo.org/video/79/djangocon-2011--rtfm----write-the-friendly-manual</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/79_rtfm-write-the-friendly-manual.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RTFMWRiteTheFriendlyManual657-381.jpg"></media:thumbnail></item><item><title>Safely deploying on the cutting edge</title><link>http://www.pyvideo.org/video/85/djangocon-2011--safely-deploying-on-the-cutting-e</link><description>&lt;p&gt;Description&lt;/p&gt;
+Safely deploying on the cutting edge
+
+Eric Holscher
+
+This talk will go through the deployment system that we have built at Urban
+Airship. It will cover the process that allows us to automate our deployments,
+making it safe to deploy at any time. It's built on Fabric, Gunicorn,
+Virtualenv, Rsync, Supervisord, and Python. We end up with fully isolated
+environments for our services that are easy to manage.
+
+</description><guid>http://www.pyvideo.org/video/85/djangocon-2011--safely-deploying-on-the-cutting-e</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/85_safely-deploying-on-the-cutting-edge.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-SafelyDeployingOnTheCuttingEdge850-33.jpg"></media:thumbnail></item><item><title>Secrets of PostgreSQL Performance</title><link>http://www.pyvideo.org/video/98/djangocon-2011--secrets-of-postgresql-performance</link><description>&lt;p&gt;Description&lt;/p&gt;
+Secrets of PostgreSQL Performance
+
+Presented by Frank Wiles
+
+PostgreSQL is effectively the default RDBMS for Django. Learn the dark arts of
+optimizing this powerful database to be blazingly fast on your own hardware or
+in the cloud.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Frank Wiles</dc:creator><guid>http://www.pyvideo.org/video/98/djangocon-2011--secrets-of-postgresql-performance</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/98_secrets-of-postgresql-performance.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-SecretsOfPostgreSQLPerformance182-231.jpg"></media:thumbnail></item><item><title>State of the DSF Keynote</title><link>http://www.pyvideo.org/video/99/djangocon-2011--state-of-the-dsf-keynote</link><description>&lt;p&gt;Description&lt;/p&gt;
+State of the DSF Keynote
+
+Presented by Russell Keith-Magee
+
+For this keynote Russ will be providing some background on what the DSF is,
+what it has been up to recently, and what it plans to do over the next year.
+If you're interested in contributing to the Django community, this will be a
+great way to find out what opportunities are out there and to find out how the
+DSF can help.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><guid>http://www.pyvideo.org/video/99/djangocon-2011--state-of-the-dsf-keynote</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/99_state-of-the-dsf-keynote.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-StateOfTheDSFKeynote607-161.jpg"></media:thumbnail></item><item><title>Stop Tilting at Windmills - Spotting Bottlenecks</title><link>http://www.pyvideo.org/video/88/stop-tilting-at-windmills-spotting-bottlenecks</link><description>&lt;p&gt;Description&lt;/p&gt;
+Stop Tilting at Windmills--Spotting Bottlenecks
+
+Presented by Yann Malet and Brandon Konkle
+
+Learn the questions to ask and the tools to use to spot performance problems
+in your application. We won't tell you how to scale your site, but we will
+show you how to locate the bottlenecks as they pop up.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brandon Konkle,Yann Malet</dc:creator><guid>http://www.pyvideo.org/video/88/stop-tilting-at-windmills-spotting-bottlenecks</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/88_stop-tilting-at-windmills-spotting-bottlenecks.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-StopTiltingAtWindmillsSpottingBottlenecks272-78.jpg"></media:thumbnail></item><item><title>Taming dependencies with pip</title><link>http://www.pyvideo.org/video/69/djangocon-2011--taming-dependencies-with-pip</link><description>&lt;p&gt;Description&lt;/p&gt;
+Taming dependencies with pip
+
+Presented by Carl Meyer
+
+Dependency management sucks. Pip provides some options for making it suck a
+bit less, but not all of them are immediately obvious. This talk will cover a
+number of strategies for making your deployments faster and more reliable, and
+demonstrate how to implement them in practice.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Meyer</dc:creator><guid>http://www.pyvideo.org/video/69/djangocon-2011--taming-dependencies-with-pip</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/69_taming-dependencies-with-pip.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TamingDependenciesWithPip630-709.jpg"></media:thumbnail></item><item><title>Teaching Django to Comrades</title><link>http://www.pyvideo.org/video/81/djangocon-2011--teaching-django-to-comrades</link><description>&lt;p&gt;Description&lt;/p&gt;
+Teaching Django to Comrades
+
+Presented by Issac Kelly
+
+Inevitably you're going to run into somebody who wants to learn Django, or
+maybe both Python and Django. This talk will help you make it less painful for
+them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Issac Kelly</dc:creator><guid>http://www.pyvideo.org/video/81/djangocon-2011--teaching-django-to-comrades</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/81_teaching-django-to-comrades.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TeachingDjangoToComrades893-851.jpg"></media:thumbnail></item><item><title>Testing: The Developer Strikes Back</title><link>http://www.pyvideo.org/video/73/djangocon-2011--testing--the-developer-strikes-ba</link><description>&lt;p&gt;Description&lt;/p&gt;
+Testing: The Developer Strikes Back
+
+Sandy Strong
+
+“Code not tested is broken by design” - Jacob Kaplan-Moss
+
+Every programming project has unique testing needs. It’s not always easy to
+understand what those needs are, or how to write tests that satisfy them. One
+of our goals as developers is to write tests that minimize failures in
+production that can cost our companies time, money, resources, and in many
+cases, hours of sleep!
+
+</description><guid>http://www.pyvideo.org/video/73/djangocon-2011--testing--the-developer-strikes-ba</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/73_testing-the-developer-strikes-back.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TestingTheDeveloperStrikesBack360-494.jpg"></media:thumbnail></item><item><title>Testing with Lettuce and Splinter</title><link>http://www.pyvideo.org/video/106/djangocon-2011--testing-with-lettuce-and-splinter</link><description>&lt;p&gt;Description&lt;/p&gt;
+Testing with Lettuce and Splinter
+
+Presented by Adam Nelson
+
+Lettuce, adapted from Ruby's Cucumber, is a behavior driven development (BDD)
+testing suite that sits on top of Splinter - a web driver for simulating real-
+world usage of your site. Learn the ins and outs of BDD using Lettuce and
+Splinter for rapid deployment.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Nelson</dc:creator><guid>http://www.pyvideo.org/video/106/djangocon-2011--testing-with-lettuce-and-splinter</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/106_testing-with-lettuce-and-splinter.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TestingWithLettuceAndSplinter801-433.jpg"></media:thumbnail></item><item><title>The story and tech of Read the Docs</title><link>http://www.pyvideo.org/video/101/djangocon-2011--the-story-and-tech-of-read-the-do</link><description>&lt;p&gt;Description&lt;/p&gt;
+The story and tech of Read the Docs
+
+Presented by Eric Holscher
+
+Hosting open source documentation was a mess. The best-of-class solution for
+the Python world as uploading a tarball of html to packages.python.org or
+doing similar to upload to github pages. We set out to solve this problem
+using the current best of class tools that Django has to offer.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><guid>http://www.pyvideo.org/video/101/djangocon-2011--the-story-and-tech-of-read-the-do</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/101_the-story-and-tech-of-read-the-docs.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TheStoryAndTechOfReadTheDocs338-916.jpg"></media:thumbnail></item><item><title>Why the Django Documentation Sucks</title><link>http://www.pyvideo.org/video/87/djangocon-2011--why-the-django-documentation-suck</link><description>&lt;p&gt;Description&lt;/p&gt;
+Why the Django Documentation Sucks
+
+Presented by Steve Holden
+
+Documentation is normally held to be one of Django's strong points. Steve
+attempts to point out that even the best can stand improvement.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Steve Holden</dc:creator><guid>http://www.pyvideo.org/video/87/djangocon-2011--why-the-django-documentation-suck</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/87_why-the-django-documentation-sucks.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-WhyTheDjangoDocumentationSucks196-328.jpg"></media:thumbnail></item><item><title>Y'all Wanna Scrape with Us? Content Ain't a Thing : Web Scraping With Our Favorite Python Libraries</title><link>http://www.pyvideo.org/video/77/djangocon-2011--y--39-all-wanna-scrape-with-us--c</link><description>&lt;p&gt;Description&lt;/p&gt;
+Y'all Wanna Scrape with Us? Content Ain't a Thing: Web Scraping With Our
+Favorite Python Libraries
+
+Presented by Katharine Jarmul
+
+Love or hate them, the top python scraping libraries have some hidden gems and
+tricks that you can use to enhance, update and diversify your Django models.
+This talk will teach you more advanced techniques to aggregate content from
+RSS feeds, Twitter, Tumblr and normal old web sites for your Django projects.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><guid>http://www.pyvideo.org/video/77/djangocon-2011--y--39-all-wanna-scrape-with-us--c</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/77_y-all-wanna-scrape-with-us-content-ain-t-a-thing-web-scraping-with-our-favorite-python-libraries.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-YallWannaScrapeWithUsContentAintAThingWebScrapingWit952-115.jpg"></media:thumbnail></item></channel></rss>

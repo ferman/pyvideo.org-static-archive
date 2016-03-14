@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ali Afshar</title><link>http://www.pyvideo.org/speaker/518/ali-afshar/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/518/ali-afshar/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 18 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Latest advances in the Google APIs platform</title><link>http://www.pyvideo.org/video/1069/latest-advances-in-the-google-apis-platform</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Ali Afshar - 21 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+This talk will give an outline of the advances that Google have made in API
+delivery over the last year, and how it is relevant to you as a Python
+developer. The talk is suitable for beginners and advanced developers.
+
+We will describe the underlying platform, and the built-in features that all
+Google APIs inherit.
+
+We will focus on how the Python libraries for this API platform are generated
+and can be used as a single library that doesn't require updating with API
+updates, as Python lends itself perfectly to the nature of this platform.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ali Afshar</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1069/latest-advances-in-the-google-apis-platform</guid><enclosure url="http://www.youtube.com/watch?v=pJqSbhGIhWU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pJqSbhGIhWU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

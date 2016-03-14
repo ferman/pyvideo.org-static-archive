@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alessandro Dentella</title><link>http://www.pyvideo.org/speaker/477/alessandro-dentella/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/477/alessandro-dentella/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Sqlkit: empowering database access</title><link>http://www.pyvideo.org/video/1014/sqlkit-empowering-database-access</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Alessandro Dentella - 23 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+It's very easy to access databases with Python, and there are many ORMs
+allowing a high level of abstraction. Still, it's a long road from there to
+interactive handling of data, even for very simple tasks.
+
+Sqlkit tries to act as a bridge, offering some mega-widgets that allow you to
+build GUI applications or directly access data using the 'sqledit'
+application, shipped with sqlkit; sqlkit is built with PyGTK and SQLAlchemy.
+
+This presentation covers some of the most powerful features of sqlkit, and
+shows how easy it is to build small programs for personal use, as well as rich
+and complex applications. It primarily focuses on two points: how easy it is
+to create data forms (eventually with one2many or many2many, thanks to a
+original definition of layouts), and the template system based on OpenOffice
+which allows easy report creation.
+
+This presentation shows how sqlkit can be used both as application development
+framework and as a tool to help us while developing other applications (e.g.:
+Django, OpenERP,… ).
+
+To deliver a gradual presentation, we'll use the configuration system of
+sqledit, starting from a minimal configuration (a single URL) we'll add
+elements to that until we'll have a full application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Dentella</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1014/sqlkit-empowering-database-access</guid><enclosure url="http://www.youtube.com/watch?v=UwV2Hdb8XQQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/UwV2Hdb8XQQ/hqdefault.jpg"></media:thumbnail></item><item><title>Sqlkit: database ad accesso immediato</title><link>http://www.pyvideo.org/video/1173/sqlkit-database-ad-accesso-immediato</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Alessandro Dentella - 21 June 2011 in "Track Italiana Big
+Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+È molto facile accedere ad un database con Python e ci sono molti ORM che
+permettono un alto livello di astrazione. Da qui c'é ancora una lunga strada
+per arrivare a manipolare interattivamente i dati anche per semplici compiti.
+
+Sqlkit cerca di coprire questa distanza fornendo alcuni mega-widgets che
+permettono di costruire ogni applicazione GUI o accedere direttamente ai dati
+con l'applicazione 'sqledit', che viene distribuita con sqlkit. Sqlkit è
+costruita con PyGTK e SQLAlchemy.
+
+Questa presentazione esplora alcune fra le più potenti caratteristiche di
+sqlkit e mostra quanto sia semplice costruire piccoli programmini ad uso
+personale o applicazioni ricche ed articolate. Si focalizza principalmente su
+due punti: quanto sia facile creare maschere per editare dati (anche relazioni
+on2many o many2many, grazie al modo originale di definire i layout) e al
+sistema di template basato su OpenOffice che rende incredibilmente semplice
+creare report.
+
+Questa presentazione vuole mostrare come sqlkit può essere usato sia come
+framework di sviluppo di applicazioni, sia come strumento che ci aiuta mentre
+sviluppiamo altre applicazioni (es.: Django, OpenERP,… ).
+
+Per rendere la presentazione più graduale, sfrutteremo il sistema di
+configurazione di sqledit Partendo da una configurazione minima -un URL-
+aggiungeremo elementi fino ad ottenere una vera applicazione.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Dentella</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1173/sqlkit-database-ad-accesso-immediato</guid><enclosure url="http://www.youtube.com/watch?v=nx04zGh3gME" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/nx04zGh3gME/hqdefault.jpg"></media:thumbnail></item><item><title>Sqlkit: empowering database access</title><link>http://www.pyvideo.org/video/1095/sqlkit-empowering-database-access-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Alessandro Dentella - 23 June 2011 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+It's very easy to access databases with Python, and there are many ORMs
+allowing a high level of abstraction. Still, it's a long road from there to
+interactive handling of data, even for very simple tasks.
+
+Sqlkit tries to act as a bridge, offering some mega-widgets that allow you to
+build GUI applications or directly access data using the 'sqledit'
+application, shipped with sqlkit; sqlkit is built with PyGTK and SQLAlchemy.
+
+This presentation covers some of the most powerful features of sqlkit, and
+shows how easy it is to build small programs for personal use, as well as rich
+and complex applications. It primarily focuses on two points: how easy it is
+to create data forms (eventually with one2many or many2many, thanks to a
+original definition of layouts), and the template system based on OpenOffice
+which allows easy report creation.
+
+This presentation shows how sqlkit can be used both as application development
+framework and as a tool to help us while developing other applications (e.g.:
+Django, OpenERP,… ).
+
+To deliver a gradual presentation, we'll use the configuration system of
+sqledit, starting from a minimal configuration (a single URL) we'll add
+elements to that until we'll have a full application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Dentella</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1095/sqlkit-empowering-database-access-0</guid><enclosure url="http://www.youtube.com/watch?v=7oWykWu_5z4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/7oWykWu_5z4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

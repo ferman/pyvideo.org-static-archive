@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christian Barra</title><link>http://www.pyvideo.org/speaker/1843/christian-barra/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1843/christian-barra/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>*aaS Royal Rumble - Q&amp;A</title><link>http://www.pyvideo.org/video/3585/aas-royal-rumble-qa</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+La sessione di Q&amp;A ti permetterà di approfondire le differenze tra le varie piattaforme.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Martelli,Christian Barra,Flavio Percoco</dc:creator><pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3585/aas-royal-rumble-qa</guid><enclosure url="https://www.youtube.com/watch?v=xghRi2DsPGw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/xghRi2DsPGw/maxresdefault.jpg"></media:thumbnail></item><item><title>Kung Fu Pandas</title><link>http://www.pyvideo.org/video/3604/kung-fu-pandas</link><description>&lt;p&gt;Description&lt;/p&gt;
+Scopo di questo talk è di introdurvi nel fantastico mondo del Kung Fu….con Pandas !
+Parliamo di cosa è Pandas, a cosa puó servirvi e di come utilizzarlo con alcuni esempi pratici.
+Un potente strumento per gestire ed analizzare i vostri dati !
+Prerequisiti: Conoscenza di Python
+Goals: Utilizzo di Pandas come strumento per elaborare e analizzare dati 
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Barra</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3604/kung-fu-pandas</guid><enclosure url="https://www.youtube.com/watch?v=BcD-EfHYmoc" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/BcD-EfHYmoc/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

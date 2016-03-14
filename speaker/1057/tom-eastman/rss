@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tom Eastman</title><link>http://www.pyvideo.org/speaker/1057/tom-eastman/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1057/tom-eastman/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 06 Sep 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Playing to lose: making sensible security decisions by assuming the worst</title><link>http://www.pyvideo.org/video/3867/playing-to-lose-making-sensible-security-decisio</link><description>&lt;p&gt;Description&lt;/p&gt;
+The unfortunate truth about networked applications is that an attacker only needs to know one thing you didn't know to get past your defences. You need to know everything, they don't.
+
+The odds aren't in your favour. You're eventually going to get hacked.
+
+That's the bad news. But if you stop thinking about a security compromise as "that thing you close your eyes and hope never happens", and instead start thinking about it as an inevitability, then you can start making better security decisions.
+
+"If they compromise my web servers, how do I protect my application servers?"
+
+"If they break my application server code, how can I prevent them from gaining a foothold on my infrastructure?"
+
+"If they poison my web-site with cross-site scripting, how do I find out before my users get hurt?"
+
+In short: "If I'm going to get hacked, how do I make it hurt less?"
+
+This is a talk about defence in depth.
+
+Building a secure system isn't about luck, it’s about planning.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Sun, 06 Sep 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3867/playing-to-lose-making-sensible-security-decisio</guid><enclosure url="http://youtu.be/dcDrsKX2ULU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/dcDrsKX2ULU/hqdefault.jpg"></media:thumbnail></item><item><title>Playing to lose: making sensible security decisions by assuming the worst</title><link>http://www.pyvideo.org/video/3960/playing-to-lose-making-sensible-security-decisio-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+The unfortunate truth about networked applications is that an attacker only needs to know one thing you didn't know to get past your defenses. You need to know everything, they don't.
+
+The odds aren't in your favour. You're eventually going to get hacked.
+
+That's the bad news. But if you stop thinking about a security compromise as that thing you close your eyes and hope never happens", and instead start thinking about it as an inevitability, then you can start making better security decisions.
+
+"If they compromise my web servers, how do I protect my application servers?"
+
+"If they break my application server code, how can I prevent them from gaining a foothold on my infrastructure?"
+
+"If they poison my web-site with cross-site scripting, how do I find out before my users get hurt?"
+
+In short: "If I’m going to get hacked, how do I make it hurt less?"
+
+This is a talk about defense in depth.
+
+Building a secure system isn’t about luck, it’s about planning.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3960/playing-to-lose-making-sensible-security-decisio-0</guid><enclosure url="https://www.youtube.com/watch?v=EQVaNTRqIjY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/EQVaNTRqIjY/hqdefault.jpg"></media:thumbnail></item><item><title>The one true way of doing Django deployments...</title><link>http://www.pyvideo.org/video/4035/the-one-true-way-of-doing-django-deployments</link><description>&lt;p&gt;Description&lt;/p&gt;
+...doesn't exist. (Sorry)
+
+The power and flexibility of Django comes with drawbacks. One of the toughest for project management is working out how to deploy your Django application. If you ask five different authorities on how you should do it, you'll get six different answers.
+
+And if someone says "Just use fabric!": they're not helping.
+
+Release management, dependency wrangling, virtualenv care and feeding; to .whl or .deb? To containerize or Heroku-ize? Do you really have to allow your servers unconstrained Internet access just to build your virtualenv?
+
+As a Django user, you might end up writing more deployment solutions than Django projects. I know I have.
+
+There's no one true way of doing Django deployments, but some work better than others. Maybe I can show you.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4035/the-one-true-way-of-doing-django-deployments</guid><enclosure url="https://www.youtube.com/watch?v=1ABPQyANid0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/1ABPQyANid0/hqdefault.jpg"></media:thumbnail></item><item><title>Serialization formats are not toys</title><link>http://www.pyvideo.org/video/3492/serialization-formats-are-not-toys</link><description>&lt;p&gt;Description&lt;/p&gt;
+It’s not in the OWASP Top 10, but you don’t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I’ll go over what the threat is and how you might be making yourself vulnerable. I’ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3492/serialization-formats-are-not-toys</guid><enclosure url="https://www.youtube.com/watch?v=kjZHjvrAS74" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/kjZHjvrAS74/hqdefault.jpg"></media:thumbnail></item><item><title>Caching: A trip down the rabbit hole by Tom Eastman</title><link>http://www.pyvideo.org/video/3111/caching-a-trip-down-the-rabbit-hole-by-tom-eastm</link><description>&lt;p&gt;Description&lt;/p&gt;
+The question: How do I make my website fast?
+
+If that sounds like a loaded question to you: good, we're on the same page.
+
+In this talk I will give you a full overview of one of the most powerful and headache-inducing tools in the web-developer's kit: caching.
+
+This is a talk for all experience levels, from beginner to seriously brain-melty. The code and scenarios we'll be exploring are within the context of a Django project, but the principles are applicable to all of web development.
+
+We'll begin our journey in the light, warm land of web browser caches: learning how you can make your users' web browsers do all the work for you. Making your site feel rocket-fast and responsive with little more than some finely crafted HTTP response headers.
+
+From there, we'll begin our descent into the underworld of server-level caching, using reverse-proxies such as Varnish or Nginx that shield the application code from having to do any work. What they do, how they can help, and more important -- when do they *not* help, and when do you have to go deeper.
+
+Finally we'll explore the dark art of application-level caching. Whether it's caching whole responses, partial responses, preventing repetitive SQL queries or expensive API response serialization calls. And, if our brains haven't exploded yet, we might throw in some asynchronous cached-view-generation  just for good measure.
+
+Whether you're a hobbyist or a grizzled veteran, you should come out of this talk with a few new tricks up your sleeve for making all your sites do more with less work.
+
+Expect references from -- depending on mood -- Alice in Wonderland, The Matrix, or Dante Alighieri's "Inferno".</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3111/caching-a-trip-down-the-rabbit-hole-by-tom-eastm</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/28-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/28-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=bIWnQ3F1eLA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/bIWnQ3F1eLA/hqdefault.jpg"></media:thumbnail></item><item><title>Serialization formats aren't toys by Tom Eastman</title><link>http://www.pyvideo.org/video/3128/serialization-formats-arent-toys-by-tom-eastman</link><description>&lt;p&gt;Description&lt;/p&gt;
+Do you have an API? 
+
+Do you accept input from users? Do you accept it in XML? What about YAML? Or maybe JSON? How safe are you?
+
+Are you sure?
+
+It’s not in the OWASP Top 10, but you don’t have to look far to hear stories of security vulnerabilities involving deserialization of user input. Why do they keep happening?
+
+In this talk I’ll go over what the threat is, how you are making yourself vulnerable and how to mitigate the problem. I’ll cover the features (not bugs, features) of formats like XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.
+
+Because here’s the thing: If you are using, say, a compliant, properly implemented XML parser to parse your XML, you are NOT safe. Possibly quite the opposite.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3128/serialization-formats-arent-toys-by-tom-eastman</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/63-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/63-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=LrW-HSHP0ws" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/LrW-HSHP0ws/hqdefault.jpg"></media:thumbnail></item><item><title>Using Cython for distributed-multiprocess steganographic md5sum-collision generation...</title><link>http://www.pyvideo.org/video/2374/using-cython-for-distributed-multiprocess-stegano-</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cython is a dialect of Python that compiles to native C. In this talk I'll give a general overview of Cython, how it works, and uses it can be put to, both useful and, perhaps, somewhat whimsical.
+
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+Cython is brilliant, it looks like Python but compiles to native C. It can be used as a simple way of writing lightning-fast C extensions for Python, or for a simple means of hooking into already-existing C libraries. If you are writing CPU intensive applications, like, say, hypothetically, cracking one-way cryptographic functions, Cython is a perfect mixture of simple expressiveness while making sure the 'inner loop' of your code is running as close to the bare metal as possible.
+
+And that's all this talk will be about, honest.
+
+Why are you looking at me like that?
+
+**Slides**
+
+https://speakerdeck.com/nzpug/tom-eastman-using-cython-for-distributed-multiprocess-steganographic-md5sum-collision-generation-for-dot-dot-dot-reasons</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Fri, 13 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2374/using-cython-for-distributed-multiprocess-stegano-</guid><enclosure url="http://www.youtube.com/watch?v=Dj9_EIlc_NU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Dj9_EIlc_NU/hqdefault.jpg"></media:thumbnail></item><item><title>Using Cython for distributed-multiprocess steganographic md5sum-collision generation</title><link>http://www.pyvideo.org/video/2232/using-cython-for-distributed-multiprocess-stegano</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Cython is brilliant, it looks like Python but compiles to native C. It can be used as a simple way of writing lightning-fast C extensions for Python, or for a simple means of hooking into already-existing C libraries. If you are writing CPU intensive applications, like, say, hypothetically, cracking one-way cryptographic functions, Cython is a perfect mixture of simple expressiveness while making sure the 'inner loop' of your code is running as close to the bare metal as possible.
+ 
+And that's all this talk will be about, honest.
+
+Why are you looking at me like that?</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Sat, 06 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2232/using-cython-for-distributed-multiprocess-stegano</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Using_Cython_for_distributedmu.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Using_Cython_for_distributedmu.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=6XxJcMSdD2E" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/6XxJcMSdD2E/hqdefault.jpg"></media:thumbnail></item><item><title>The Server Side: The coolest parts of backend development with Django</title><link>http://www.pyvideo.org/video/2246/the-server-side-the-coolest-parts-of-backend-dev</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There are few feelings more sweet than being a web-app backend developer, and knowing that the vaguaries and frustrations of front-end design, Javascript inconsistencies, and web-browser quirks are "Someone Else's Problem". 
+
+The backend developer, instead, has just three goals: Make the system lightning fast and infinitely scalable; ensure its absolute security and impregnability; and guarantee its absolute correctness, stability, and general perfection in the face of all input at all times.
+
+I'll take that over having to debug CSS rendering quirks any day of the week.
+
+In this talk I'll cover these three goals and how Django helps make each one achievable, including a tour of some of the lesser known features of the framework, such as:
+
+ - Magic tricks you can do with Django's caching framework beyond the naive "cache this page", and its ability to take advantage of the browser's own cache in marvellous ways.
+ - Taking Django's testing framework to its logical (and illogical) extremes. Including clever uses of selenium and webdriver to run unit tests, integration tests and even Javascript tests.
+ - Considerations of Django use and web security. Including the sorts of things Django does a great job of protecting you from, and the things where your own due dilligence will always be required.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Eastman</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2246/the-server-side-the-coolest-parts-of-backend-dev</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/The_Server_Side_The_coolest_pa.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/The_Server_Side_The_coolest_pa.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=nTMupredqR0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/nTMupredqR0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

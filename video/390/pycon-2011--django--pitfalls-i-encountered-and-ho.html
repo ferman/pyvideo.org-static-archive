@@ -1,0 +1,363 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Django: Pitfalls I Encountered and How to Avoid Them</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="pycon,pycon2011">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="pycon-2011--django--pitfalls-i-encountered-and-ho.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="pycon-2011--django--pitfalls-i-encountered-and-ho.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/390_django-pitfalls-i-encountered-and-how-to-avoid-them.mp4"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Django: Pitfalls I Encountered and How to Avoid Them</h3>
+      <link property="thumbnailUrl" href="http://a.images.blip.tv/Pycon-PyCon2011DjangoPitfallsIEncounteredAndHowToAvoidThem207-415.jpg"/>
+      <link property="sameAs" href="pycon-2011--django--pitfalls-i-encountered-and-ho.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Django: Pitfalls I Encountered and How to Avoid Them</p>
+<p>Presented by Luke Sneeringer</p>
+<p>Are you starting a moderate to large sized Django project? Do you need to plan
+ahead and build an application that will react to unanticipated needs? This
+talk covers some techniques and pitfalls I encountered in writing my first
+reasonably large Django site, and what I did differently the second time I
+started a project.</p>
+<p>Abstract</p>
+<p>When working on a company product, especially one where developers don't
+always have full control over the scope and needs of the application, it's
+important to plan ahead for unanticipated needs.</p>
+<p>This talk will cover simple tricks and methods that are a small amount of work
+up front, but can save you lots of time later.</p>
+<p>PyCon Talk Outline</p>
+<ol>
+<li>Introduction (5m) <ul>
+<li>Me! </li>
+</ul>
+</li>
+<li>Making Mistakes <ul>
+<li>It happens. "Code quality can be measured by the number of WTFs per minute in the code review." </li>
+<li>When dealing with a big, expansive framework like Django, sometimes you just don't know that something is there. Good docs don't completely solve this...there's always going to be the thing you don't find. Similarly, sometimes you don't realize how to leverage something that you do know about until much later.  </li>
+</ul>
+</li>
+</ol>
+<p>My regrets with my current project aren't sweeping architectural issues. I did
+most of the big stuff right. My regrets are mostly small things that, because
+it was my first big project, there was this piece or that piece that I didn't
+see or didn't fully appreciate, and so now I have little blocks of code that
+are tougher to maintain than they need to be. End of the world? No. Worth
+thinking through for next time? Yes.</p>
+<ol>
+<li>Some trivial things (10m) <ul>
+<li>Preface: Yeah, some of these are dumb. </li>
+<li>Beginning at the beginning: Project Setup </li>
+<li>I had sys.path pointing to the directory above the project root, like the tutorial does. I wish I hadn't done that. </li>
+<li>Need to run two instances on the same box that don't share the actual codebase (e.g. a staging server)? You still can, but it's more awkward. Better to set sys.path at your project root. </li>
+<li>Dude, where's my Media class? </li>
+<li>How did I do it? First I had a magic template variable. Then I copied Form.Media </li>
+<li>Then, on a later project, I realized a block works just fine. </li>
+<li>My boss wants ____ available on every page! </li>
+<li>How did I do it? I had a method we called everywhere that took arbitrary keyword arguments... </li>
+<li>Oh, there's TEMPLATE_CONTEXT_PROCESSORS... <ul>
+<li>...if you manually use RequestContext every time! So, just do that. Always. Even if you don't need it. </li>
+<li>I want .select_related('something') every time! </li>
+<li>...so I typed it! A lot. </li>
+<li>Oh, that can be done by overriding def queryset on the manager class? That's easier to maintain... </li>
+<li>...but make sure you set the flag to use it on related fields! </li>
+</ul>
+</li>
+<li>We need sample data for so-and-so, such-and-such... </li>
+<li>Disclaimer: This one actually isn't mine; my boss did it. But, it's amusing, and worth mentioning. </li>
+<li>We needed sample data so my boss could preview themes...so he set up a second database, put in fake data, and hard-coded it in the app-wide (not server-specific) settings.py. <ul>
+<li>Copied the entire DB structure...at the time. But it changes. </li>
+<li>Oh, and the unit testing framework didn't appreciate it, either. </li>
+</ul>
+</li>
+<li>Fixtures are the right way (and sooner or later I'll get this fixed...it's still there). <ul>
+<li>(space reserved for my stumbling upon something else silly, and hopefully humorous, that I did wrong) </li>
+<li>How to avoid missing trivial things? </li>
+</ul>
+</li>
+<li>Read the documentation. Over and over. </li>
+<li>Become familiar with the Django code. </li>
+</ul>
+</li>
+<li>A non-trivial thing: Forms (10m) <ul>
+<li>Django forms can do anything...given sufficient shenanigans. Always do it the Django forms way; your life will be easier. </li>
+<li>Forms and ModelForms are static, and I needed dynamic choices on a form... </li>
+<li>...so I just ditched newforms </li>
+<li>But wait, this is Python. A trivial function that calls the metaclass can solve this problem! <ul>
+<li>This looks complicated, but it's not. Walk through how to do it. </li>
+<li>It's quite maintainable, and you get all the other bells and whistles. </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Questions? (5m)</li>
+</ol></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/7/pycon-us-2011.html">PyCon US 2011</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/200/luke-sneeringer.html">Luke Sneeringer</a></div>
+            <meta property="author" content="Luke Sneeringer"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>March 11, 2011
+            <meta property="dateCreated" content="2011-03-11"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:27.963267"/>
+            <meta property="datePublished" content="2014-04-08T20:28:27.963267"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            Unknown
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/390_django-pitfalls-i-encountered-and-how-to-avoid-them.mp4" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/390">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">pycon</span>
+          
+            <span property="keywords">pycon2011</span>
+          
+          <meta property="keywords" content="PyCon US 2011"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="pycon-2011--django--pitfalls-i-encountered-and-ho.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('html5');
+      });
+
+      updateVideoOffset('html5');
+    });
+  </script>
+
+</body>
+</html>

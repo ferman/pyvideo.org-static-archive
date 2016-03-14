@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dave Malcolm</title><link>http://www.pyvideo.org/speaker/246/dave-malcolm/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/246/dave-malcolm/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Static analysis of Python extension modules using GCC</title><link>http://www.pyvideo.org/video/648/static-analysis-of-python-extension-modules-using</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Want to analyse C/C++ code using Python? I've written a plugin for GCC that
+embeds Python inside the compiler, allowing you to write new C/C++ compilation
+passes in Python. I've used this to build a static analysis tool that
+understands the CPython extension API, and can automatically detect reference-
+counting bugs, and other errors.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dave Malcolm</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/648/static-analysis-of-python-extension-modules-using</guid><enclosure url="https://www.youtube.com/watch?v=n6145JSeqWc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/n6145JSeqWc/hqdefault.jpg"></media:thumbnail></item><item><title>"Dude, Where's My RAM?" - A deep dive into how Python uses memory</title><link>http://www.pyvideo.org/video/451/pycon-2011---quot-dude--where--39-s-my-ram--quot-</link><description>&lt;p&gt;Description&lt;/p&gt;
+"Dude, Where's My RAM?" - A deep dive into how Python uses memory
+
+Presented by Dave Malcolm
+
+This talk will give a deep dive into how CPython uses memory. I'll be
+demonstrating a new tool I've written that analyses CPython's memory usage,
+and offer hints and tips on how you can reduce the memory footprint of your
+Python programs.
+
+Abstract
+
+Is your Python program using too much memory? This talk will give a deep dive
+into how CPython uses memory - starting from objects in your Python code, down
+through the various implementations layers, eventually reaching actual
+hardware.
+
+In particular, I'll be demonstrating a new tool I've written that can track
+CPython's memory usage down to the level of individual bytes, and offer hints
+and tips on how you can reduce the memory footprint of your Python programs.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dave Malcolm</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/451/pycon-2011---quot-dude--where--39-s-my-ram--quot-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/451_dude-where-s-my-ram-a-deep-dive-into-how-python-uses-memory.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011DudeWheresMyRAMADeepDiveIntoHowPythonUses951.png"></media:thumbnail></item></channel></rss>

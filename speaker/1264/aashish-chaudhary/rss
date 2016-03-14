@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Aashish Chaudhary</title><link>http://www.pyvideo.org/speaker/1264/aashish-chaudhary/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1264/aashish-chaudhary/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Climate &amp; GIS: User Friendly Data Access, Workflows, Manipulation, Analysis and Visualization of Climate Data</title><link>http://www.pyvideo.org/video/2783/climate-gis-user-friendly-data-access-workflo</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Understanding environmental and climate change requires data fusion, format conversions, processing and visualization to gain insight into the data. Our open source scientific Python and JavaScript based tools makes it easy to manipulate geo-spatial and climate data, create and execute workflows, and produce visualizations over the web for scientific and decision making tools.
+&lt;p&gt;Description&lt;/p&gt;
+The impact of climate change will resonate through a broad range of fields
+including public health, infrastructure, water resources, and many others.
+Long-term coordinated planning, funding, and action are required for climate
+change adaptation and mitigation. Unfortunately, widespread use of climate data
+(simulated and observed) in non-climate science communities is impeded by
+factors such as large data size, lack of adequate metadata, poor documentation,
+and lack of sufficient computational and visualization resources. Additionally,
+working with climate data in its native format is not ideal for all types of
+analyses and use cases often requiring technical skills (and software)
+unnecessary to work with other geospatial data formats. 
+
+We present open source tools developed as part of ClimatePipes and
+OpenClimateGIS to address many of these challenges by creating an open source
+platform that provides state-of-the-art user-friendly data access,
+processing, analysis, and visualization for climate and other relevant
+geospatial datasets making the climate and other geospatial data
+available to non-researchers, decision-makers, and other stakeholders.
+
+The overarching goals are: 
+
+* Enable users to explore real-world questions related to environment and climate change.
+* Provide tools for data access, geo-processing, analysis, and visualization.
+* Facilitate collaboration by enabling users to share datasets, workflows, and visualization. 
+
+Some of the key technical features include
+
+1. Support for multiprocessing for large datasets using Python-celery distributed task queuing system
+2. Generic iterators allowing data to be streamed to arbitrary formats (relatively) easily (e.g. ESRI Shapefile, CSV, keyed ESRI Shapefile, CSV, NetCDF)
+3. NumPy based array computations allowing calculations such as monthly means or heat indices optionally on temporally grouped data slices
+4. Decorators to expose existing Python API as a RESTful API
+5. Simple to use, lightweight Web-framework and JavaScript libraries for analyzing and visualizing geospatial datasets using D3 and WebGL.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aashish Chaudhary</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2783/climate-gis-user-friendly-data-access-workflo</guid><enclosure url="http://www.youtube.com/watch?v=0SnB6C-Ixso" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0SnB6C-Ixso/hqdefault.jpg"></media:thumbnail></item><item><title>Reproducible Science: Walking the Walk Part 1</title><link>http://www.pyvideo.org/video/2742/reproducible-science-walking-the-walk-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will train reproducible research warriors on the practices and tools that make experimental verification possible with an end-to-end data analysis workflow.  The tutorial will expose attendees to open science methods during data gathering, storage, analysis up to publication into a reproducible article.  Attendees are expected to have basic familiarity with scientific Python and Git.
+&lt;p&gt;Description&lt;/p&gt;
+The tutorial will cover four hours with the following topics
+
+
+* Introduction (10min)
+   * History of scientific societies and publications
+      * Leeuwenhoek was the Man !
+      * The Invisible College 
+      * Nullius in Verba
+* Replication of the early microscope experiments by Leeuwenhoek[a][b]
+   * Image Acquisition (15 min)
+      * Hands on: Cell camera phone microscope 
+         * With drop of water
+      * Hands on: Each pair acquires images
+   * Data Sharing (45min)
+      * Image gathering, storage, and sharing (15min)
+         * GitHub (www.github.com)
+         * Figshare (www.figshare.com)
+         * Midas (www.midasplatform.com) 
+         * Hands on: Upload the images
+      * Metadata Identifiers (15 min)
+         * Citable
+         * Machine Readable
+         * Hands on: Create data citation and machine readable metadata
+      * Hands on: Download data via RESTful API (15min)
+         * Provenance and 
+         * Python scripts
+         * Hands on: Download the data via HTTP
+   * Break (10min)
+   * Local processing (60min)
+      * Replication Enablement (20min)
+         * Package versioning
+         * Virtual Machines
+         * Docker
+         * Cloud services
+         * Hands on: 
+            * Create a virtualenv
+            * Run our tutorial package verification script
+      * Revision Control with Git (20min)
+         * Keeping track of changes
+         * Unique hashes
+         * Hands on:
+            * Forking a repository in GitHub
+            * Cloning a repository
+            * Creating a branch
+            * Making a commit
+            * Pushing a branch
+            * Diffing
+            * Merging 
+            * Pushing again        
+            * Create pull request
+      * Python scripts (20min)
+         * Data analysis, particle counting.
+         * Hands on:
+            * Run scripts on new data
+            * Generate histogram for the data
+   * Testing (30min)
+      * Unit testing with known data
+      * Regression testing with known data
+      * Hands on: 
+         * Run tests
+         * Add coverage for another method to the unit tests
+   * Break (10min)
+   * Publication Tools (30min)
+      * Article generation 
+      * RST to HTML
+      * GitHub replication and sharing
+      * Hands on: 
+         * Run dexy to generate the document
+   * Reproducibility Verification (30min)
+      * Reproducing Works
+      * Publication of Positive and Negative results
+      * Hands on:
+         * Create Open Science Framework (OSF) project
+         * Connect Figshare and Github to OSF project
+         * Fork or link another group’s project in the OSF to run dexy on their work
+
+
+Infrastructure:
+
+Attendees will use software installed in their laptops to gather and  process data, then publish and share a reproducible report.
+
+They will access repositories in GitHub, upload data to a repository and publish materials necessary to replicate their data analysis.
+
+We expect that wireless network will be have moderate bandwidth to allow all attendees to move data, source code and publications between their laptops and hosting servers.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aashish Chaudhary,Ana Nelson,Arfon Smith,Jean-Christophe Fillion-Robin,Luis Ibanez,Matthew McCormick</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2742/reproducible-science-walking-the-walk-part-1</guid><enclosure url="http://www.youtube.com/watch?v=EzX7MN_bzqg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/EzX7MN_bzqg/hqdefault.jpg"></media:thumbnail></item><item><title>Reproducible Science: Walking the Walk Part 2</title><link>http://www.pyvideo.org/video/2737/reproducible-science-walking-the-walk-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will train reproducible research warriors on the practices and tools that make experimental verification possible with an end-to-end data analysis workflow.  The tutorial will expose attendees to open science methods during data gathering, storage, analysis up to publication into a reproducible article.  Attendees are expected to have basic familiarity with scientific Python and Git.
+&lt;p&gt;Description&lt;/p&gt;
+The tutorial will cover four hours with the following topics
+
+
+* Introduction (10min)
+   * History of scientific societies and publications
+      * Leeuwenhoek was the Man !
+      * The Invisible College 
+      * Nullius in Verba
+* Replication of the early microscope experiments by Leeuwenhoek[a][b]
+   * Image Acquisition (15 min)
+      * Hands on: Cell camera phone microscope 
+         * With drop of water
+      * Hands on: Each pair acquires images
+   * Data Sharing (45min)
+      * Image gathering, storage, and sharing (15min)
+         * GitHub (www.github.com)
+         * Figshare (www.figshare.com)
+         * Midas (www.midasplatform.com) 
+         * Hands on: Upload the images
+      * Metadata Identifiers (15 min)
+         * Citable
+         * Machine Readable
+         * Hands on: Create data citation and machine readable metadata
+      * Hands on: Download data via RESTful API (15min)
+         * Provenance and 
+         * Python scripts
+         * Hands on: Download the data via HTTP
+   * Break (10min)
+   * Local processing (60min)
+      * Replication Enablement (20min)
+         * Package versioning
+         * Virtual Machines
+         * Docker
+         * Cloud services
+         * Hands on: 
+            * Create a virtualenv
+            * Run our tutorial package verification script
+      * Revision Control with Git (20min)
+         * Keeping track of changes
+         * Unique hashes
+         * Hands on:
+            * Forking a repository in GitHub
+            * Cloning a repository
+            * Creating a branch
+            * Making a commit
+            * Pushing a branch
+            * Diffing
+            * Merging 
+            * Pushing again        
+            * Create pull request
+      * Python scripts (20min)
+         * Data analysis, particle counting.
+         * Hands on:
+            * Run scripts on new data
+            * Generate histogram for the data
+   * Testing (30min)
+      * Unit testing with known data
+      * Regression testing with known data
+      * Hands on: 
+         * Run tests
+         * Add coverage for another method to the unit tests
+   * Break (10min)
+   * Publication Tools (30min)
+      * Article generation 
+      * RST to HTML
+      * GitHub replication and sharing
+      * Hands on: 
+         * Run dexy to generate the document
+   * Reproducibility Verification (30min)
+      * Reproducing Works
+      * Publication of Positive and Negative results
+      * Hands on:
+         * Create Open Science Framework (OSF) project
+         * Connect Figshare and Github to OSF project
+         * Fork or link another group’s project in the OSF to run dexy on their work
+
+
+Infrastructure:
+
+Attendees will use software installed in their laptops to gather and  process data, then publish and share a reproducible report.
+
+They will access repositories in GitHub, upload data to a repository and publish materials necessary to replicate their data analysis.
+
+We expect that wireless network will be have moderate bandwidth to allow all attendees to move data, source code and publications between their laptops and hosting servers.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aashish Chaudhary,Ana Nelson,Arfon Smith,Jean-Christophe Fillion-Robin,Luis Ibanez,Matthew McCormick</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2737/reproducible-science-walking-the-walk-part-2</guid><enclosure url="http://www.youtube.com/watch?v=HCyHn_by3N0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/HCyHn_by3N0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Douglas Bagnall</title><link>http://www.pyvideo.org/speaker/56/douglas-bagnall/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/56/douglas-bagnall/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 14 Sep 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Douglas Bagnall - pyserf - a shortcut for writing C extensions in C</title><link>http://www.pyvideo.org/video/109/douglas-bagnall---pyserf---a-shortcut-for-writing</link><description>&lt;p&gt;Description&lt;/p&gt;
+pyserf - a shortcut for writing C extensions in C
+
+Presented by Douglas Bagnall
+
+Abstract
+
+There are many clever ways of connecting Python and C code together, and
+pyserf is one of those. It is just a short script that parses a module outline
+and produces an idiomatic template for a C extension providing the same
+signatures, so all you need to do is write the bits that actually do stuff.
+
+Outline
+
+Pyserf is a tiny project that I wrote for my own use years ago and never
+released because it is so obvious that dozens of better versions must exist.
+The idea is simple -- you write an outline of a module like this:
+
+    
+    
+    """module documentation"""
+    def top_level_function(int_a, float_b):
+       "function documentation"
+       return float_c
+    
+    class SomeModule:
+       """class documentation"""
+       def foo(self, int_ants obj_zoo):
+          """method documentation"""
+          return float_frogs
+    
+
+and pyserf uses the parsing modules in the standard library to generate a C
+file that will compile to an extension providing the interface it describes,
+with the documentation appearing in the right place and the type conversions
+all properly handled. The generated file is not a hideous unreadable mess,
+rather it is within a few characters of best practise according to the
+official tutorial. Once you have this template, you abandon your outline and
+write the middles of each function in C. In describing what pyserf does, this
+talk will demonstrate what is required to write an extension in C by hand, and
+show you some ways of using the standard libraries parsing modules.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Douglas Bagnall</dc:creator><guid>http://www.pyvideo.org/video/109/douglas-bagnall---pyserf---a-shortcut-for-writing</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/109_douglas-bagnall-pyserf-a-shortcut-for-writing-c-extensions-in-c.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-DouglasBagnallPyserfAShortcutForWritingCExtensionsIn519-861.jpg"></media:thumbnail></item><item><title>Douglas Bagnall - Te Tuhi Video Game System</title><link>http://www.pyvideo.org/video/111/douglas-bagnall---te-tuhi-video-game-system</link><description>&lt;p&gt;Description&lt;/p&gt;
+Te Tuhi Video Game System
+
+Presented by Douglas Bagnall
+
+Abstract
+
+Tetuhi is a python program that turns drawings on paper into 2D top-down early
+80s style video games. This talk describes how.
+
+Outline
+
+Te Tuhi Video Game System is not a game in itself; rather it creates games
+based on arbitrary images that it is given. To use it, you draw a picture of
+the game you want to play, and it will give you the game that you really drew.
+The software was originally written for an art exhibit using slightly
+specialised hardware, but it has been released under the GPL and runs on
+ordinary computers. It uses Pygame, PIL, and custom C extensions that allow it
+to evolve a playable game from a wide variety of pictures. This talk will
+discuss the techniques used (both refined algorithms and hacky heuristics) and
+cover topics such as image analysis, machine learning, and interface design.
+There will be a demonstration.
+
+[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Douglas Bagnall</dc:creator><guid>http://www.pyvideo.org/video/111/douglas-bagnall---te-tuhi-video-game-system</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/111_douglas-bagnall-te-tuhi-video-game-system.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-DouglasBagnallTeTuhiVideoGameSystem481-359.jpg"></media:thumbnail></item><item><title>Multimedia programming using Gstreamer (and, of course, Python)</title><link>http://www.pyvideo.org/video/3228/multimedia-programming-using-gstreamer-and-of-c</link><description>&lt;p&gt;Description&lt;/p&gt;
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Douglas Bagnall:
+Multimedia programming using Gstreamer (and, of course, Python)
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 1
+http://kiwi.pycon.org/
+
+**Audience level**
+
+Intermediate
+
+**Description**
+
+Gstreamer is a multimedia framework consisting of hundreds of interchangeable elements that can be plugged together like toy train tracks to create efficient processing pipelines. This talk will show how easy it is to put together reasonably complex Gstreamer pipelines with Python, and indicate why you might want to. It covers Gstreamer 1.x and both versions of CPython.
+
+**Abstract**
+
+Gstreamer [1] is a mature framework for developing applications that decode, encode, play, analyse, broadcast, or otherwise manipulate audio and video streams. It is used on phones and embedded devices, all over the linux desktop [2], and in giant multimedia displays.
+
+It is easy to create simple Gstreamer pipelines using shell one-liners, but with Python it is possible to go beyond that, dealing with multiple parallel streams and reconfiguring pipelines on the fly. Examples drawn from real life problems include interleaving several hundred audio streams into one multi-channel stream and splitting a video stream into 4 parts and sending each to a different projector for perfect syncronisation.
+
+It is also possible to write a Gstreamer plugin in Python, which will be briefly touched on.
+
+[1] http://gstreamer.freedesktop.org/
+[2] http://gstreamer.freedesktop.org/apps/
+
+**Slides**
+
+https://speakerdeck.com/nzpug/douglas-bagnall-multimedia-programming-using-gstreamer-and-of-course-python</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Douglas Bagnall</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3228/multimedia-programming-using-gstreamer-and-of-c</guid><enclosure url="http://youtu.be/YcSRqAJ06KM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YcSRqAJ06KM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

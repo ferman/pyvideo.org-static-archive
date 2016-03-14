@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Peter Baumgartner</title><link>http://www.pyvideo.org/speaker/30/peter-baumgartner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/30/peter-baumgartner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 12 Apr 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Customizing the Django Admin</title><link>http://www.pyvideo.org/video/56/djangocon-2010--customizing-the-django-admin</link><description>&lt;p&gt;Description&lt;/p&gt;
+Customizing the Django Admin
+
+Presented by Peter Baumgartner, and Michael Trythall
+
+How to build great admin user interfaces while still leveraging the power of
+the Django's batteries-included admin.
+
+Abstract
+
+The Django admin interface is a great tool for rapidly viewing and generating
+content, but its default one size fits all approach may not be the best for
+the users of it.
+
+This talk is broken into two parts. First, we will discuss user experience and
+what users have come to expect from an admin tool. In the second half, we'll
+show you how to bend Django's admin to meet those expectations.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Trythall,Peter Baumgartner</dc:creator><guid>http://www.pyvideo.org/video/56/djangocon-2010--customizing-the-django-admin</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/56_customizing-the-django-admin.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CustomizingTheDjangoAdmin322-268.jpg"></media:thumbnail></item><item><title>Getting Started with SaltStack</title><link>http://www.pyvideo.org/video/2618/getting-started-with-saltstack</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Salt is the new kid on the block in the configuration management space. Unlike the Ruby-based Chef and Puppet, Salt is written in Python, making it easy to debug and extend for Python developers.  This talk will introduce Salt as well as explore some of the things that make it unique.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Baumgartner</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2618/getting-started-with-saltstack</guid><enclosure url="http://www.youtube.com/watch?v=mXjLhFUruzA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/mXjLhFUruzA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

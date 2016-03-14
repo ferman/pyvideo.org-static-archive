@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Dylan Jay</title><link>http://www.pyvideo.org/speaker/254/dylan-jay/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/254/dylan-jay/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 14 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Plone for Python Developers</title><link>http://www.pyvideo.org/video/462/pyconau-2010--plone-for-python-developers</link><description>&lt;p&gt;Description&lt;/p&gt;
+Plone for Python Developers
+
+Presented by Dylan Jay (PretaWeb)
+
+Plone is one of the top four open source CMSes in the world and is pure
+python. Plone is in demand for security, simple UI and extreme flexibility.
+This talk will concentrate on helping web programers with several common
+customisations of Plone, including content type creation, themeing and
+template customizations and how the re-architecture using ZTK makes this easy.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><guid>http://www.pyvideo.org/video/462/pyconau-2010--plone-for-python-developers</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/462_pyconau-2010-plone-for-python-developers.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-PloneForPythonDevelopers992.png"></media:thumbnail></item><item><title>PyConAU 2010: whoops I deployed again - new ways to get your app in the cloud</title><link>http://www.pyvideo.org/video/469/pyconau-2010--whoops-i-deployed-again---new-ways-</link><description>&lt;p&gt;Description&lt;/p&gt;
+whoops I deployed again - new ways to get your app in the cloud
+
+Presented by Dylan Jay (PretaWeb)
+
+A overview of new tools for deploying python based applications to servers
+including cloud inferstructure such as Amazon Ec2.
+
+The talk will cover Ian Bicking's Silver Lining, zc.buildout, Fabric and
+hostout. This talk will focus on how to get your first web app hosted easily.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><guid>http://www.pyvideo.org/video/469/pyconau-2010--whoops-i-deployed-again---new-ways-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/469_pyconau-2010-whoops-i-deployed-again-new-ways-to-get-your-app-in-the-cloud.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-whoopsIDeployedAgainNewWaysToGetYourAppInTheCloud589.png"></media:thumbnail></item><item><title>The myth of goldilocks and the three frameworks, Pyramid, Django and Plone</title><link>http://www.pyvideo.org/video/2440/the-myth-of-goldilocks-and-the-three-frameworks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Some people say micro-frameworks like pyramid are too small. Some people say CMS's like Plone are too big. Some people say django is juuuust right. They are all wrong. Come to this talk to find out the other hammers in the world, when you might use them, where I've used them to solve some hard problems and some of the clever ideas behind these technologies demystified.
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
+
+**Audience level**
+
+Intermediate
+
+**Slides**
+
+https://speakerdeck.com/nzpug/dylan-jay-the-myth-of-goldilocks-and-the-three-frameworks-pyramid-django-and-plone</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><pubDate>Sat, 14 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2440/the-myth-of-goldilocks-and-the-three-frameworks</guid><enclosure url="http://www.youtube.com/watch?v=XdKk5rrZG8E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/XdKk5rrZG8E/hqdefault.jpg"></media:thumbnail></item><item><title>The ultimate CMS vs Framework showdown</title><link>http://www.pyvideo.org/video/2240/the-ultimate-cms-vs-framework-showdown</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Is Django a CMS? Is Plone a Framework? For years I've seen developers stumble over the same problem, when should I use a CMS like Plone, Drupal or Wordpress, and when should I use a framework like Django? Covering real case studies of projects gone horribly wrong through the use of the wrong technology. The audience will be left with several solid rules to follow to guide their future development.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2240/the-ultimate-cms-vs-framework-showdown</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/The_ultimate_CMS_vs_Framework_.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/The_ultimate_CMS_vs_Framework_.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=WYpjXOQVEug" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/WYpjXOQVEug/hqdefault.jpg"></media:thumbnail></item><item><title>Keynote: The myth of goldilocks and the three frameworks, Pyramid, Django and Plone</title><link>http://www.pyvideo.org/video/2249/keynote-the-myth-of-goldilocks-and-the-three-fra</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2249/keynote-the-myth-of-goldilocks-and-the-three-fra</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Keynote_The_myth_of_goldilocks.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Keynote_The_myth_of_goldilocks.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=vW1ZhO-_ZQk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/vW1ZhO-_ZQk/hqdefault.jpg"></media:thumbnail></item><item><title>Node Schmode: Pythonic Real-Time Web</title><link>http://www.pyvideo.org/video/1623/node-schmode-pythonic-real-time-web</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Using gevent, pyramid and socket-io for a micro framework approach to creating
+real-time web apps without the braces. Why is gevent so cool and how it can
+let you write fast scalable apps with asynchronous IO without twisting your
+mind.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Using gevent, pyramid and socket-io for a micro framework approach to creating
+real-time web apps without the braces. Why is gevent so cool and how it can
+let you write fast scalable apps with asynchronous IO without twisting your
+mind.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1623/node-schmode-pythonic-real-time-web</guid><enclosure url="http://www.youtube.com/watch?v=Y6ky9fgUCiE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Y6ky9fgUCiE/hqdefault.jpg"></media:thumbnail></item><item><title>How to maintain big app stacks without losing your mind</title><link>http://www.pyvideo.org/video/984/how-to-maintain-big-app-stacks-without-losing-you</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+zc.buildout is a powerful build/configure/deployment tool for creating
+applications from multiple parts, some not python. It's perfect for sharing a
+development environment or deploy applications to many hosts. This tutorial
+will cover basic concepts, similarity to other tools such as virtual-env,
+puppet etc as well as practical examples. zc.buildout has successful been used
+with web applications such as Plone, django and pyramid.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/984/how-to-maintain-big-app-stacks-without-losing-you</guid><enclosure url="http://www.youtube.com/watch?v=XCzk8n9eQ2Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/XCzk8n9eQ2Q/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python in the webs</title><link>http://www.pyvideo.org/video/985/panel-python-in-the-webs</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This will be a panel discussion wherein we wax philosophical about the state
+of web frameworks in Python - talking about invention, reinvention, multitudes
+of choice, how all of them suck, etc. Panelists will include Dylan Jay,
+Malcolm Tredinnick, Russell Keith-Magee and Richard Jones.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay,Malcolm Tredinnick,Richard Jones,Russell Keith-Magee</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/985/panel-python-in-the-webs</guid><enclosure url="http://www.youtube.com/watch?v=0aBCpu53z9Q" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/0aBCpu53z9Q/hqdefault.jpg"></media:thumbnail></item><item><title>Pyramid: Lighter, faster, better web apps</title><link>http://www.pyvideo.org/video/991/pyramid-lighter-faster-better-web-apps</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Introduction to the Pyramid, the new web framework taking the python world by
+storm. This tutorial will cover the basics of a hello world app and cover some
+of the advanced features of pyramid that give it it's power such as traversal.
+Pyramid is part of the pylons project and is a successor to pylons and a
+continuation of the BFG framework. It's very simple to learn, runs fast yet
+has powerful concepts which help keep large web app creation a sane process..
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dylan Jay</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/991/pyramid-lighter-faster-better-web-apps</guid><enclosure url="http://www.youtube.com/watch?v=DBV0MsRu72M" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/DBV0MsRu72M/hqdefault.jpg"></media:thumbnail></item></channel></rss>

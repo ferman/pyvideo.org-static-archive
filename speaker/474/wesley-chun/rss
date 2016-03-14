@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of wesley chun</title><link>http://www.pyvideo.org/speaker/474/wesley-chun/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/474/wesley-chun/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>What is Google App Engine?</title><link>http://www.pyvideo.org/video/1011/what-is-google-app-engine</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Google App Engine is a unique hosting platform that lets you build
+applications and run them in Google's data centers using the massive global
+infrastructure built to run the Internet's most powerful company. App Engine
+offers a development environment that uses familiar technologies (Java and
+Python) and provides a powerful and robust set of APIs to users while
+maintaining security and independence from other apps running in the cloud. It
+is always free to get started so you can try it out with no risk, and if you
+need additional computing resources, you can purchase additional computing
+resources beyond the free quota limits. (If you enable billing and trust us
+with your credit card, we will extend your free quotas even further; you won't
+get charged until you exceed those _extended_ quotas.) Scale your application
+to millions of users and pay only for what you use at competitive market
+pricing.
+
+In this session, we provide an update of the newest features found in the most
+recent releases of the App Engine platform. We also share some suggestions for
+best practices to existing App Engine developers.
+
+Beginners to the App Engine platform will be interested in the introductory
+workshop which may be offered (see description below).
+
+Google App Engine workshop
+
+In this tutorial, we'll give you a comprehensive introduction to the platform
+in two/three components:
+
+  * 1-hour Introduction to Cloud computing and Google App Engine seminar
+  * 3-hour App Engine hands-on workshop/codelab
+
+In the first hour, we review Cloud Computing as an industry and where Google
+App Engine fits into the picture. Specifically, we discuss App Engine as a
+PaaS solution because of the inherent challenges of building web and other
+applications. We'll outline the architecture of App Engine, what it's major
+components are, introduce its features and APIs, discuss the service and how
+it works (including information on the free quotas), present some information
+about current users and usage, including integration with Google Apps, and
+finally, give an overview of its enterprise edition called Google App Engine
+for Business.
+
+After the approximately one-hour lecture, we'll show you how to create
+applications that run on App Engine by building a simple but real web
+application from the ground up via a hands-on coding laboratory. Although
+based on the online tutorial, this codelab goes up and beyond what's in the
+documentation: you will get a more detailed step-by-step instructions to
+replicate that example as well as have the opportunity to extend your
+application with some of the newer APIs that come with App Engine. The codelab
+will cover the Users service, non-relational Datastore, and Memcache APIs.
+Time-permitting, we'll also discuss some of the newest features found in
+recent App Engine releases.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1011/what-is-google-app-engine</guid><enclosure url="http://www.youtube.com/watch?v=YiimQ3zyxRQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YiimQ3zyxRQ/hqdefault.jpg"></media:thumbnail></item><item><title>Python 103: Mmmm... Understanding Python's Memory Model, Mutability, and Methods</title><link>http://www.pyvideo.org/video/1035/python-103-mmmm-understanding-pythons-memory</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 22 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In Python 101, you learned basic Python syntax, what its flow control
+mechanisms and basic data types are and how they work. You learned how to
+write functions and developed executable Python scripts that actually work!
+You probably also learned how to create files, how to open, read from or write
+to them, and close them. Perhaps you've even learned a little bit of object-
+oriented programming, developed a couple of Python classes, most with user-
+defined methods, and have no problems creating instances to use in your
+applications.
+
+In Python 102 (or equivalent in experience), you explored further, using
+default values and variable arguments for functions, discovered how to catch
+exceptions and write handlers for them… perhaps you've even created your own
+exceptions. You have found some useful Python standard library modules and
+using them actively in your own applications. You've quite comfortable with
+OOP, creating classes and using instances regularly in your programs. In fact,
+you've been coding Python for 6 months to a couple of years now. You're much
+more serious about Python now because you're no longer a "beginner." You've
+even taken notice at the growing number of jobs requesting or requiring Python
+skills.
+
+As an aspiring Python developer, you are starting to be more aware of the
+entire ecosystem around you, and think you may be ready for "prime-time" and
+feel able to take on a full-time position as a Python programmer. However, if
+you have experienced one or more of the below questions or problems, this talk
+may be for you:
+
+  * Throughout this time, you've experienced strange bugs in your code. In particular, you notice that things don't always behave the way you expect and have spent a good amount of time debugging various parts of your software that you thought were actually correct - you work around them but are disturbed and don't have the time nor committment to fully investigate.
+
+  * You've created classes and objects just fine but wish that you could use some of Python's operators (like +, in, len(), etc.) with your objects, which feel like they're "2nd-class" citizens compared to the standard data types.
+
+  * Do you know what functional evaluation strategy means? Have you been asked or considered whether Python is "call-by-value" or "call-by-reference"? It is important to you, and can you clearly explain your answer?
+
+  * What does "mutability" mean? What is the difference between mutable and immutable objects? Which Python objects are mutable and which aren't?
+
+  * Can you clearly explain both the output in the two code snippets below, and even more importantly, _why_ the output is the way it is?
+
+SNIPPET A x = 42 y = x x += 1 print x print y
+
+SNIPPET B x = [1, 2, 3] y = x x[0] = 4 print x print y
+
+  * Have you seen odd behavior in container or collection objects like lists or dictionaries? For example, you may have copied those types of objects and discovered weird things happening to both the original and the copy, or that you seen something not quite right if you loop through it and remove items from it. 
+
+This is what Python 103 is for… to fill in all the missing gaps, to answer all
+the questions (including those above) that do not seem to have easy-to-find
+answers on Google, but only if you have the desire to learn more about the
+interpreter to take your Python skills to the next level.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1035/python-103-mmmm-understanding-pythons-memory</guid><enclosure url="http://www.youtube.com/watch?v=HHFCFJSPWrI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/HHFCFJSPWrI/hqdefault.jpg"></media:thumbnail></item><item><title>Using Python in Software for the Medical Industry</title><link>http://www.pyvideo.org/video/1062/using-python-in-software-for-the-medical-industry</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 21 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+The medical industry has long been dominated by custom software written by
+manufacturers of medical equipment. With the widespread use of lower-cost
+computing power and abundance of software developers using cost-beneficial
+open source development tools, it is no surprise that this is a rapidly-
+growing field in software engineering. In this talk, I will describe some of
+my experiences using Python and other open source tools, temporarily
+transitioning from the world of the web and Internet development, jumping into
+the medical industry, an experience much like being a fish out of water. The
+experiences of working in this field, specifically developing software for use
+in clinical trials. We describe the use of open source tools for such software
+development, the required integration with closed-source software, and the
+documentation rigor that is necessary in a field under the jurisdiction of the
+US Food and Drug Administration (FDA). In particular, I'll describe direct
+experience in building an application for the use of analyzing spinal
+fractures and the various tools that make up the application suite, whose
+primary development language was Python. We will also discuss the particular
+role of the my employer at the time in the clinical trials process and
+elaborate on the data flow that was necessary for all medical applications
+developed at the firm, not just the one in particular.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1062/using-python-in-software-for-the-medical-industry</guid><enclosure url="http://www.youtube.com/watch?v=SFi7LpBr-JY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/SFi7LpBr-JY/hqdefault.jpg"></media:thumbnail></item><item><title>Python 103: Mmmm... Understanding Python's Memory Model, Mutability, and Methods</title><link>http://www.pyvideo.org/video/1112/python-103-mmmm-understanding-pythons-memor-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 22 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In Python 101, you learned basic Python syntax, what its flow control
+mechanisms and basic data types are and how they work. You learned how to
+write functions and developed executable Python scripts that actually work!
+You probably also learned how to create files, how to open, read from or write
+to them, and close them. Perhaps you've even learned a little bit of object-
+oriented programming, developed a couple of Python classes, most with user-
+defined methods, and have no problems creating instances to use in your
+applications.
+
+In Python 102 (or equivalent in experience), you explored further, using
+default values and variable arguments for functions, discovered how to catch
+exceptions and write handlers for them… perhaps you've even created your own
+exceptions. You have found some useful Python standard library modules and
+using them actively in your own applications. You've quite comfortable with
+OOP, creating classes and using instances regularly in your programs. In fact,
+you've been coding Python for 6 months to a couple of years now. You're much
+more serious about Python now because you're no longer a "beginner." You've
+even taken notice at the growing number of jobs requesting or requiring Python
+skills.
+
+As an aspiring Python developer, you are starting to be more aware of the
+entire ecosystem around you, and think you may be ready for "prime-time" and
+feel able to take on a full-time position as a Python programmer. However, if
+you have experienced one or more of the below questions or problems, this talk
+may be for you:
+
+  * Throughout this time, you've experienced strange bugs in your code. In particular, you notice that things don't always behave the way you expect and have spent a good amount of time debugging various parts of your software that you thought were actually correct - you work around them but are disturbed and don't have the time nor committment to fully investigate.
+
+  * You've created classes and objects just fine but wish that you could use some of Python's operators (like +, in, len(), etc.) with your objects, which feel like they're "2nd-class" citizens compared to the standard data types.
+
+  * Do you know what functional evaluation strategy means? Have you been asked or considered whether Python is "call-by-value" or "call-by-reference"? It is important to you, and can you clearly explain your answer?
+
+  * What does "mutability" mean? What is the difference between mutable and immutable objects? Which Python objects are mutable and which aren't?
+
+  * Can you clearly explain both the output in the two code snippets below, and even more importantly, _why_ the output is the way it is?
+
+SNIPPET A x = 42 y = x x += 1 print x print y
+
+SNIPPET B x = [1, 2, 3] y = x x[0] = 4 print x print y
+
+  * Have you seen odd behavior in container or collection objects like lists or dictionaries? For example, you may have copied those types of objects and discovered weird things happening to both the original and the copy, or that you seen something not quite right if you loop through it and remove items from it. 
+
+This is what Python 103 is for… to fill in all the missing gaps, to answer all
+the questions (including those above) that do not seem to have easy-to-find
+answers on Google, but only if you have the desire to learn more about the
+interpreter to take your Python skills to the next level.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1112/python-103-mmmm-understanding-pythons-memor-0</guid><enclosure url="http://www.youtube.com/watch?v=34LcNUrFe30" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/34LcNUrFe30/hqdefault.jpg"></media:thumbnail></item><item><title>Python 3: the Next Generation (is here already)</title><link>http://www.pyvideo.org/video/1111/python-3-the-next-generation-is-here-already-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 21 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Python is currently at a crossroads: Python 2 has taken it from a quiet word-
+of-mouth language to primetime, with many companies around the world using it
+and an ever-increasing global marketshare of the programming world. But now
+comes Python 3, the first version of the language that is not backwards
+compatible with previous releases.
+
+What does this mean? Are all my Python programs going to break? Will I have to
+rewrite everything? How much time do I have? When is Python 2 going to be
+EOL'd? Is the language undergoing a complete rewrite and will I even recognize
+it? What are the changes between Python 2 and 3 anyway? Also, the next
+generation is already here, as Python 3 is over two years old now. What has
+been ported so far, and what is its current status? Are migration plans or
+transition tools available? If I want to start learning Python, should I do
+Python 2 or Python 3? Are all Python 2 books obsolete?
+
+We will attempt to answer all of these questions and more. Join us!
+
+OUTLINE/TOPICS
+
+  * Python 2 vs. Python 3
+  * Introduction to Python 3
+  * Backwards Compatibility
+  * Generational Changes
+  * Key Differences
+  * Role of Remaining Python 2.x releases
+  * Transition &amp; Migration Plans &amp; Tools
+  * Futures
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1111/python-3-the-next-generation-is-here-already-0</guid><enclosure url="http://www.youtube.com/watch?v=ovVCnhwu9qQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/ovVCnhwu9qQ/hqdefault.jpg"></media:thumbnail></item><item><title>What is Google App Engine?</title><link>http://www.pyvideo.org/video/1089/what-is-google-app-engine-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Google App Engine is a unique hosting platform that lets you build
+applications and run them in Google's data centers using the massive global
+infrastructure built to run the Internet's most powerful company. App Engine
+offers a development environment that uses familiar technologies (Java and
+Python) and provides a powerful and robust set of APIs to users while
+maintaining security and independence from other apps running in the cloud. It
+is always free to get started so you can try it out with no risk, and if you
+need additional computing resources, you can purchase additional computing
+resources beyond the free quota limits. (If you enable billing and trust us
+with your credit card, we will extend your free quotas even further; you won't
+get charged until you exceed those _extended_ quotas.) Scale your application
+to millions of users and pay only for what you use at competitive market
+pricing.
+
+In this session, we provide an update of the newest features found in the most
+recent releases of the App Engine platform. We also share some suggestions for
+best practices to existing App Engine developers.
+
+Beginners to the App Engine platform will be interested in the introductory
+workshop which may be offered (see description below).
+
+Google App Engine workshop
+
+In this tutorial, we'll give you a comprehensive introduction to the platform
+in two/three components:
+
+  * 1-hour Introduction to Cloud computing and Google App Engine seminar
+  * 3-hour App Engine hands-on workshop/codelab
+
+In the first hour, we review Cloud Computing as an industry and where Google
+App Engine fits into the picture. Specifically, we discuss App Engine as a
+PaaS solution because of the inherent challenges of building web and other
+applications. We'll outline the architecture of App Engine, what it's major
+components are, introduce its features and APIs, discuss the service and how
+it works (including information on the free quotas), present some information
+about current users and usage, including integration with Google Apps, and
+finally, give an overview of its enterprise edition called Google App Engine
+for Business.
+
+After the approximately one-hour lecture, we'll show you how to create
+applications that run on App Engine by building a simple but real web
+application from the ground up via a hands-on coding laboratory. Although
+based on the online tutorial, this codelab goes up and beyond what's in the
+documentation: you will get a more detailed step-by-step instructions to
+replicate that example as well as have the opportunity to extend your
+application with some of the newer APIs that come with App Engine. The codelab
+will cover the Users service, non-relational Datastore, and Memcache APIs.
+Time-permitting, we'll also discuss some of the newest features found in
+recent App Engine releases.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1089/what-is-google-app-engine-0</guid><enclosure url="http://www.youtube.com/watch?v=tT7nNx6ahhA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/tT7nNx6ahhA/hqdefault.jpg"></media:thumbnail></item><item><title>Writing Books using Python &amp; Open Source Software</title><link>http://www.pyvideo.org/video/1087/writing-books-using-python-open-source-software</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] wesley chun - 20 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+All of us are familiar with using open source tools to develop software
+applications with, but instead of writing code, it is also possible to create
+the manuscript of a book in very much the same way. These days, authors have
+many choices in terms of the tools which are available to aid them in writing
+a book. Gone are the times when the only option is using a proprietary word
+processor, so why not try it using open source tools? It's especially
+attractive to those who develop software using open source tools as well those
+who are writing books about open source tools. Both code and the written word
+are created in plain text files. These files are easily archived using some
+version control system. They can be shared easily via e-mail and can also be
+backed up in the same manner. In the end, the final product is shipped to the
+customer: in the case of software, it's distribution via CD or DVD, or perhaps
+a release for installation on a server, and for a book, it's delivering a
+manuscript to the publisher, perhaps in a format such as HTML or PDF®.
+
+Upon some reflection, writing a book is, in many ways, similar to writing an
+application: you create text or code which is saved to a file (or files-
+typically one but could be more) file in some format, proprietary or
+otherwise. Additions, changes, or deletions are made to the file(s), which is
+then updated when the file is (re)saved. Backups need to be made, some
+versioning may be required to keep track of multiple files during the course
+of development, and finally, the resulting file(s) have to be delivered, as
+described above. Because of all the similarities described, we assert that it
+is possible to use a development environment utilizing Python and other open
+source tools to not only write application with, but also be able to create
+the entire manuscript for a book as well! While this entire concept should not
+really be mind-blowing, it does represent a trend seemingly growing in
+popularity in the open source world.
+
+In particular, we highlight the following requirements that are necessary when
+creating a manuscript, especially with co-authors:
+
+  * Text Formatting
+  * Editing
+  * Versioning and Backups
+  * Automated Testing of Code
+  * HTML/PDF® Generation
+  * Author Communication
+
+In this talk, we highlight one particular case study, the development of
+Addison Wesley's 2009 publication, "Python Web Development with Django", as
+well as provide some insight into other projects created using similar tools.
+Open source software has radically affected how applications are built today,
+and this phenomenon has the ability to affect the book publishing world in the
+same way.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">wesley chun</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1087/writing-books-using-python-open-source-software</guid><enclosure url="http://www.youtube.com/watch?v=1QTMeb9m_lE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/1QTMeb9m_lE/hqdefault.jpg"></media:thumbnail></item></channel></rss>

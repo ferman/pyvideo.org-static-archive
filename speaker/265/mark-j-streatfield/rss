@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mark J Streatfield</title><link>http://www.pyvideo.org/speaker/265/mark-j-streatfield/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/265/mark-j-streatfield/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:39 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Python Goes to the Movies</title><link>http://www.pyvideo.org/video/476/pyconau-2010--python-goes-to-the-movies</link><description>&lt;p&gt;Description&lt;/p&gt;
+Python Goes to the Movies
+
+Presented by Mark J Streatfield (Dr. D. Studios.)
+
+As Hollywood continues to churn out blockbuster films such as Avatar, the
+technology used to produce the eye popping visual effects is increasingly
+becoming the nomenclature of the everyday movie-goer. While attention is often
+paid to the headline techniques such as motion capture and complex physics
+simulation, few realise that the majority of the work is underpinned by a
+foundation of Python. This talk introduces the application of Python in the
+visual effects industry.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark J Streatfield</dc:creator><guid>http://www.pyvideo.org/video/476/pyconau-2010--python-goes-to-the-movies</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/476_pyconau-2010-python-goes-to-the-movies.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-PythonGoesToTheMovies711.png"></media:thumbnail></item></channel></rss>

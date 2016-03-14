@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Goodger</title><link>http://www.pyvideo.org/speaker/124/david-goodger/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/124/david-goodger/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>wxPython II: Introduction to GUI Programming and MVC</title><link>http://www.pyvideo.org/video/288/pycon-2010--wxpython-ii--introduction-to-gui-prog</link><description>&lt;p&gt;Description&lt;/p&gt;
+wxPython II: Introduction to GUI Programming and MVC
+
+Presented by David Goodger
+
+wxPython is an open-source graphical user interface (GUI) toolkit that runs on
+multiple platforms, including Linux, Windows, and Mac OS X. By the end of this
+tutorial, attendees will understand the concepts behind the Model-View-
+Controller (MVC) design pattern and will have built a complex wxPython
+application.
+
+Intended Audience
+
+Python programmers (of any level; familiarity with Python is assumed) with
+some wxPython experience. Attending the "wxPython I" tutorial is recommended.
+
+Requirements
+
+Attendees are welcome to bring a laptop loaded with Python 2.4+ and wxPython
+2.6+ to follow along, but this is not required.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Goodger</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/288/pycon-2010--wxpython-ii--introduction-to-gui-prog</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/288_wxpython-ii-introduction-to-gui-programming-and-mvc.ogv" length="889329578" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010wxPythonIIIntroductionToGUIProgrammingAndMVC717.png"></media:thumbnail></item></channel></rss>

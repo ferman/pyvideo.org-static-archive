@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mark Shannon</title><link>http://www.pyvideo.org/speaker/545/mark-shannon/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/545/mark-shannon/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>HotPy (2) - A High Performance Binary-Compatible Virtual Machine for Python</title><link>http://www.pyvideo.org/video/1261/hotpy-2-a-high-performance-binary-compatible</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Mark Shannon - 5 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+HotPy (2) is a new interpreter for Python. It is binary compatible with
+CPython and reuses CPython’s object and module implementations. The core
+interpreter is new and uses many of the techniques developed during the 1990s
+and 2000s plus a technique developed during my PhD. Once the first stage of
+the optimisation chain is completed (May or June), HotPy is expected to be
+between 2 and 3 times as fast as CPython. It will probably never be as fast as
+PyPy, but it might be possible to get close. During the talk I will explain
+how it works (with lots of pictures), and how it compares to CPython and PyPy.
+I will also discuss whether the techniques used in HotPy would be suitable for
+Jython and IronPython.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Shannon</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1261/hotpy-2-a-high-performance-binary-compatible</guid><enclosure url="http://www.youtube.com/watch?v=c6PYnZUMF7o" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/c6PYnZUMF7o/hqdefault.jpg"></media:thumbnail></item><item><title>Making CPython Fast Using Trace-based Optimisations</title><link>http://www.pyvideo.org/video/1130/making-cpython-fast-using-trace-based-optimisatio</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Mark Shannon - 24 June 2011 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+CPython can be made faster by implementing the sort of optimizations used in
+the PyPy VM, and in my HotPy VM. All the necessary changes can be made without
+modifying the language or the API.
+
+The CPython VM can be modified to support optimizations by adding an effective
+garbage collector and by separating the virtual-machine state from the real-
+machine state (like Stackless).
+
+Optimizations can be implemented incrementally. Since almost all of the
+optimizations are implemented in the interpreter, all hardware platforms can
+benefit. JIT compiler(s) can then be added for common platforms (intel, ARM,
+etc.).
+
+For more information see
+[http://hotpy.blogspot.com/](http://hotpy.blogspot.com/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Shannon</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1130/making-cpython-fast-using-trace-based-optimisatio</guid><enclosure url="http://www.youtube.com/watch?v=3uTnXITm-kA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3uTnXITm-kA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

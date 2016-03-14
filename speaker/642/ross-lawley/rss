@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ross Lawley</title><link>http://www.pyvideo.org/speaker/642/ross-lawley/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/642/ross-lawley/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Building your first app with python and MongoDB</title><link>http://www.pyvideo.org/video/1254/building-your-first-app-with-python-and-mongodb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Ross Lawley - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+MongoDB - from “humongous” - is an open source, non-relational, document-
+oriented database. Trading off a few traditional features of databases
+(Notably joins and transactions) in order to Achieve much better performance,
+MongoDB is fast, scalable, and designed for web development. The goal of the
+project is MongoDB to bridge the gap between key-value stores (which are fast
+and highly scalable) and traditional RDBMS systems (which queries Provide rich
+and deep functionality). This talk will introduce the rich feature set of
+mongoDB and examine how easy it is to develop with using python. We’ll discuss
+the various ODM’s solutions that really let you develop quickly and how
+mongoDB can be used to easily scale.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ross Lawley</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1254/building-your-first-app-with-python-and-mongodb</guid><enclosure url="http://www.youtube.com/watch?v=FLIEJt6IymY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/FLIEJt6IymY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

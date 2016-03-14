@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alex Sharp</title><link>http://www.pyvideo.org/speaker/838/alex-sharp/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/838/alex-sharp/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 22 Aug 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Big data with python</title><link>http://www.pyvideo.org/video/1621/big-data-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Dealing with big data isn't a particularly new problem. There are all sorts of
+new solutions, each with their own niche, their own hype. It's important to
+remember that python is not "too slow" for big data, and that with projects
+such as
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Dealing with big data isn't a particularly new problem. There are all sorts of
+new solutions, each with their own niche, their own hype. It's important to
+remember that python is not "too slow" for big data, and that with projects
+such as scipy, numpy, cython and rpy, python is becoming a better tool then
+ever for data processing. In this talk we'll be explaining some of the theory
+behind big data problems, where python fits in and some of the more
+interesting things you can do.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Sharp</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1621/big-data-with-python</guid><enclosure url="http://www.youtube.com/watch?v=sN3pRNh-_6Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/sN3pRNh-_6Y/hqdefault.jpg"></media:thumbnail></item></channel></rss>

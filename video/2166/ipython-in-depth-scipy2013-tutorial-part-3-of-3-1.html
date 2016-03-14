@@ -1,0 +1,359 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - IPython in Depth, SciPy2013 Tutorial, Part 3 of 3</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="Tech">
+  
+    <meta name="description" content="Presenters: Fernando Perez, Brian Granger
+
+Description
+
+IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.
+
+We will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.
+
+Outline
+
+IPython started in 2001 simply as a better interactive Python shell. Over the last decade it has grown into a powerful set of interlocking tools that maximize developer productivity in Python while working interactively.
+
+Today, IPython consists of a kernel that executes the user code and provides many features for introspection and namespace manipulation, and tools to control this kernel either in-process or out-of-process thanks to a well-specified communications protocol implemented over ZeroMQ. This architecture allows the core features to be accessed via a variety of clients, each providing unique functionality tuned to a specific use case:
+
+An interactive, terminal-based shell with capabilities beyond the default Python interactive interpreter (this is the classic application opened by the ipython command that most users are familiar with).
+
+A Qt console that provides the look and feel of a terminal, but adds support for inline figures, graphical calltips, a persistent session that can survive crashes of the kernel process, and more. A user-based review of some of these features can be found here.
+
+A web-based notebook that can execute code and also contain rich text and figures, mathematical equations and arbitrary HTML. This notebook presents a document-like view with cells where code is executed but that can be edited in-place, reordered, mixed with explanatory text and figures, etc. The notebook provides an interactive experience that combines live code and results with literate documentation and the rich media that modern browsers can display.
+
+A high-performance, low-latency system for parallel computing that supports the control of a cluster of IPython engines communicating over ZeroMQ, with optimizations that minimize unnecessary copying of large objects (especially numpy arrays). These engines can be controlled interactively while developing and doing exploratory work, or can run in batch mode either on a local machine or in a large cluster/supercomputing environment via a batch scheduler.
+
+In this hands-on, in-depth tutorial, we will briefly describe IPython&#39;s architecture and will then show how to use the above tools for a highly productive workflow in Python.
+
+Required Packages
+
+Enthought Canopy OR
+Anaconda OR
+Linux packages for IPython, NumPy, Matplotlib, SymPy
+See http://ipython.org/install.html for further installation details.
+
+IPython version 0.13.1 or higher will be required.
+
+Documentation
+
+A GitHub repo with our tutorial materials:
+
+https://github.com/ipython/ipython-in-depth">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="ipython-in-depth-scipy2013-tutorial-part-3-of-3-1.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="ipython-in-depth-scipy2013-tutorial-part-3-of-3-1.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=4tJKZWWRs6s"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">IPython in Depth, SciPy2013 Tutorial, Part 3 of 3</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/4tJKZWWRs6s/hqdefault.jpg"/>
+      <link property="sameAs" href="ipython-in-depth-scipy2013-tutorial-part-3-of-3-1.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Presenters: Fernando Perez, Brian Granger</p>
+<p>Description</p>
+<p>IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.</p>
+<p>We will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.</p>
+<p>Outline</p>
+<p>IPython started in 2001 simply as a better interactive Python shell. Over the last decade it has grown into a powerful set of interlocking tools that maximize developer productivity in Python while working interactively.</p>
+<p>Today, IPython consists of a kernel that executes the user code and provides many features for introspection and namespace manipulation, and tools to control this kernel either in-process or out-of-process thanks to a well-specified communications protocol implemented over ZeroMQ. This architecture allows the core features to be accessed via a variety of clients, each providing unique functionality tuned to a specific use case:</p>
+<p>An interactive, terminal-based shell with capabilities beyond the default Python interactive interpreter (this is the classic application opened by the ipython command that most users are familiar with).</p>
+<p>A Qt console that provides the look and feel of a terminal, but adds support for inline figures, graphical calltips, a persistent session that can survive crashes of the kernel process, and more. A user-based review of some of these features can be found here.</p>
+<p>A web-based notebook that can execute code and also contain rich text and figures, mathematical equations and arbitrary HTML. This notebook presents a document-like view with cells where code is executed but that can be edited in-place, reordered, mixed with explanatory text and figures, etc. The notebook provides an interactive experience that combines live code and results with literate documentation and the rich media that modern browsers can display.</p>
+<p>A high-performance, low-latency system for parallel computing that supports the control of a cluster of IPython engines communicating over ZeroMQ, with optimizations that minimize unnecessary copying of large objects (especially numpy arrays). These engines can be controlled interactively while developing and doing exploratory work, or can run in batch mode either on a local machine or in a large cluster/supercomputing environment via a batch scheduler.</p>
+<p>In this hands-on, in-depth tutorial, we will briefly describe IPython's architecture and will then show how to use the above tools for a highly productive workflow in Python.</p>
+<p>Required Packages</p>
+<p>Enthought Canopy OR
+Anaconda OR
+Linux packages for IPython, NumPy, Matplotlib, SymPy
+See http://ipython.org/install.html for further installation details.</p>
+<p>IPython version 0.13.1 or higher will be required.</p>
+<p>Documentation</p>
+<p>A GitHub repo with our tutorial materials:</p>
+<p>https://github.com/ipython/ipython-in-depth</p></div>
+        <meta property="caption" content="Presenters: Fernando Perez, Brian Granger
+Description
+IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.
+We will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.
+Outline
+IPython started in 2001 simply as a better interactive Python shell. Over the last decade it has grown into a powerful set of interlocking tools that maximize developer productivity in Python while working interactively.
+Today, IPython consists of a kernel that executes the user code and provides many features for introspection and namespace manipulation, and tools to control this kernel either in-process or out-of-process thanks to a well-specified communications protocol implemented over ZeroMQ. This architecture allows the core features to be accessed via a variety of clients, each providing unique functionality tuned to a specific use case:
+An interactive, terminal-based shell with capabilities beyond the default Python interactive interpreter (this is the classic application opened by the ipython command that most users are familiar with).
+A Qt console that provides the look and feel of a terminal, but adds support for inline figures, graphical calltips, a persistent session that can survive crashes of the kernel process, and more. A user-based review of some of these features can be found here.
+A web-based notebook that can execute code and also contain rich text and figures, mathematical equations and arbitrary HTML. This notebook presents a document-like view with cells where code is executed but that can be edited in-place, reordered, mixed with explanatory text and figures, etc. The notebook provides an interactive experience that combines live code and results with literate documentation and the rich media that modern browsers can display.
+A high-performance, low-latency system for parallel computing that supports the control of a cluster of IPython engines communicating over ZeroMQ, with optimizations that minimize unnecessary copying of large objects (especially numpy arrays). These engines can be controlled interactively while developing and doing exploratory work, or can run in batch mode either on a local machine or in a large cluster/supercomputing environment via a batch scheduler.
+In this hands-on, in-depth tutorial, we will briefly describe IPython&#39;s architecture and will then show how to use the above tools for a highly productive workflow in Python.
+Required Packages
+Enthought Canopy OR
+Anaconda OR
+Linux packages for IPython, NumPy, Matplotlib, SymPy
+See http://ipython.org/install.html for further installation details.
+IPython version 0.13.1 or higher will be required.
+Documentation
+A GitHub repo with our tutorial materials:
+https://github.com/ipython/ipython-in-depth"/>
+      </div>
+    
+
+    
+
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/37/scipy-2013.html">SciPy 2013</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            Unknown
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>June 27, 2013
+            <meta property="dateCreated" content="2013-06-27"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:26.488583"/>
+            <meta property="datePublished" content="2014-04-08T20:28:26.488583"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=4tJKZWWRs6s" property="embedUrl">http://www.youtube.com/watch?v=4tJKZWWRs6s</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2166">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">Tech</span>
+          
+          <meta property="keywords" content="SciPy 2013"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="ipython-in-depth-scipy2013-tutorial-part-3-of-3-1.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mirko Dziadzka</title><link>http://www.pyvideo.org/speaker/763/mirko-dziadzka/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/763/mirko-dziadzka/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 30 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Praktische Anwendung von Metaklassen</title><link>http://www.pyvideo.org/video/1436/praktische-anwendung-von-metaklassen</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Metaklassen (metaclasses) in Python werden oft als exotische Spracheigenschaft
+betrachtet. Der Vortrag zeigt anhand konkreter Beispiele, wie sich Metaklassen
+in realen Projekten zum Debuggen und zum Code vereinfachen einsetzen lassen.
+
+# Praktische Anwendungen von Metaklassen
+
+Python besitzt mit den Metaklassen ein sehr mächtiges Werkzeug, um orthogonale
+Eigenschaften eines Programms zu Implementieren. Das Stichwort dazu lautet
+"aspektorientiertes Programmieren". Leider werden Metaklassen aber oft als
+komplex und schwierig angesehen.
+
+Der Vortrag zeigt an einem konkreten Beispiel, wie sich durch die Verwendung
+von Metaklassen Programmentwicklung vereinfachen kann. Konkret wird die
+Implementation eines einfachen Debug- und Trace Frameworks vorgestellt.
+
+Dieses erlaubt das nachträgliche instrumentieren von Klassen-Methoden, um eine
+selektive Ablaufverfolgung von Methodenaufrufen auf Objekten ermöglicht. Dies
+wird erreicht, ohne das diese Debug Aufrufe im normalen Quellcode erscheinen
+oder bei nicht Benutzung Performance Auswirkungen haben.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mirko Dziadzka</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1436/praktische-anwendung-von-metaklassen</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Praktische_Anwendung_v.mp4?Signature=3JFs0BklwaXWVciMRq0u9cAbwew%3D&amp;Expires=1352042733&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Praktische_Anwendung_v.mp4?Signature=3JFs0BklwaXWVciMRq0u9cAbwew%3D&amp;Expires=1352042733&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-dU-O8ksYDM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-dU-O8ksYDM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Richard T. Saunders</title><link>http://www.pyvideo.org/speaker/198/richard-t--saunders/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/198/richard-t--saunders/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: Plenary: Morning Lightning Talks</title><link>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plenary: Morning Lightning Talks covering GeoDjango, Zope, Launchpad, JSOT,
+AppEngine, StackOverflow, Miro, zc.buildout and RPM, ham radio, Plyne,
+GozerBot, picking tools, and stop watch.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * (00:20) GeoDjango - Justin Bronn 
+  * (05:50) What's up with Zope - Martijn Faassen 
+  * (10:55) Scripting Launchpad - Paul Hummer 
+  * (13:50) JSQT - ? 
+  * (16:10) Python, AppEngine, and Informatics - Charles Severance 
+  * (20:55) an online game called stackoverflow - John Mulder 
+  * (25:25) Miro - Chris Webber 
+  * (28:40) Deploying applications with zc.buildout and RPM - Jim Fulton 
+  * (34:10) Ham radio and Python - Adam Fast 
+  * (38:30) Plone + Pylons = Plyne - Roberto Allende 
+  * (41:35) GozerBot - John Hampton 
+  * (44:25) Software Engineering and the Pickling Tools - Rich Saunders 
+  * (48:45) Talks about the stop watch 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Fast,Charles Severance,Christopher Allan Webber,JIm Fulton,John Hampton,John Mulder,Justin Bronn,Martin Faassen,Paul Hummer,Richard T. Saunders,Roberto Allende</dc:creator><guid>http://www.pyvideo.org/video/227/pycon-2009--plenary--morning-lightning-talks</guid><enclosure url="http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalks730.mp4" length="242768891" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PlenaryMorningLightningTalks730-226.jpg"></media:thumbnail></item><item><title>Everything You Wanted To Know About Pickling, But Were Afraid To Ask!</title><link>http://www.pyvideo.org/video/384/pycon-2011--everything-you-wanted-to-know-about-p</link><description>&lt;p&gt;Description&lt;/p&gt;
+Everything You Wanted To Know About Pickling, But Were Afraid To Ask!
+
+Presented by Richard T. Saunders
+
+Serializing data structures (in Python-speak "pickling") to save to
+disk/socket is an important tool for the programmer: We will discuss how the
+pickling protocols (0,1,2, and 3) work as well as real-world issues (gotchas,
+backwards-compatibility, etc). We will concentrate on the basics of this
+stack-based protocol: what it looks like, how to encode/decode, speeds of
+different implementations.
+
+Abstract
+
+The Pickling Protocols are a fundamental tool for saving state.
+
+We will discuss the differences between text serialization and Python pickling
+(as well as marshalling, and simple bit-blitting).
+
+We will spend a little time discussing history: why there is a cPickle and
+pickle module in 2.x and only pickle in 3.x., and why there are 4 different
+protocols: 0,1,2 and 3.
+
+We will then dive right in and look at how the stack-based protocol works. We
+will concentrate on the basics (the stack-based machine), as all the protocols
+adhere to this basic model, but tend to discuss the more recent protocols and
+their differences. We will also discuss how the memoization scheme works.
+
+We will show some simple examples and then build to more complex examples.
+
+We will also discuss the relative speeds: the different protocols (text,
+0,1,2,3) and the different implementations (Python, Boost, PicklingTools,
+IronPython?, PyPy? Unladen Swallow?).
+
+We will end with some real-world advice and some gotchas to watch out for
+(32-bit vs. 64-bit, different versions of Python serialize differently, etc.).
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard T. Saunders</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/384/pycon-2011--everything-you-wanted-to-know-about-p</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/384_everything-you-wanted-to-know-about-pickling-but-were-afraid-to-ask.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011EverythingYouWantedToKnowAboutPicklingButWere385.png"></media:thumbnail></item></channel></rss>

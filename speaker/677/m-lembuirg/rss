@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of M Lembuirg</title><link>http://www.pyvideo.org/speaker/677/m-lembuirg/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/677/m-lembuirg/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 05 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Pyrun - the one file python runtime environment</title><link>http://www.pyvideo.org/video/1300/pyrun-the-one-file-python-runtime-environment</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Lembuirg - 4 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Introducing a simple to deploy Python run-time which can be used to easily
+ship products based on Python, create custom private Python environments and
+have Python readily available without having to install it first. The talk
+will give a short introduction on what pyrun can deliver, how it can be used
+and how to build it.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Lembuirg</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1300/pyrun-the-one-file-python-runtime-environment</guid><enclosure url="http://www.youtube.com/watch?v=VnyvyTgWbzg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/VnyvyTgWbzg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

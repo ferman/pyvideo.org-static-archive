@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stefan</title><link>http://www.pyvideo.org/speaker/1379/stefan/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1379/stefan/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 25 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Event discrete simulation with SimPy</title><link>http://www.pyvideo.org/video/2944/event-discrete-simulation-with-simpy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Often, experiments with real world systems are high-risk, accompanied by high
+costs or not even possible at all. That’s when simulations come into play.
+This talk will give a brief introduction into the topic of simulation. By means
+of simple examples, it will demonstrate how you can use SimPy to implement
+event-discrete simulations and which features SimPy offers to help you doing
+that.
+&lt;p&gt;Description&lt;/p&gt;
+Simulation is important for the analysis of complex systems or the analysis of
+the impact of certain actions on that systems. They are especially useful if
+the actions are potentially harmful or expensive.
+
+Simulation is used in various natural scientific and economic areas, e.g., for
+the modeling and study of biological or physical systems, for resource
+scheduling and optimization or at the research for the integration of renewable
+energies into the power grid (my personal background). The simulated time can
+thereby be seen as continuous or discrete (discrete time or discrete event).
+
+In this talk, I want to show why Python is a good choice for implementing
+simulation models and how SimPy can help here.
+
+Structure of the talk (20min talking + 5min discussion + 5min buffer):
+
+- Why simulation? (5min)
+- History of SimPy (3min)
+- How does SimPy work? (9min)
+- Conclusion (3min)
+
+In the introduction, I’ll briefly explain what simulation is and motivate, why
+it is a useful tool.
+
+The main part will consist of an introduction and demonstration of SimPy. Since
+SimPy is now more then ten years old, I’ll first give a quick overview about
+its history and development. Afterwards, I’ll explain SimPy’s concepts and
+features by means of simple examples.
+
+In the conclusion, I’ll give a short outlook on the future development of
+SimPy.
+
+The main goal of this talk is to create awareness that simulation is a powerful
+tool in a lot of domains and to give the audience enough information to ease
+their first steps.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefan</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2944/event-discrete-simulation-with-simpy</guid><enclosure url="http://www.youtube.com/watch?v=Bk91DoAEcjY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Bk91DoAEcjY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

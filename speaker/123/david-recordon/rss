@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Recordon</title><link>http://www.pyvideo.org/speaker/123/david-recordon/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/123/david-recordon/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Hacking the Social Web with Python</title><link>http://www.pyvideo.org/video/286/pycon-2010--hacking-the-social-web-with-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+Open Stack: Hacking the Social Web
+
+Presented by David Recordon/Mike Malone
+
+In this tutorial we'll explain what the Open Stack is and how you can use
+tools like OAuth, OpenID, and Portable Contacts to integrate your app with the
+rest of the web. We'll cover each component in depth, and walk through example
+Python implementations for a variety of scenarios.
+
+Intended Audience
+
+  * Beginning to intermediate Python programmers interested in Web Development 
+  * Python programmers who provide or consumer web service APIs 
+
+Class Outline
+
+  * Intro: what is the "Open Stack" 
+  * Working with HTTP in Python 
+  * Working with responses: JSON, XML, Atom, RSS, HTML 
+  * Decentralized identity with OpenID 
+    * Implementing a Provider in Python 
+    * Implementing a Relying Party in Python 
+  * Delegated authorization with OAuth 
+    * Implementing a Provider in Python 
+    * Implementing a Consumer in Python 
+  * Exchanging contacts with Portable Contacts 
+  * Aggregating activity with Activity Streams 
+  * Discovering how to communicate: LRDD + XRD 
+  * Making markup structured: microformats 
+  * The future of the Open Stack 
+  * Learn more &amp; get involved: resources and communities 
+  * Q&amp;A;
+
+Requirements
+
+Some experience doing web development or working with web service APIs
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Recordon,Mike Malone</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/286/pycon-2010--hacking-the-social-web-with-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/286_hacking-the-social-web-with-python.ogv" length="923087859" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/286_hacking-the-social-web-with-python.ogv" fileSize="923087859" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/286_hacking-the-social-web-with-python.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010HackingTheSocialWebWithPython694-349.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Gabriele Bartolini</title><link>http://www.pyvideo.org/speaker/551/gabriele-bartolini/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/551/gabriele-bartolini/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 29 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Il progetto Barman: Open Source, Team, devops, kanban, PostgreSQL e Python</title><link>http://www.pyvideo.org/video/3616/il-progetto-barman-open-source-team-devops-ka</link><description>&lt;p&gt;Description&lt;/p&gt;
+Barman è un software open source per la disaster recovery di database PostgreSQL, probabilmente, in questo momento, il tool più utilizzato al mondo per questo scopo.
+È un progetto open source nato nel 2012, scritto in Python e totalmente sviluppato in Italia.
+In questo talk vogliamo condividere i processi di sviluppo e le tecnologie impiegati in 2ndQuadrant per lo sviluppo di Barman e l’importanza fondamentale della collaborazione fra tutti i membri del team, grazie a cultura devops, kanban, metodologie agili, pair programming, testing, ecc.
+Il talk è presentato insieme a Marco Nenciarini.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gabriele Bartolini</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3616/il-progetto-barman-open-source-team-devops-ka</guid><enclosure url="https://www.youtube.com/watch?v=bRnFXei2ePw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/bRnFXei2ePw/maxresdefault.jpg"></media:thumbnail></item><item><title>PostgreSQL 9.4 per devops</title><link>http://www.pyvideo.org/video/3614/postgresql-94-per-devops</link><description>&lt;p&gt;Description&lt;/p&gt;
+Il database relazionale open source più avanzato al mondo non smette di migliorarsi.
+Scopri le novità introdotte nella versione 9.4 di PostgreSQL, opportunamente classificate in un’ottica devops, ed in particolare:
+
+replica logica in streaming, il primo passo per replica bidirezionale e multi-master
+supporto per il tipo di dato JSONB, per la felicità degli amanti dei database NoSQL
+refresh concorrente di viste materializzate, per gli amanti dei data warehouse
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gabriele Bartolini</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3614/postgresql-94-per-devops</guid><enclosure url="https://www.youtube.com/watch?v=42P5fiXUHtk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/42P5fiXUHtk/maxresdefault.jpg"></media:thumbnail></item><item><title>PostgreSQL 9 4 per devops (in English)</title><link>http://www.pyvideo.org/video/3618/postgresql-9-4-per-devops-in-english</link><description>&lt;p&gt;Description&lt;/p&gt;
+The world’s best open source database won’t stop improving!
+Discover the new features introduced in PostgreSQL 9.4, classified from a devops point of view, in particular:
+
+logical streaming replication, the foundation of bi-directional and multi-master replication
+JSONB data type support, dedicated to NoSQL lovers!
+concurrent refresh of materialised views, dedicated to data warehouse fans!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gabriele Bartolini</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3618/postgresql-9-4-per-devops-in-english</guid><enclosure url="https://www.youtube.com/watch?v=mh9bDeIFcUA" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mh9bDeIFcUA/maxresdefault.jpg"></media:thumbnail></item><item><title>Getting ready for PostgreSQL 9.1</title><link>http://www.pyvideo.org/video/1145/getting-ready-for-postgresql-91</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Gabriele Bartolini,Harald Armin Massa,Marco Nenciarini - 22
+June 2011 in "Training Pizza Napoli "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PostgreSQL is an advanced, versatile open-source database management system
+that integrates perfectly with Python. It is developed by a very active
+international community and is distributed under the BSD-like PostgreSQL
+License.
+
+Enterprise-class features (including SQL standard compliance, ACID
+transactions, disaster recovery, high availability, replication, partitioning
+and general extensibility) make PostgreSQL suitable for business critical
+environments seeking to reduce the TCO of their database solutions without
+altering their functional needs. PostgreSQL 9.0, released in September 2010,
+was the first version of PostgreSQL with Hot Standby, a built-in master/slave
+replication mechanism. Asynchronous replication through the standard and
+consolidated log shipping technique (previously used with Warm Standby for
+high availability) has been enhanced with streaming replication.
+
+Version 9.1, expected to be out later in 2011, will add synchronous
+replication to PostgreSQL, making it the first DBMS that allows developers and
+users to control the replication strategy at transactional granularity. Come
+to the talk and discover all the major new features of PostgreSQL 9.1,
+including extensions management, writable common table expressions (WCTE),
+etc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gabriele Bartolini,Harald Armin Massa,Marco Nenciarini</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1145/getting-ready-for-postgresql-91</guid><enclosure url="http://www.youtube.com/watch?v=71i5FlW30s0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/71i5FlW30s0/hqdefault.jpg"></media:thumbnail></item><item><title>Aspettando PostgreSQL 9.1</title><link>http://www.pyvideo.org/video/1171/aspettando-postgresql-91</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Gabriele Bartolini - 22 June 2011 in "Track Italiana Big Mac
+"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+PostgreSQL è un sistema open-source per la gestione di database molto avanzato
+ed estremamente versatile che si integra perfettamente con Python. E'
+sviluppato da una comunità internazionale molto attiva ed è distribuito
+secondo la licenza in stile BSD denominata "PostgreSQL License".
+
+Le funzionalità di classe enterprise (come la conformità con lo standard SQL,
+le transazioni ACID, la disaster recovery, l'alta disponibilità o HA, la
+replica, il partizionamento e in generale l'estensibilità) rendono PostgreSQL
+particolarmente adatto per quegli ambienti business-critical che intendono
+ridurre il costo di proprietà totale (TCO) delle loro soluzioni di database
+senza alterarne i requisiti funzionali. PostgreSQL 9.0, rilasciato nel
+settembre del 2010, è stata la prima versione di PostgreSQL con Hot Standby,
+un meccanismo nativo per la replica master/slave. Al consueto e collaudato
+meccanismo di replica secondo la tecnica del log shipping (usata
+precedentemente per scopi di HA con Warm Standby) è stata aggiunta la replica
+in streaming.
+
+La versione 9.1, attesa per la seconda parte del 2011, aggiungerà la replica
+sincrona a PostgreSQL, rendendolo il primo DBMS in grado di permettere a
+sviluppatori e utenti di controllare la strategia di replica a livello di
+singola transazione. Partecipa al talk per scoprire tutte le altre
+funzionalità principali che saranno incluse in PostgreSQL 9.1, fra le quali:
+gestione delle estensioni, writable common table expression, ecc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gabriele Bartolini</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1171/aspettando-postgresql-91</guid><enclosure url="http://www.youtube.com/watch?v=hsIEX2PBvJo" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/hsIEX2PBvJo/hqdefault.jpg"></media:thumbnail></item></channel></rss>

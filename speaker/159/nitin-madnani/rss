@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Nitin Madnani</title><link>http://www.pyvideo.org/speaker/159/nitin-madnani/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/159/nitin-madnani/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>The Python and the Elephant: Large Scale Natural Language Processing with NLTK and Dumbo (#120)</title><link>http://www.pyvideo.org/video/335/pycon-2010--the-python-and-the-elephant--large-sc</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Python and the Elephant: Large Scale Natural Language Processing with NLTK
+and Dumbo
+
+  
+Presented by Nitin Madnani (University of Maryland, College Park); Dr. Jimmy J
+Lin (University of Maryland)
+
+  
+A practical look at NLTK and Dumbo, python-powered and open-source toolkits
+and APIs for processing natural language on a large scale.
+
+  
+For people like us who make a living trying to make a computer "understand"
+human language, Python is a very powerful language, given its rapid
+prototyping abilities, native unicode support and a stellar standard library.
+This relationship has been strengthened further by an open-source, python-
+based Natural Language ToolKit ([www.nltk.org](http://www.nltk.org/)) which is
+being widely used in the community for both teaching and research purposes and
+gaining traction in the general Python community as well
+([www.nltk.org/book](http://www.nltk.org/book)). Recently, the Python
+community has seen the release of Dumbo ([http://wiki.github.com/klbostee/dumb
+o](http://wiki.github.com/klbostee/dumbo)), an open-source, python-based
+cloud-computing API (based on Hadoop) via the hands of Klaas Bosteels.
+
+  
+In this talk, we show how the amalgamation of Python, NLTK and Dumbo can allow
+for very large-scale natural language processing efficiently and elegantly.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Jimmy J Lin,Nitin Madnani</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/335/pycon-2010--the-python-and-the-elephant--large-sc</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/335_the-python-and-the-elephant-large-scale-natural-language-processing-with-nltk-and-dumbo-120.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/335_the-python-and-the-elephant-large-scale-natural-language-processing-with-nltk-and-dumbo-120.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/335_the-python-and-the-elephant-large-scale-natural-language-processing-with-nltk-and-dumbo-120.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010ThePythonAndTheElephantLargeScaleNaturalLangua697.png"></media:thumbnail></item></channel></rss>

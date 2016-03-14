@@ -1,0 +1,369 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Vagrant, packer et ruby pour automatiser des builds complexes</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="Vagrant, packer et un peu de ruby pour automatiser des builds complexes.
+
+Introduction
+
+Tout le monde n&#39;a pas la chance de ne dépendre que de paquets 100 % python. Python est devenu un outil de choix pour le calcul numérique, mais des paquets tels que numpy, scipy ou scikit-learn dépendent de librairies C, C++ et même Fortran qui dépendent fortement des plateformes.
+
+J&#39;aimerais présenter les outils packer et vagrant comme une solution pour produire des builds 100 % reproductibles. S&#39;appuyant sur la virtualisation, ils permettent d&#39;appliquer les principes de reproduction non seulement pour unix, mais aussi os x et même windows.
+
+Le concept de provisionnement, et son application au problème de &quot;packaging&quot;
+
+Cette section présentera tout d&#39;abord la nécessité de reproduction pour la compilation, et justifiera pourquoi les VM sont les outils les plus adéquats aujourd&#39;hui si l&#39;on veut supporter toutes les plateformes usuelles, en particulier windows:
+
+- architectures &quot;3-tier&quot; pour le provisionnement
+- outils disponibles pour chacune des 3 couches
+- présentation de vagrant et packer
+
+vagrant, un outil simple pour la réutilisation de VM
+
+Cette section commencera par illustrer les problèmes usuels du partage des VM entre développeurs, et montrera comment vagrant peut résoudre ces problèmes:
+
+- le provisionnement comme solution au manque de transparence usuel avec les VMs
+- flexibilité et traçabilité grâce à la combinaison chef/puppet/salt + vagrant
+
+packer, un complément à vagrant
+
+Vagrant suppose l&#39;existence de &#39;base box&#39;, qui sont des images d&#39;OS avec juste ce qu&#39;il faut pour &quot;bootstrapper&quot; la suite du provisionnement. Packer est un outil qui permet de créer ses propres images:
+
+- illustration du fonctionnement de packer
+- cibler plusieurs technologies de virtualisation à partir d&#39; un même template: virtualbox, vmware, mais aussi ec2.
+
+Example pour la compilation de paquets &#39;wheel&#39; pour numpy/scipy
+
+Cette partie sera plus didactique, et basé sur un exemple réel pour compiler un wheel de numpy et scipy sur windows. L&#39;exemple utilisera à la fois vagrant, packer et chef.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="vagrant-packer-et-ruby-pour-automatiser-des-buil.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="vagrant-packer-et-ruby-pour-automatiser-des-buil.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="https://www.youtube.com/watch?v=iTU5CRuY96I"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Vagrant, packer et ruby pour automatiser des builds complexes</h3>
+      <link property="thumbnailUrl" href="https://i.ytimg.com/vi/iTU5CRuY96I/maxresdefault.jpg"/>
+      <link property="sameAs" href="vagrant-packer-et-ruby-pour-automatiser-des-buil.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Vagrant, packer et un peu de ruby pour automatiser des builds complexes.</p>
+<p>Introduction</p>
+<p>Tout le monde n'a pas la chance de ne dépendre que de paquets 100 % python. Python est devenu un outil de choix pour le calcul numérique, mais des paquets tels que numpy, scipy ou scikit-learn dépendent de librairies C, C++ et même Fortran qui dépendent fortement des plateformes.</p>
+<p>J'aimerais présenter les outils packer et vagrant comme une solution pour produire des builds 100 % reproductibles. S'appuyant sur la virtualisation, ils permettent d'appliquer les principes de reproduction non seulement pour unix, mais aussi os x et même windows.</p>
+<p>Le concept de provisionnement, et son application au problème de "packaging"</p>
+<p>Cette section présentera tout d'abord la nécessité de reproduction pour la compilation, et justifiera pourquoi les VM sont les outils les plus adéquats aujourd'hui si l'on veut supporter toutes les plateformes usuelles, en particulier windows:</p>
+<ul>
+<li>architectures "3-tier" pour le provisionnement</li>
+<li>outils disponibles pour chacune des 3 couches</li>
+<li>présentation de vagrant et packer</li>
+</ul>
+<p>vagrant, un outil simple pour la réutilisation de VM</p>
+<p>Cette section commencera par illustrer les problèmes usuels du partage des VM entre développeurs, et montrera comment vagrant peut résoudre ces problèmes:</p>
+<ul>
+<li>le provisionnement comme solution au manque de transparence usuel avec les VMs</li>
+<li>flexibilité et traçabilité grâce à la combinaison chef/puppet/salt + vagrant</li>
+</ul>
+<p>packer, un complément à vagrant</p>
+<p>Vagrant suppose l'existence de 'base box', qui sont des images d'OS avec juste ce qu'il faut pour "bootstrapper" la suite du provisionnement. Packer est un outil qui permet de créer ses propres images:</p>
+<ul>
+<li>illustration du fonctionnement de packer</li>
+<li>cibler plusieurs technologies de virtualisation à partir d' un même template: virtualbox, vmware, mais aussi ec2.</li>
+</ul>
+<p>Example pour la compilation de paquets 'wheel' pour numpy/scipy</p>
+<p>Cette partie sera plus didactique, et basé sur un exemple réel pour compiler un wheel de numpy et scipy sur windows. L'exemple utilisera à la fois vagrant, packer et chef.</p></div>
+        <meta property="caption" content="Vagrant, packer et un peu de ruby pour automatiser des builds complexes.
+Introduction
+Tout le monde n&#39;a pas la chance de ne dépendre que de paquets 100 % python. Python est devenu un outil de choix pour le calcul numérique, mais des paquets tels que numpy, scipy ou scikit-learn dépendent de librairies C, C++ et même Fortran qui dépendent fortement des plateformes.
+J&#39;aimerais présenter les outils packer et vagrant comme une solution pour produire des builds 100 % reproductibles. S&#39;appuyant sur la virtualisation, ils permettent d&#39;appliquer les principes de reproduction non seulement pour unix, mais aussi os x et même windows.
+Le concept de provisionnement, et son application au problème de &quot;packaging&quot;
+Cette section présentera tout d&#39;abord la nécessité de reproduction pour la compilation, et justifiera pourquoi les VM sont les outils les plus adéquats aujourd&#39;hui si l&#39;on veut supporter toutes les plateformes usuelles, en particulier windows:
+
+architectures &quot;3-tier&quot; pour le provisionnement
+outils disponibles pour chacune des 3 couches
+présentation de vagrant et packer
+
+vagrant, un outil simple pour la réutilisation de VM
+Cette section commencera par illustrer les problèmes usuels du partage des VM entre développeurs, et montrera comment vagrant peut résoudre ces problèmes:
+
+le provisionnement comme solution au manque de transparence usuel avec les VMs
+flexibilité et traçabilité grâce à la combinaison chef/puppet/salt + vagrant
+
+packer, un complément à vagrant
+Vagrant suppose l&#39;existence de &#39;base box&#39;, qui sont des images d&#39;OS avec juste ce qu&#39;il faut pour &quot;bootstrapper&quot; la suite du provisionnement. Packer est un outil qui permet de créer ses propres images:
+
+illustration du fonctionnement de packer
+cibler plusieurs technologies de virtualisation à partir d&#39; un même template: virtualbox, vmware, mais aussi ec2.
+
+Example pour la compilation de paquets &#39;wheel&#39; pour numpy/scipy
+Cette partie sera plus didactique, et basé sur un exemple réel pour compiler un wheel de numpy et scipy sur windows. L&#39;exemple utilisera à la fois vagrant, packer et chef."/>
+      </div>
+    
+
+    
+
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/73/pycon-fr-2013.html">PyCon FR 2013</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1940/david-cournapeau.html">David Cournapeau</a></div>
+            <meta property="author" content="David Cournapeau"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>French
+            <meta property="inLanguage" content="fr"/>
+          </dd>
+        
+
+        
+          <dt>Duration</dt>
+          <dd>31:43
+            <meta property="duration" content="PT00H31M43S"/>
+          </dd>
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Nov. 30, 2013
+            <meta property="dateCreated" content="2013-11-30"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 31, 2015
+            <meta property="dateModified" content="2015-07-31T17:40:39.556459"/>
+            <meta property="datePublished" content="2015-07-31T17:40:39.556459"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="https://www.youtube.com/watch?v=iTU5CRuY96I" property="embedUrl">https://www.youtube.com/watch?v=iTU5CRuY96I</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/3741">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            See <a href="https://www.youtube.com/watch?v=iTU5CRuY96I">source</a> for copyright
+            information.
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="PyCon FR 2013"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="vagrant-packer-et-ruby-pour-automatiser-des-buil.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

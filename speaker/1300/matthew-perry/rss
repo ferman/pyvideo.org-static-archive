@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Matthew Perry</title><link>http://www.pyvideo.org/speaker/1300/matthew-perry/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1300/matthew-perry/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Spatial-Temporal Prediction of Climate Change Impacts using pyimpute, scikit learn and GDAL</title><link>http://www.pyvideo.org/video/2794/spatial-temporal-prediction-of-climate-change-imp</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk, I\u2019ll show how we apply climate change models to predict shifts in agricultural zones across the western US. I will outline the use of the pyimpute, GDAL and scikit-klearn to perform supervised classification; training a model using current climatic conditions to predict spatially-explicit zones under future climate scenarios.
+&lt;p&gt;Description&lt;/p&gt;
+As the field of climate modeling continues to mature, we must anticipate the practical implications of the climatic shifts predicted by these models. In this talk, I'll show how we apply the results of climate change models to predict shifts in agricultural zones across the western US. I will outline the use of the Geospatial Data Abstraction Library ([GDAL](http://www.gdal.org/)) and Scikit-Learn ([sklearn](http://scikit-learn.org/)) to perform supervised classification, training the model using current climatic conditions and predicting the zones as spatially-explicit raster surfaces across a range of future climate scenarios. Finally, I'll present a python module ([pyimpute](https://github.com/perrygeo/pyimpute)) which provides an API to optimize and streamline the process of spatial classification and regression problems.
+
+#### Outline
+This talk will consist of four parts:
+
+1. A brief overview of climate data and the concept of agro-ecological zones
+2. The theory and intuition behind bioclimatic envelope modeling using supervised classification
+3. Visualization and interpretation of our results
+4. Detailed demonstration of the pyimpute/GDAL/sklearn workflow 
+
+    * Loading spatial data into numpy arrays 
+    * Random stratified sampling
+    * Training, assessing and selecting the sklearn classifier
+    * Prediction of zones given future climate data as explanatory variables
+    * Quantifying and interpreting uncertainty
+    * Writing results to spatial data formats
+    * Discussion of performance and memory limitations
+    * Visualizing and interacting with the results
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Matthew Perry</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2794/spatial-temporal-prediction-of-climate-change-imp</guid><enclosure url="http://www.youtube.com/watch?v=7mmbRNE9VsA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/7mmbRNE9VsA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

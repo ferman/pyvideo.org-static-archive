@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Mateusz Paprocki</title><link>http://www.pyvideo.org/speaker/1020/mateusz-paprocki/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1020/mateusz-paprocki/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:38:03 -0000</lastBuildDate><ttl>500</ttl><item><title>Symbolic Computing with SymPy, SciPy2013 Tutorial, Part 1 of 6</title><link>http://www.pyvideo.org/video/1872/symbolic-computing-sympy-scipy2013-tutorial-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.
+&lt;p&gt;Description&lt;/p&gt;
+In this tutorial we will introduce attendees to SymPy. We will start by showing how to install and configure this Python module. Then we will proceed to the basics of constructing and manipulating mathematical expressions in SymPy. We will also discuss the most common issues and differences from other computer algebra systems, and how to deal with them. In the last part of this tutorial we will show how to solve simple, yet illustrative, mathematical problems with SymPy.
+
+This knowledge should be enough for attendees to start using SymPy for solving mathematical problems and hacking SymPy's internals (though hacking core modules may require additional expertise).
+
+We expect attendees of this tutorial to have basic knowledge of Python and mathematics. However, any more advanced topics will be explained during presentation.
+
+Outline
+
+* installing, configuring and running SymPy
+* basics of expressions in SymPy
+* traversal and manipulation of expressions
+* common issues and differences from other CAS
+* setting up and using printers
+* querying expression properties
+* not only symbolics: numerical computing (mpmath)
+* Mathematical problem solving with SymPy
+
+Required Packages
+
+Python 2.x or 3.x, SymPy (most recent version) Optional packages: IPython, matplotlib, NetworkX, GMPY, numpy, scipy</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer,Mateusz Paprocki,Ondrej Certik</dc:creator><guid>http://www.pyvideo.org/video/1872/symbolic-computing-sympy-scipy2013-tutorial-part-1</guid><enclosure url="http://youtu.be/dAgShwIx72c" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/dAgShwIx72c/hqdefault.jpg"></media:thumbnail></item></channel></rss>

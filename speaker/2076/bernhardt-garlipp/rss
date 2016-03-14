@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Bernhardt Garlipp</title><link>http://www.pyvideo.org/speaker/2076/bernhardt-garlipp/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2076/bernhardt-garlipp/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 02 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Community Security - ANPR (Automated Number Plate Recognition) on your Pi</title><link>http://www.pyvideo.org/video/3937/community-security-anpr-automated-number-plate</link><description>&lt;p&gt;Description&lt;/p&gt;
+The talk will be a introductory tutorial showing how to get an ANPR (Automated Number Plate Recognition) system, which was developed for community security, up and running on your Raspberry Pi. This will provide a comfortable starting point for any security-prone person to start monitoring the vehicles entering and leaving their community.
+
+The target audience for this tutorial will be attendees who are interested in using single board computers (Raspberry Pi2) as a security measure in their community. The technical level of the tutorial will be suitable for beginners / intermediate level. 
+
+The tutorial will consist of the following:
+
+* Quick overview of project
+* Installing OpenCV
+* Installing ANPR framework
+* Connecting the IP cameras
+* Configuring the ANPR (training)
+* Retrieving data</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bernhardt Garlipp</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3937/community-security-anpr-automated-number-plate</guid><enclosure url="http://youtu.be/CTbMUrJ9ztQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/CTbMUrJ9ztQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

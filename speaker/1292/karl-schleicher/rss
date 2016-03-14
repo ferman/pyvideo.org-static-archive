@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Karl Schleicher</title><link>http://www.pyvideo.org/speaker/1292/karl-schleicher/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1292/karl-schleicher/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 13 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Prototyping a Geophysical Algorithm in Python</title><link>http://www.pyvideo.org/video/2784/prototyping-a-geophysical-algorithm-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Spitz' paper on FX pattern recognition contains a long paragraph that describes a model, an algorithm, and the results of applying the algorithm to the model.  The algorithm requires Fourier transforms, convolutional filtering, matrix multiplication, and solving linear equations.  I describe how to use numpy, scipy, and mapplotlib to prototype the algorithm and display the processed model.
+&lt;p&gt;Description&lt;/p&gt;
+A geophysics paper by Spitz has a long paragraph that describes a model, an algorithm, and the results of applying the algorithm to the model.  I wanted to implement and test the algorithm to ensure I fully understood the method.  This is a good illustration of Python for geophysics because the implementation requires:
+
+1. Fourier transforms provided by numpy.fft
+2. Setting up linear equations using numpy.array and numpy.matrix
+3. solving the linear equations using scipy.linalg.solve
+4. Applying convolutional filters using scipy.signal.lfilter
+
+A bandlimited flat event model is created using array slicing in numpy and is bandlimited in the frequency domain.  Another component of the model is created by convolving a short derivative filter on a similar flat event model.  After Fourier transform, linear equations are set up to compute a prediction filter in the FX domain.  These equations are created using data slicing,  conjugate transpose, matrix multiple (all available in numpy).  Scipy.linalg.solve is used to solve for the prediction error filter.  A final filter is computed using the recursive filter capability in scipy.signal.lfilter.  Results are displayed using matplotlib.
+
+This is quite a tour of scipy and numpy to implement an algorithm described in a single paragraph.  Many operations commonly used in geophysics are illustrated in the program.  The resulting program is less than 200 lines of code.  I will describe the algorithm and share the prototype code.
+
+References:
+
+Spitz, S. (1999). Pattern recognition, spatial predictability, and subtraction of multiple events. The Leading Edge, 18(1), 55-58. [doi: 10.1190/1.1438154](http://dx.doi.org/10.1190/1.1438154)
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Karl Schleicher</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2784/prototyping-a-geophysical-algorithm-in-python</guid><enclosure url="http://www.youtube.com/watch?v=kFXVOaZZr-E" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/kFXVOaZZr-E/hqdefault.jpg"></media:thumbnail></item></channel></rss>

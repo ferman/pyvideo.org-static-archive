@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Anthony Scopatz</title><link>http://www.pyvideo.org/speaker/571/anthony-scopatz/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/571/anthony-scopatz/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>HDF5 is for Lovers part 2</title><link>http://www.pyvideo.org/video/2708/hdf5-is-for-lovers-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+HDF5 is a hierarchical, binary database format that has become the de facto standard for 
+scientific computing. While the spec may be used in a relatively simple way it also supports several high-level features that prove invaluable. HDF5 bindings exist for almost every language - including two Python libraries (PyTables and h5py). This tutorial will cover HDF5 through the lens of PyTables.
+&lt;p&gt;Description&lt;/p&gt;
+Description
+------------
+HDF5 is a hierarchical, binary database format that has become the de facto standard for 
+scientific computing.  While the specification may be used in a relatively simple way 
+(persistence of static arrays) it also supports several high-level features that prove 
+invaluable.  These include chunking, ragged data, extensible data, parallel I/O, 
+compression, complex selection, and in-core calculations.  Moreover, HDF5 bindings
+exist for almost every language - including two Python libraries (PyTables and h5py). This tutorial will cover HDF5 itself through the lens of PyTables.
+
+This tutorial will discuss tools, strategies, and hacks for really squeezing every ounce
+of performance out of HDF5 in new or existing projects.  It will also go over fundamental 
+limitations in the specification and provide creative and subtle strategies for getting around 
+them.  Overall, this tutorial will show how HDF5 plays nicely with all parts of an application 
+making the code and data both faster and smaller.  With such powerful features at the 
+developer's disposal, what is not to love?!
+
+Knowledge of Python, NumPy, C or C++, and basic HDF5 is recommended but not required.
+
+Outline
+--------------
+* Meaning in layout (20 min)
+
+    - Tips for choosing your hierarchy
+
+* Advanced datatypes (20 min)
+
+    - Tables
+    - Nested types
+    - Tricks with malloc() and byte-counting
+
+* **Exercise on above topics** (20 min)
+
+* Chunking (20 min)
+
+    - How it works
+    - How to properly select your chunksize
+
+* Queries and Selections (20 min)
+
+    - In-core vs Out-of-core calculations
+    - PyTables.where()
+    - Datasets vs Dataspaces
+
+* **Exercise on above topics** (20 min)
+
+* The Starving CPU Problem (1 hr)
+
+    - Why you should always use compression
+    - Compression algorithms available
+    - Choosing the correct one
+    - Exercise
+
+* Integration with other databases (1 hr)
+
+    - Migrating to/from SQL
+    - HDF5 in other databases (JSON example)
+    - Other Databases in HDF5 (JSON example)
+    - Exercise
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anthony Scopatz</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2708/hdf5-is-for-lovers-part-2</guid><enclosure url="http://www.youtube.com/watch?v=EcM6g9Yp004" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/EcM6g9Yp004/hqdefault.jpg"></media:thumbnail></item><item><title>HDF5 is for Lovers, Tutorial part 1</title><link>http://www.pyvideo.org/video/2705/hdf5-is-for-lovers-tutorial-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+HDF5 is a hierarchical, binary database format that has become the de facto standard for 
+scientific computing. While the spec may be used in a relatively simple way it also supports several high-level features that prove invaluable. HDF5 bindings exist for almost every language - including two Python libraries (PyTables and h5py). This tutorial will cover HDF5 through the lens of PyTables.
+&lt;p&gt;Description&lt;/p&gt;
+Description
+------------
+HDF5 is a hierarchical, binary database format that has become the de facto standard for 
+scientific computing.  While the specification may be used in a relatively simple way 
+(persistence of static arrays) it also supports several high-level features that prove 
+invaluable.  These include chunking, ragged data, extensible data, parallel I/O, 
+compression, complex selection, and in-core calculations.  Moreover, HDF5 bindings
+exist for almost every language - including two Python libraries (PyTables and h5py). This tutorial will cover HDF5 itself through the lens of PyTables.
+
+This tutorial will discuss tools, strategies, and hacks for really squeezing every ounce
+of performance out of HDF5 in new or existing projects.  It will also go over fundamental 
+limitations in the specification and provide creative and subtle strategies for getting around 
+them.  Overall, this tutorial will show how HDF5 plays nicely with all parts of an application 
+making the code and data both faster and smaller.  With such powerful features at the 
+developer's disposal, what is not to love?!
+
+Knowledge of Python, NumPy, C or C++, and basic HDF5 is recommended but not required.
+
+Outline
+--------------
+* Meaning in layout (20 min)
+
+    - Tips for choosing your hierarchy
+
+* Advanced datatypes (20 min)
+
+    - Tables
+    - Nested types
+    - Tricks with malloc() and byte-counting
+
+* **Exercise on above topics** (20 min)
+
+* Chunking (20 min)
+
+    - How it works
+    - How to properly select your chunksize
+
+* Queries and Selections (20 min)
+
+    - In-core vs Out-of-core calculations
+    - PyTables.where()
+    - Datasets vs Dataspaces
+
+* **Exercise on above topics** (20 min)
+
+* The Starving CPU Problem (1 hr)
+
+    - Why you should always use compression
+    - Compression algorithms available
+    - Choosing the correct one
+    - Exercise
+
+* Integration with other databases (1 hr)
+
+    - Migrating to/from SQL
+    - HDF5 in other databases (JSON example)
+    - Other Databases in HDF5 (JSON example)
+    - Exercise
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anthony Scopatz</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2705/hdf5-is-for-lovers-tutorial-part-1</guid><enclosure url="http://www.youtube.com/watch?v=EoqGt32gkPc" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/EoqGt32gkPc/hqdefault.jpg"></media:thumbnail></item><item><title>You Win or You SciPy</title><link>http://www.pyvideo.org/video/2715/you-win-or-you-scipy</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Reflections on the State of Scientific Python 
+&lt;p&gt;Description&lt;/p&gt;
+Python is currently one of the most popular programming languages and it seems that that Scientific Python has truly hit its stride in recent years. With fame comes a deluge of users, but not necessarily any more developers. Scientific Python is often held up as one of the core strengths of the Python language. Why is this so? And how much does it actually help us? This talk intends to be a frank discussion on the great parts of the SciPy community and the parts that need work.
+
+As a confederation of packages and projects, there are several issues that affect everyone. Sometimes these issues fall through the cracks and other times they are vigorously tackled head on. In either case, I posit that greater communication about these global topics is necessary to support and scale to the next wave of SciPy users and developers.
+
+Points of discussion in this talk may include:
+
+* Packaging,
+* Education,
+* Matplotlib - aged or awesome,
+* Competition from other languages,
+* Diversity,
+* Employing our own,
+* Interfacing with the broader Python community,
+* The legal status of projects, and
+* Maintaining critical packages in the ecosystem (when devs have moved on).
+
+Historically, the SciPy conference has not had many overview talks, talks about the community itself, what we are doing right, and what we are doing wrong.
+
+They were often relegated to keynotes if they were present at all. This talk is a boots-on-the-ground attempt to rectify that.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel,Anthony Scopatz,Katy Huff</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2715/you-win-or-you-scipy</guid><enclosure url="http://www.youtube.com/watch?v=e0Z9-EuZJac" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/e0Z9-EuZJac/hqdefault.jpg"></media:thumbnail></item><item><title>Total Recall: flmake and the Quest for Reproducibility</title><link>http://www.pyvideo.org/video/1223/total-recall-flmake-and-the-quest-for-reproducib</link><description>&lt;p&gt;Description&lt;/p&gt;
+[FLASH](http://flash.uchicago.edu/site/) is a high-performance computing (HPC)
+multi-physics code which is used to perform astrophysical and high-energy
+density physics simulations. It runs on the full range of systems from laptops
+to workstations to 100,000 processor super computers - such as the Blue Gene/P
+at Argonne National Laboratory.
+
+Historically, FLASH was born from a collection of unconnected legacy codes
+written primarily in Fortran and merged into a single project. Over the past
+13 years major sections have been rewritten in other languages. For instance,
+I/O is now implemented in C. However building, testing, and documentation are
+all performed in Python.
+
+FLASH has a unique architecture which compiles _simulation specific_
+executables for each new type of run. This is aided by an object-oriented-
+esque inheritance model that is implemented by inspecting the file system's
+directory hierarchy. This allows FLASH to compile to faster machine code than
+a compile-once strategy. However it also places a greater importance on the
+Python build system.
+
+To run a FLASH simulation, the user must go through three basic steps: setup,
+build, and execution. Canonically, each of these tasks are independently
+handled by the user. However, with the recent advent of [flmake](http://flash.
+uchicago.edu/site/flashcode/user_support/tools4b/usersguide/flmake/index.htm)
+- a Python workflow management utility for FLASH - such tasks may now be
+performed in a repeatable way.
+
+Previous workflow management tools have been written for FLASH. (For example,
+the "Milad system" was implemented entirely in Makefiles.) However, none of
+the priorattempts have placed reproducibility as their primary concern. This
+is in part becausefully capturing the setup metadata requires alterations to
+the build system.
+
+The development of flmake started by rewriting the existing build systemto
+allow FLASH to be run outside of the main line subversion repository. It
+separates outproject and simulation directories independent of the FLASH
+source directory. Thesedirectories are typically under their own version
+control.
+
+Moreover for each of the important tasks (setup, build, run, etc), a sidecar
+metadata _description_ file is either written or appended to. This is a simple
+dictionary-of-dictionaries JSON file which stores the environment of the
+system and the state of the code when each flmake command is run. This
+metadata includes the version information of both the FLASH main line and
+project repositories. However, it also may include _all_ local modifications
+since the last commit. A patch is automatically generated using the Python
+standard library `difflib` module and stored directly in the description.
+
+Along with universally unique identifiers, logging, and Python run control
+files, the flmake utility may use the description files to fully reproduce a
+simulation by re-executing each command in its original environment and state.
+While `flmake reproduce` makes a useful debugging tool, it fundamentally
+increases the scientific merit of FLASH simulations.
+
+The methods described above may be used whenever source code itself is
+distributed. While this is true for FLASH (uncommon amongst compiledcodes),
+most Python packages also distribute their source. Therefore the same
+reproducibility strategy is applicable and highly recommended for Python
+simulation codes. Thus flmake shows that reproducibility - which is notably
+absent from most computational science projects - is easily attainable using
+only version control and standard library modules.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anthony Scopatz</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1223/total-recall-flmake-and-the-quest-for-reproducib</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Total_Recall_flmake_and_the_Quest_for_Reproducibility.mp4?Signature=RXHp35B0p8ekEKA0Uds%2F6w73sRs%3D&amp;Expires=1346382337&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Total_Recall_flmake_and_the_Quest_for_Reproducibility.mp4?Signature=RXHp35B0p8ekEKA0Uds%2F6w73sRs%3D&amp;Expires=1346382337&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=ce4UU0ltbPA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/ce4UU0ltbPA/hqdefault.jpg"></media:thumbnail></item><item><title>HDF5 is for lovers</title><link>http://www.pyvideo.org/video/1196/hdf5-is-for-lovers</link><description>&lt;p&gt;Description&lt;/p&gt;
+HDF5 is a hierarchical, binary database format that has become a _de facto_
+standard for scientific computing. While the specification may be used in a
+relatively simple way (persistence of static arrays) it also supports several
+high-level features that prove invaluable. These include chunking, ragged
+data, extensible data, parallel I/O, compression, complex selection, and in-
+core calculations. Moreover, HDF5 bindings exist for almost every language -
+including two Python libraries (PyTables and h5py).
+
+This tutorial will discuss tools, strategies, and hacks for really squeezing
+every ounce of performance out of HDF5 in new or existing projects. It will
+also go over fundamental limitations in the specification and provide creative
+and subtle strategies for getting around them. Overall, this tutorial will
+show how HDF5 plays nicely with all parts of an application making the code
+and data both faster and smaller. With such powerful features at the
+developer's disposal, what is not to love?!
+
+This tutorial is targeted at a more advanced audience which has a prior
+knowledge of Python and NumPy. Knowledge of C or C++ and basic HDF5 is
+recommended but not required.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anthony Scopatz</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1196/hdf5-is-for-lovers</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/HDF5_is_for_lovers.mp4?Signature=cM8rA2NfAmu5op3Ha%2FNG7gQUYFc%3D&amp;Expires=1346380446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/HDF5_is_for_lovers.mp4?Signature=cM8rA2NfAmu5op3Ha%2FNG7gQUYFc%3D&amp;Expires=1346380446&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=Nzx0HAd3FiI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i3.ytimg.com/vi/Nzx0HAd3FiI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

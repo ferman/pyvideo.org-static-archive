@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Simon Cross</title><link>http://www.pyvideo.org/speaker/1400/simon-cross/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1400/simon-cross/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 02 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Closing</title><link>http://www.pyvideo.org/video/3944/closing</link><description>&lt;p&gt;Description&lt;/p&gt;
+Closing
+=======
+
+The closing ceremony. A general wrap of the conference. There will also be announcements about sprints on Saturday and Sunday.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3944/closing</guid><enclosure url="http://youtu.be/WVBrra9pnQ4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/WVBrra9pnQ4/hqdefault.jpg"></media:thumbnail></item><item><title>"Python in Production" Panel Discussion</title><link>http://www.pyvideo.org/video/3942/python-in-production-panel-discussion</link><description>&lt;p&gt;Description&lt;/p&gt;
+A panel discussion on using and deploying Python projects in production. The panel will follow a simple discussion format with panelists responding to questions from the audience.
+
+Panel chair:
+* *Simon Cross*
+
+Panelists:
+
+* *Andy Rabagliati* (CSIR / CHPC)
+* *Bryn Divey* (Oracle)
+* *Colin Alston* (Praekelt)
+* *Milton Madanda* (Praekelt)
+* *Stefano Rivera* (Debian Developer)</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3942/python-in-production-panel-discussion</guid><enclosure url="http://youtu.be/cSWb834XPpM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/cSWb834XPpM/hqdefault.jpg"></media:thumbnail></item><item><title>Opening</title><link>http://www.pyvideo.org/video/3940/opening</link><description>&lt;p&gt;Description&lt;/p&gt;
+Opening Ceremony
+================
+
+A general welcome and an introduction to all the exciting things that will be happening at PyConZA 2015!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3940/opening</guid><enclosure url="http://youtu.be/lk1F6CAk8f0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/lk1F6CAk8f0/hqdefault.jpg"></media:thumbnail></item><item><title>PyConZA 2014: Closing Remarks</title><link>http://www.pyvideo.org/video/3823/pyconza-2014-closing-remarks</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PyConZA 2014 closing remarks.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3823/pyconza-2014-closing-remarks</guid><enclosure url="http://archive.org/download/pyconza2014-closing/CLOSING.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://archive.org/download/pyconza2014-closing/CLOSING.ogv" mime_type="video/ogg"></media:content><media:content url="http://archive.org/download/pyconza2014-closing/CLOSING.mp4" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://archive.org/download/pyconza2014-closing/pyconza2014-closing.thumbs/CLOSING_000870.jpg"></media:thumbnail></item><item><title>Conversing with people living in poverty</title><link>http://www.pyvideo.org/video/2980/conversing-with-people-living-in-poverty</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[Vumi](http://vumi.org) is a text messaging system designed to reach out to those in
+poverty on a massive scale via their mobile phones. It's written in
+Python using Twisted. This talk is about how and why we built it and
+how you can join us in making the world a better place.
+&lt;p&gt;Description&lt;/p&gt;
+43% of the world's population live on less than €1.5 per day.
+
+The United Nations defines poverty as a "lack of basic capacity to
+participate effectively in society".  While we often think of the poor
+as lacking primarily food and shelter, the UN definition highlights
+their isolation. They have the least access to society's knowledge and
+services and the most difficulty making themselves and their needs
+heard in our democracies.
+
+While smart phones and an exploding ability to collect and process
+information are transforming our access to knowledge and the way we
+organize and participate in our societies, those living in poverty
+have largely been left out. This has to change.
+
+Basic mobile phones present an opportunity to effect this change
+[3]. Only three countries in the world have fewer than 65 mobile
+phones per 100 people [4]. The majority of these phones are not
+Android or iPhones, but they do nevertheless provide a means of
+communication -- via voice calls, SMSes [6], USSD [7] and instant
+messaging.
+
+By comparison, 25 countries have less than 5% internet penetration
+[5].
+
+Vumi [1] is an open source text messaging system designed to reach out
+to those in poverty on a massive scale via their mobile phones. It's
+written in Python using Twisted.
+
+Vumi is already used to:
+
+  * provide Wikipedia access over USSD and SMS in Kenya [8].
+  * register a million voters in Libya [10].
+  * deliver health information to mothers in South Africa [9].
+  * prevent election violence in Kenya [11].
+
+This talk will cover:
+
+  * a brief overview of mobile networking and cellphone use in Africa
+  * why we built Vumi
+  * the challenges of operating in unreliable environments
+  * an overview of Vumi's features and architecture
+  * how you can help!
+
+Vumi features some cutting edge design choices:
+
+  * horizontally scalable Twisted processes communicating using RabbitMQ.
+  * declarative data models backed by Riak.
+  * sharing common data models between Django and Twisted.
+  * sandboxing hosted Javascript code from Python.
+
+Overview of challenges Vumi addresses:
+
+*Scalability*: Vumi needs to support both small scale applications (demos, pilot projects, applications tailored for a particular community) and large ones (things that everyone within a country might use). We address this using Twisted workers that exchange messages via RabbitMQ and store data in Riak. Having projects share RabbitMQ and Riak instances significantly reduces the overhead for small projects (e.g. its not cost effective to launch the recommended minimum of 5 Riak servers for a small project).
+
+*Barriers to entry*: Often the people with good ideas don't have access to one of many things needed to run a production system themselves, e.g. capital, time, stable infrastructure. We address this by providing a hosted Vumi instance that runs sandboxed Javascript applications. All the application author needs is their idea, the ability to write Javascript and upload it to our servers. The target audience here is African entrepreneurs at incubator spaces like iHub (Nairobi), kLab (Kigali), BongoHive (Lusaka) and JoziHub (Johannesburg).
+
+*Unreliable third-party systems*: It's one thing for parts of ones own system to go down, it's another for crucial third-party systems to go down. Vumi takes an SMTP-like approach to solving this and uses persistent queues so that messages can back up in the queue while third-party systems are down and be processed when they become available again. We also feedback information on whether third-party messaging systems have accepted or reject messages to the application that initiated them.
+
+Vumi is developed by the Praekelt Foundation [2] (and individual contributors!).
+
+  [1]: &lt;http://vumi.org/&gt; "Vumi"
+  [2]: &lt;http://praekeltfoundation.org/&gt; "Praekelt Foundation"
+  [3]: &lt;http://www.youtube.com/watch?v=0bXjgx4J0C4#t=20&gt; "Spotlight on Africa"
+  [4]: &lt;http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use&gt;
+  [5]: &lt;http://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users&gt;
+  [6]: &lt;http://en.wikipedia.org/wiki/Short_Message_Service&gt;
+  [7]: &lt;http://en.wikipedia.org/wiki/Unstructured_Supplementary_Service_Data
+  [8]: &lt;http://blog.praekeltfoundation.org/post/65981723628/wikipedia-zero-over-text-with-praekelt-foundation&gt;
+  [9]: &lt;http://blog.praekeltfoundation.org/post/65042080515/mama-launches-healthy-family-nutrition-programme&gt;
+  [10]: &lt;http://www.libyaherald.com/2014/01/01/over-one-million-register-for-constitutional-elections-on-final-sms-registration-day/#axzz2sroHcg00&gt;
+  [11]: &lt;http://blog.praekeltfoundation.org/post/51210616848/the-texting-will-never-be-done-peace-messages-in-kenya&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2980/conversing-with-people-living-in-poverty</guid><enclosure url="http://www.youtube.com/watch?v=Vjslvo8atfw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Vjslvo8atfw/hqdefault.jpg"></media:thumbnail></item><item><title>PyConZA 2013: Opening Ceremony</title><link>http://www.pyvideo.org/video/3900/pyconza-2013-opening-ceremony</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3900/pyconza-2013-opening-ceremony</guid><enclosure url="http://archive.org/download/conference-opening/conference-opening.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://archive.org/download/conference-opening/conference-opening.thumbs/conference-opening_000375.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of 信屹 陳</title><link>http://www.pyvideo.org/speaker/1608/hychen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1608/hychen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 10 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python to LiveScript</title><link>http://www.pyvideo.org/video/3246/python-to-livescript-pycon-apac-2014</link><description>&lt;p&gt;Description&lt;/p&gt;
+LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming.
+
+本場次會介紹 Python 與 LiveScript 的同與不同。  
+
+Tagline
+livescript  
+個人網頁連結
+
+&lt;http://hychen.wuwweig.org/&gt;
+Twitter
+[@hychen](https://twitter.com/hychen)</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">信屹 陳</dc:creator><pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3246/python-to-livescript-pycon-apac-2014</guid><enclosure url="https://www.youtube.com/watch?v=4XXgcZhYVeg" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/4XXgcZhYVeg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

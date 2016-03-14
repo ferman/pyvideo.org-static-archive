@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ravi Chandra</title><link>http://www.pyvideo.org/speaker/1174/ravi-chandra/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1174/ravi-chandra/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 14 Sep 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Fake it till you make it</title><link>http://www.pyvideo.org/video/2439/fake-it-till-you-make-it</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A practical introduction to unit testing decoupled, service-oriented, Python applications using with Mock library. A three-tiered (server, client, and view) Flask web application is used as a motivating example across the talk. Mock helps to isolate functionality specific to a layer to facilitate fast, compact, unit testing while avoiding writing specific mock classes or using fixtures.
+&lt;p&gt;Description&lt;/p&gt;
+@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 1
+
+**Audience level**
+
+Intermediate
+
+**Abstract**
+
+In practise most of us have found testing to be much harder to achieve in the "real world". That is often because the application architecture is modular with some level of service abstraction, and the ensuing layers of code.
+
+The premise of this talk is: do not test someone else's code. They are a good developer. They would have tested it so it must work.
+
+Taking this perspective allows us to develop fast and compact unit tests for our application functionality while ignoring bigger picture integration issues (these can be addresses using other types of tests!). In our experience this unburdens developers so they can really practice test-driven development much more diligently.
+
+Implementation of this approach is simplified thanks to the mock library. Mock provides a core MagicMock class that obviates the need for custom stubs throughout the code. Moreover, its supports patching specific methods, properties, and more. Mocking is used to patch calls to external code within our unit tests, since we don't need to test them, in a non-non-invasive way to our application.
+
+**Slides**
+
+https://speakerdeck.com/nzpug/ravi-chandra-fake-it-till-you-make-it</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ravi Chandra</dc:creator><pubDate>Sat, 14 Sep 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2439/fake-it-till-you-make-it</guid><enclosure url="http://www.youtube.com/watch?v=HbJZu2qcC-s" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/HbJZu2qcC-s/hqdefault.jpg"></media:thumbnail></item></channel></rss>

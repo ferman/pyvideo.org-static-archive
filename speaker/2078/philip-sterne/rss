@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Philip Sterne</title><link>http://www.pyvideo.org/speaker/2078/philip-sterne/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2078/philip-sterne/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Thursday Lightning Talks</title><link>http://www.pyvideo.org/video/3941/thursday-lightning-talks</link><description>&lt;p&gt;Description&lt;/p&gt;
+* [(0:00:00)](http://youtu.be/DiaE9GCJ0nM?t=0h0m0s) **Racy interrupt handling** by Bruce Merry
+* [(0:06:00)](http://youtu.be/DiaE9GCJ0nM?t=0h6m0s) **Vulture in Python** by Philip Sterne
+* [(0:11:09)](http://youtu.be/DiaE9GCJ0nM?t=0h11m9s) **Edx** by Carl Dawson
+* [(0:17:39)](http://youtu.be/DiaE9GCJ0nM?t=0h17m39s) **AST linting** by Bryn Divey
+* [(0:24:33)](http://youtu.be/DiaE9GCJ0nM?t=0h24m33s) **Numpy in Anger! ** by Laura Richter
+* [(0:29:28)](http://youtu.be/DiaE9GCJ0nM?t=0h29m28s) **How to screw up loading CSVs in Python ** by James Saunders
+* [(0:33:34)](http://youtu.be/DiaE9GCJ0nM?t=0h33m34s) **PyQuery** by Nicholas Spagnoletti
+* [(0:37:27)](http://youtu.be/DiaE9GCJ0nM?t=0h37m27s) **Debian Python moves kicking and screaming to Git** by Stefano Rivera</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruce Merry,Bryn Divey,Carl Dawson,James Saunders,Laura Richter,Nicholas Spagnoletti,Philip Sterne,Stefano Rivera</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3941/thursday-lightning-talks</guid><enclosure url="http://youtu.be/DiaE9GCJ0nM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/DiaE9GCJ0nM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

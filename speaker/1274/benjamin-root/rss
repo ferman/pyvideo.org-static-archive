@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Benjamin Root</title><link>http://www.pyvideo.org/speaker/1274/benjamin-root/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1274/benjamin-root/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Anatomy of Matplotlib - Part 1</title><link>http://www.pyvideo.org/video/2757/anatomy-of-matplotlib-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will be the introduction to matplotlib. Users will learn the types of plots and experiment with them. Then the fundamental concepts and terminologies of matplotlib are introduced. Next, we will learn how to change the "look and feel" of their plots. Finally, users will be introduced to other toolkits that extends matplotlib.
+&lt;p&gt;Description&lt;/p&gt;
+Introduction
+============
+
+Purpose of matplotlib
+---------------------
+
+Online Documentation
+--------------------
+### [matplotlib.org](http://matplotlib.org "")
+### Mailing Lists and StackOverflow
+### Github Repository
+### Bug Reports &amp; Feature Requests
+
+What is this "backend" thing I keep hearing about?
+==================================================
+### Interactive versus non-interactive
+### Agg
+### Tk, Qt, GTK, MacOSX, Wx, Cairo
+
+Plotting Functions
+==================
+### Graphs (plot, scatter, bar, stem, etc.)
+### Images (imshow, pcolor, pcolormesh, contour[f], etc.)
+### Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)
+
+What goes in a Figure?
+======================
+### Axes
+### Axis
+### ticks (and ticklines and ticklabels) (both major &amp; minor)
+### axis labels
+### axes title
+### figure suptitle
+### axis spines
+### colorbars (and the oddities thereof)
+### axis scale
+### axis gridlines
+### legend
+
+Manipulating the "Look-and-Feel"
+================================
+
+### Introducing matplotlibrc
+### Properties
+- color (and edgecolor, linecolor, facecolor, etc...)
+- linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())
+- linestyle
+- fonts
+- zorder
+- visible
+
+What are toolkits?
+==================
+### axes_grid1
+### mplot3d
+### basemap
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Root</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2757/anatomy-of-matplotlib-part-1</guid><enclosure url="http://www.youtube.com/watch?v=A2adyFMsut0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/A2adyFMsut0/hqdefault.jpg"></media:thumbnail></item><item><title>Anatomy of Matplotlib - Part 2</title><link>http://www.pyvideo.org/video/2756/anatomy-of-matplotlib-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will be the introduction to matplotlib. Users will learn the types of plots and experiment with them. Then the fundamental concepts and terminologies of matplotlib are introduced. Next, we will learn how to change the "look and feel" of their plots. Finally, users will be introduced to other toolkits that extends matplotlib.
+&lt;p&gt;Description&lt;/p&gt;
+Introduction
+============
+
+Purpose of matplotlib
+---------------------
+
+Online Documentation
+--------------------
+### [matplotlib.org](http://matplotlib.org "")
+### Mailing Lists and StackOverflow
+### Github Repository
+### Bug Reports &amp; Feature Requests
+
+What is this "backend" thing I keep hearing about?
+==================================================
+### Interactive versus non-interactive
+### Agg
+### Tk, Qt, GTK, MacOSX, Wx, Cairo
+
+Plotting Functions
+==================
+### Graphs (plot, scatter, bar, stem, etc.)
+### Images (imshow, pcolor, pcolormesh, contour[f], etc.)
+### Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)
+
+What goes in a Figure?
+======================
+### Axes
+### Axis
+### ticks (and ticklines and ticklabels) (both major &amp; minor)
+### axis labels
+### axes title
+### figure suptitle
+### axis spines
+### colorbars (and the oddities thereof)
+### axis scale
+### axis gridlines
+### legend
+
+Manipulating the "Look-and-Feel"
+================================
+
+### Introducing matplotlibrc
+### Properties
+- color (and edgecolor, linecolor, facecolor, etc...)
+- linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())
+- linestyle
+- fonts
+- zorder
+- visible
+
+What are toolkits?
+==================
+### axes_grid1
+### mplot3d
+### basemap
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Root</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2756/anatomy-of-matplotlib-part-2</guid><enclosure url="http://www.youtube.com/watch?v=YXdaLmzYEKU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/YXdaLmzYEKU/hqdefault.jpg"></media:thumbnail></item><item><title>Anatomy of Matplotlib - Part 3</title><link>http://www.pyvideo.org/video/2755/anatomy-of-matplotlib-part-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial will be the introduction to matplotlib. Users will learn the types of plots and experiment with them. Then the fundamental concepts and terminologies of matplotlib are introduced. Next, we will learn how to change the "look and feel" of their plots. Finally, users will be introduced to other toolkits that extends matplotlib.
+&lt;p&gt;Description&lt;/p&gt;
+Introduction
+============
+
+Purpose of matplotlib
+---------------------
+
+Online Documentation
+--------------------
+### [matplotlib.org](http://matplotlib.org "")
+### Mailing Lists and StackOverflow
+### Github Repository
+### Bug Reports &amp; Feature Requests
+
+What is this "backend" thing I keep hearing about?
+==================================================
+### Interactive versus non-interactive
+### Agg
+### Tk, Qt, GTK, MacOSX, Wx, Cairo
+
+Plotting Functions
+==================
+### Graphs (plot, scatter, bar, stem, etc.)
+### Images (imshow, pcolor, pcolormesh, contour[f], etc.)
+### Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)
+
+What goes in a Figure?
+======================
+### Axes
+### Axis
+### ticks (and ticklines and ticklabels) (both major &amp; minor)
+### axis labels
+### axes title
+### figure suptitle
+### axis spines
+### colorbars (and the oddities thereof)
+### axis scale
+### axis gridlines
+### legend
+
+Manipulating the "Look-and-Feel"
+================================
+
+### Introducing matplotlibrc
+### Properties
+- color (and edgecolor, linecolor, facecolor, etc...)
+- linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())
+- linestyle
+- fonts
+- zorder
+- visible
+
+What are toolkits?
+==================
+### axes_grid1
+### mplot3d
+### basemap
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Root</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2755/anatomy-of-matplotlib-part-3</guid><enclosure url="http://www.youtube.com/watch?v=QFIfLiw7gAI" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/QFIfLiw7gAI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

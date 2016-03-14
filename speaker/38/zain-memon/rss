@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Zain Memon</title><link>http://www.pyvideo.org/speaker/38/zain-memon/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/38/zain-memon/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 10 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Making interactive maps for the web</title><link>http://www.pyvideo.org/video/76/djangocon-2011--making-interactive-maps-for-the-w</link><description>&lt;p&gt;Description&lt;/p&gt;
+Making Interactive Maps for the Web
+
+Presented by Zain Memon
+
+When tasked with displaying geo-data, most developers decide to put some big
+red markers on an embeddable Google Map and call it a day. If you're
+interested in creating maps that are more beautiful, more interactive, and
+more usable, this talk is for you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zain Memon</dc:creator><guid>http://www.pyvideo.org/video/76/djangocon-2011--making-interactive-maps-for-the-w</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/76_making-interactive-maps-for-the-web.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MakingInteractiveMapsForTheWeb699-509.jpg"></media:thumbnail></item><item><title>Making maps with Python</title><link>http://www.pyvideo.org/video/672/making-maps-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Python makes it easy to store, query, and transform geodata. We will run
+through a handful of useful GIS libraries and patterns that let you do magical
+things with your maps. If you want to make maps that are more interactive and
+more interesting, this talk is for you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zain Memon</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/672/making-maps-with-python</guid><enclosure url="https://www.youtube.com/watch?v=RBOScqRGHZA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/RBOScqRGHZA/hqdefault.jpg"></media:thumbnail></item><item><title>Making interactive maps for the web</title><link>http://www.pyvideo.org/video/623/making-interactive-maps-for-the-web</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This tutorial teaches students how to create beautiful, interactive maps for
+the web. When asked to display geodata, most developers decide to put some big
+red markers on an embeddable Google Map and call it a day. If you're
+interested in creating maps that are more beautiful, more interactive, and
+more usable, this tutorial is for you.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Zain Memon</dc:creator><pubDate>Thu, 08 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/623/making-interactive-maps-for-the-web</guid><enclosure url="https://www.youtube.com/watch?v=g0CankXpFZg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/g0CankXpFZg/hqdefault.jpg"></media:thumbnail></item></channel></rss>

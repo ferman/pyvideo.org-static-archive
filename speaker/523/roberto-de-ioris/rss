@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Roberto De Ioris</title><link>http://www.pyvideo.org/speaker/523/roberto-de-ioris/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/523/roberto-de-ioris/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 29 May 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python e videogiochi: come siamo messi?</title><link>http://www.pyvideo.org/video/3610/python-e-videogiochi-come-siamo-messi</link><description>&lt;p&gt;Description&lt;/p&gt;
+Il videogioco e’ probabilmente la massima espressione del mondo tecnologico . Programmatori, grafici, musicisti, sceneggiatori lavorano insieme nel costruire qualcosa che spesso si avvicina all’arte piu’ che alla scienza. Come si colloca python in questo mondo ? C’e’ ancora spazio per lui ? C’e’ mai stato ? Ce ne sara’ ? Possiamo fare qualcosa, come community, per migliorare le cose ?
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3610/python-e-videogiochi-come-siamo-messi</guid><enclosure url="https://www.youtube.com/watch?v=mKX171Apw70" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mKX171Apw70/maxresdefault.jpg"></media:thumbnail></item><item><title>Scegliere con saggezza il proprio WSGI server</title><link>http://www.pyvideo.org/video/1250/scegliere-con-saggezza-il-proprio-wsgi-server</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Roberto De Ioris - 5 JULY 2012 in "Track Spaghetti"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Il mondo dei WSGI server e’ costellato di miti e leggende. La maggior parte
+degli utenti (soprattutto quelli alle prime armi) tende a sceglierli in base a
+fattori poco rilevanti o facendosi indirizzare da analisi completamente
+errate. Il talk descrivera’ cosa e’ un WSGI server, quali sono le scelte
+disponibili nel mondo opensource e come scegliere il prodotto piu’ adatto alle
+proprie esigenze
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1250/scegliere-con-saggezza-il-proprio-wsgi-server</guid><enclosure url="http://www.youtube.com/watch?v=YKYpyGG6dvU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/YKYpyGG6dvU/hqdefault.jpg"></media:thumbnail></item><item><title>Usiamo la api di uWSGI per scrivere applicazioni meno noiose</title><link>http://www.pyvideo.org/video/1281/usiamo-la-api-di-uwsgi-per-scrivere-applicazioni</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Roberto De Ioris - 4 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+uWSGI oltre a fornire un ambiente per eseguire le vostre applicazioni
+python/WSGI, offre una serie di funzionalita’ che estendono le possibilita’
+dei vostri progetti. La api di uWSGI esporta funzioni per gestire il tempo, i
+task asincroni, il monitoraggio dei file e tante altre robe divertenti che vi
+eviteranno di istallare tonnellate di grassi demoni o dire di “no” al cliente.
+Il talk mostrera’ vari utilizzi della api (in ordine di complessita’) e
+qualcuna delle nuove features in sviluppo
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1281/usiamo-la-api-di-uwsgi-per-scrivere-applicazioni</guid><enclosure url="http://www.youtube.com/watch?v=cn0bD2i-Ev8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/cn0bD2i-Ev8/hqdefault.jpg"></media:thumbnail></item><item><title>Esageriamo con uWSGI e Nginx</title><link>http://www.pyvideo.org/video/1315/esageriamo-con-uwsgi-e-nginx</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Roberto De Ioris - 3 JULY 2012 in "Track Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Siamo tutti capaci di far girare una applicazione WSGI su un server
+(indipendentemente da quale sia), ma che succede quando ne vogliamo eseguire
+centinaia scritte da programmatori che non conosciamo (o che conosciamo fin
+troppo bene e quindi non vorremmo avere sui nostri server) ? uWSGI e’ un
+application server estremamente avanzato, usato principalmente per
+l’esecuzione di applicazioni WSGI. Nginx e’ un webserver estremamente
+performante e leggero. Il task mostrera’ come usare entrambi per costruire una
+infrastruttura per il deployment di applicazioni WSGI per voi, i vostri
+collaboratori e i vostri clienti, tenendo i costi hardware (e umani) al minimo
+sindacale
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Wed, 04 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1315/esageriamo-con-uwsgi-e-nginx</guid><enclosure url="http://www.youtube.com/watch?v=-xuelXMtYNE" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/-xuelXMtYNE/hqdefault.jpg"></media:thumbnail></item><item><title>uWSGI, il coltellino svizzero (di MacGyver) del deploy</title><link>http://www.pyvideo.org/video/1176/uwsgi-il-coltellino-svizzero-di-macgyver-del-d</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Roberto De Ioris - 21 June 2011 in "Track Italiana Big Mac"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+La prima parte del talk introdurra' la storia di uWSGI, dall'idea iniziale
+alla messa in produzione dei primi lavori, fino alla sua inclusione nei
+progetti Cherokee e Nginx.
+
+Seguira' una serie di esempi di deploy in ambienti ostili (a livello di
+sicurezza, non faremo deploy nella jungla) o con risorse fortemente limitate
+fino all'utilizzo delle funzionalita' integrate per il clustering.
+
+Il talk si rivolge a tutti gli sviluppatori di applicazioni web che sono alla
+ricerca di un ambiente robusto e veloce per i propri lavori, o a chi gia'
+utilizza uWSGI e vuole conoscere qualcuna delle nuove funzionalita' introdotte
+nel ramo di sviluppo.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roberto De Ioris</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1176/uwsgi-il-coltellino-svizzero-di-macgyver-del-d</guid><enclosure url="http://www.youtube.com/watch?v=E5POYrUawW8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/E5POYrUawW8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

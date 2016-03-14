@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Giancarlo Fanelli</title><link>http://www.pyvideo.org/speaker/1835/giancarlo-fanelli/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1835/giancarlo-fanelli/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 09 Jun 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Managing Docker with Python</title><link>http://www.pyvideo.org/video/3566/managing-docker-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk gives an overview about the Python modules that allow you to interact with Docker.
+&lt;p&gt;Description&lt;/p&gt;
+Looking at the most successful open source projects we have been seriously impressed by the importance of Docker: it is positively revolutionizing the DevOps industry. Docker is a valid alternative to the traditional virtual machines and it is redefining the IT service deployment.
+
+Thanks to the available Docker APIs, we have witnessed a remarkable proliferation of tools based on the same APIs to efficiently manage virtual infrastructures: a place of honor, among of all of these, is reserved to the libraries and tools written in Python.
+
+This talk is divided into two parts:
+
+* The first part provides an introduction to Docker by illustrating a typical use case: a network of micro-services aimed to manage a web application.
+
+* The second part goes into detail on how to write Python code which will be able to orchestrate Docker images and containers.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giancarlo Fanelli,Massimiliano Cuzzoli</dc:creator><pubDate>Tue, 09 Jun 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3566/managing-docker-with-python</guid><enclosure url="https://www.youtube.com/watch?v=5ph4Ou4SNlw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/5ph4Ou4SNlw/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Christophe Pettus</title><link>http://www.pyvideo.org/speaker/739/christophe-pettus/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/739/christophe-pettus/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PostgreSQL in Django 1.8</title><link>http://www.pyvideo.org/video/4054/postgresql-in-django-18</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django 1.8 adds a whole bunch of cool new features that are specifically designed for PostgreSQL. We'll take a quick tour through them, and show when and how you can use them in real-world applications. We'll also talk about how to get the best performance out of PostgreSQL when using the Django ORM.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Pettus</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4054/postgresql-in-django-18</guid><enclosure url="https://www.youtube.com/watch?v=aSRk0L6D3Zs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/aSRk0L6D3Zs/hqdefault.jpg"></media:thumbnail></item><item><title>PostgreSQL Proficiency for Python People</title><link>http://www.pyvideo.org/video/3402/postgresql-proficiency-for-python-people-0</link><description>&lt;p&gt;Description&lt;/p&gt;
+PostgreSQL has become the default database for most green-field development projects, and is the data storage architecture behind many major Python-based success stories, such as Instagram. Despite a reputation as being complex and fiddly, Postgres is easy to install, administer, maintain, and use... with just a little bit of orientation. This is that orientation.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Pettus</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3402/postgresql-proficiency-for-python-people-0</guid><enclosure url="https://www.youtube.com/watch?v=78A2gJBgL9g" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/78A2gJBgL9g/hqdefault.jpg"></media:thumbnail></item><item><title>Django MiniConf: Django Transactions: Past, Present, and Future by Christophe Pettus</title><link>http://www.pyvideo.org/video/3118/django-miniconf-django-transactions-past-prese</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Pettus</dc:creator><pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3118/django-miniconf-django-transactions-past-prese</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/116-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/116-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=ppwT0u98TmQ" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/ppwT0u98TmQ/hqdefault.jpg"></media:thumbnail></item><item><title>PostgreSQL Proficiency for Python People</title><link>http://www.pyvideo.org/video/2573/postgresql-proficiency-for-python-people</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PostgreSQL has become the default database for most green-field development projects, and is the data storage architecture behind many major Python-based success stories, such as Instagram.
+ Despite a reputation as being complex and fiddly, Postgres is easy to install, administer, maintain, and use... with just a little bit of orientation.This is that orientation.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Pettus</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2573/postgresql-proficiency-for-python-people</guid><enclosure url="http://www.youtube.com/watch?v=0uCxLCmzaG4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/0uCxLCmzaG4/hqdefault.jpg"></media:thumbnail></item><item><title>PostgreSQL when it's not your job</title><link>http://www.pyvideo.org/video/1399/postgresql-when-its-not-your-job</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this DevOps world, Django developers are increasingly being asked to manage
+the database as well. In 40 brisk minutes, we will talk about (nearly)
+everything you need to know to bring up, tune, and keep a PostgreSQL database
+health. We'll go over installation, basic tuning, backups, disaster recovery,
+and helpful tools and techniques.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+It's a very rare startup these days that has a full-time DBA on staff; mostly,
+the developers are pressed into service to handle the database as well. In
+this talk, we'll present the survival skills required to manage your
+PostgreSQL database while trying to push the product out the door.
+
+We'll cover:
+
+  * Installation.
+  * Basic tuning (it's easier than you think).
+  * Performance, including things you must not do.
+  * Backups and disaster recovery.
+  * Helpful tools, tips and tricks.
+
+Django experience is helpful, but no PostgreSQL experience required.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christophe Pettus</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1399/postgresql-when-its-not-your-job</guid><enclosure url="http://www.youtube.com/watch?v=3yhfW1BDOSQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3yhfW1BDOSQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

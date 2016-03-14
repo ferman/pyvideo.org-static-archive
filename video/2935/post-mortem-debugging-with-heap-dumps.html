@@ -1,0 +1,357 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Post-Mortem Debugging with Heap-Dumps</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="UNIX core-dumps, Windows minidumps or Java heap-dumps are well established technologies for post-mortem defect analysis.
+I&#39;ll present a similar technology for Python. An improved pickling mechanism makes it possible to serialise the state of a Python 
+program for subsequent analysis with a conventional Python-debugger.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="post-mortem-debugging-with-heap-dumps.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="post-mortem-debugging-with-heap-dumps.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=0Xt-au2QnRg"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Post-Mortem Debugging with Heap-Dumps</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/0Xt-au2QnRg/hqdefault.jpg"/>
+      <link property="sameAs" href="post-mortem-debugging-with-heap-dumps.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>UNIX core-dumps, Windows minidumps or Java heap-dumps are well established technologies for post-mortem defect analysis.
+I'll present a similar technology for Python. An improved pickling mechanism makes it possible to serialise the state of a Python 
+program for subsequent analysis with a conventional Python-debugger.</p></div>
+        <meta property="caption" content="UNIX core-dumps, Windows minidumps or Java heap-dumps are well established technologies for post-mortem defect analysis.
+I&#39;ll present a similar technology for Python. An improved pickling mechanism makes it possible to serialise the state of a Python 
+program for subsequent analysis with a conventional Python-debugger."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><h1>Post-Mortem Debugging with Heap-Dumps</h1>
+<p>UNIX core-dumps, Windows minidumps and analogous solutions of other operating systems are well established technologies for 
+post-mortem defect analysis of native-code processes. In principle those dumps can be used to analyse „interpreted“ 
+programs running within a native-code interpreter-process. However in practise this approach is tedious and not always successful [1].
+Therefore operating system independent dump methods were developed for some „interpreted“ languages [2]. 
+A prominent example are Java heap dumps [3]. </p>
+<p>Unfortunately up to now there was no practically usable dump-method for Python. Various attempts were made 
+to utilise OS-level dump methods [4, 5]. In 2012 Eli Finer published the Python module <em>pydump</em> [6].
+This module pickles the traceback of an exception and subsequently uses the pdb debugger to analyse the unpickled traceback.
+Unfortunately <em>pydump</em> fails on PicklingErrors.</p>
+<p>In my talk I'll present the Python package <a href="https://pypi.python.org/pypi/pyheapdump"><em>pyheapdump</em></a>. It has the same operation principle as Eli's <em>pydump</em>, but 
+is an independent implementation. <em>pyheapdump</em> uses an extended pickler 
+(<a href="https://pypi.python.org/pypi/sPickle">sPickle</a>) to serialise all relevant objects 
+of a Python process to a file. Later on a fault tolerant unpickler recreates the objects and a common Python
+debugger can be used to analyse the dump. The pickler extensions make it possible to:</p>
+<ul>
+<li>pickle and unpickle many commonly not pickleable objects [7].</li>
+<li>replace the remaining not pickleable objects by surrogate objects so that the resulting object graph is
+   almost isomorphic to the original object graph.</li>
+</ul>
+<p>Which objects are relevant? In its default operation mode <em>pyheapdump</em> 
+uses the frame-stacks of all threads as start point for pickling. Following the 
+usual rules for pickling the dump includes all local variables and all objects 
+reachable from a local variable and so on. That is usually enough for a successful defect analysis.</p>
+<p>Compared with other Python post-mortem debugging methods <em>pyheapdump</em> has several advantages:</p>
+<ul>
+<li>It is a pure Python solution and independent from the operation system.</li>
+<li>Creation of the pyheapdump and fault analysis can be performed different computers.</li>
+<li>It is not obstructive. It does not modify / monkey-patch or disturb the dumped 
+   process in any way, with the exception of loading additional modules.</li>
+<li>If used with the Pydev-debugger, it supports multi-threaded applications.</li>
+<li>If used with the Pydev-debugger and Stackless Python, it supports tasklets. </li>
+</ul>
+<p>The implementation of <em>pyheapdump</em> is fairly small, because it draws most of its functionality 
+from the underlying sPickle package and from the new Stackless-Support [8] of the
+Pydev-Debugger. Therefore it is - despite of its short history - already a useful piece of software.</p>
+<h2>Outline of the talk</h2>
+<ol>
+<li>Introduction to the problem</li>
+<li>Previous works</li>
+<li>The concept of <em>pyheapdump</em></li>
+<li>Live demonstration</li>
+<li>Open problems and further development</li>
+<li>Questions and Answers</li>
+</ol>
+<h2>References</h2>
+<ol>
+<li>Andraz Tori, Python, 2011-01-16: <em>gdb and a very large core dump</em>, blog at <a href="http://www.zemanta.com/blog/python-gdb-large-core-dump/">http://www.zemanta.com/blog/python-gdb-large-core-dump/</a></li>
+<li>David Pacheco, ACM Queue - Programming Languages Volume 9 Issue 10, October 2011: 
+   <em>Postmortem Debugging in Dynamic Environments</em>, 
+   PDF <a href="http://dl.acm.org/ft_gateway.cfm?id=2039361&amp;ftid=1050739&amp;dwn=1&amp;CFID=290171300&amp;CFTOKEN=95099236">http://dl.acm.org/ft_gateway.cfm?id=2039361&amp;ftid=1050739&amp;dwn=1&amp;CFID=290171300&amp;CFTOKEN=95099236</a></li>
+<li>Chris Bailey, Andrew Johnson, Kevin Grigorenko, IBM developerWorks, 2011-03-15: 
+   <em>Debugging from dumps - Diagnose more than memory leaks with Memory Analyzer</em>, 
+   PDF <a href="http://www.ibm.com/developerworks/library/j-memoryanalyzer/j-memoryanalyzer-pdf.pdf">http://www.ibm.com/developerworks/library/j-memoryanalyzer/j-memoryanalyzer-pdf.pdf</a></li>
+<li>Brian Curtin, 2011-09-29: <em>minidumper - Python crash dumps on Windows</em>, 
+   blog at <a href="http://blog.briancurtin.com/posts/20110929minidumper-python-crash-dumps-on-windows.html">http://blog.briancurtin.com/posts/20110929minidumper-python-crash-dumps-on-windows.html</a></li>
+<li>David Malcolm, Fedora Feature, 2010-04-06: <em>Easier Python Debugging</em> 
+   at <a href="http://fedoraproject.org/wiki/Features/EasierPythonDebugging">http://fedoraproject.org/wiki/Features/EasierPythonDebugging</a></li>
+<li>Eli Finer, Github-Project, 2012: <em>pydump</em> at <a href="https://github.com/gooli/pydump">https://github.com/gooli/pydump</a></li>
+<li>Anselm Kruis, EuroPython 2011: <em>Advanced Pickling with Stackless Python and sPickle</em>,
+   archived talk at <a href="https://ep2013.europython.eu/conference/talks/advanced-pickling-with-stackless-python-and-spickle">https://ep2013.europython.eu/conference/talks/advanced-pickling-with-stackless-python-and-spickle</a></li>
+<li>Fabio Zadrozny, 2013-12-12: <em>PyDev 3.1.0 released</em>, 
+   blog at <a href="http://pydev.blogspot.de/2013/12/pydev-310-released.html">http://pydev.blogspot.de/2013/12/pydev-310-released.html</a></li>
+</ol></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/559/anselm-kruis.html">Anselm Kruis</a></div>
+            <meta property="author" content="Anselm Kruis"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 25, 2014
+            <meta property="dateCreated" content="2014-07-25"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 31, 2014
+            <meta property="dateModified" content="2014-07-31T01:04:31.601765"/>
+            <meta property="datePublished" content="2014-07-31T01:04:31.601765"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=0Xt-au2QnRg" property="embedUrl">http://www.youtube.com/watch?v=0Xt-au2QnRg</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2935">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="post-mortem-debugging-with-heap-dumps.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Eric Florenzano</title><link>http://www.pyvideo.org/speaker/24/eric-florenzano/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/24/eric-florenzano/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 05 Sep 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Why Django Sucks, and How We Can Fix It</title><link>http://www.pyvideo.org/video/44/djangocon-2010--why-django-sucks--and-how-we-can-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Why Django Sucks, and How We Can Fix It
+
+Presented by Eric Florenzano
+
+Eric Florenzano trolls DjangoCon. He identifies problems with Django ranging
+from app structure, to settings, to the development process, to the community,
+and more. Some of the problems he identifies have been around since the
+beginning, and some are emerging as Django matures. It's not all gloom—the
+latter half of the talk focuses on proposals on how to tackle these issues
+that face Django.
+
+Abstract
+
+This talk focuses on real problems that people face when using Django every
+day. It dives down and attempts to find root causes for each of these
+problems. Essentially, what are the things that suck about Django?
+
+Then the talk walks point-by-point for each of the things that suck, and
+provides suggestions for actions that the Django community can take to make
+them suck less.
+
+The goal here is to start a discussion, to bring to light the problems that
+tend to be ignored, and to have a little fun in the process.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Florenzano</dc:creator><guid>http://www.pyvideo.org/video/44/djangocon-2010--why-django-sucks--and-how-we-can-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/44_why-django-sucks-and-how-we-can-fix-it.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-WhyDjangoSucksAndHowWeCanFixIt128.png"></media:thumbnail></item><item><title>What is Django's Role on Mobile?</title><link>http://www.pyvideo.org/video/1383/what-is-djangos-role-on-mobile</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mobile grows bigger each year, but we love the web, and Django. Where does our
+knowledge and experience fit in this new ecosystem? What kind of a role can
+Django play on fast-growing platforms like iOS and Android?
+
+
+&lt;p&gt;Description&lt;/p&gt;
+# Intro
+
+  * Django's version of MVC vs. iOS/Android version of MVC
+  * How the platforms differ from Django
+  * What is similar to Django
+
+# API
+
+  * Easiest way for Django to be used in conjunction with mobile today
+  * Big fat requests with lots of data preferable to many smaller requests
+  * Authentication best practices for mobile backend APIs
+
+# PhoneGap
+
+  * Can actually use Django to build your mobile app today
+  * JavaScript tricks to get around things like tap delay
+  * How much Django is really used vs. how much JavaScript
+  * Offline caching
+  * Performance issues with this approach
+
+# Future
+
+  * Quick look at RubyMotion
+  * Turns out it's possible to cross-compile Python for iOS
+  * Android has Py4A (including interpreter embedding)
+  * What can be done with this? Mobile Django.
+
+# Conclusion
+
+  * They are different worlds, need to be careful to respect both
+  * Even today Django proves useful as an API layer
+  * Django web apps in native wrapper can be a solution, albeit with its issues
+  * As hardware gets better, we may see something like an embedded Django
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Florenzano</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1383/what-is-djangos-role-on-mobile</guid><enclosure url="http://www.youtube.com/watch?v=3_R3DYwBWyY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/3_R3DYwBWyY/hqdefault.jpg"></media:thumbnail></item><item><title>Dude, Where's My Database? (#133)</title><link>http://www.pyvideo.org/video/300/dude-wheres-my-database-133</link><description>&lt;p&gt;Description&lt;/p&gt;
+Dude, Where's My Database?
+
+  
+Presented by Eric Florenzano (Django)
+
+  
+There are so many great open source databases out on the market right now--
+we're really in the golden age of databases. Fortunately, Python can talk to
+virtually all of them. With so many databases at our disposal, how do we
+choose which one to use for our particular use case?
+
+  
+This talk will go over the many different classes of databases, introduce some
+of the particular implementations for each class of database, and describe the
+strengths and weaknesses of each. By weighing the pros and cons of each type
+of database, the speaker hopes to dispel the many rumors and misconceptions
+that people have about what's out there today.
+
+  
+[VIDEO HAS ISSUES: Audio cuts out at about 20 seconds in, then gets out of
+sync until around 3:10.]
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Florenzano</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/300/dude-wheres-my-database-133</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.ogv" length="188382147" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.ogv" fileSize="188382147" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010DudeWheresMyDatabase133159.png"></media:thumbnail></item></channel></rss>

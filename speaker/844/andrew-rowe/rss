@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Andrew Rowe</title><link>http://www.pyvideo.org/speaker/844/andrew-rowe/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/844/andrew-rowe/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 07 Jul 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Big Data Deduplication and data matching using Python</title><link>http://www.pyvideo.org/video/2213/big-data-deduplication-and-data-matching-using-py</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Andrew Rowe will present the lessons learnt and techniques used to process very large amounts of data from the ABS Census.  The Australian Bureau of Statistics used Python to investigate data from the 2006 Australian Census.  Python is an integral part of ABS systems to determine duplicated entries and link people in the Census to other ABS collections.  You will learn about:
+* Handling large data.
+* Dealing with confidentiality.
+* Multiprocessing techniques.
+* Performance tips and tricks.
+* Difference between if( 1 &lt; 2 ) and if 1 &lt; 2.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Rowe</dc:creator><pubDate>Sun, 07 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2213/big-data-deduplication-and-data-matching-using-py</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Big_Data_Deduplication_and_dat.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Big_Data_Deduplication_and_dat.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=Z6mlvrYEYnk" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/Z6mlvrYEYnk/hqdefault.jpg"></media:thumbnail></item><item><title>Techniques for improving Python performance</title><link>http://www.pyvideo.org/video/1630/techniques-for-improving-python-performance</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Andrew Rowe will detail and demonstrate a number of proven techniques for
+improving the performance of large Python programs.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+  * Using multiprocessing.
+  * Using custom extensions.
+  * Refactoring code.
+  * using comprehensions.
+  * Dictionaries v. Lists.
+  * Range v. xrange.
+  * Profiling.
+  * Detecting choke points.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Rowe</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1630/techniques-for-improving-python-performance</guid><enclosure url="http://www.youtube.com/watch?v=pBF3dKrVhxQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/pBF3dKrVhxQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

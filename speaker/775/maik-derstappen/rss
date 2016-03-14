@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Maik Derstappen</title><link>http://www.pyvideo.org/speaker/775/maik-derstappen/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/775/maik-derstappen/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 31 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Plone Theming, flexibel, schnell und einfach!</title><link>http://www.pyvideo.org/video/1454/plone-theming-flexibel-schnell-und-einfach</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Theming von komplexen Content Management Systemen ist häufige eine sehr
+arbeitsintensive Angelegenheit - Plone ist dabei keine Ausnahme. Dank Diazo
+ist kein Plone-Experten-Wissen mehr notwendig, um beliebige Designs in Plone
+umzusetzen. Der Vortrag stellt an einem Beispiel aus der Praxis den Einsatz
+von Diazo vor.
+
+Dank Diazo und plone.app.theming kann ein Designtemplate (aus html und css
+komplett unabhängig vom CMS gehalten werden. Ein einfaches Regelwerk verknüpft
+das Designtemplate mit dem CMS. Ein Theme kann als Zip-Datei verpackt, direkt
+in Plone importiert und aktiviert werden ohne das System neu starten zu
+müssen. Der Vortrag weist an Beispielen den Weg vom statischen Template zum
+dynamischem Plone-Theme. Schwerpunkt ist hierbei die Erzeugung der Regeln mit
+denen die Elemente des statischen Templates mit den Inhalten aus dem CMS
+verbunden werden.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maik Derstappen</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1454/plone-theming-flexibel-schnell-und-einfach</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Plone_Theming_flexibel.mp4?Signature=kseVohSbodVVrBuNeabAxCheZPw%3D&amp;Expires=1351856851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Plone_Theming_flexibel.mp4?Signature=kseVohSbodVVrBuNeabAxCheZPw%3D&amp;Expires=1351856851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=e1KKo11AB8c" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/e1KKo11AB8c/hqdefault.jpg"></media:thumbnail></item><item><title>Dokumentenmanagement mit Plone</title><link>http://www.pyvideo.org/video/1458/dokumentenmanagement-mit-plone</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Plone ist weit mehr als nur ein CMS, es bietet mit seiner einfachen
+Rechteverwaltung, dem flexiblen Arbeitsabläufen (Workflows), der möglichen
+Anbindung an Dateisysteme per Web-Dav und der ausgereiften Suchfunktion, die
+mit Volltextindizierung und Livesearch aufwarten kann, gute Voraussetzungen
+für den Einsatz im Intra- und Extranet.
+
+Der Vortrag gibt aus Anwendersicht einen kurzen Einblick in die Möglichkeiten,
+Plone im Intranet oder Extranet zur Verwaltung von Dokumenten und
+Informationen einzusetzen. Es werden Themen wie Rechteverwaltung, globale und
+lokale Arbeitsabläufe, Regeln zur Ereignissteuerung, Möglichkeiten der
+eingebauten Suchfunktionen (Volltextsuche/Verschlagwortung), sowie der Einsatz
+von Kollektionen zur Aufbereitung von Inhalten behandelt.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maik Derstappen</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1458/dokumentenmanagement-mit-plone</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Dokumentenmanagement_m.mp4?Signature=Zd7CasG657AUSTY71DCVtoUBfoc%3D&amp;Expires=1351858887&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Dokumentenmanagement_m.mp4?Signature=Zd7CasG657AUSTY71DCVtoUBfoc%3D&amp;Expires=1351858887&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=P90sY2BaESI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/P90sY2BaESI/hqdefault.jpg"></media:thumbnail></item><item><title>Plone Theming, flexibel und einfach!</title><link>http://www.pyvideo.org/video/2893/plone-theming-flexibel-und-einfach</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Das Theming von komplexen Content Management Systemen, ist häufige eine sehr arbeitsintensive Angelegenheit. Mit Plone erfordert es heute, dank des Einsatzes von Diazo und plone.app.theming, kaum mehr Wissen über die Interna des CMS. Das Designtemplate kann komplett unabhängig vom CMS gehalten werden. Ein einfaches Regelwerk verknüpft das Designtemplate mit dem CMS.
+
+[First four minutes missing]</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maik Derstappen</dc:creator><pubDate>Thu, 06 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2893/plone-theming-flexibel-und-einfach</guid><enclosure url="http://www.youtube.com/watch?v=1lcXuTamb0U" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/1lcXuTamb0U/hqdefault.jpg"></media:thumbnail></item></channel></rss>

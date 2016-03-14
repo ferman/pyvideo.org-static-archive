@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Ian Ozsvald</title><link>http://www.pyvideo.org/speaker/335/ian-ozsvald/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/335/ian-ozsvald/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 10 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Cleaning Confused Collections of Characters</title><link>http://www.pyvideo.org/video/3526/cleaning-confused-collections-of-characters</link><description>&lt;p&gt;Description&lt;/p&gt;
+Success in data science projects depends upon clean input data. Text data is often badly encoded, lacks data types and is inconsistent. Aimed at the intermediate Pythonista I’ll talk about the time saving tools I use in ModelInsight to clean and normalise my data so you can easily work on new projects.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Ozsvald</dc:creator><pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3526/cleaning-confused-collections-of-characters</guid><enclosure url="https://www.youtube.com/watch?v=W1wVXzyDMX0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/W1wVXzyDMX0/hqdefault.jpg"></media:thumbnail></item><item><title>Applied Parallel Computing with Python</title><link>http://www.pyvideo.org/video/1720/applied-parallel-computing-with-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this tutorial we shall review three different and distinct approaches to parallel computing which can be used to solve problems in all manner of domains, including machine learning, natural language processing, finance, and computer vision. The first two approaches to be reviewed will be embarrassingly parallel in nature while the third approach will leverage fine-grain parallelism.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Ozsvald,Minesh B Amin</dc:creator><pubDate>Thu, 14 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1720/applied-parallel-computing-with-python</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Applied_Parallel_Computing_wit.mp4?Signature=qOo29k1gptSaUt8SYe9GLGymYvs%3D&amp;Expires=1364691416&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Applied_Parallel_Computing_wit.mp4?Signature=qOo29k1gptSaUt8SYe9GLGymYvs%3D&amp;Expires=1364691416&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=vL0UtbJOKR0" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/vL0UtbJOKR0/hqdefault.jpg"></media:thumbnail></item><item><title>High Performance Python I</title><link>http://www.pyvideo.org/video/614/high-performance-python-i</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+At EuroPython 2011 I ran a very hands-on tutorial for High Performance Python
+techniques. This updated tutorial will cover profiling, PyPy, Cython, numpy,
+NumExpr, ShedSkin, multiprocessing, ParallelPython and pyCUDA. Here's a 55
+page PDF write-up of the EuroPython material: http://ianozsvald.com/2011/07/25
+/high-performance-python-tutorial-v0-2-from-europython-2011/
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Ozsvald</dc:creator><pubDate>Thu, 08 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/614/high-performance-python-i</guid><enclosure url="https://www.youtube.com/watch?v=Iw9-GckD-gQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Iw9-GckD-gQ/hqdefault.jpg"></media:thumbnail></item><item><title>Experiences making CPU-bound tasks run much faster</title><link>http://www.pyvideo.org/video/1071/experiences-making-cpu-bound-tasks-run-much-faste</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Ian Ozsvald - 22 June 2011 in "Training Pizza Margherita "
+
+
+&lt;p&gt;Description&lt;/p&gt;
+UPDATE - post-event I've created a [49 page PDF write-
+up](http://ianozsvald.com/2011/06/29/high-performance-python-tutorial-v0-1
+-from-my-4-hour-tutorial-at-europython-2011/) which summarises the 4 hour
+tutorial
+
+As a long-time R&amp;D consultant I'm often working to make slow, experimental
+code run faster for tasks like physics simulation, flood modeling and natural
+language processing. Python allows a smooth progression from rough-and-ready
+(but slow) algorithms through to finely tuned tasks that efficiently use as
+much CPU power as you can bring to bear. Speed-ups of 10-500* can be expected
+for the Mandelbrot code we'll use.
+
+In this talk I'll cover a set of libraries that make CPU-bound tasks run much
+faster. We'll begin with a look at profiling using RunSnakeRun and
+line_profiler to identify our bottleneck. We'll take a look at slow algorithms
+in Python and how they can run faster using numpy and numexpr.
+
+Next we'll cover the use of multiprocessing to utilise multiple CPU cores
+along with Cython or ShedSkin to easily use C code in a friendly Python
+wrapper. Multiprocessing on a quad-core system can often provide a 4* speed-up
+for the right tasks. Next parallelpython will let us run our code on a network
+of machines.
+
+Finally we'll look at pyCUDA to utilise an NVIDIA GPU. CUDA can give the best
+improvements for mathematical problems (over 100* on the right tasks) but
+works on a narrower set of problems.
+
+How it'll work: The tutorial will be hands on, you'll be converting example
+files from normal Python to faster variants using the tools below. All of it
+is optional, you'll get the most benefit by having everything installed. We'll
+work in groups and open discussion is encouraged.
+
+NOTE - you are expected to have all these tools installed _before_ the
+tutorial (if you don't, you might find it hard to follow what's going on!).
+
+I'll be using Python 2.7.1 on a Macbook (Snow Leopard). All of these tools run
+on Windows and Linux, as long as your versions are fairly recent everything
+should run just fine.
+
+My versions (roughly ordered by importance):
+
+  * Python 2.7.1
+  * RunSnakeRun 2.0.1b6 (with wxPython 2.8.12.0 Unicode)
+  * line_profiler (1.0b2)
+  * Cython 0.14.1
+  * ShedSkin 0.7.1
+  * numpy 1.5.1
+  * numexpr 1.4.2
+  * ParallelPython 1.6.1
+  * pyCUDA HEAD from git as of 14th June 2011 (with CUDA 4.0 drivers)
+  * PyPy 1.5
+
+Some background reading:
+
+  * [http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/](http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/)
+  * [http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/](http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Ozsvald</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1071/experiences-making-cpu-bound-tasks-run-much-faste</guid><enclosure url="http://www.youtube.com/watch?v=F7NOKSP_vlQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/F7NOKSP_vlQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

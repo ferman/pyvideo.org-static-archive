@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Romain Guillebert</title><link>http://www.pyvideo.org/speaker/1422/romain-guillebert/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1422/romain-guillebert/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 22 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyPy status talk (a.k.a.: no no, PyPy is not dead)</title><link>http://www.pyvideo.org/video/3018/pypy-status-talk-aka-no-no-pypy-is-not-dead</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The current status of PyPy, with a particular focus on what happened in the last two years, since the last EuroPython PyPy talk.  We will give a brief overview of the current speed and the on-going development efforts on the JIT, the GC, NumPy, Python 3 compatibility, CFFI, STM...
+&lt;p&gt;Description&lt;/p&gt;
+In this talk we will present the current status of PyPy, with a particular focus on what happened in the last two years, since the last EuroPython PyPy talk.  We will give an overview of the current speed and the on-going development efforts, including but not limited to:
+
+- the status of the Just-in-Time Compiler (JIT) and PyPy performance in general;
+- the improvements on the Garbage Collector (GC);
+- the status of the NumPy and Python 3 compatibility subprojects;
+- CFFI, which aims to be a general C interface mechanism for both CPython and PyPy;
+- a quick overview of the STM (Software Transactional Memory) research project, which aims at solving the GIL problem.
+
+This is the "general PyPy status talk" that we give every year at EuroPython (except last year; hence the "no no, PyPy is not dead" part of the title of this talk).</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Romain Guillebert</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3018/pypy-status-talk-aka-no-no-pypy-is-not-dead</guid><enclosure url="http://www.youtube.com/watch?v=1ZE0ESaafs4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/1ZE0ESaafs4/hqdefault.jpg"></media:thumbnail></item><item><title>PyPy : une implémentation rapide de Python</title><link>http://www.pyvideo.org/video/3743/pypy-une-implementation-rapide-de-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+PyPy est l'implémentation la plus rapide de Python, cette présentation répondra à deux questions "Comment fonctionne PyPy ?" et "Qu'est-ce que PyPy peut m'apporter ?".
+
+- L'histoire de PyPy (un projet vieux de 10 ans)
+- Comment fonctionne PyPy ?
+- Qu'est-ce que PyPy peut m'apporter ?
+- Le futur de PyPy
+- Questions</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Romain Guillebert</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3743/pypy-une-implementation-rapide-de-python</guid><enclosure url="https://www.youtube.com/watch?v=yNuEPXvZWg0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/yNuEPXvZWg0/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

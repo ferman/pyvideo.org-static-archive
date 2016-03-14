@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Péter Szabó</title><link>http://www.pyvideo.org/speaker/482/peter-szabo/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/482/peter-szabo/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 24 Jul 2011 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system</title><link>http://www.pyvideo.org/video/1018/precompiling-and-deploying-python-to-any-linux-m</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Peter Szabo - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+If a Python application has lots of dependencies and requires specific
+versions of some of its dependencies, then users can easily get bored or
+frustrated installing the application. To make the installation faster and
+have less side effects, application authors can create bundles which contain
+the application, all its dependencies and possibly the Python interpreter.
+This talk presents a way of creating bundles using StaticPython, and compares
+it to bb-freeze. StaticPython is a single-file statically linked version of
+Python for 32-bit Linux (i386), containing all standard and some extra Python
+modules and C extensions.
+
+Link to [slides](http://pts-mini-gpl.googlecode.com/svn/trunk/staticpython/doc
+/slides_2011-06-23/pts_staticpython_2011-06-23.html)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Péter Szabó</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1018/precompiling-and-deploying-python-to-any-linux-m</guid><enclosure url="http://www.youtube.com/watch?v=Lil248rRPYw" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/Lil248rRPYw/hqdefault.jpg"></media:thumbnail></item><item><title>Emulating Stackless and greenlet with each other</title><link>http://www.pyvideo.org/video/1052/emulating-stackless-and-greenlet-with-each-other</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Peter Szabo - 20 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Stackless Python and the greenlet package for CPython are two different
+implementations of coroutine support for Python. (Coroutines are fundamental
+building blocks of I/O frameworks like gevent, Eventlet, Concurrence and
+Syncless to conveniently handle thousands of socket connections at a time
+without creating threads.) Stackless and greenlet implement a different
+interface. However, each is powerful enough so that it can be used to emulate
+the other one. In this talk we explore the differences and discuss design
+decisions and testing strategies of the emulations we have implemented.
+
+[Slides](http://syncless.googlecode.com/svn/trunk/doc/slides_2011-06-20/pts_em
+u_coro_2011-06-20.html)
+
+[Slides for the bonus sub-talk](http://syncless.googlecode.com/svn/trunk/doc/s
+lides_2010-11-29/pts_coro_2010-11-29.html)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Péter Szabó</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1052/emulating-stackless-and-greenlet-with-each-other</guid><enclosure url="http://www.youtube.com/watch?v=aNl7GrnKTcs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/aNl7GrnKTcs/hqdefault.jpg"></media:thumbnail></item><item><title>Emulating Stackless and greenlet with each other</title><link>http://www.pyvideo.org/video/1083/emulating-stackless-and-greenlet-with-each-other-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Peter Szabo - 20 June 2011 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Stackless Python and the greenlet package for CPython are two different
+implementations of coroutine support for Python. (Coroutines are fundamental
+building blocks of I/O frameworks like gevent, Eventlet, Concurrence and
+Syncless to conveniently handle thousands of socket connections at a time
+without creating threads.) Stackless and greenlet implement a different
+interface. However, each is powerful enough so that it can be used to emulate
+the other one. In this talk we explore the differences and discuss design
+decisions and testing strategies of the emulations we have implemented.
+
+[Slides](http://syncless.googlecode.com/svn/trunk/doc/slides_2011-06-20/pts_em
+u_coro_2011-06-20.html)
+
+[Slides for the bonus sub-talk](http://syncless.googlecode.com/svn/trunk/doc/s
+lides_2010-11-29/pts_coro_2010-11-29.html)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Péter Szabó</dc:creator><pubDate>Thu, 14 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1083/emulating-stackless-and-greenlet-with-each-other-0</guid><enclosure url="http://www.youtube.com/watch?v=rR0EZhe_UZk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/rR0EZhe_UZk/hqdefault.jpg"></media:thumbnail></item><item><title>Precompiling and deploying Python to any Linux, Mac OS X or FreeBSD system</title><link>http://www.pyvideo.org/video/1115/precompiling-and-deploying-python-to-any-linux-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2011] Peter Szabo - 23 June 2011 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+If a Python application has lots of dependencies and requires specific
+versions of some of its dependencies, then users can easily get bored or
+frustrated installing the application. To make the installation faster and
+have less side effects, application authors can create bundles which contain
+the application, all its dependencies and possibly the Python interpreter.
+This talk presents a way of creating bundles using StaticPython, and compares
+it to bb-freeze. StaticPython is a single-file statically linked version of
+Python for 32-bit Linux (i386), containing all standard and some extra Python
+modules and C extensions.
+
+Link to [slides](http://pts-mini-gpl.googlecode.com/svn/trunk/staticpython/doc
+/slides_2011-06-23/pts_staticpython_2011-06-23.html)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Péter Szabó</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1115/precompiling-and-deploying-python-to-any-linux-0</guid><enclosure url="http://www.youtube.com/watch?v=KKkuu_A6ZhQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/KKkuu_A6ZhQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

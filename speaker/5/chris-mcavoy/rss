@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Chris McAvoy</title><link>http://www.pyvideo.org/speaker/5/chris-mcavoy/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/5/chris-mcavoy/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2011 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Django on Jython: Ready for Production</title><link>http://www.pyvideo.org/video/7/django-on-jython--ready-for-production</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django on Jython: Ready for Production
+
+  
+Presented by Chris McAvoy
+
+  
+Talks about runnin Django on Jython. Walks through technical issues with
+getting Django running on Jython, but also talks about why you might want to
+do this and what it enables.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McAvoy</dc:creator><guid>http://www.pyvideo.org/video/7/django-on-jython--ready-for-production</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/7_django-on-jython-ready-for-production.ogv" length="None" type="video/ogg"></enclosure><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DjangoOnJythonReadyForProduction857.png"></media:thumbnail></item><item><title>Going Full Python - Threadless</title><link>http://www.pyvideo.org/video/385/pycon-2011--going-full-python---threadless</link><description>&lt;p&gt;Description&lt;/p&gt;
+  
+
+Going Full Python -- Threadless
+
+Presented by Chris McAvoy
+
+Threadless is a 10 year old community based design company with an
+overpowering love of witty t-shirts and a mission to 'inspire awesomeness.'
+After 10 years of working primarily with PHP, Threadless has decided to use
+Python as our base development language. The decision was 10% technical and
+90% touchy feely. We know what a powerful community can do to a product, and
+see the same sort of drive and passion in the Python community that we see in
+our own design community. Python is the peanut butter to our jelly. We're
+excited to share our jelly with you. Chris McAvoy, VP of Technology at
+Threadless (and the founder of the Chicago Python Users Group), will share a
+bit about the companies history, the role of technology in supporting the
+community at the core of the business, and why Python and Threadless are going
+to be totally BFF's.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris McAvoy</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/385/pycon-2011--going-full-python---threadless</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/385_going-full-python-threadless.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011GoingFullPythonThreadless741.png"></media:thumbnail></item></channel></rss>

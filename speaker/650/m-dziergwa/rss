@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of M Dziergwa</title><link>http://www.pyvideo.org/speaker/650/m-dziergwa/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/650/m-dziergwa/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 06 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Python in banking systems</title><link>http://www.pyvideo.org/video/1264/python-in-banking-systems</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] M Dziergwa - 5 JULY 2012 in "Track Ravioli"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Creating applications for banks, especially internet banking systems, is a
+very complicated process. Because we do it since many years, I would like to
+show how we do it. The talk will cover: architecture of bank transactional
+system tools used to create such solutions python frameworks used to build
+bank applications generating advanced forms and tables testing process build
+process logging what to focus on when you work with banks
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">M Dziergwa</dc:creator><pubDate>Fri, 06 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1264/python-in-banking-systems</guid><enclosure url="http://www.youtube.com/watch?v=AmmVtWY2GfU" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/AmmVtWY2GfU/hqdefault.jpg"></media:thumbnail></item></channel></rss>

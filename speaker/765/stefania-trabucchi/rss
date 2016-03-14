@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Stefania Trabucchi</title><link>http://www.pyvideo.org/speaker/765/stefania-trabucchi/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/765/stefania-trabucchi/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 30 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Twitter Bootstrap – Schweizer Messer fur Webanwendungen?</title><link>http://www.pyvideo.org/video/1438/twitter-bootstrap-schweizer-messer-fur-webanwend</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Twitter Bootstrap –„Schweizer Messer“ für Webanwendungen?
+
+- Toolkit zur Gestaltung von (Python-)Webanwendungen am Beispiel von Plone -
+
+Twitter Bootstrap in Front-End, Diazo als XSL-Transformation-Server und
+Buildout bieten in ihrer Kombination eine ideale Möglichkeit, mit geringem
+Aufwand und nachhaltiger Wirkung Lösungen für Responsive Webdesign bei
+Verwendung von Plone, Django oder anderen Web-Anwendungen zu realisieren.
+
+Twitter Bootstrap als gut dokumentiertes, flexibles und in seiner Bedeutung
+wachsendes Werkzeug ermöglicht Designern und Entwicklern eine gute
+Zusammenarbeit. Die Macher von Twitter Bootstrab haben HTML 5, CSS, JS-
+Libraries, Less-Unterstützung und gute getestete Cross-Browser-Sicherheit u.a.
+auch für mobile Endgeräte in dem Toolkit mitgeliefert. Sein Erfolgsrezept sind
+die vielen vorgefertigen Oberflächenelemente, welche in Form von Widgets,
+Buttons, Dropdownmenus, Slides, Forms oder Tabs leicht zu integrieren sind.
+
+Aufgrund der zunehmenden Abhängigkeit von Designern und Entwicklern in
+Projekt-Teams bildet die Nutzung solider Frameworks die Basis des Erfolgs. Ob
+sich also Twitter Boostrap als „Schweizer Messer“ der Webentwickler erweisen
+kann, und in welcher Weise Designer und Entwickler vom Einsatz derartiger
+Toolkits profitieren können, zeigt dieser Vortrag vor dem Hintergrund der
+persönlichen Erfahrungen der Referentin mit Diazo und Plone.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefania Trabucchi</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1438/twitter-bootstrap-schweizer-messer-fur-webanwend</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Twitter_Bootstrap.mp4?Signature=oUVYWjyJVCPBwvKM2EOpW%2FIWfG8%3D&amp;Expires=1351852527&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Twitter_Bootstrap.mp4?Signature=oUVYWjyJVCPBwvKM2EOpW%2FIWfG8%3D&amp;Expires=1351852527&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=uhY70ZL2vj8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/uhY70ZL2vj8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,330 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Integrating Python and C++ with Boost Python part 2</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="boost,c++">
+  
+    <meta name="description" content="Python and C++ can be powerful complements to one another. C++ is great for performance-critical calculations, while Python is great for everything else. In this tutorial we’ll look at how to integrate Python and C++ using the Boost.Python library. You’ll learn techniques for easily developing hybrid systems that use the right language for the right task, resulting in better software.
+">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="integrating-python-and-c-with-boost-python-part.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="integrating-python-and-c-with-boost-python-part.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=WLKuHbkh6jU"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Integrating Python and C++ with Boost Python part 2</h3>
+      <link property="thumbnailUrl" href="http://i1.ytimg.com/vi/WLKuHbkh6jU/hqdefault.jpg"/>
+      <link property="sameAs" href="integrating-python-and-c-with-boost-python-part.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>Python and C++ can be powerful complements to one another. C++ is great for performance-critical calculations, while Python is great for everything else. In this tutorial we’ll look at how to integrate Python and C++ using the Boost.Python library. You’ll learn techniques for easily developing hybrid systems that use the right language for the right task, resulting in better software.</p></div>
+        <meta property="caption" content="Python and C++ can be powerful complements to one another. C++ is great for performance-critical calculations, while Python is great for everything else. In this tutorial we’ll look at how to integrate Python and C++ using the Boost.Python library. You’ll learn techniques for easily developing hybrid systems that use the right language for the right task, resulting in better software."/>
+      </div>
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Python and C++ are both popular languages that each bring a lot to the table. The languages also complement one another well: Python is high-level, dynamic, and easy to use while C++ is at-the-metal, static, and (in)famously tricky. There are times when there are real advantages to combining these disparate natures, and Python’s C API provides a strong interface for doing just that. Boost.Python is a C++ library that builds upon and improves Python’s C API to give users a simpler, more intuitive, and safer means to integrate Python and C++.</p>
+<p>In this tutorial we’ll look at how to use Boost.Python to effectively bridge the Python/C++ boundary. We’ll start by briefly looking at the fundamentals of the Python C API since that defines the “ground rules”; this includes things like reference counting, the basic object model, and so forth. We’ll then quickly look at the Boost.Python API and show how it provides the same functionality as the underlying C API, but does so in a way that doesn’t obscure the real semantics of the Python language.</p>
+<p>After this introduction, the rest of the tutorial will involve writing code to explore various elements of Boost.Python. We’ll focus on techniques for extending Python with C++, that is, writing Python modules in C++. Boost.Python can be used for embedding (i.e. invoking Python code from C++), but that involves a different set of techniques, and in practice most scientific Python developers are more interested in developing extensions.</p>
+<p>The syllabus for the four-hour tutorial will be like this:</p>
+<ol>
+<li>
+<p>Introduction: C-API and Boost.Python basics</p>
+<p>Note that this can be reduced or eliminated of participants are already comfortable with the topics.</p>
+</li>
+<li>
+<p>Hello World: Exposing a basic function</p>
+<p>In this section we’ll get a minimal Boost.Python module working. This will not only introduce students to the infrastructure of Boost.Python, but it will also give us a chance to make sure that everyone’s build environment is working.</p>
+</li>
+<li>
+<p>Exposing functions</p>
+<p>In this section we’ll look at the details of exposing C++ functions to Python. The topics we’ll cover will include overloading (including Boost.Python’s auto-overload feature), default argument values, and a brief look at call policies.</p>
+</li>
+<li>
+<p>Exposing classes</p>
+<p>Here we’ll look at how to expose C++ classes to Python. Topics will include the basic <code>class_&lt;T&gt;</code> template, member functions, data members, properties, inheritance, and virtual functions.</p>
+</li>
+<li>
+<p><code>boost::python::object</code></p>
+<p>The <code>boost::python::object</code> class is Boost.Python’s primary interface to Python’s <code>PyObject</code> structure. Understanding how to work with this class is a key building-block for developing Python modules with Boost.Python. We’ll explore its API and features, including areas like attribute access, reference counting, and converting between Python and C++ objects.</p>
+</li>
+<li>
+<p>Derived object types</p>
+<p>Boost.Python provides a number of <code>boost::python::object</code> subclasses for important Python classes like <code>list</code>, <code>dict</code>, and <code>tuple</code>. In this section we’ll look at these subclasses and how to use them in Boost.Python modules.</p>
+</li>
+<li>
+<p>Enums</p>
+<p>Boost.Python provides <code>enum_&lt;T&gt;</code> for exposing C++ enums to Python. Python doesn’t have a notion of enums <em>per se</em>, but in this section we’ll explore how this template makes it straightforward to use C++ enums in Python in a simple and intuitive way.</p>
+</li>
+<li>
+<p>Type conversion</p>
+<p>In this section we’ll look at Boost.Python’s support for doing automatic type-conversion across the Python/C++ boundary. We’ll see how you can register type-converters with Boost.Python which will be invoked whenever Boost.Python needs to convert a Python object to a C++ object or vice versa.</p>
+</li>
+</ol>
+<p>This is a fairly ambitious set of topics, and it’s possible that we won’t be able to cover them all. The topics are roughly in most-often-used to least-often-used order, however, so students will be sure to be exposed to the most important and relevant elements of the course.</p>
+<p>Likewise, the four-hour format of the course means that we won’t be able to go into great depth on many topics. The main goal of the course, then, is to give students enough orientation and hands-on experience with Boost.Python that they can continue to learn on their own. Inter-language integration - especially between languages as dissimilar as C++ and Python - can be quite complex, but this tutorial will give students the grounding they need to successfully apply Boost.Python to their problems.  </p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/51/scipy-2014.html">SciPy 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1272/austin-bingham.html">Austin Bingham</a></div>
+            <meta property="author" content="Austin Bingham"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 9, 2014
+            <meta property="dateCreated" content="2014-07-09"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 10, 2014
+            <meta property="dateModified" content="2014-07-10T22:35:17.239942"/>
+            <meta property="datePublished" content="2014-07-10T22:35:17.239942"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=WLKuHbkh6jU" property="embedUrl">http://www.youtube.com/watch?v=WLKuHbkh6jU</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2748">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://www.youtube.com/t/terms
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">boost</span>
+          
+            <span property="keywords">c++</span>
+          
+          <meta property="keywords" content="SciPy 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="integrating-python-and-c-with-boost-python-part.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

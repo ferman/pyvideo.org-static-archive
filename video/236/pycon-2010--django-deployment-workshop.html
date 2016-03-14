@@ -1,0 +1,332 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Django Deployment Workshop</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="pycon,pycon2010">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="pycon-2010--django-deployment-workshop.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="pycon-2010--django-deployment-workshop.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/236_django-deployment-workshop.m4v"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Django Deployment Workshop</h3>
+      <link property="thumbnailUrl" href="http://a.images.blip.tv/Pycon-DjangoDeploymentWorkshop734-407.jpg"/>
+      <link property="sameAs" href="pycon-2010--django-deployment-workshop.html"/>
+    </div>
+
+    
+
+    
+
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><p>Django Deployment Workshop</p>
+<p>Presented by Jacob Kaplan-Moss</p>
+<p>So you've written a Django site... now what? Writing the application is just
+the beginning; now you've got to put it into production! In this hands-on
+workshop we'll walk through the creation of a full Django deployment
+environment running on a cluster of (virtual) machines.</p>
+<p>This class will introduce students to a wide variety of technologies,
+including Amazon's EC2 and S3, Fabric, Varnish, nginx, mod_wsgi, memcached,
+PostgreSQL, pgpool, pg_standby, and more.</p>
+<p>By the end of the class, each student will have created an environment
+featuring:</p>
+<ul>
+<li>Multiple levels of caching and load balancing.</li>
+<li>Multiple web application servers.</li>
+<li>Shared media servers.</li>
+<li>Redundant replicated database servers.</li>
+<li>Separate caching servers.</li>
+</ul>
+<p>We'll create this whole stack on Amazon EC2 virtual machines, so students will
+be able to take home a complete copy of all the deployment configuration for
+future review at their leisure.</p>
+<p>Note: the example application used in this class with be a Django site, and
+the class assumes at least a moderate comfort level with Django. However, the
+tools and techniques apply just as well to other Python web frameworks, so
+users of other tools will likely be able to follow along fairly easily.</p>
+<h1>Intended Audience</h1>
+<p>Intermediate to advanced Django users with sites nearing or in production.
+Python developers using other web frameworks will likely be able to follow
+along -- see the note in the summary, above.</p>
+<h1>Class Outline</h1>
+<ul>
+<li>Introduction: the deployment question</li>
+<li>Application server: mod_wsgi</li>
+<li>Database server: PostgreSQL</li>
+<li>Automated deployment with Fabric</li>
+<li>Multiple web servers; load balancing with nginx</li>
+<li>Adding memcached</li>
+<li>Database connection middleware: pgpool</li>
+<li>Database redundancy: warm standby</li>
+<li>Upstream caching: Varnish</li>
+<li>Final load testing: how'd we do?</li>
+</ul>
+<h1>Requirements</h1>
+<p>Students will need a computer and Amazon EC2 and S3 accounts, and will be
+asked to familiarize themselves with the process of starting and stopping EC2
+virtual machines before the class.</p>
+<p><a href="http://us.pycon.org/20
+10/tutorials/kaplanmoss_django">http://us.pycon.org/2010/tutorials/kaplanmoss_django/</a></p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/6/pycon-us-2010.html">PyCon US 2010</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/78/jacob-kaplan-moss.html">Jacob Kaplan-Moss</a></div>
+            <meta property="author" content="Jacob Kaplan-Moss"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>Feb. 19, 2010
+            <meta property="dateCreated" content="2010-02-19"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>April 8, 2014
+            <meta property="dateModified" content="2014-04-08T20:28:28.106589"/>
+            <meta property="datePublished" content="2014-04-08T20:28:28.106589"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            Unknown
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            
+              <a href="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/236_django-deployment-workshop.m4v" property="contentUrl">mp4</a>
+              <meta property="contentType" content="mp4"/>
+            
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/236">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            <span property="keywords">pycon</span>
+          
+            <span property="keywords">pycon2010</span>
+          
+          <meta property="keywords" content="PyCon US 2010"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="pycon-2010--django-deployment-workshop.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('html5');
+      });
+
+      updateVideoOffset('html5');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of James E.H. Turner</title><link>http://www.pyvideo.org/speaker/601/james-eh-turner/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/601/james-eh-turner/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A Unified Release of Python &amp; IRAF software for astronomy</title><link>http://www.pyvideo.org/video/1216/a-unified-release-of-python-iraf-software-for-a</link><description>&lt;p&gt;Description&lt;/p&gt;
+As astronomical software development expands from historical data reduction
+platforms towards more sophisticated Python applications, non-technically-
+focused users can struggle with installing and maintaining a large number of
+heterogeneous dependencies. PyRAF has successfully bridged the gap between
+IRAF and Python, but managing dependencies falls outside its scope. A few
+existing Python distributions make installation easy, but don't cater for
+specific needs (such as dependence on IRAF). STScI and Gemini have therefore
+developed a prototype, easy-to-install software distribution for Linux and OSX
+known provisionally as the 'Unified Release' (UR).
+
+Currently the UR includes STScI Python and its dependencies (eg. Python,
+NumPy, IRAF 2.15), as well as Matplotlib &amp; Tk, SciPy, a number of IRAF
+packages, DS9, X11IRAF and some testing and documentation tools. Its scope
+extends to complementary non-Python/IRAF software, but we do not intend to
+produce a comprehensive (Scisoft-like) distribution of tools for astronomy,
+nor to satisfy every installation preference. Our focus is on providing a
+simple way to run key tools, for users with minimal support resources and who
+may not have administrative privileges. Unlike most comparable distributions,
+our approach includes basic provision for in-place software additions and
+updates.
+
+Recently we have completed a first internal version of the UR for both Linux
+and OSX, which we shall briefly demonstrate. We plan to make our first public
+release during the coming months.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James E.H. Turner</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1216/a-unified-release-of-python-iraf-software-for-a</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_Unified_Release_of_Python_IRAF_software_for_astronomy.mp4?Signature=oCxI%2FyHw3t0nEcCFJ7AYbMa1YWQ%3D&amp;Expires=1346381851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_Unified_Release_of_Python_IRAF_software_for_astronomy.mp4?Signature=oCxI%2FyHw3t0nEcCFJ7AYbMa1YWQ%3D&amp;Expires=1346381851&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=cgRouxz0y_4" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/cgRouxz0y_4/hqdefault.jpg"></media:thumbnail></item></channel></rss>

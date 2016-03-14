@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of John Hunter</title><link>http://www.pyvideo.org/speaker/442/john-hunter/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/442/john-hunter/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 18 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.</title><link>http://www.pyvideo.org/video/1192/matplotlib-lessons-from-middle-age-or-how-you</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Hunter</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1192/matplotlib-lessons-from-middle-age-or-how-you</guid><enclosure url="http://archive.org/download/nextdayvideo/enthought%252Fscipy_2012%252Fmatplotlib_lessons_middle_age.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://archive.org/download/nextdayvideo/enthought%252Fscipy_2012%252Fmatplotlib_lessons_middle_age.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=e3lTby5RI54" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/e3lTby5RI54/hqdefault.jpg"></media:thumbnail></item><item><title>Advanced matplotlib tutorial with library author John Hunter</title><link>http://www.pyvideo.org/video/971/advanced-matplotlib-tutorial-library-author-john-h</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this video tutorial from the 2012 PyData Workshop, John Hunter, author of
+matplotlib is going to give you some advanced insight into the plotting
+library.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+John's tutorial will focus on broader topics concerning a wide set of users,
+including:
+
+  * customization 
+  * configuration 
+  * event handling 
+  * interacting with figures 
+  * tips &amp; tricks 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Hunter</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/971/advanced-matplotlib-tutorial-library-author-john-h</guid><enclosure url="http://www.youtube.com/watch?v=DNRJwENqEUY" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/DNRJwENqEUY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

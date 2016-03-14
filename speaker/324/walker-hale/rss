@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Walker Hale</title><link>http://www.pyvideo.org/speaker/324/walker-hale/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/324/walker-hale/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 09 Mar 2012 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Daemon Slaying! Or, Unix Daemons in Python for fun and profit!</title><link>http://www.pyvideo.org/video/558/daemon-slaying--or--unix-daemons-in-python-for-fu</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Learn the in's and out's of creating Unix Daemons in Python. Walker Hale will
+walk you through several examples, gotchas, and tips and tricks.
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Daemons are those pieces of software in Unix (including Linux and Mac OS X)
+that run in the background and typically start automatically during system
+boot. Times when you might want a daemon include:
+
+  * Monitoring an "inbox" directory in situations where a cron job is not appropriate
+  * Managing (possibly multiple) instances of software according to business rules
+
+Although most daemons are written in C, Python is a great alternative.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Walker Hale</dc:creator><guid>http://www.pyvideo.org/video/558/daemon-slaying--or--unix-daemons-in-python-for-fu</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/558_daemon-slaying-or-unix-daemons-in-python-for-fun-and-profit.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-DaemonSlayingOrUnixDaemonsInPythonForFunAndProfit354-542.jpg"></media:thumbnail></item><item><title>Logging De-Mystified! Basics to Advanced!</title><link>http://www.pyvideo.org/video/560/logging-de-mystified--basics-to-advanced</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk covers the Python Logging Module!
+
+
+&lt;p&gt;Description&lt;/p&gt;
+Walker Hale will explore the standard Python Logging Module and provide a tour
+from the basics through intermediate examples, and touch on advanced logging
+strategies.
+
+Do you write programs that run longer than 5 minutes? Would you like to
+leverage Python's excellent logging system more fully? Even if you don't use
+Python for your long-running processes, you will learn valuable and widely-
+applicable logging techniques.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Walker Hale</dc:creator><guid>http://www.pyvideo.org/video/560/logging-de-mystified--basics-to-advanced</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/560_logging-de-mystified-basics-to-advanced.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Nextdayvideo-LoggingDeMystifiedBasicsToAdvanced968-723.jpg"></media:thumbnail></item><item><title>Python Metaprogramming for Mad Scientists and Evil Geniuses</title><link>http://www.pyvideo.org/video/884/python-metaprogramming-for-mad-scientists-and-evi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This talk covers the power and metaprogramming features of Python that cater
+to mad scientists and evil geniuses. This will also be of interest to others
+who just want to use of Python in a more power (hungry) way. The core concept
+is that you can synthesize functions, classes and modules without a direct
+correspondence to source code. You can also mutate third-party objects and
+apps.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Walker Hale</dc:creator><pubDate>Fri, 09 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/884/python-metaprogramming-for-mad-scientists-and-evi</guid><enclosure url="https://www.youtube.com/watch?v=Adr_QuDZxuM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/Adr_QuDZxuM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

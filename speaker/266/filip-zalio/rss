@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Filip Zalio</title><link>http://www.pyvideo.org/speaker/266/filip-zalio/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/266/filip-zalio/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:29:33 -0000</lastBuildDate><ttl>500</ttl><item><title>PyConAU 2010: Fast Engineering Computation in with Boost::Python and Numarray</title><link>http://www.pyvideo.org/video/479/pyconau-2010--fast-engineering-computation-in-wit</link><description>&lt;p&gt;Description&lt;/p&gt;
+Fast Engineering Computation in with Boost::Python and Numarray
+
+Presented by Filip Zalio (NEC Australia)
+
+In the 3G Mobile Research and Development Division in NEC Australia
+(www.nec.com.au) we have been using Python based environment since 2005. We
+run digital signal processing simulations of 3G and 4G mobile phone radio
+links. Our simulations are CPU-bound, where efficient and fast interfacing
+between C++ and Python is one of the keys to the growing success of Python
+within NEC. In this short presentation, we describe our current framework
+which achieves the fast processing.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Filip Zalio</dc:creator><guid>http://www.pyvideo.org/video/479/pyconau-2010--fast-engineering-computation-in-wit</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/479_pyconau-2010-fast-engineering-computation-in-with-boost-python-and-numarray.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pyconau-FastEngineeringComputationInWithBoostPythonAndNumarray677.png"></media:thumbnail></item></channel></rss>

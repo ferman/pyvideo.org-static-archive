@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Volker Kuhlmann</title><link>http://www.pyvideo.org/speaker/63/volker-kuhlmann/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/63/volker-kuhlmann/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:28:58 -0000</lastBuildDate><ttl>500</ttl><item><title>Volker Kuhlmann - Rapid GUI application development with python</title><link>http://www.pyvideo.org/video/117/volker-kuhlmann---rapid-gui-application-developme</link><description>&lt;p&gt;Description&lt;/p&gt;
+Rapid GUI application development with Python
+
+Presented by Volker Kuhlmann
+
+Abstract
+
+Options and tools for rapid desktop GUI application development using python
+are examined, and how they compare to competing languages and platforms.
+
+Outline
+
+Examine GUI options for python including Qt, and their performance with
+respect to ease of use, runtime, and platform portability. Examine options for
+the tool chain (IDE, editor, debugger, programming aids) and characterise
+their ease of use and level of sophistication, and compare with commonly used
+equivalents, both open source and not open source. Demonstrate a sample
+program.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Volker Kuhlmann</dc:creator><guid>http://www.pyvideo.org/video/117/volker-kuhlmann---rapid-gui-application-developme</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/117_volker-kuhlmann-rapid-gui-application-development-with-python.flv" length="None" type="video/x-flv"></enclosure><media:thumbnail url="http://a.images.blip.tv/Kiwipycon-VolkerKuhlmannRapidGUIApplicationDevelopmentWithPython822-341.jpg"></media:thumbnail></item></channel></rss>

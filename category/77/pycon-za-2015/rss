@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of PyCon ZA 2015</title><link>http://www.pyvideo.org/category/77/pycon-za-2015/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/77/pycon-za-2015/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 02 Oct 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Closing</title><link>http://www.pyvideo.org/video/3944/closing</link><description>&lt;p&gt;Description&lt;/p&gt;
+Closing
+=======
+
+The closing ceremony. A general wrap of the conference. There will also be announcements about sprints on Saturday and Sunday.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3944/closing</guid><enclosure url="http://youtu.be/WVBrra9pnQ4" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/WVBrra9pnQ4/hqdefault.jpg"></media:thumbnail></item><item><title>Community Security - ANPR (Automated Number Plate Recognition) on your Pi</title><link>http://www.pyvideo.org/video/3937/community-security-anpr-automated-number-plate</link><description>&lt;p&gt;Description&lt;/p&gt;
+The talk will be a introductory tutorial showing how to get an ANPR (Automated Number Plate Recognition) system, which was developed for community security, up and running on your Raspberry Pi. This will provide a comfortable starting point for any security-prone person to start monitoring the vehicles entering and leaving their community.
+
+The target audience for this tutorial will be attendees who are interested in using single board computers (Raspberry Pi2) as a security measure in their community. The technical level of the tutorial will be suitable for beginners / intermediate level. 
+
+The tutorial will consist of the following:
+
+* Quick overview of project
+* Installing OpenCV
+* Installing ANPR framework
+* Connecting the IP cameras
+* Configuring the ANPR (training)
+* Retrieving data</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bernhardt Garlipp</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3937/community-security-anpr-automated-number-plate</guid><enclosure url="http://youtu.be/CTbMUrJ9ztQ" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/CTbMUrJ9ztQ/hqdefault.jpg"></media:thumbnail></item><item><title>Friday Lightning Talks</title><link>http://www.pyvideo.org/video/3943/friday-lightning-talks</link><description>&lt;p&gt;Description&lt;/p&gt;
+ * [(0:00:00)](http://youtu.be/MNyOPWT8ncw?t=0h0m0s) **Using Odo to load data** by Tobias Brandt
+* [(0:05:23)](http://youtu.be/MNyOPWT8ncw?t=0h5m23s) **Sh** by Adrianna Pińska
+* [(0:08:44)](http://youtu.be/MNyOPWT8ncw?t=0h8m44s) **Pygame Zero** by Neil Muller
+* [(0:11:57)](http://youtu.be/MNyOPWT8ncw?t=0h11m57s) **How not to hate Javascript** by Adam Jorgensen
+* [(0:16:28)](http://youtu.be/MNyOPWT8ncw?t=0h16m28s) **Testing code examples from your slides** by Jeremy Thurgood</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Jorgensen,Adrianna Pińska,Jeremy Thurgood,Neil Muller,Tobias Brandt</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3943/friday-lightning-talks</guid><enclosure url="http://youtu.be/MNyOPWT8ncw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/MNyOPWT8ncw/hqdefault.jpg"></media:thumbnail></item><item><title>How I learnt to stop worrying and love Boost.Python</title><link>http://www.pyvideo.org/video/3933/how-i-learnt-to-stop-worrying-and-love-boostpyth</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Zen of Python dictates that there should be one - and preferably only one - obvious way to do something. However, when it comes to interoperation with C and C++, there is a multitude of options: the Python C API, Boost.Python, ctypes, cffi, Cython. I will describe my quest to find the **holy grail**^W^W **right interface** for a high-performance networking library.
+
+The talk is largely a case study in applying Boost.Python, and will look at some issues such as the Global Interpreter Lock, handling KeyboardInterrupt cleanly, and managing object lifetime. I will briefly mention some of the alternative tools to explain why I settled on Boost.Python. It is not a complete Boost.Python tutorial, but rather aims to give a sense of the flavour and show how it's used in a real application.
+
+For obvious reasons, this talk will have a lot of C++ code in it, and some familiarity with C++ will be useful.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruce Merry</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3933/how-i-learnt-to-stop-worrying-and-love-boostpyth</guid><enclosure url="http://youtu.be/2urUj9NRqFc" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/2urUj9NRqFc/hqdefault.jpg"></media:thumbnail></item><item><title>How PyPy runs your program</title><link>http://www.pyvideo.org/video/3932/how-pypy-runs-your-program</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk we would like to have a short introduction on how Python
+programs are compiled and executed, with special attention towards
+just-in-time compilation done by PyPy. PyPy is the most advanced Python
+interpreter around, and while it should generally just speed up your programs,
+there is a wide range of performance that you can get out of PyPy, ranging from
+slightly faster than CPython to C speeds, depending on how you write your
+programs.
+
+We will split the talk in two parts. In the first part we will explain
+how things work, and what can and cannot be optimized, as well as describe
+the basic heuristics of the JIT compiler and optimizer. In the next part we will
+do a brief survey of existing tools for looking at performance of Python programs,
+with a specific focus on PyPy. We'll mostly focus on vmprof with a brief mention of others.
+
+As a result of this talk, an audience member should be better equipped with
+the tools to write new software and improve existing software with performance
+in mind.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maciej Fijalkowski</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3932/how-pypy-runs-your-program</guid><enclosure url="http://youtu.be/mHTu723RDNI" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mHTu723RDNI/hqdefault.jpg"></media:thumbnail></item><item><title>Kivy Showcase: a short exploration of how Kivy is changing the world</title><link>http://www.pyvideo.org/video/3936/kivy-showcase-a-short-exploration-of-how-kivy-is</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this talk, we will look at some real-world success stories using Kivy. From exhibition-size interactive displays to race car telemetry systems to robotics, Kivy is being used to deliver many compelling and innovative applications. We'll use these applications to discuss some of the features and abilities of the framework that make it such a good choice for a wide range of uses.
+
+We'll briefly cover some exciting projects using Kivy, namely:
+
+* Project Liatris: a new, open source project using Kivy touch devices to control robots.
+
+* RaceCapture Pro: A race car telemetry system that uses Kivy interactive displays both in-car and in post-session analytics interaction.
+
+* Brain Trainer Plus: A mental dexterity trainer deployed to old age homes and medical treatment facilities that has been shown effective in treating dementia and other mental disorders, as well as bringing a greatly enhanced quality-of-life to the aged and mentally ill.
+  
+* CAMI Educational products: The rich feature set and effortless animation abilities of Kivy make developing compelling, responsive desktop and mobile interactions easy.
+    
+* The Icarus touch and Touch live projects: creating radically new and exciting interactive musical instruments.
+    
+All of these applications are being delivered using Kivy, a free, open source, full stack, multi-touch, cross-platform Python/Cython framework that runs on a watch. I kid you not.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Larkin</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3936/kivy-showcase-a-short-exploration-of-how-kivy-is</guid><enclosure url="http://youtu.be/kXLQ_7GGMnM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/kXLQ_7GGMnM/hqdefault.jpg"></media:thumbnail></item><item><title>Property-based testing with Hypothesis</title><link>http://www.pyvideo.org/video/3934/property-based-testing-with-hypothesis</link><description>&lt;p&gt;Description&lt;/p&gt;
+Unit testing can be more effective and less tedious when you have an army of robot monkeys at your disposal. Why should humans have to worry about finding the particular combination of Turkish and Tengwar that crashes the serialiser, or the convoluted sequence of operations that corrupts the database?
+
+&gt;     Hypothesis is a Python library for turning unit tests into generative tests,
+&gt;     covering a far wider range of cases than you can manually. Rather than just
+&gt;     testing for the things you already know about, Hypothesis goes out and
+&gt;     actively hunts for bugs in your code. It usually finds them, and when it
+&gt;     does it gives you simple and easy to read examples to demonstrate.
+&gt;
+&gt; -- Hypothesis 1.0 release announcement
+
+Property-based testing lets you think about your tests in terms of general behaviour and invariant properties instead of getting lost in the details of individual examples, and good tools (such as &lt;a href="https://hypothesis.readthedocs.org/en/latest/"&gt;Hypothesis&lt;/a&gt;) will explore quite complex combinations of test data and reduce them to minimum failing cases.
+
+This talk will provide a practical introduction to property-based testing with Hypothesis, and show how you can use it to build more effective test suites with less effort.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeremy Thurgood</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3934/property-based-testing-with-hypothesis</guid><enclosure url="http://youtu.be/mg5BeeYGjY0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/mg5BeeYGjY0/hqdefault.jpg"></media:thumbnail></item><item><title>"Python in Production" Panel Discussion</title><link>http://www.pyvideo.org/video/3942/python-in-production-panel-discussion</link><description>&lt;p&gt;Description&lt;/p&gt;
+A panel discussion on using and deploying Python projects in production. The panel will follow a simple discussion format with panelists responding to questions from the audience.
+
+Panel chair:
+* *Simon Cross*
+
+Panelists:
+
+* *Andy Rabagliati* (CSIR / CHPC)
+* *Bryn Divey* (Oracle)
+* *Colin Alston* (Praekelt)
+* *Milton Madanda* (Praekelt)
+* *Stefano Rivera* (Debian Developer)</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3942/python-in-production-panel-discussion</guid><enclosure url="http://youtu.be/cSWb834XPpM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/cSWb834XPpM/hqdefault.jpg"></media:thumbnail></item><item><title>Supporting Python 3</title><link>http://www.pyvideo.org/video/3938/supporting-python-3</link><description>&lt;p&gt;Description&lt;/p&gt;
+The tools for supporting Python 2 &amp; 3 in a single codebase have improved significantly from the early Python 3 days of just 2to3. Porting Python 2 code to work with Python 2 &amp; 3 without a constant 2to3 translation step is not hard anymore, and leads to much easier-to-maintain ports.
+
+In this talk, I will discuss some of the suggested best practices for supporting both Python 2 and Python 3. We will cover some of the tools for detecting potential issues, such as pylint, the available options, such as six, futurize and modernize, to simplify the process of updating the code and spend some time discussing what parts of porting still require care and attention, such as the text / binary data division.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Neil Muller</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3938/supporting-python-3</guid><enclosure url="http://youtu.be/B0P3iU3Pz00" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/B0P3iU3Pz00/hqdefault.jpg"></media:thumbnail></item><item><title>The Road to Continuous Deployment</title><link>http://www.pyvideo.org/video/3935/the-road-to-continuous-deploys</link><description>&lt;p&gt;Description&lt;/p&gt;
+How do we get work from a developer's laptop to a production server?
+How do we do this repeatedly? How do we avoid releasing bad patches? How do we get changes out as fast as possible? And what happens to requests during a deploy? If you want continuous deployment, you have to solve these problems.
+
+How do you handle configuration, so that the same code can run in multiple environment? From a developers laptop, to QA environments, to production. What about the quirks of each machine in production?
+
+This talk will look at the path Yola took, with Jenkins, yoconfigurator, yodeploy. It's by no means a complete solution, but it's good enough that I rarely find myself working on it, these days.
+
+We will cover the pros and cons of each path one can take. The whole platform architecture is really affected by this. We can talk about: Bare hardware, virtualization, containerization, build systems, linux distributions packages, language package ecosystems, configuration management systems, notifications, secret distribution, and much more.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefano Rivera</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3935/the-road-to-continuous-deploys</guid><enclosure url="http://youtu.be/3u6ZH4ntp-0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/3u6ZH4ntp-0/hqdefault.jpg"></media:thumbnail></item><item><title>What's the point of Object Orientation?</title><link>http://www.pyvideo.org/video/3939/whats-the-point-of-object-orientation</link><description>&lt;p&gt;Description&lt;/p&gt;
+Object Orientation (OO) is often introduced in terms of how it is implemented by a specific language. However, understanding the theory underlying OO is not quite the same as understanding how OO concepts are supported by a particular language. It is insightful to understand the simple OO fundamentals and how these map to the particular implementation provided by Python.
+
+In this talk I will first explain the very basics of OO from a language-neutral point of view with the aim of showing what OO can offer you. I will touch upon the simple mathematical theory underlying OO and how it can be used as a mental discipline to improve your natural capacity to reason about programs. I hope to give you enough information to help you distinguish between better and worse designs and to detect whether you're using OO as it was intended. I will show how these fundamentals map to Python, and compare the difference of Python's implementation to that of some other languages (even functional languages).
+
+This talk is for anyone: whether you're new at Object Orientation, or a practitioner wondering whether OO is worth the effort you've spent trying to use it.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Iwan Vosloo</dc:creator><pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3939/whats-the-point-of-object-orientation</guid><enclosure url="http://youtu.be/M1XL65qj2dU" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/M1XL65qj2dU/hqdefault.jpg"></media:thumbnail></item><item><title>A little scripting goes a long way: automating data processing in science</title><link>http://www.pyvideo.org/video/3930/a-little-scripting-goes-a-long-way-automating-da</link><description>&lt;p&gt;Description&lt;/p&gt;
+When we think about scientific programming, we often focus on complex high-performance applications for performing simulations of chemical processes, or on data analysis tools. It is easy to overlook the gaps between tools, such as format conversions, which may be simple for a programmer to automate, but require hours of tedious work for a researcher without programming experience.
+
+In this talk I will present a specific example of an application which fills such a gap in a medical research laboratory, where readings of chemical samples are used to measure the response of TB-causing bacteria to various drugs. The readings must be converted from the raw format produced by the instrument in the laboratory into a format suitable for uploading into an online tool for further analysis.
+
+I will also discuss more broadly how research institutions can improve efficiency by collaborating with programmers and by encouraging researchers to acquire basic programming skills.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrianna Pińska</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3930/a-little-scripting-goes-a-long-way-automating-da</guid><enclosure url="http://youtu.be/6MlZOIryiwY" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/6MlZOIryiwY/hqdefault.jpg"></media:thumbnail></item><item><title>An Introduction to Image Classification</title><link>http://www.pyvideo.org/video/3929/an-introduction-to-machine-learning-in-python</link><description>&lt;p&gt;Description&lt;/p&gt;
+In this tutorial, two main areas will be covered using Textural Images Dataset:
+&lt;ol&gt;
+&lt;li&gt;Textural Features Methods: (Grey Level Co-occurrence Matrix(GLCM), Local Binary Pattern(LBP) and Local Directional Pattern(LDP))&lt;/li&gt;
+&lt;li&gt;Classification using Support Vector Machine (SVM) and Naive Bayes(NB).&lt;/li&gt;
+&lt;/ol&gt;
+
+Both Features Extraction and Classification will be implemented using Python.
+
+Texture is a very important factor in computer vision; it represents the first level of spatial properties that can be extracted from digital image. Texture can be defined as relationship between gray level in neighboring pixels.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Abuobayda Shabat</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3929/an-introduction-to-machine-learning-in-python</guid><enclosure url="http://youtu.be/s041lMgOlgs" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/s041lMgOlgs/hqdefault.jpg"></media:thumbnail></item><item><title>Distributed pub-sub infrastructure with Apache Kafka</title><link>http://www.pyvideo.org/video/3924/distributed-pub-sub-infrastructure-with-apache-ka</link><description>&lt;p&gt;Description&lt;/p&gt;
+[Apache Kafka](http://kafka.apache.org/) is great for building a large scale distributed data bus. Even a small cluster will happily accept and store thousands of messages per second, and make them available to consumers with low latency.
+
+Kafka was chosen as the solution to our publish-subscribe infrastructure at [Takealot.com](http://www.takealot.com/). It supports our event-driven systems on the website, in the warehouses and in the office, as well as our analytics and machine learning projects.
+
+This talk will
+
+ * introduce the basic Kafka principles that make things work,
+ * outline how Kafka fits in with the rest of our architecture,
+ * cover some of the practicalities of building Python-based Kafka services,
+ * compare the two main Python libraries for Kafka, namely [kafka-python](https://github.com/mumrah/kafka-python) and [pykafka](https://github.com/Parsely/pykafka),
+ * demonstrate some practical applications at Takealot.com.
+
+Join in if you are interested in scalable distributed infrastructure.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carl Scheffler</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3924/distributed-pub-sub-infrastructure-with-apache-ka</guid><enclosure url="http://youtu.be/b8Cj5-LieH0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/b8Cj5-LieH0/hqdefault.jpg"></media:thumbnail></item><item><title>Numberplate recognition using python, opencv and some other magic.</title><link>http://www.pyvideo.org/video/3926/numberplate-recognition-using-python-opencv-and</link><description>&lt;p&gt;Description&lt;/p&gt;
+How to build/construct a numberplate recognition system for you or your neighbourhood. Using Python and openCV to detect and recognize numberplates from images, check and log it in a DB. Some challenges in getting usable numberplates at night and how the software was designed will be covered.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kobus Wolvaardt</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3926/numberplate-recognition-using-python-opencv-and</guid><enclosure url="http://youtu.be/nE6ftvPWw7Q" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/nE6ftvPWw7Q/hqdefault.jpg"></media:thumbnail></item><item><title>OpenCanary: a new Python-based honeypot</title><link>http://www.pyvideo.org/video/3927/opencanary-a-new-python-based-honeypot</link><description>&lt;p&gt;Description&lt;/p&gt;
+Honeypots: a great idea tempered by over a decade of glorious misapplication resulting in a slow relegation to the realm of academia and slightly dubious research. But it doesn’t have to be that way. In August 2015 we released OpenCanary, the Open Source version of our commercial Python-based honeypot. 
+
+Traditional honeypots aim to reveal attacker tools, techniques and procedures, by entrapping attackers through emulation (or instrumentation) of common protocols and services. They are typically installed standalone, and seldom updated. We argue that this honeypot approach is outdated; current organisations struggle far more with &lt;em&gt;identifying breaches&lt;/em&gt; than identifying the version of some generic rootkit installed post-breach. 
+
+OpenCanary changes that, treating the honeypot as an internal distributed sensor rather than a standalone alert generator. Each event reported is a high-quality indicator of investigation-worthy activity, and each OpenCanary instance feeds event data to a correlator which produces single alerts even in the face of network-wide scans. With such a high signal-to-noise ratio, every alert requires investigation. This is in contrast to the stream of alerts produced by tools such as anti-virus, network IDS or traditional honeypots.
+
+OpenCanary wound up relying on Python for the majority of the code. The Python eco-system provided support that sped up development and, more importantly, deployment. However it didn’t take us the full distance.
+
+In this talk, we provide a brief background on honeypots, discuss the design of OpenCanary, delve into the challenges experienced and our plans for the project. Along the way, we’ll demo the trivially installable OpenCanary, configure a few fake services and provide an outsider’s view of developing in Python.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Azhar Desai</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3927/opencanary-a-new-python-based-honeypot</guid><enclosure url="http://youtu.be/lXhypJUbxVM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/lXhypJUbxVM/hqdefault.jpg"></media:thumbnail></item><item><title>Opening</title><link>http://www.pyvideo.org/video/3940/opening</link><description>&lt;p&gt;Description&lt;/p&gt;
+Opening Ceremony
+================
+
+A general welcome and an introduction to all the exciting things that will be happening at PyConZA 2015!</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Cross</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3940/opening</guid><enclosure url="http://youtu.be/lk1F6CAk8f0" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/lk1F6CAk8f0/hqdefault.jpg"></media:thumbnail></item><item><title>Pragmatic Python for Social Change</title><link>http://www.pyvideo.org/video/3923/pragmatic-python-for-social-change</link><description>&lt;p&gt;Description&lt;/p&gt;
+[Code for South Africa](http://code4sa.org) is a civic technology lab that uses Python and open data to promote informed decision making to drive social change. We use our skills for social good.
+
+We build tools like [Living Wage](http://living-wage.co.za/) for calculating fair wages for domestic workers, [Wazimap.co.za](http://wazimap.co.za) for exploring your neighbourhood through statistics, [Medicine Prices (mpr.code4sa.org)](http://mpr.code4sa.org) for finding cheaper generics of prescription medicines, [OpenByLaws.org.za](http://openbylaws.org.za) for local legislation that's easy to read and share, and [PMG.org.za](http://pmg.org.za) for keeping an eye on Parliament.
+
+In this talk we'll discuss what civic technology means, how you can get involved, and the why, what and how of our approach to building and running more than 25 websites, services and applications with a small budget and an even smaller team.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Greg Kempe</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3923/pragmatic-python-for-social-change</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-za-2015/3923_Pragmatic_Python_for_Social_Change.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-za-2015/3923_Pragmatic_Python_for_Social_Change.mp4" mime_type="video/mp4"></media:content><media:content url="http://youtu.be/9V1OZEe_MjA" mime_type="video/flv"></media:content></media:group><media:thumbnail url="https://i.ytimg.com/vi/9V1OZEe_MjA/hqdefault.jpg"></media:thumbnail></item><item><title>PyCon Montréal in 30 min</title><link>http://www.pyvideo.org/video/3928/pycon-montreal-in-30-min</link><description>&lt;p&gt;Description&lt;/p&gt;
+This will be a whirlwind overview of some of the most interesting talks from this year's big PyCon in Montréal. The goal is to boil down the gist of my 10 favourite talks into a single, super-charged talk that gives you a good idea of what went down, but without getting stuck on any particular topic.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Petrus Janse van Rensburg</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3928/pycon-montreal-in-30-min</guid><enclosure url="http://youtu.be/bJPRkTbK8Kk" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/bJPRkTbK8Kk/hqdefault.jpg"></media:thumbnail></item><item><title>Python @ CloudFlare</title><link>http://www.pyvideo.org/video/3925/python-cloudflare</link><description>&lt;p&gt;Description&lt;/p&gt;
+CloudFlare protects and accelerates any website online. Whether it's protecting large customers from 160Gbps DDOS attacks, dealing with normal Reddit traffic, Universal SSL or providing one of the fastest DNS servers in the world we need to stay up, work fast and deploy fast.
+
+To this end we have two large Python projects we use at CloudFlare. One is the popular configuration manager Salt. We provide patches, features and bug reports on regular intervals to the Salt project. The other is an internal tool called CFSetup. CFSetup allows us to do the following with a few simple commands: spin up Docker containers that reflect machines in production, spin up a tightly coupled stack of Docker containers that reflect our software and hardware stacks, run build environments inside of well defined Docker containers to ensure that the compiled end-product was built using the same libraries that are on the production machines, and various other utility features.
+
+This talk will cover how Salt works, how we've extended it to scale up and how we've had to debug it. It also cover how we've managed to build a layer on top of Docker to make it easier to use for ad-hoc testing and developing and what it's like interacting with Docker using Python.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gideon Redelinghuys</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3925/python-cloudflare</guid><enclosure url="http://youtu.be/lrLV93EFO0g" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/lrLV93EFO0g/hqdefault.jpg"></media:thumbnail></item><item><title>The Split-Apply-Combine Pattern for Data Science in Python</title><link>http://www.pyvideo.org/video/3931/the-split-apply-combine-pattern-for-data-science</link><description>&lt;p&gt;Description&lt;/p&gt;
+Many data science problems involve the application of a split-apply-combine pattern, where you break up a big dataset into independent pieces, operate on each piece in isolation and then put all the pieces back together. This crops up in all stages of a data analysis:
+
+  * During data preparation, when performing group-wise ranking, standardisation, or normalisation.
+
+  * During modelling, when fitting separate models to each group.
+
+  * During communication, when creating summaries or visualisations for display or analysis.
+
+Python has many tools that make it easy to utilise this strategy when solving data science problems. These range from list and dictionary comprehensions in the language, the *map* and *reduce* functions and *itertools* and *functools* modules in the standard library to dedicated packages like *Pandas*, *PyToolz*, *Blaze* and *Dask*.
+
+Explicit recognition of the applicability of the pattern allows one to reuse standard components for the bookkeeping code that handles the splitting and combining of the independent pieces. This allows one to concentrate on the data analysis code that is unique to the problem at hand. Since implicit in the pattern is the independence of the pieces, its applicability immediately implies a strategy for parallelisation which allows one to easily scale one's solution from single core to out-of-core computation on multiple machines, often with only very few changes to the code required.
+
+This talk will introduce the pattern and how to recognise it by presenting some common code blocks. We will then look at some of the tools available, in particular *Pandas* and *PyToolz*, demonstrate their use, and discuss their strengths and weaknesses. Finally we'll show how to take a simple analysis and parallelise it to process a dataset that is too large to fit in memory.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tobias Brandt</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3931/the-split-apply-combine-pattern-for-data-science</guid><enclosure url="http://youtu.be/TjuRnguO62E" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/TjuRnguO62E/hqdefault.jpg"></media:thumbnail></item><item><title>Thursday Lightning Talks</title><link>http://www.pyvideo.org/video/3941/thursday-lightning-talks</link><description>&lt;p&gt;Description&lt;/p&gt;
+* [(0:00:00)](http://youtu.be/DiaE9GCJ0nM?t=0h0m0s) **Racy interrupt handling** by Bruce Merry
+* [(0:06:00)](http://youtu.be/DiaE9GCJ0nM?t=0h6m0s) **Vulture in Python** by Philip Sterne
+* [(0:11:09)](http://youtu.be/DiaE9GCJ0nM?t=0h11m9s) **Edx** by Carl Dawson
+* [(0:17:39)](http://youtu.be/DiaE9GCJ0nM?t=0h17m39s) **AST linting** by Bryn Divey
+* [(0:24:33)](http://youtu.be/DiaE9GCJ0nM?t=0h24m33s) **Numpy in Anger! ** by Laura Richter
+* [(0:29:28)](http://youtu.be/DiaE9GCJ0nM?t=0h29m28s) **How to screw up loading CSVs in Python ** by James Saunders
+* [(0:33:34)](http://youtu.be/DiaE9GCJ0nM?t=0h33m34s) **PyQuery** by Nicholas Spagnoletti
+* [(0:37:27)](http://youtu.be/DiaE9GCJ0nM?t=0h37m27s) **Debian Python moves kicking and screaming to Git** by Stefano Rivera</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bruce Merry,Bryn Divey,Carl Dawson,James Saunders,Laura Richter,Nicholas Spagnoletti,Philip Sterne,Stefano Rivera</dc:creator><pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3941/thursday-lightning-talks</guid><enclosure url="http://youtu.be/DiaE9GCJ0nM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/DiaE9GCJ0nM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

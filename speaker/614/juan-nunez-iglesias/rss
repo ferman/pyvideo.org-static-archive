@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Juan Nunez-Iglesias</title><link>http://www.pyvideo.org/speaker/614/juan-nunez-iglesias/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/614/juan-nunez-iglesias/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Mon, 11 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Clustering of high-content screen images to discover off-target phenotypes by Juan Nunez-Iglesias</title><link>http://www.pyvideo.org/video/3109/clustering-of-high-content-screen-images-to-disco</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias</dc:creator><pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3109/clustering-of-high-content-screen-images-to-disco</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/104-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/104-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=qxKf7LGf7x8" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/qxKf7LGf7x8/hqdefault.jpg"></media:thumbnail></item><item><title>Clustering of high content images to discover off target phenotypes</title><link>http://www.pyvideo.org/video/2817/clustering-of-high-content-images-to-discover-off</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In high content imaging screens, cells are subjected to various treatments (usually shutting down specific genes) in high throughput, imaged, and a phenotype of interest measured. We argue that there is a wealth of information to be found in off-target phenotypes, and present an image clustering approach to discover these and infer gene function.
+&lt;p&gt;Description&lt;/p&gt;
+In the decade between 1999 and 2008, more newly-approved, first-in-class drugs were found by phenotypic screens than by molecular target-based approaches. This is despite far more resources being invested in the latter, and highlights the rising importance of screens in biomedical research. ([Swinney and Anthony, Nat Rev Drug Discov, 2011](http://www.nature.com/nrd/journal/v10/n7/full/nrd3480.html))
+
+Despite this success, the data from phenotypic screens is vastly underutilized. A typical analysis takes millions of images, obtained at a cost of, say, $250,000, and reduces each to a single number, a quantification of the phenotype of interest. The images are then ranked by that value and the top-ranked images are flagged for further investigation. ([Zanella et al, Trends Biotech, 2010](https://www.cell.com/trends/biotechnology/abstract/S0167-7799(10)00035-1))
+
+The images, however, contain a lot more information than just a single phenotypic number. For one, usually only the mean phenotype of all the cells in the image is reported, with no information about variability, even though the distribution of cell shapes in a single image is highly informative ([Yin et al, Nat Cell Biol, 2013](http://www.nature.com/ncb/journal/v15/n7/full/ncb2764.html)). Additionally, cells display a variety of off-target phenotypes, independently of the target, that can provide biological insight and new research avenues.
+
+We are developing an unsupervised clustering pipeline, tentatively named high-content-screen unsupervised sample clustering ([HUSC](http://github.com/jni/husc)), that leverages the scientific Python stack, particularly `scipy.stats`, `pandas`, `scikit-image`, and `scikit-learn`, to summarize images with feature vectors, cluster them, and infer the functions of genes corresponding to each cluster. The library includes functions for preprocessing images, computing an array of features designed specifically for microscopy images, and accessing a MongoDB database containing sample data. Its API allows easy extensibility by placing screen-specific functions under the `screens` sub-package. An example IPython notebook with a preliminary analysis can be found [here](http://jni.github.io/notebooks/hcs_nb.html).
+
+We plan to use this library to develop a flexible web interface for flexible and extensible analysis of high-content screens, and relish the opportunity to enlist the help and expertise of the SciPy crowd.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias</dc:creator><pubDate>Thu, 10 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2817/clustering-of-high-content-images-to-discover-off</guid><enclosure url="http://www.youtube.com/watch?v=fn8F_NerTug" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/fn8F_NerTug/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image 4</title><link>http://www.pyvideo.org/video/2752/image-analysis-in-python-with-scipy-and-scikit-im</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2752/image-analysis-in-python-with-scipy-and-scikit-im</guid><enclosure url="http://www.youtube.com/watch?v=pWnYjqudKHs" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/pWnYjqudKHs/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image, Part 1</title><link>http://www.pyvideo.org/video/2863/image-analysis-with-scikit-image-part-1</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2863/image-analysis-with-scikit-image-part-1</guid><enclosure url="http://www.youtube.com/watch?v=MP-MTiCETYg" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/MP-MTiCETYg/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image, Part 2</title><link>http://www.pyvideo.org/video/2862/image-analysis-with-scikit-image-part-2</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2862/image-analysis-with-scikit-image-part-2</guid><enclosure url="http://www.youtube.com/watch?v=SE7h0IWD93Y" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/SE7h0IWD93Y/hqdefault.jpg"></media:thumbnail></item><item><title>Image analysis in Python with scipy and scikit image, Part 3</title><link>http://www.pyvideo.org/video/2861/image-analysis-with-scikit-image-part-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the "images as numpy arrays" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.
+&lt;p&gt;Description&lt;/p&gt;
+Image analysis is central to a boggling number of scientific endeavors. Google needs it for their self-driving cars and to match satellite imagery and mapping data. Neuroscientists need it to understand the brain. NASA needs it to [map asteroids](http://www.bbc.co.uk/news/technology-26528516) and save the human race. It is, however, a relatively underdeveloped area of scientific computing. Attendees will leave this tutorial confident of their ability to extract information from their images in Python.
+
+Attendees will need a working knowledge of numpy arrays, but no further knowledge of images or voxels or other doodads. After a brief introduction to the idea that images are just arrays and vice versa, we will introduce fundamental image analysis operations: filters, which can be used to extract features such as edges, corners, and spots in an image; morphology, inferring shape properties by modifying the image through local operations; and segmentation, the division of an image into meaningful regions.
+
+We will then combine all these concepts and apply them to several real-world examples of scientific image analysis:
+given an image of a pothole, measure its size in pixels
+compare the fluorescence intensity of a protein of interest in the centromeres vs the rest of the chromosome.
+observe the distribution of cells invading a wound site
+
+Attendees will also be encouraged to bring their own image analysis problems to the session for guidance, and, if time allows, we will cover more advanced topics such as image registration and stitching.
+
+The entire tutorial will be coordinated with the IPython notebook, with various code cells left blank for attendees to fill in as exercises.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias,Tony Yu</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2861/image-analysis-with-scikit-image-part-3</guid><enclosure url="http://www.youtube.com/watch?v=Yxpnvc4RHy4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/Yxpnvc4RHy4/hqdefault.jpg"></media:thumbnail></item><item><title>nD image segmentation using learned region agglomeration with the Ray Python library</title><link>http://www.pyvideo.org/video/1225/nd-image-segmentation-using-learned-region-agglom</link><description>&lt;p&gt;Description&lt;/p&gt;
+One of the principal goals of the Janelia Farm Research Campus is the
+reconstruction of complete neuronal circuits. This involves 3D electron-
+microscopy (EM) volumes many microns across with better than 10nm resolution,
+resulting in gigavoxel scale images. From these, individual neurons must be
+segmented out. Although image segmentation is a well-studied problem, these
+data present unique challenges in addition to scale: neurons have an
+elongated, irregular branching structure, with processes up to 50nm thin but
+hundreds of micrometers long); one neuron looks much like the next, with only
+a thin cellular boundary separating densely packed neurons; and internal
+neuronal structures can look similar to the cellular boundary. The first
+problem in particular means that small errors in segment boundary predictions
+can lead to large errors in neuron shape and neuronal network connectivity.
+
+Our segmentation workflow has three main steps: a voxelwise edge
+classification, a fine-grained segmentation into supervoxels (which can
+reasonably be assumed to be atomic groups of voxels), and hierarchical region
+agglomeration.
+
+For the first step, we use Ilastik, a pixel-level interactive learning
+program. Ilastik uses the output of various image filters as features to
+classify voxels as labeled by the user. We then use the watershed algorithm on
+the resulting edge probability map to obtain supervoxels. For the last step,
+we developed a new machine learning algorithm (Nunez-Iglesias et al, in
+preparation).
+
+Prior work has used the mean voxel-level edge-probability along the boundaries
+between regions to agglomerate them. This strategy works extremely well
+because boundaries get longer as agglomeration proceeds, resulting in ever-
+improving estimates of the mean probability. We hypothesized that we could
+improve agglomeration accuracy by using a classifier (which can use many more
+features than the mean). However, a classifier can perform poorly because
+throughout agglomeration we may visit a part of the feature space that has not
+yet been sampled. In our approach, we use active learning to ensure that we
+have examples from all parts of the space we are likely to encounter.
+
+We implemented our algorithm in arbitrary dimensions in an open-source, MIT-
+licensed Python library, Ray
+([https://github.com/jni/ray](https://github.com/jni/ray)). Ray combines
+leading scientific computing Python libraries, including NumPy, SciPy,
+NetworkX, and scikits-learn to deliver state of the art segmentation accuracy
+in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juan Nunez-Iglesias</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1225/nd-image-segmentation-using-learned-region-agglom</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nD_image_segmentation_using_le.mp4?Signature=c9cvY2RhvdhwqRDhvE48%2BgY%2Ftp4%3D&amp;Expires=1346444687&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nD_image_segmentation_using_le.mp4?Signature=c9cvY2RhvdhwqRDhvE48%2BgY%2Ftp4%3D&amp;Expires=1346444687&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="http://youtube.com/watch?v=-cQpExBrh74" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-cQpExBrh74/hqdefault.jpg"></media:thumbnail></item></channel></rss>

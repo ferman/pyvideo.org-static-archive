@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Oliver Nagy</title><link>http://www.pyvideo.org/speaker/2129/oliver-nagy/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2129/oliver-nagy/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 07 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>A Scientific Game Engine in the Cloud</title><link>http://www.pyvideo.org/video/4044/a-scientific-game-engine-in-the-cloud</link><description>&lt;p&gt;Description&lt;/p&gt;
+Azrael is a game engine for engineers. Unlike traditional engines it emphasises
+accurate physics, runs in the Cloud, offers a language agnostic API, and is written in (mostly) Python.
+
+Its main purpose is to make it easy for engineers to build, study, and control
+complex physical systems, for instance how to auto pilot a space ship; or a fleet
+thereof; in formation; through an Asteroid belt...
+
+I will show a live demo to illustrate the concept. It uses a simple control
+algorithm to manoeuvre an object to a pre defined position in space. Once there
+it will maintain that position despite random collisions with other objects.
+
+For more information and demo videos please visit https://olitheolix.com/azrael.
+The code is available at https://github.com/olitheolix/azrael.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Oliver Nagy</dc:creator><pubDate>Fri, 07 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/4044/a-scientific-game-engine-in-the-cloud</guid><enclosure url="https://www.youtube.com/watch?v=JG8-yurFBXM" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/JG8-yurFBXM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

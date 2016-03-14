@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of PyGotham 2011</title><link>http://www.pyvideo.org/category/10/pygotham-2011/rss</link><description></description><atom:link href="http://www.pyvideo.org/category/10/pygotham-2011/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Fri, 11 Mar 2016 12:10:15 -0000</lastBuildDate><ttl>500</ttl><item><title>PyGotham 2011: A Practical Guide to Non-blocking IO, Coroutines, and Concurrency</title><link>http://www.pyvideo.org/video/492/pygotham-2011--a-practical-guide-to-non-blocking-</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+From the OS on up how coroutines and threads affect the performance of your
+Python programs and who to deal with them.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Hancock</dc:creator><guid>http://www.pyvideo.org/video/492/pygotham-2011--a-practical-guide-to-non-blocking-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/492_pygotham-2011-a-practical-guide-to-non-blocking-io-coroutines-and-concurrency.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Gloriajw-APracticalGuideToNonblockingIOCoroutinesAndConcurrency691-452.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Art, Cultural Concern, and Computer Code</title><link>http://www.pyvideo.org/video/498/pygotham-2011--art--cultural-concern--and-compute</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+I will talk about software as art and software and politics using some of my
+own art+tech projects. This will be followed by an audience participation
+segment.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Annina Rüst</dc:creator><guid>http://www.pyvideo.org/video/498/pygotham-2011--art--cultural-concern--and-compute</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/498_pygotham-2011-art-cultural-concern-and-computer-code.ogv" length="208724098" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/498_pygotham-2011-art-cultural-concern-and-computer-code.ogv" fileSize="208724098" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/498_pygotham-2011-art-cultural-concern-and-computer-code.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-ArtCulturalConcernAndComputerCode415-691.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Boosting the numbers: Python for Women and Doing Distributed Organizing of Workshops</title><link>http://www.pyvideo.org/video/496/pygotham-2011--boosting-the-numbers--python-for-w</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The PyStar program is a workshop designed to teach all women (including trans
+women) and their friends who are looking to learn how to program in a friendly
+non-alpha-geek environment. The material on the
+[http://pystar.org](http://pystar.org/) site was originally developed by the
+Boston Python Workshop which was held March 4/5, 2011. Currently PyStar events
+use a mix of badges from the PyStar site and their own curriculum. As this
+project continues hopefully this site will be a hub of learning materials
+geared at all levels of Python learners, with a focus on teaching people in a
+safe and supportive manner.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Blakk</dc:creator><guid>http://www.pyvideo.org/video/496/pygotham-2011--boosting-the-numbers--python-for-w</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/496_pygotham-2011-boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops.ogv" length="187294684" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/496_pygotham-2011-boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops.ogv" fileSize="187294684" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/496_pygotham-2011-boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BoostingTheNumbersPythonForWomenAndDoingDistributedOrga216-163.jpg"></media:thumbnail></item><item><title>PyGotham 2011: BOSC: Blender Open Sound Control</title><link>http://www.pyvideo.org/video/489/pygotham-2011--bosc--blender-open-sound-control</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Blender Open Sound Control is a project enabling the use of Open Sound Control
+Messages within the Blender Game Engine.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luke Schantz</dc:creator><guid>http://www.pyvideo.org/video/489/pygotham-2011--bosc--blender-open-sound-control</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.ogv" length="177647896" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.ogv" fileSize="177647896" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BOSCBlenderOpenSoundControl801-50.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Building scalable websites and API's with Brubeck</title><link>http://www.pyvideo.org/video/486/pygotham-2011--building-scalable-websites-and-api</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I intend to teach people who know nothing about Brubeck how to
+build and deploy an entire site, providing all the commonly needed
+functionality we expect from other Python web frameworks.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Dennis</dc:creator><guid>http://www.pyvideo.org/video/486/pygotham-2011--building-scalable-websites-and-api</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/486_pygotham-2011-building-scalable-websites-and-api-s-with-brubeck.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BuildingScalableWebsitesAndAPIsWithBrubeck714-572.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Go Go Gadget Python</title><link>http://www.pyvideo.org/video/488/pygotham-2011--go-go-gadget-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+So you know that embedded devices are everywhere. Perhaps you've thought how
+nice it would be to make a Linux USB driver for some Windows-only device, or
+you've got something proprietary you would like to reverse-engineer and
+repurpose for your next big scheme. We know Python can do pretty much anything
+inside the computer--but how does a software person enter the world of
+circuits? And once you have some circuits, how can you bring the data back
+into your box? Bridging the worlds of hardware and software, I will show the
+power of PyUSB and Pyserial to pwn some sweet hardware and charm it over the
+USB port. From my own trials and tribulations building and hacking real
+devices, from a simple HID-class USB missile launcher to the custom protocol
+used in a complex biomedical data acquisition system, you will learn about USB
+packet sniffing, rapid-prototyping device drivers in python, and deciphering
+circuit boards and data sheets for fun &amp; profit. I aim to leave you armed and
+ready to take on hardware of your own.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Waite</dc:creator><guid>http://www.pyvideo.org/video/488/pygotham-2011--go-go-gadget-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/488_pygotham-2011-go-go-gadget-python.ogv" length="209351340" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/488_pygotham-2011-go-go-gadget-python.ogv" fileSize="209351340" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/488_pygotham-2011-go-go-gadget-python.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-GoGoGadgetPython896-758.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Intro to Data Visualization</title><link>http://www.pyvideo.org/video/494/pygotham-2011--intro-to-data-visualization</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Have lots of data? Want to turn it into pictures to help you better understand
+it or explain it to others? This session will address best practices for
+encoding information through design, and will look at a few ways of doing this
+in Python.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julie Steele</dc:creator><guid>http://www.pyvideo.org/video/494/pygotham-2011--intro-to-data-visualization</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/494_pygotham-2011-intro-to-data-visualization.ogv" length="176964283" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/494_pygotham-2011-intro-to-data-visualization.ogv" fileSize="176964283" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/494_pygotham-2011-intro-to-data-visualization.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-IntroToDataVisualization707-273.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Machine Learning for Web Developers</title><link>http://www.pyvideo.org/video/484/pygotham-2011--machine-learning-for-web-developer</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Machine learning deals with a class of algorithms which improve and evolve as
+they process more data. It has wide-ranging applications in recommendations,
+search, spam/fraud detection, facial recognition and other areas. The
+algorithms themselves will be covered but the real focus of this class is on
+how to use said algorithms in the web applications we work on every day.
+I&amp;aposll try to keep the math and notation relatively light. Most of the
+algorithms you&amp;aposll need to get started with machine learning are
+implemented for you in the various libraries. They comprise the "science" of
+machine learning and I hope you will decide to learn it, but mastering that
+material is a significant commitment of your time and mental energy (and has
+some additional prerequisites including a strong understanding of linear
+algebra). This class will focus on the "art" of machine learning, how to think
+about machine learning algorithms and integrate them into your web
+application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Al Barrentine</dc:creator><guid>http://www.pyvideo.org/video/484/pygotham-2011--machine-learning-for-web-developer</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/484_pygotham-2011-machine-learning-for-web-developers.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Gloriajw-Machine_Learning_for_Web_Developersogv922-379.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Markov in Python</title><link>http://www.pyvideo.org/video/493/pygotham-2011--markov-in-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+A talk about the uses and implementations of Markov models in Python, with an
+emphasis on Markov chains. A Markov chain program for generating a language
+glossary from corpora will be discussed as an example application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Keith M. Avery</dc:creator><guid>http://www.pyvideo.org/video/493/pygotham-2011--markov-in-python</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/493_pygotham-2011-markov-in-python.ogv" length="215576894" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/493_pygotham-2011-markov-in-python.ogv" fileSize="215576894" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/493_pygotham-2011-markov-in-python.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-MarkovInPython487-552.jpg"></media:thumbnail></item><item><title>PyGotham 2011: OpenBlock: hyperlocal django</title><link>http://www.pyvideo.org/video/495/pygotham-2011--openblock--hyperlocal-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+OpenBlock ([http://openblockproject.org/](http://openblockproject.org/)) is an
+open-source (GPL) hyperlocal news website / service built on Django. This talk
+would be an overview of the project: what it does, how it works, its history
+and future. And a brief live demo.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Winkler</dc:creator><guid>http://www.pyvideo.org/video/495/pygotham-2011--openblock--hyperlocal-django</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/495_pygotham-2011-openblock-hyperlocal-django.ogv" length="289405577" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/495_pygotham-2011-openblock-hyperlocal-django.ogv" fileSize="289405577" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/495_pygotham-2011-openblock-hyperlocal-django.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-OpenBlockHyperlocalDjango305-83.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Plover: Thought to Text at 240 WPM</title><link>http://www.pyvideo.org/video/500/pygotham-2011--plover--thought-to-text-at-240-wpm</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Realtime stenography lets you type as quickly as you can speak, but until now
+it's required ridiculously expensive hardware and software. Plover is the
+world's first open source steno software and works with a $45 keyboard.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mirabai Knight</dc:creator><guid>http://www.pyvideo.org/video/500/pygotham-2011--plover--thought-to-text-at-240-wpm</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.ogv" length="182055374" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.ogv" fileSize="182055374" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-PloverThoughtToTextAt240WPM420-809.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Powerful Pythonic data analysis using pandas</title><link>http://www.pyvideo.org/video/487/pygotham-2011--powerful-pythonic-data-analysis-us</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I will give an overview on the pandas data analysis package for
+Python, its features, and plans for future development. I'll use various
+interesting data sets to illustrate the features and give motivation for how
+the tools can be applied in a diverse set of fields.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><guid>http://www.pyvideo.org/video/487/pygotham-2011--powerful-pythonic-data-analysis-us</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/487_pygotham-2011-powerful-pythonic-data-analysis-using-pandas.ogv" length="252280317" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/487_pygotham-2011-powerful-pythonic-data-analysis-using-pandas.ogv" fileSize="252280317" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/487_pygotham-2011-powerful-pythonic-data-analysis-using-pandas.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-PowerfulPythonicDataAnalysisUsingPandas687-843.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Rapid and Scalable Development with MongoDB, PyMongo, and Ming</title><link>http://www.pyvideo.org/video/497/pygotham-2011-rapid-and-scalable-development-wit</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This intermediate-level talk will teach you techniques using the popular NoSQL
+database MongoDB and the Python library Ming to write maintainable, high-
+performance, and scalable applications. We will cover everything you need to
+become an effective Ming/MongoDB developer from basic PyMongo queries to high-
+level object-document mapping setups in Ming.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard D. Copeland, Jr.</dc:creator><guid>http://www.pyvideo.org/video/497/pygotham-2011-rapid-and-scalable-development-wit</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/497_pygotham-2011-rapid-and-scalable-development-with-mongodb-pymongo-and-ming.ogv" length="234401122" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/497_pygotham-2011-rapid-and-scalable-development-with-mongodb-pymongo-and-ming.ogv" fileSize="234401122" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/497_pygotham-2011-rapid-and-scalable-development-with-mongodb-pymongo-and-ming.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-RapidAndScalableDevelopmentWithMongoDBPyMongoAndMing226-212.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Real-time Web: Gevent and Socket.io</title><link>http://www.pyvideo.org/video/490/pygotham-2011-real-time-web-gevent-and-socketi</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+There has been a lot of talk lately about how Node.js enables the real-time
+web, but did you know you can do the same thing with Python? This talk will
+show you how to use Gevent, ZeroMQ, and Socket.io to build portable Python-
+powered real-time web applications.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard D. Copeland, Jr.</dc:creator><guid>http://www.pyvideo.org/video/490/pygotham-2011-real-time-web-gevent-and-socketi</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/490_pygotham-2011-real-time-web-gevent-and-socket-io.ogv" length="179077875" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/490_pygotham-2011-real-time-web-gevent-and-socket-io.ogv" fileSize="179077875" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/490_pygotham-2011-real-time-web-gevent-and-socket-io.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-RealtimeWebGeventAndSocketio792-896.jpg"></media:thumbnail></item><item><title>PyGotham 2011: SQLAlchemy, an Architectural Retrospective</title><link>http://www.pyvideo.org/video/499/pygotham-2011--sqlalchemy--an-architectural-retro</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+In this talk I'll walk through some highlights of SQLAlchemy internal design
+and methodology, based on the upcoming chapter for the "Architecture of Open
+Source Applications" book. We'll have a little bit of SQLAlchemy philosophy,
+an overview of the Core, and then a 500-ft view of how the ORM goes about
+things, with plenty of cool looking diagrams.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Bayer</dc:creator><guid>http://www.pyvideo.org/video/499/pygotham-2011--sqlalchemy--an-architectural-retro</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/499_pygotham-2011-sqlalchemy-an-architectural-retrospective.ogv" length="275140688" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/499_pygotham-2011-sqlalchemy-an-architectural-retrospective.ogv" fileSize="275140688" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/499_pygotham-2011-sqlalchemy-an-architectural-retrospective.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-SQLAlchemyAnArchitecturalRetrospective499-683.jpg"></media:thumbnail></item><item><title>PyGotham 2011: STEM coming to a stop near you</title><link>http://www.pyvideo.org/video/491/pygotham-2011--stem-coming-to-a-stop-near-you</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+STEM defined. What is STEM and what you can do to increase the STEM knowledge
+every where!
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dora Maria Abreu</dc:creator><guid>http://www.pyvideo.org/video/491/pygotham-2011--stem-coming-to-a-stop-near-you</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.ogv" length="164055133" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.ogv" fileSize="164055133" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Gloriajw-STEMComingToAStopNearYou822-694.jpg"></media:thumbnail></item><item><title>PyGotham 2011: Tmux + IPython = Awesome</title><link>http://www.pyvideo.org/video/485/pygotham-2011--tmux---ipython---awesome</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+This is a two part class aimed at expanding a developer's toolset with both
+tmux and IPython. In the first half, we will learn about tmux. I will first
+explain its client-server model and general architecture, compare it to GNU
+screen, and show some use cases. Then, we will start using it, create a
+customized profile, and solve a simple distributed computing problem with
+tmux. In the second half of this class, we will start using IPython. I will
+first explain what it is and review different use cases. Then, we will start
+using some basic commands, customize our profile and aliases, integrate python
+and shell scripting into the same code, and, time permitting, see some of the
+interactive scientific computing and interactive distributed computing
+possibilities. If you have one, bring a laptop with tmux and IPython already
+installed.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Gaudio</dc:creator><guid>http://www.pyvideo.org/video/485/pygotham-2011--tmux---ipython---awesome</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/485_pygotham-2011-tmux-ipython-awesome.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Gloriajw-TmuxIPythonAwesome119-688.jpg"></media:thumbnail></item></channel></rss>

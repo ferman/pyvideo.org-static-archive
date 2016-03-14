@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of David Cournapeau</title><link>http://www.pyvideo.org/speaker/1940/david-cournapeau/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1940/david-cournapeau/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 Nov 2013 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Depsolver, une librairie pour la gestion de dépendences</title><link>http://www.pyvideo.org/video/3740/depsolver-une-librairie-pour-la-gestion-de-depen</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Les outils "easy_install/pip" sont devenus populaires en partie grâce à l'incorporation d'un système de dépendances. Depsolver est une librairie conçue pour résoudre les problèmes de dépendance plus complexes que pip et easy_install ne peuvent pas résoudre. La librairie est pure python, et conçue pour être réutilisable par de futures systèmes d'installations (python ou autre).</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cournapeau</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3740/depsolver-une-librairie-pour-la-gestion-de-depen</guid><enclosure url="https://www.youtube.com/watch?v=HAoAstK95UE" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/HAoAstK95UE/maxresdefault.jpg"></media:thumbnail></item><item><title>Vagrant, packer et ruby pour automatiser des builds complexes</title><link>http://www.pyvideo.org/video/3741/vagrant-packer-et-ruby-pour-automatiser-des-buil</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Vagrant, packer et un peu de ruby pour automatiser des builds complexes.
+
+Introduction
+
+Tout le monde n'a pas la chance de ne dépendre que de paquets 100 % python. Python est devenu un outil de choix pour le calcul numérique, mais des paquets tels que numpy, scipy ou scikit-learn dépendent de librairies C, C++ et même Fortran qui dépendent fortement des plateformes.
+
+J'aimerais présenter les outils packer et vagrant comme une solution pour produire des builds 100 % reproductibles. S'appuyant sur la virtualisation, ils permettent d'appliquer les principes de reproduction non seulement pour unix, mais aussi os x et même windows.
+
+Le concept de provisionnement, et son application au problème de "packaging"
+
+Cette section présentera tout d'abord la nécessité de reproduction pour la compilation, et justifiera pourquoi les VM sont les outils les plus adéquats aujourd'hui si l'on veut supporter toutes les plateformes usuelles, en particulier windows:
+
+- architectures "3-tier" pour le provisionnement
+- outils disponibles pour chacune des 3 couches
+- présentation de vagrant et packer
+
+vagrant, un outil simple pour la réutilisation de VM
+
+Cette section commencera par illustrer les problèmes usuels du partage des VM entre développeurs, et montrera comment vagrant peut résoudre ces problèmes:
+
+- le provisionnement comme solution au manque de transparence usuel avec les VMs
+- flexibilité et traçabilité grâce à la combinaison chef/puppet/salt + vagrant
+
+packer, un complément à vagrant
+
+Vagrant suppose l'existence de 'base box', qui sont des images d'OS avec juste ce qu'il faut pour "bootstrapper" la suite du provisionnement. Packer est un outil qui permet de créer ses propres images:
+
+- illustration du fonctionnement de packer
+- cibler plusieurs technologies de virtualisation à partir d' un même template: virtualbox, vmware, mais aussi ec2.
+
+Example pour la compilation de paquets 'wheel' pour numpy/scipy
+
+Cette partie sera plus didactique, et basé sur un exemple réel pour compiler un wheel de numpy et scipy sur windows. L'exemple utilisera à la fois vagrant, packer et chef.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Cournapeau</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3741/vagrant-packer-et-ruby-pour-automatiser-des-buil</guid><enclosure url="https://www.youtube.com/watch?v=iTU5CRuY96I" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/iTU5CRuY96I/maxresdefault.jpg"></media:thumbnail></item></channel></rss>

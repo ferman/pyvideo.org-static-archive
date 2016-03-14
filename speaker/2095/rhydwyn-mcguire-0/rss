@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Rhydwyn McGuire</title><link>http://www.pyvideo.org/speaker/2095/rhydwyn-mcguire-0/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/2095/rhydwyn-mcguire-0/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Tue, 04 Aug 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Fast, beautiful and easy Bayesian modelling: Can you have it all?</title><link>http://www.pyvideo.org/video/3970/fast-beautiful-and-easy-bayesian-modelling-can</link><description>&lt;p&gt;Description&lt;/p&gt;
+Bayesian models are often more useful than classical statistical models when dealing with data concerning rare events in small populations. For example, if you are looking at the number of cancer diagnoses in a local government area, Bayesian models allow you to combine the individual and population level data to produce more reliable estimates. 
+
+Fitting these models can be both complex and computationally expensive, so we need it to be fast. Some of the datasets we deal with are extremely big, and the need for both tweaking and regular update cycles means we need to re-run the models frequently.
+
+But beauty is also crucial. We need the package to be easy to code and describe, so that the statisticians and scientists we work with can build, maintain and understand their own models without needing to refer to programmers. We don’t want a statistical black box. 
+
+Finally, we need it to be easy. Easy to fit into our systems; technology-agnostic so we can change systems; and automatable so that the regular work of updating models with new data can happen ‘hands off’.  
+
+There are a number of Bayesian modelling packages available, but how do you know which one to use? This talk will take you through the positives and negatives of the major packages, focusing on the specifics of my work in health statistics, as well as providing a general overview of what these packages can do. 
+
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rhydwyn McGuire</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3970/fast-beautiful-and-easy-bayesian-modelling-can</guid><enclosure url="https://www.youtube.com/watch?v=N6kVJTKT6H8" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/N6kVJTKT6H8/hqdefault.jpg"></media:thumbnail></item></channel></rss>

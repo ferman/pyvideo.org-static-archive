@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Tom Aldcroft</title><link>http://www.pyvideo.org/speaker/405/tom-aldcroft/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/405/tom-aldcroft/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 09 Jul 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Astropy and astronomical tools Part I</title><link>http://www.pyvideo.org/video/2739/astropy-and-astronomical-tools-part-i</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The introductory session will start with an overview of the astropy project and the goals of the tutorial, followed by the basics on accessing astronomical data and the associated attributes of such data, including the units and coordinates. Also covered is how to use the new and powerful quantities facility, which allows physical quantities to be explicitly bound to the units they are defined in.
+&lt;p&gt;Description&lt;/p&gt;
+**Outline**
+
+* Overview of astropy (15 minutes) [Greenfield]
+    - Exercise: Import astropy, demonstrate that tools are present and echo simple examples given. (15 minutes: allowing for typical start-up problems)
+* Units/quantities (15 minutes) [Droettboom]
+    - Exercise: Solve problems using standard units; define new unit; use unit equivalencies; define blackbody function using quantities/units (15 minutes)
+* Tables (20 minutes) [Aldcroft]
+    - Exercise: read in provided table files and apply requested table manipulations (20 minutes)
+* Break (15 minutes)
+* Accessing and updating data
+    - FITS (30 minutes) [Bray]
+        + Exercise: Open supplied data files; manipulate header information; manipulate data; write results; update and append to existing file (30 minutes)
+    - ascii tables (15 minutes) [Aldcroft]
+        + Exercise: Open supplied ascii files, modify and convert into csv files (15 minutes) 
+* coordinates (sky/time) (15 minutes) [Robitaille]
+    - Exercises: solve coordinate/time conversion problems; read in various string representations for coordinates/times; print alternate string representations (15 minutes)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Bray,Perry Greenfield,Thomas Robitaille,Tom Aldcroft</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2739/astropy-and-astronomical-tools-part-i</guid><enclosure url="http://www.youtube.com/watch?v=eiSg1enFFV4" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/eiSg1enFFV4/hqdefault.jpg"></media:thumbnail></item><item><title>29. Keeping the Chandra satellite cool with Python and Xija</title><link>http://www.pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The Chandra X-ray Observatory has been producing significant astronomical
+discoveries since its launch by NASA in July of 1999. The Chandra operations
+team uses Python for predictive thermal modeling of the spacecraft to maintain
+a safe thermal environment. This poster describes the Xija modeling framework
+that is used to create, calibrate, and compute these thermal models.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Aldcroft</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/731/29-keeping-the-chandra-satellite-cool-with-pytho</guid><enclosure url="https://www.youtube.com/watch?v=dhUo_lpD7v0" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/dhUo_lpD7v0/hqdefault.jpg"></media:thumbnail></item></channel></rss>

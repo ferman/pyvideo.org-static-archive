@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Kai Diefenbach</title><link>http://www.pyvideo.org/speaker/782/kai-diefenbach/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/782/kai-diefenbach/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Wed, 31 Oct 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>LFS - Ein Online-Shop basierend auf Django</title><link>http://www.pyvideo.org/video/1466/lfs-ein-online-shop-basierend-auf-django</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+LFS ist ein Online-Shop basieren auf Python, Django und jQuery. Er erfreut
+sich zunehmender Aufmerksamkeit, sowohl bei Entwicklern als auch bei
+Anwendern. Laut [djangopackages.com](http://djangopackages.com) ist LFS der am
+häufigsten heruntergeladene Shop für Django. Änderungen am Source Code
+verfolgen über 200 Entwickler und die Google-Gruppe hat zur Zeit über 170
+Mitglieder.
+
+LFS ist praxiserprobt. Beispiele für große und erfolgreiche Shops sind:
+
+* [demmelhuber.net](http://demmelhuber.net)  
+* [holzimgarten.com](http://holzimgarten.com)  
+* [anwaltakademie.de](http://anwaltakademie.de)
+
+Kai Diefenbach, Gründer und einer der Kern-Entwickler, gibt in diesem Vortrag
+ein Überblick zu folgenden Themen:
+
+* Live-Shops. Vorstellung von einigen Live-Shops: Zahlen und Fakten.
+
+* Features. Vorstellung der wichtigsten Features, beispielsweise: Produktarten, Katalog, Zahlmethoden, Liefermethoden, Mehrwertsteuer, Checkout, etc.
+
+* Entwicklung. Alles rund um die Entwicklung: Wie geht diese vor sich? Wie kann ich teilnehmen? Wie können Erweiterungen entwickelt werden?
+
+* Ausblick. Die Zukunft von LFS: Releases, neue Features, etc.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kai Diefenbach</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1466/lfs-ein-online-shop-basierend-auf-django</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_LFS_Ein_OnlineShop_bas.mp4?Signature=eZufn5aAG7FYN8ib4zd22fHUUl4%3D&amp;Expires=1351867420&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_LFS_Ein_OnlineShop_bas.mp4?Signature=eZufn5aAG7FYN8ib4zd22fHUUl4%3D&amp;Expires=1351867420&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=-GptuADVU00" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i2.ytimg.com/vi/-GptuADVU00/hqdefault.jpg"></media:thumbnail></item><item><title>LFS - Ein Online-Shop basierend auf Python, Django &amp; jQuery</title><link>http://www.pyvideo.org/video/2905/lfs-ein-online-shop-basierend-auf-python-djang</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+LFS ist ein Online-Shop basieren auf Python, Django und jQuery. Er erfreut sich zunehmender Aufmerksamkeit, sowohl bei Entwicklern als auch bei Anwendern. Laut djangopackages.com ist LFS der am häufigsten heruntergeladene Shop für Django. Änderungen am Source Code verfolgen über 140 Entwickler und die Google-Gruppe hat zur Zeit über 110 Mitglieder.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kai Diefenbach</dc:creator><pubDate>Thu, 06 Oct 2011 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2905/lfs-ein-online-shop-basierend-auf-python-djang</guid><enclosure url="http://www.youtube.com/watch?v=eZrR4XgAewM" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/eZrR4XgAewM/hqdefault.jpg"></media:thumbnail></item></channel></rss>

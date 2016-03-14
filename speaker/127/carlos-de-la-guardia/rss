@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Carlos de la Guardia</title><link>http://www.pyvideo.org/speaker/127/carlos-de-la-guardia/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/127/carlos-de-la-guardia/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 16 Mar 2013 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>5 powerful pyramid features</title><link>http://www.pyvideo.org/video/1673/5-powerful-pyramid-features</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Pyramid is a web framework designed to do very well the fundamentals of web applications. Even though it's minimalist in its goals, it provides strong features to let developers deal with these fundamentals. In this talk, we'll look at 5 specific Pyramid features that offer web developers unique flexibility and power. </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carlos de la Guardia</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1673/5-powerful-pyramid-features</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/5_powerful_pyramid_features.mp4?Signature=3Eupx7GWNqXnRhR%2B%2FFR%2BJDL9k24%3D&amp;Expires=1363647343&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/5_powerful_pyramid_features.mp4?Signature=3Eupx7GWNqXnRhR%2B%2FFR%2BJDL9k24%3D&amp;Expires=1363647343&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=kMx-kkJgoPM" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/kMx-kkJgoPM/hqdefault.jpg"></media:thumbnail></item><item><title>Patterns for building large Pyramid applications</title><link>http://www.pyvideo.org/video/707/patterns-for-building-large-pyramid-applications</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Pyramid is a very flexible framework, but when dealing with large projects and
+multiple developers it pays to establish a few ground rules and follow some
+conventions. In this talk we'll discuss some patterns for organizing and
+developing a large Pyramid application.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carlos de la Guardia</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/707/patterns-for-building-large-pyramid-applications</guid><enclosure url="https://www.youtube.com/watch?v=NUQMr5R3dlk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/NUQMr5R3dlk/hqdefault.jpg"></media:thumbnail></item><item><title>Writing a Pyramid application</title><link>http://www.pyvideo.org/video/606/writing-a-pyramid-application</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Pyramid is the web framework at the core of the Pylons Project. It's a "pay
+only for what you eat" framework. You can get started easily and learn new
+concepts as you go, and only if you need them. It's simple, well tested, well
+documented, and fast. This course will present Pyramid and lead you through
+the creation of a an application as the concepts from the framework are
+introduced.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carlos de la Guardia</dc:creator><pubDate>Wed, 07 Mar 2012 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/606/writing-a-pyramid-application</guid><enclosure url="https://www.youtube.com/watch?v=NBSosX8xiRk" length="None" type="video/flv"></enclosure><media:thumbnail url="http://img.youtube.com/vi/NBSosX8xiRk/hqdefault.jpg"></media:thumbnail></item><item><title>The Pyramid FAQ</title><link>http://www.pyvideo.org/video/387/pycon-2011--the-pyramid-faq</link><description>&lt;p&gt;Description&lt;/p&gt;
+The Pyramid FAQ
+
+Presented by Carlos de la Guardia
+
+The #pylons IRC channel is the most common way of giving support to users of
+the Pyramid framework. In this talk we take away some of the most often
+discussed topics in the channel and give detailed answers to them.
+
+Abstract
+
+Every development project has a few questions and doubts that seem to come up
+on its support channels every now and then. The Pyramid framework is no
+exception.
+
+In this talk, we introduce Pyramid related FAQs using the chat logs and
+proceed to discuss them in detail. Showing the logs allows us to give the talk
+a lighter side and makes for an introduction to each topic based on real user
+questions.
+
+Topics covered here include:
+
+  * Configuration objects. 
+  * Object traversal versus URL dispatch. 
+  * Context and views. 
+  * Authentication and authorization. 
+  * How much 'Zope stuff' is there in Pyramid and can we take it away? 
+  * Examples of how Pyramid enables the Pylons philosophy of integrating best of breed or preferred components. 
+  * The future of Pyramid and Pylons. 
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carlos de la Guardia</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/387/pycon-2011--the-pyramid-faq</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/387_the-pyramid-faq.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011ThePyramidFAQ994-532.jpg"></media:thumbnail></item><item><title>Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy (#174)</title><link>http://www.pyvideo.org/video/295/pycon-2010--pay-only-for-what-you-eat--a-tour-of-</link><description>&lt;p&gt;Description&lt;/p&gt;
+Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy
+
+  
+Presented by Carlos de la Guardia
+
+  
+BFG is a Python web application framework based on WSGI. It is a "pay only for
+what you eat" framework. Meaning that you can get started easily and learn new
+concepts as you go, and only if you need them. It's simple, well tested, well
+documented, and fast. It also tries to make development fun.
+
+  
+This talk will introduce the framework and its philosophy, including
+similarities and differences with other frameworks. I will then show some of
+the software available in its repository and discuss the inclusive, loose
+connection approach that the BFG community prefers for creating a flexible web
+development platform.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Carlos de la Guardia</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/295/pycon-2010--pay-only-for-what-you-eat--a-tour-of-</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.ogv" mime_type="video/ogg"></media:content><media:content url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.m4v" mime_type="video/mp4"></media:content></media:group><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2010PayOnlyForWhatYouEatATourOfTheRepozeBFGRepo556.png"></media:thumbnail></item></channel></rss>

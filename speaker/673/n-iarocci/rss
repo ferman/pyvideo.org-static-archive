@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of N Iarocci</title><link>http://www.pyvideo.org/speaker/673/n-iarocci/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/673/n-iarocci/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 05 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Developing Restful web apis with python, flask and mongodb</title><link>http://www.pyvideo.org/video/1295/developing-restful-web-apis-with-python-flask-an</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] N Iarocci - 4 JULY 2012 in "Track Tagliatelle"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+In the last year we have been working on a full featured, Python powered,
+RESTful Web API. We learned quite a few things on REST best patterns, and we
+got a chance to put Python’s renowned web capabilities under review, even
+releasing a couple Open Source projects in the process. In my talk I will
+share what we learned. We will consider ‘pure’ REST API design and its many
+hurdles. We will look at what Python as to offer in this field and finally, we
+will dig further down by looking at some of the code we developed. Some of the
+technologies/stacks I’ll cover are (in no particular order): Flask, PyMongo,
+MongoDB, REST, JSON, XML, Heroku. Did you know? Like it or not, there is going
+to be a REST API in your future.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">N Iarocci</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1295/developing-restful-web-apis-with-python-flask-an</guid><enclosure url="http://www.youtube.com/watch?v=qh9fN2iHaCQ" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/qh9fN2iHaCQ/hqdefault.jpg"></media:thumbnail></item></channel></rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Aaron Iles</title><link>http://www.pyvideo.org/speaker/1508/aaron-iles/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1508/aaron-iles/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 07 Aug 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Command line programs for busy developers by Aaron Iles</title><link>http://www.pyvideo.org/video/3129/command-line-programs-for-busy-developers-by-aaro</link><description>&lt;p&gt;Description&lt;/p&gt;
+Command line interface tools are the new web framework. In addition to the
+Python standard library's getopt, optparse and argparse there is a bewildering
+array of packages available on the Python Packaging Index. Packages like Click,
+Cliff, Docopt, Invoke all provide different mechanics for creating command line
+applications. When all you want to do is expose a command line and get back to
+creating functionality, it’s hard to know which alternative to reach for.
+
+This presentation will have two parts, the first half will be a brief survey
+of popular modules. Strengths, weaknesses and design philosophies will be
+compared by creating command line processing for the same example program.
+
+The second half will go into more depth on a specific package, Begins. This
+package was authored by the presenter to minimise the disruption developers
+experience when breaking flow to implement command line processing. The
+audience will be shown how a single line of code can create a complex command
+line interface. It will also be shown how a handful of decorators from the
+Begins API can eliminate boilerplate code and create powerful, complex
+applications.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Iles</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3129/command-line-programs-for-busy-developers-by-aaro</guid><enclosure url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/57-out.ogv" length="None" type="video/ogg"></enclosure><media:group><media:content url="http://mirror.linux.org.au/pub/pycon-au/pyconau2014/57-out.ogv" mime_type="video/ogg"></media:content><media:content url="http://www.youtube.com/watch?v=D5l4JNt2ozI" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/D5l4JNt2ozI/hqdefault.jpg"></media:thumbnail></item></channel></rss>

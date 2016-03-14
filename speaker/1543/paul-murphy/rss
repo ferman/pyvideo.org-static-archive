@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Paul Murphy</title><link>http://www.pyvideo.org/speaker/1543/paul-murphy/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1543/paul-murphy/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 04 Oct 2014 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Is your helper library opinionated enough?</title><link>http://www.pyvideo.org/video/3158/is-your-helper-library-opinionated-enough</link><description>&lt;p&gt;Description&lt;/p&gt;
+It's a constant debate.
+
+How do you build a helper library?
+
+At one end of the spectrum we have Runscope CEO John Sheehan who thinks that helper libraries are evil and shouldn't exist at all. At the other we find helper libraries that don't look or smell anything like the API. And somewhere in the middle we have helper libraries that are so close to the API itself that they are nothing more than a thin veneer.
+
+Which is better? Who’s right? The real question to me is how idiomatic should a helper library be? Should a Django library make a Django developer feel comfortable, or should she have to read the API docs to understand how it works? Should a Python library look RESTful, or should it look like a hierarchy of classes?
+
+At our company, we maintain two libraries. They both have advantages and disadvantages, they appeal to different developers, and sometimes even the same developer at different times.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Murphy</dc:creator><pubDate>Sat, 04 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3158/is-your-helper-library-opinionated-enough</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3158_Is_your_helper_library_opinionated_enough.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3158_Is_your_helper_library_opinionated_enough.webm" mime_type="video/webm"></media:content><media:content url="http://www.youtube.com/watch?v=XwtAZ34H3rE" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/XwtAZ34H3rE/hqdefault.jpg"></media:thumbnail></item><item><title>Unlocking Data Trapped in Audio and Video Files</title><link>http://www.pyvideo.org/video/3165/unlocking-data-trapped-in-audio-and-video-files</link><description>&lt;p&gt;Description&lt;/p&gt;
+As more and more apps record audio and video files we need to start thinking about what to do with those files.  Playing them back isn't enough.  Media files are full of data that developers can start exploiting thanks to an emergent category of signal and natural language processing APIs.
+
+There are only 3 options for processing the words embedded in these files:
+
+1. Transcribe them yourself, manually.
+2. Find a transcript made by someone else.
+3. Use a library that extracts the words for you.   
+
+As the developer of a python library that automates the extraction and processing of words in media files, I'll demonstrate how easy it is to make audio and video libraries fully searchable, create a word cloud of keywords from a recorded phone call, and extract topics from news broadcast.  
+
+I'll show coding examples as well as products using this API.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Murphy</dc:creator><pubDate>Sat, 04 Oct 2014 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3165/unlocking-data-trapped-in-audio-and-video-files</guid><enclosure url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3165_Unlocking_Data_Trapped_in_Audio_and_Video_Files.webm" length="None" type="video/webm"></enclosure><media:group><media:content url="http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3165_Unlocking_Data_Trapped_in_Audio_and_Video_Files.webm" mime_type="video/webm"></media:content><media:content url="http://youtu.be/KI0m0tFEAnY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i.ytimg.com/vi/KI0m0tFEAnY/hqdefault.jpg"></media:thumbnail></item></channel></rss>

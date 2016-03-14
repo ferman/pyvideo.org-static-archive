@@ -1,0 +1,429 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="../../static/bootstrap-3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../static/css/richard.css">
+  <link rel="stylesheet" href="../../static/browserid/persona-buttons.css" />
+  <link rel="search" type="application/opensearchdescription+xml" title="pyvideo.org search" href="../../search/xml">
+  <title>pyvideo.org - Twisted Names: DNS Building Blocks for Python Programmers</title>
+  <link rel="shortcut icon" type="image/x-icon" href="http://pyvideo.org/favicon.ico">
+
+  
+    <meta name="keywords" content="">
+  
+    <meta name="description" content="In this talk I will report on my efforts to update the DNS components of Twisted
+and discuss some of the things I&#39;ve learned along the way. I&#39;ll demonstrate the
+EDNS0, DNSSEC and DANE client support which I have been working on and show how
+these new Twisted Names components can be glued together to build novel DNS
+servers and clients.
+
+Twisted is an event-driven networking engine written in Python and
+licensed under the open source MIT license.  It is a platform for
+developing internet applications.">
+  
+
+  
+</head>
+<body>
+  <input type='hidden' name='csrfmiddlewaretoken' value='DEhrCXO8g33mPB1YNZ7JRQq9NQMV9Bvc' />
+  
+<div id="browserid-info"
+     style="display: none;"
+     data-info="{&quot;loginUrl&quot;: &quot;/browserid/login/&quot;, &quot;requestArgs&quot;: {}, &quot;logoutUrl&quot;: &quot;/browserid/logout/&quot;, &quot;csrfUrl&quot;: &quot;/browserid/csrf/&quot;}">
+</div>
+
+  <a name="top"></a>
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="../../index.html">pyvideo.org</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="twisted-names-dns-building-blocks-for-python-pro.html#" class="dropdown-toggle" data-toggle="dropdown">
+              Browse <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="../../category.html">Conferences/user groups</a></li>
+              <li><a href="../../speaker/index.html">Speakers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-left" role="search" action="../../search.1.html">
+          <div class="form-group">
+            <input type="hidden" name="models" value="videos.video">
+            <input type="text" class="form-control" name="q" placeholder="Search" autofocus value="">
+          </div>
+        </form>
+        
+
+        <ul class="nav navbar-nav navbar-right">
+          
+            <li><div class="signin">
+
+<a href="twisted-names-dns-building-blocks-for-python-pro.html#" data-next="/" class="browserid-login persona-button" >
+	<span>Sign in</span>
+</a>
+</div></li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="content" class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          
+            <div class="alert alert-info">
+              <i class="icon-info-sign"></i> <strong>Sorry!</strong>
+              <p>pyvideo is closing down at some point in 2016. <a href="http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html">More details</a></p>
+            </div>
+          
+        </div>
+      </div>
+    
+
+    
+
+
+<div class="row section" vocab="http://schema.org" typeof="VideoObject">
+  <div id="videobox" class="col-md-12">
+    
+    <div class="clearfix">
+      <div class="videobox-inner">
+        
+          
+            <div class="amara-embed" data-height="480px" data-width="854px" data-url="http://www.youtube.com/watch?v=kuSXK4gNYqw"></div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="videobox" class="col-md-8">
+    <div class="section">
+      <h3 class="centered" property="name">Twisted Names: DNS Building Blocks for Python Programmers</h3>
+      <link property="thumbnailUrl" href="http://i.ytimg.com/vi/kuSXK4gNYqw/hqdefault.jpg"/>
+      <link property="sameAs" href="twisted-names-dns-building-blocks-for-python-pro.html"/>
+    </div>
+
+    
+
+    
+      <div class="section">
+        <h4>Summary</h4>
+        <div class="video-details-summary" property="description"><p>In this talk I will report on my efforts to update the DNS components of Twisted
+and discuss some of the things I've learned along the way. I'll demonstrate the
+EDNS0, DNSSEC and DANE client support which I have been working on and show how
+these new Twisted Names components can be glued together to build novel DNS
+servers and clients.</p>
+<p>Twisted is an event-driven networking engine written in Python and
+licensed under the open source MIT license.  It is a platform for
+developing internet applications.</p></div>
+        <meta property="caption" content="In this talk I will report on my efforts to update the DNS components of Twisted
+and discuss some of the things I&#39;ve learned along the way. I&#39;ll demonstrate the
+EDNS0, DNSSEC and DANE client support which I have been working on and show how
+these new Twisted Names components can be glued together to build novel DNS
+servers and clients.
+Twisted is an event-driven networking engine written in Python and
+licensed under the open source MIT license.  It is a platform for
+developing internet applications."/>
+      </div>
+    
+
+    
+      <div class="section">
+        <h4>Related URLs</h4>
+        <ul>
+          
+            <li><a href="https://github.com/wallrj/twisted-names-talk">Notes and examples (https://github.com/wallrj/twisted-names-talk)</a></li>
+          
+        </ul>
+      </div>
+    
+
+    
+      <div class="section">
+        <h4>Description</h4>
+        <div class="video-details-description"><h1>Description</h1>
+<p>My talk will consist of four main sections. Given the 30 minute time constraint,
+I may shorten or drop the two introductory parts in favour of the narrative and
+demonstration of interesting new APIs and code examples in the final two
+parts. My experience of delivering a similar talk at PyconUK 2013 is that those
+are the parts that will most interest the audience and prompt most audience
+questions.</p>
+<p>Here are my proposed sections with rough time allocations and descriptions:</p>
+<h2>Introducing Twisted Names (0-5)</h2>
+<p>Twisted includes a comprehensive set of DNS components, collectively
+known as Twisted Names.</p>
+<ul>
+<li><a href="https://twistedmatrix.com/trac/wiki/TwistedNames">https://twistedmatrix.com/trac/wiki/TwistedNames</a></li>
+</ul>
+<p>I will begin the talk with a quick introduction to Twisted Names and its
+capabilities, including one or two simple code examples.</p>
+<h2>Introducing My Project (0-5)</h2>
+<p>With generous funding from The NLnet Foundation I am adding EDNS(0) and DNSSEC
+client support in Twisted Names, including full DNSSEC verification and DANE
+support.</p>
+<p>In the talk I will quickly summarise the steps taken and lessons learned in
+securing that funding, and hope to encourage the audience to seek funding to
+support there own pet OSS projects.</p>
+<h2>What's New in Twisted Names / Project Progress Report (10)</h2>
+<p>My project plan is divided into the following broad milestones.</p>
+<ol>
+<li>
+<p>EDNS(0)</p>
+<ol>
+<li>
+<p>OPT record</p>
+</li>
+<li>
+<p>Extended Message object with additional EDNS(0) items</p>
+</li>
+<li>
+<p>EDNS Client</p>
+</li>
+</ol>
+</li>
+<li>
+<p>RRSET handling</p>
+<ol>
+<li>
+<p>Canonical Form and Order of Resource Records</p>
+</li>
+<li>
+<p>Receiving RRSETs</p>
+</li>
+</ol>
+</li>
+<li>
+<p>DNSSEC</p>
+<ol>
+<li>
+<p>New DNSSEC Records and Lookup Methods</p>
+</li>
+<li>
+<p>Security-aware Non-validating Client</p>
+</li>
+<li>
+<p>Validating Client</p>
+</li>
+</ol>
+</li>
+<li>
+<p>DANE</p>
+<ol>
+<li>
+<p>A twistd dns authoritative server capable of loading and serving TLSA
+    records.</p>
+</li>
+<li>
+<p>A Twisted web client Agent wrapper which performs TLSA lookup and
+    verification of a server certificate.</p>
+</li>
+<li>
+<p>A HostnameClientEndpoint which performs TLSA lookup and verification of a
+    server certificate.</p>
+</li>
+<li>
+<p>A command line tool for debugging TLSA records and for verifying a
+    certificate file against a domain name.</p>
+</li>
+<li>
+<p>A TLSA Record class for encoding and decoding TLSA bytes.</p>
+</li>
+<li>
+<p>A TLSA lookup method which accepts port, protocol and hostname and constructs
+    a suitable TLSA domain name.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>In the talk I will quickly outline these goals, report on my progress so far,
+and show running code examples to demonstrate the new APIs.</p>
+<h2>Future Developments (5)</h2>
+<p>The aim of my project is to lay foundations that will eventually allow
+end-to-end DNSSEC verification in all the core Twisted networking components,
+including Twisted Conch (SSH), Mail (SMTP, POP3), Perspective Broker (RPC), Web
+(HTTP, XML-RPC, SOAP), Words (XMPP, IRC).</p>
+<p>Additionally I hope that this foundation work will encourage the development of
+end-to-end DNSSEC verification in many of the Open Source and commercial
+projects built on top of Twisted.</p>
+<p>I will end the talk by outlining these exciting possibilities, and demonstrate
+some code examples that illustrate these possibilities.</p>
+<h2>Q &amp; A (5-10)</h2>
+<p>I'm determined to leave at least five minutes at the end for audience
+questions. At PyconUK 2013 I was frustrated because I ran out of time and ended
+up answering questions outside the lecture theatre; questions which would have
+been interesting to the whole audience.</p></div>
+      </div>
+    
+  </div>
+
+  <div class="col-md-4">
+    <div id="sidebar" class="well">
+      
+
+      <dl>
+        
+        <dt>Category</dt>
+        <dd>
+          <a href="../../category/54/europython-2014.html">EuroPython 2014</a>
+        </dd>
+
+        <dt>Speakers</dt>
+        <dd>
+          
+            <div><a href="../../speaker/1380/richard-wall.html">Richard Wall</a></div>
+            <meta property="author" content="Richard Wall"/>
+          
+        </dd>
+
+        
+          <dt>Language</dt>
+          <dd>English
+            <meta property="inLanguage" content="en"/>
+          </dd>
+        
+
+        
+
+        
+          <dt>Recorded</dt>
+          <dd>July 25, 2014
+            <meta property="dateCreated" content="2014-07-25"/>
+          </dd>
+        
+
+        
+          <dt>Last updated</dt>
+          <dd>July 31, 2014
+            <meta property="dateModified" content="2014-07-31T01:14:02.133832"/>
+            <meta property="datePublished" content="2014-07-31T01:14:02.133832"/>
+          </dd>
+        
+
+        <dt>Video origin</dt>
+        <dd>
+          
+            <a href="http://www.youtube.com/watch?v=kuSXK4gNYqw" property="embedUrl">http://www.youtube.com/watch?v=kuSXK4gNYqw</a>
+          
+        </dd>
+
+        <dt>Download</dt>
+        <dd>
+          
+            No downloadable files.
+          
+        </dd>
+
+        
+          <dt>Metadata</dt>
+          <dd>
+            <a href="../../api/v2/video/2945">JSON</a>
+          </dd>
+        
+
+        <dt>Copyright/License Information</dt>
+        <dd>
+          
+            http://creativecommons.org/licenses/by/3.0/
+          
+        </dd>
+
+        <dt>Tags</dt>
+        <dd>
+          
+            No tags
+          
+          <meta property="keywords" content="EuroPython 2014"/>
+        </dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div id="footer">
+      <a name="footer"></a>
+      <div class="row">
+        <div class="col-md-6">
+          <p>pyvideo.org</p>
+          <p>
+            Run by Sheila Miguez and Will Kahn-Greene Questions,
+            comments or concerns? Send an email to Will at willkg at
+            bluesock dot org.</p>
+          <p>
+            Powered by <a href="https://github.com/pyvideo/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <ul class="unstyled">
+            <li><a href="../../pages/about.html">About this site</a></li>
+            <li><a href="../../stats/index.html">Site stats</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Report an issue</a></li>
+            <li><a href="http://github.com/pyvideo/pyvideo/issues/new">Suggest a conference to add</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2">
+          <a class="pull-right" href="twisted-names-dns-building-blocks-for-python-pro.html#top">Back to top</a>
+        </div>
+      </div>
+    </div>
+    
+
+  </div>
+
+  
+
+
+  
+  <script type="text/javascript" src="../../static/jquery-1.11.0/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="../../static/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+<script type="text/javascript" src="../../static/browserid/api.js"></script>
+<script type="text/javascript" src="../../static/browserid/browserid.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+  <script type="text/javascript" src="http://amara.org/embedder-iframe"></script>
+  <script type="text/javascript" src="../../static/videos/js/videos.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // react to changes after page load
+      $(window).on('hashchange', function() {
+        updateVideoOffset('unisubs');
+      });
+
+      updateVideoOffset('unisubs');
+    });
+  </script>
+
+</body>
+</html>

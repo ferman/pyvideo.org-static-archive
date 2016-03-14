@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Jacob Kaplan-Moss</title><link>http://www.pyvideo.org/speaker/78/jacob-kaplan-moss/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/78/jacob-kaplan-moss/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sun, 12 Apr 2015 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>PyCon 2009: Designing a web framework: Django's design decisions (#75)</title><link>http://www.pyvideo.org/video/225/pycon-2009--designing-a-web-framework--django--39</link><description>&lt;p&gt;Description&lt;/p&gt;
+Designing a web framework: Django's design decisions
+
+  
+Presented by Jacob Kaplan-Moss
+
+  
+Django is a high-level web development framework designed for rapid
+development of database-backed web sites. Since its release three years ago
+Django's grown by leaps and bounds; it's now part of a highly successful new
+generation of web development tools.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><guid>http://www.pyvideo.org/video/225/pycon-2009--designing-a-web-framework--django--39</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/225_pycon-2009-designing-a-web-framework-django-s-design-decisions-75.mp4" length="172288254" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DesigningAWebFrameworkDjangosDesignDecisions895-36.jpg"></media:thumbnail></item><item><title>Keynote - Jacob Kaplan-Moss</title><link>http://www.pyvideo.org/video/3481/keynote-jacob-kaplan-moss-0</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/3481/keynote-jacob-kaplan-moss-0</guid><enclosure url="https://www.youtube.com/watch?v=hIJdFxYlEKE" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/hIJdFxYlEKE/hqdefault.jpg"></media:thumbnail></item><item><title>PyCon Canada 2013 Keynote - Jacob Kaplan-Moss</title><link>http://www.pyvideo.org/video/2294/keynote-jacob-kaplan-moss</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Keynote - Jacob Kaplan-Moss
+Saturday, August 10 2013 09 AM
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 10 Aug 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2294/keynote-jacob-kaplan-moss</guid><enclosure url="http://www.youtube.com/watch?v=UKAkKXFMQP8" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i1.ytimg.com/vi/UKAkKXFMQP8/hqdefault.jpg"></media:thumbnail></item><item><title>Building secure web apps: Python vs the OWASP Top 10</title><link>http://www.pyvideo.org/video/2203/building-secure-web-apps-python-vs-the-owasp-top</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+The web is a scary place, and building secure web applications is difficult. Luckily, you've got Python! The Python web community tends to take security seriously, so most popular Python web frameworks have defenses available. This talk looks at the list of the top 10 security vulnerabilities, as ranked by The Open Web Application Security Project (OWASP). We'll talk about what each attack is, and look at how to defend against them using three popular Python web frameworks -- Django, Pyramid, and Flask.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 06 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2203/building-secure-web-apps-python-vs-the-owasp-top</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Building_secure_web_apps_Pytho.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Building_secure_web_apps_Pytho.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=sra9x44lXgU" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/sra9x44lXgU/hqdefault.jpg"></media:thumbnail></item><item><title>Porting Django apps to Python 3</title><link>http://www.pyvideo.org/video/2242/porting-django-apps-to-python-3-0</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django 1.5 now supports Python 3, so now's the time to start thinking about porting your apps and sites. Come see how! I'll talk about the porting techniques that work, and present two case studies: porting a site, and porting a reusable app.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/2242/porting-django-apps-to-python-3-0</guid><enclosure url="http://s3.us.archive.org/ndvpyconau2013/Porting_Django_apps_to_Python_.mp4" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/ndvpyconau2013/Porting_Django_apps_to_Python_.mp4" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=xNZ4OVO2Z_E" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i1.ytimg.com/vi/xNZ4OVO2Z_E/hqdefault.jpg"></media:thumbnail></item><item><title>Porting Django apps to Python 3</title><link>http://www.pyvideo.org/video/1787/porting-django-apps-to-python-3</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Django 1.5 now supports Python 3, so now's the time to start thinking about porting your apps and sites. Come see how! I'll talk about the porting techniques that work, and present two case studies: porting a site, and porting a reusable app.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1787/porting-django-apps-to-python-3</guid><enclosure url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Porting_Django_apps_to_Python_.mp4?Signature=Zaxe%2F5%2Fb0CFSwBBhxTn%2FcaDIidQ%3D&amp;Expires=1363811222&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" length="None" type="video/mp4"></enclosure><media:group><media:content url="http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Porting_Django_apps_to_Python_.mp4?Signature=Zaxe%2F5%2Fb0CFSwBBhxTn%2FcaDIidQ%3D&amp;Expires=1363811222&amp;AWSAccessKeyId=FEWGReWX3QbNk0h3" mime_type="video/mp4"></media:content><media:content url="https://www.youtube.com/watch?v=cJMGvAYYUyY" mime_type="video/flv"></media:content></media:group><media:thumbnail url="http://i4.ytimg.com/vi/cJMGvAYYUyY/hqdefault.jpg"></media:thumbnail></item><item><title>Panel: Python VMs</title><link>http://www.pyvideo.org/video/421/panel-python-vms</link><description>&lt;p&gt;Description&lt;/p&gt;
+Panel: Python VMs
+
+Presented by Jacob Kaplan-Moss, Brett Cannon, Maciej Fijalkowski, Frank
+Wierzbicki, Dino Viehland
+
+Python is lucky enough to have a healthy ecosystem of virtual machines (VMs)
+exist. CPython, Jython, IronPython, and PyPy are all used extensively by
+people in real-world situations. This panel brings together a representative
+from each of the major VMs to discuss where they are now, going in the future,
+and to answer questions from the community.
+
+Abstract
+
+All four major Python VMs will be represented:
+
+  * [CPython](http://python.org/): Brett Cannon 
+  * [Jython](http://www.jython.org/): Frank Wierzbicki 
+  * [IronPython](http://ironpython.net/): Dino Viehland 
+  * [PyPy](http://pypy.org/): Maciej Fijalkowski 
+Moderation will be handled by Jacob Kaplan-Moss of Django.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Cannon,Dino Viehland,Frank J Wierzbicki,Jacob Kaplan-Moss,Maciej Fijalkowski</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/421/panel-python-vms</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/421_panel-python-vms.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011PanelPythonVMs871.png"></media:thumbnail></item><item><title>Writing great documentation</title><link>http://www.pyvideo.org/video/403/pycon-2011--writing-great-documentation</link><description>&lt;p&gt;Description&lt;/p&gt;
+Writing great documentation
+
+Presented by Jacob Kaplan-Moss
+
+Django’s among the best documented open source projects; I'm intensely proud
+of that accomplishment. If any part of Django endures, I hope it’ll be a
+“documentation culture” — an ethos that values great, well-written
+documentation. To that end, this talk looks at the tools, tips, and techniques
+I’ve learned over the years. I hope it helps you write great documentation,
+too.
+
+Abstract
+
+This talk looks at tips, tools, and techniques you can use to produce great
+technical documentation.
+
+It's split roughly into two parts:
+
+  * Part 1: technique. We'll look at the structural elements that make documentation useful: tutorials, high-level overviews, topical guides, reference material, FAQs, and more. We'll cover some tips on how to get documentation done, and community processes for handling documentation in teams (open or not). We'll also talk about what I'm calling "Documentation Driven Development" - a technique riffing off Test Driven Development that calls for writing documentation before code. 
+  * Part 2: tools. Over the last couple of years a few fantastic tools have sprung up that ease the technical aspects of writing documentation. We'll talk about which tools are suitable for which uses, and look at a handful of cool tools including [Sphinx](http://sphinx.pocoo.org/), [Epydoc](http://epydoc.sourceforge.net/), and [http://fitzgen.github.com/pycco/](http://fitzgen.github.com/pycco/). 
+
+This talk is mostly targeted towards those documenting libraries or frameworks
+intended for use by other developers, but much of it probably applies to any
+sort of technical documentation.
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/403/pycon-2011--writing-great-documentation</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/403_writing-great-documentation.mp4" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-PyCon2011WritingGreatDocumentation902.png"></media:thumbnail></item><item><title>Django Deployment Workshop</title><link>http://www.pyvideo.org/video/236/pycon-2010--django-deployment-workshop</link><description>&lt;p&gt;Description&lt;/p&gt;
+Django Deployment Workshop
+
+Presented by Jacob Kaplan-Moss
+
+So you've written a Django site... now what? Writing the application is just
+the beginning; now you've got to put it into production! In this hands-on
+workshop we'll walk through the creation of a full Django deployment
+environment running on a cluster of (virtual) machines.
+
+This class will introduce students to a wide variety of technologies,
+including Amazon's EC2 and S3, Fabric, Varnish, nginx, mod_wsgi, memcached,
+PostgreSQL, pgpool, pg_standby, and more.
+
+By the end of the class, each student will have created an environment
+featuring:
+
+  * Multiple levels of caching and load balancing.
+  * Multiple web application servers.
+  * Shared media servers.
+  * Redundant replicated database servers.
+  * Separate caching servers.
+
+We'll create this whole stack on Amazon EC2 virtual machines, so students will
+be able to take home a complete copy of all the deployment configuration for
+future review at their leisure.
+
+Note: the example application used in this class with be a Django site, and
+the class assumes at least a moderate comfort level with Django. However, the
+tools and techniques apply just as well to other Python web frameworks, so
+users of other tools will likely be able to follow along fairly easily.
+
+# Intended Audience
+
+Intermediate to advanced Django users with sites nearing or in production.
+Python developers using other web frameworks will likely be able to follow
+along -- see the note in the summary, above.
+
+# Class Outline
+
+  * Introduction: the deployment question
+  * Application server: mod_wsgi
+  * Database server: PostgreSQL
+  * Automated deployment with Fabric
+  * Multiple web servers; load balancing with nginx
+  * Adding memcached
+  * Database connection middleware: pgpool
+  * Database redundancy: warm standby
+  * Upstream caching: Varnish
+  * Final load testing: how'd we do?
+
+# Requirements
+
+Students will need a computer and Amazon EC2 and S3 accounts, and will be
+asked to familiarize themselves with the process of starting and stopping EC2
+virtual machines before the class.
+
+[http://us.pycon.org/2010/tutorials/kaplanmoss_django/](http://us.pycon.org/20
+10/tutorials/kaplanmoss_django)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/236/pycon-2010--django-deployment-workshop</guid><enclosure url="http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/236_django-deployment-workshop.m4v" length="None" type="video/mp4"></enclosure><media:thumbnail url="http://a.images.blip.tv/Pycon-DjangoDeploymentWorkshop734-407.jpg"></media:thumbnail></item></channel></rss>

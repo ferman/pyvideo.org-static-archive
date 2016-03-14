@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Anders Hammarquist</title><link>http://www.pyvideo.org/speaker/669/anders-hammarquist/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/669/anders-hammarquist/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Thu, 05 Jul 2012 00:00:00 -0500</lastBuildDate><ttl>500</ttl><item><title>Multi-document consistency with MongoDB</title><link>http://www.pyvideo.org/video/1290/multi-document-consistency-with-mongodb</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+[EuroPython 2012] Anders Hammarquist - 4 JULY 2012 in "Track Lasagne"
+
+
+&lt;p&gt;Description&lt;/p&gt;
+When working with MongoDB, especially if you are coming from (or converting an
+application) the SQL world, you will probably miss the SQL transaction, which
+gives you, among other things, atomic writes. MongoDB only provides atomic
+writes to one document. We will show you how you can implement multi-document
+writes that are, if all writers cooperate, consistent across multiple
+documents and either writes all changes completely or fail without writing any
+changes. Audience: People who are looking at SQL alternatives, but still need
+some sort of transaction-like consistency. Understanding of parallellism
+issues, race conditions and deadlocks, may be helpful. MongoDB knowledge is
+not needed. Slides online at:
+[http://www2.openend.se/~iko/ep2012/](http://www2.openend.se/~iko/ep2012/)
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anders Hammarquist</dc:creator><pubDate>Thu, 05 Jul 2012 00:00:00 -0500</pubDate><guid>http://www.pyvideo.org/video/1290/multi-document-consistency-with-mongodb</guid><enclosure url="http://www.youtube.com/watch?v=4XRrLdogkdA" length="None" type="video/flv"></enclosure><media:thumbnail url="http://i.ytimg.com/vi/4XRrLdogkdA/hqdefault.jpg"></media:thumbnail></item></channel></rss>

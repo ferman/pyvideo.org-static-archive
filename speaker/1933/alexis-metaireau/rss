@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>pyvideo.org: Videos of Alexis Métaireau</title><link>http://www.pyvideo.org/speaker/1933/alexis-metaireau/rss</link><description></description><atom:link href="http://www.pyvideo.org/speaker/1933/alexis-metaireau/rss" rel="self"></atom:link><language>en-us</language><lastBuildDate>Sat, 30 Nov 2013 00:00:00 -0600</lastBuildDate><ttl>500</ttl><item><title>Mercurial, avec des vrais morceaux de python</title><link>http://www.pyvideo.org/video/3732/mercurial-avec-des-vrais-morceaux-de-python</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+Mercurial, avec des vrais morceaux de python dedans
+
+En 2005 Matt Mackall choisissait Python pour écrire un gestionnaire de version. 8 ans plus tard Mercurial est un projet reussi. Grâce à Python ? Voyons ensemble ce que python apporte aux developeurs mais aussi, à travers son système d'extensions, aux utilisateurs.
+
+En 2005 Matt Mackall choisissait Python pour écrire un gestionnaire de version. 8 ans plus tard Mercurial est un projet reussi. Grâce à Python ? Dans cette présentation, nous aborderons d'abord les atouts de Python pour les developpeurs de Mercurial.
+
+Nous prendrons ensuite le point de vue de l'utilisateur en montrant comment le systéme d'extensions tire parti du language. Certaines limitations de l'interpréteur python posent parfois problème. Nous presenterons comment celles-cis peuvent être contournées grace à des extension écrites en C ou des algorithmes adaptés.
+
+Pour finir nous detaillerons des cas d'utilisation avancés que seul python à rendu possible.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexis Métaireau,Pierre-Yves David</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3732/mercurial-avec-des-vrais-morceaux-de-python</guid><enclosure url="https://www.youtube.com/watch?v=AWuomjXDsO0" length="None" type="video/flv"></enclosure><media:thumbnail url="/static/videos/img/no_thumbnail.png"></media:thumbnail></item><item><title>Retour sur Daybed (Form validation as a service)</title><link>http://www.pyvideo.org/video/3730/retour-sur-daybed-form-validation-as-a-service</link><description>&lt;p&gt;Abstract&lt;/p&gt;
+L'an dernier, à PyconFR, nous avions présenté rapidement une preuve de concept de Daybed, un système de validation de formulaires proposé "as a service".
+
+J'aurais aimé proposer un retour sur le produit, sur comment l'utiliser mais aussi sur comment on l'à implémenté.
+
+Daybed est construit par dessus pyramid, qui nous à permis de faire des choses vraiment interessantes de manière efficace.
+
+J'aimerais présenter certains aspects interessants, par exemple comment nous avons impléménté les ACLs grace au système proposé par pyramid, ou comment daybed réutilise Colander pour la validation de données.
+
+Cette présentation montrera aussi comment daybed peut vous aider à créér des applications "full javascript" de manière rapide et efficace.
+
+Le projet est disponible à l'adresse https://github.com/spiral-project/daybed</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexis Métaireau</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 -0600</pubDate><guid>http://www.pyvideo.org/video/3730/retour-sur-daybed-form-validation-as-a-service</guid><enclosure url="https://www.youtube.com/watch?v=n55dyB_L8xw" length="None" type="video/flv"></enclosure><media:thumbnail url="https://i.ytimg.com/vi/n55dyB_L8xw/maxresdefault.jpg"></media:thumbnail></item></channel></rss>
